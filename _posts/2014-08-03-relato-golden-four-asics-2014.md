@@ -32,8 +32,8 @@ Se todas por aqui fosse assim, valeria pagar o que cobram por cada prova. Aliás
 
 ## Resultado:
 
-<a href="/images/2014/07/asics_big.jpg">
-![Golden Four 2014]({{ site.url }}/images/2014/07/asics.jpg)
+<a href="/images/2014/07/asics_big.JPG">
+![Golden Four 2014]({{ site.url }}/images/2014/07/asics.JPG)
 </a>
 {: .pull-left}
 
