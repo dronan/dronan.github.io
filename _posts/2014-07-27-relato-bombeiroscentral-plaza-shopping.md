@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relato: Bombeiros/Central Plaza Shopping
+title: Relato - Bombeiros - Central Plaza Shopping
 date: 2014-07-27 12:51
 author: diego
 comments: true
