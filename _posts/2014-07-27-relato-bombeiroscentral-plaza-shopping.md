@@ -23,8 +23,8 @@ Percurso pesado, com ponto de hidratação com água gelada a cada 3km, foi mais
 
 ## Resultado:
 
-<a href="/images/2014/07/bombeiros_big.jpg">
-![Bombeiros 2014]({{ site.url }}/images/2014/07/bombeiros.jpg)
+<a href="/images/2014/07/bombeiros_big.JPG">
+![Bombeiros 2014]({{ site.url }}/images/2014/07/bombeiros.JPG)
 </a>
 {: .pull-left}
 
