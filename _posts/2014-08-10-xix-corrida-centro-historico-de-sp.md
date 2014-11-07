@@ -6,10 +6,6 @@ author: diego
 comments: true
 modified: 2014-08-10 21:40
 tags: [2014, 9k, centro historico, centro velho, corpore, Corrida de Rua, SP]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 
