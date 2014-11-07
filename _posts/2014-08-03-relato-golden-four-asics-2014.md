@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Relato: Golden Four Asics 2014
-date: 2014-08-03 13:59
+title: Relato - Golden Four Asics 2014
+description: "Corrida Corpore Centro Histórico, realizada pelo 19º ano, nas ruas do centro velho de São Paulo "
 author: diego
 comments: true
+modified: 2014-08-03 13:59
 categories: [21k, asics, Corrida de Rua, g4, golden4asics, meia, meiasp]
 ---
+
 Neste domingo foi dia de Golden Four, com a presença de seis mil participantes correndo a distancia única de 21k na região do Jockey Club de São Paulo.
 
 Com a retirada de kit unicamente sendo realizada no sábado, fui bem cedo, por volta das 9 horas, pois não poderia ficar muito para acompanhar todo o evento por causa do curso, mas deu para ver que, como nos outros anos, manteve-se o alto nível. 
@@ -28,19 +30,22 @@ Se todas por aqui fosse assim, valeria pagar o que cobram por cada prova. Aliás
 
 
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/07/asics_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/07/asics.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 5567</li>
-	<li><strong>Tempo Final:</strong> 02:02:39</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 21k</li>
-	<li><strong>Tempo Bruto:</strong> 02:06:46</li>
-	<li><strong>Classificação Total:</strong> 3133/5211</li>
-	<li><strong>Classificação por Sexo:</strong> 2659/3795</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 308/429</li>
-	<li><strong>Pace Médio:</strong> 05:44 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 10,50 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://connect.garmin.com/activity/556257612" target="_blank">Garmin</a></li>
-</ul>
+## Resultado:
+
+<a href="/images/2014/07/asics_big.jpg">
+![Golden Four 2014]({{ site.url }}/images/2014/07/asics.jpg)
+</a>
+{: .pull-left}
+
+
+* **Número de Peito:** 5567
+* **Tempo Final:** 02:02:39
+* **Categoria:** M2529
+* **Modalidade:** 21k
+* **Tempo Bruto:** 02:06:46
+* **Classificação Total:** 3133/5211
+* **Classificação por Sexo:** 2659/3795
+* **Classificação por Faixa Etária:** 308/429
+* **Pace Médio:** 05:44 min/km
+* **Velocidade Média Total: ** 10,50 km/h
+* **Informações Gerais: **<a href="http://connect.garmin.com/activity/556257612" target="_blank">Garmin</a>
