@@ -30,8 +30,10 @@ Uma prova gostosa, pesada mais divertida, um belo treino de 9km para subidas.
 
 ## Resultado:
 
-![Smithsonian Image]({{ site.url }}/images/2014/08/centro.jpg)
+<a href="/images/2014/08/centro_big.jpg">
+![Centro Histórico 2014]({{ site.url }}/images/2014/08/centro.jpg)
 {: .pull-left}
+</a>
 
 * **Número de Peito:**  2016
 * **Tempo Final:** 00:51:19
