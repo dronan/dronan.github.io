@@ -14,7 +14,7 @@ Este domingo foi dia de uma das corridas mais charmosas da capital paulista, a C
 
 Retirada de kit se deu na quinta, sexta e sábado que antecederam o evento; só pude ir no sábado por volta das 17hrs. Retirada rápida, sem filas, na loja O2 Liquido, na Alameda dos Nhambiquaras; kit composto por camiseta, chip descartável, numero de peito, sacola e algumas guloseimas de patrocinadores da prova.
 
-A noite anterior a prova foi de alimentação a base de carboidrato, para segurar o tranco do dia seguinte. Com a largada marcada para as 7h30, me programei para acordar as 6h da manha do domingo.
+> A noite anterior a prova foi de alimentação a base de carboidrato, para segurar o tranco do dia seguinte. Com a largada marcada para as 7h30, me programei para acordar as 6h da manha do domingo.
 
 Levantando as 6h da manha, fui direto tomar o café da manha, colocar a roupa da corrida e partir. 
 
@@ -30,20 +30,19 @@ Corrida finalizada em pouco mais de 50min. Kit pós prova (maça, banana, medalh
 
 Uma prova gostosa, pesada mais divertida, um belo treino de 9km para subidas.
 
-<strong>
-Resultado:</strong>
+## Resultado:
+
 <a href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/08/centro_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/08/centro.jpg" alt="" /></a>
-<ul>
-	<li><strong>Número de Peito:</strong> 2016</li>
-	<li><strong>Tempo Final:</strong> 00:51:19</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 9k</li>
-	<li><strong>Tempo Bruto:</strong> 00:59:31</li>
-	<li><strong>Classificação Total:</strong> 2739/4681</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 147/234</li>
-<li><strong>Classificação por Sexo:</strong> 2124/3330</li>
-	<li><strong>Pace Médio:</strong> 05:25 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 11,01 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://connect.garmin.com/modern/activity/562220875" target="_blank">Garmin</a></li>
-</ul>
+
+* Número de Peito:</strong> 2016</li>
+* Tempo Final:</strong> 00:51:19</li>
+* Categoria:</strong> M2529</li>
+* Modalidade:</strong> 9k</li>
+* Tempo Bruto:</strong> 00:59:31</li>
+* Classificação Total:</strong> 2739/4681</li>
+* Classificação por Faixa Etária:</strong> 147/234</li>
+* Classificação por Sexo:</strong> 2124/3330</li>
+* Pace Médio:</strong> 05:25 min/km</li>
+* Velocidade Média Total: </strong> 11,01 km/h</li>
+* Informações Gerais: </strong><a href="http://connect.garmin.com/modern/activity/562220875" target="_blank">Garmin</a></li>
 
