@@ -4,8 +4,9 @@ title: Relato - Bombeiros - Central Plaza Shopping
 date: 2014-07-27 12:51
 author: diego
 comments: true
-categories: [10k, bombeiros, Corrida, Corrida de Rua, ipiranga, museu]
+tags: [10k, bombeiros, Corrida, Corrida de Rua, ipiranga, museu]
 ---
+
 Domingo foi dia de mais uma edição da corrida que comemora o dia dos Bombeiros, realizada pela Corpore pela décima nona vez.
 
 Contando com a presença de quatro mil participantes, o percurso se deu a longo das avenidas entorno ao Parque Independência, em São Paulo.
@@ -20,21 +21,21 @@ O dia amanheceu frio, apesar do sol presente e sem nuvens, foi ótimo para impor
 
 Percurso pesado, com ponto de hidratação com água gelada a cada 3km, foi mais que o suficiente para a prova. Prova que, apesar das subidas, finalizei em 53 minutos, ficando encostado com minha melhor marca pessoal e baixando o tempo do percurso em cinco minutos.
 
+## Resultado:
 
+<a href="/images/2014/07/bombeiros_big.jpg">
+![Bombeiros 2014]({{ site.url }}/images/2014/07/bombeiros.jpg)
+</a>
+{: .pull-left}
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/07/bombeiros_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/07/bombeiros.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 3841</li>
-	<li><strong>Tempo Final:</strong> 00:53:21</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10k</li>
-	<li><strong>Tempo Bruto:</strong> 01:00:31</li>
-	<li><strong>Classificação Total:</strong> 1268/4008</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 84/217</li>
-	<li><strong>Classificação por Sexo:</strong> 1178/3107</li>
-	<li><strong>Pace Médio:</strong> 05:20 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 11,40 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://connect.garmin.com/modern/activity/547479308" target="_blank">Garmin</a></li>
-</ul>
+* **Número de Peito:**  3841
+* **Tempo Final:**  00:53:21
+* **Categoria:**  M2529
+* **Modalidade:**  10k
+* **Tempo Bruto:**  01:00:31
+* **Classificação Total:**  1268/4008
+* **Classificação por Faixa Etária:**  84/217
+* **Classificação por Sexo:**  1178/3107
+* **Pace Médio:**  05:20 min/km
+* **Velocidade Média Total: **  11,40 km/h
+* **Informações Gerais: ** <a href="http://connect.garmin.com/modern/activity/547479308" target="_blank">Garmin</a>
