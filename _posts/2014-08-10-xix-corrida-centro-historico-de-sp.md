@@ -30,7 +30,7 @@ Uma prova gostosa, pesada mais divertida, um belo treino de 9km para subidas.
 
 ## Resultado:
 
-![Smithsonian Image]({{ site.url }}/images/2014/08/centro_big.jpg)
+![Smithsonian Image]({{ site.url }}/images/2014/08/centro.jpg)
 {: .pull-left}
 
 * **Número de Peito:**  2016
