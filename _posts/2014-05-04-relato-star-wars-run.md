@@ -28,8 +28,8 @@ Evento no geral bom, pelo valor da inscrição poderia ter uma camiseta de melho
 
 ## Resultado:
 
-<a href="/images/2014/05/starwars6k_big.jpg">
-![Tribuna Santos - 2014]({{ site.url }}/images/2014/05/starwars6k.jpg)
+<a href="/images/2014/05/starwars6k_big.JPG">
+![Tribuna Santos - 2014]({{ site.url }}/images/2014/05/starwars6k.JPG)
 </a>
 {: .pull-left}
 
