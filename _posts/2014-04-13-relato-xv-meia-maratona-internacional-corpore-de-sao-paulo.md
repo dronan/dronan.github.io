@@ -4,7 +4,7 @@ title: Relato: XV Meia Maratona Internacional Corpore de São Paulo
 date: 2014-04-13 12:14
 author: diego
 comments: true
-categories: [21k, corpore, Corrida de Rua, meia maratona, outback]
+tags: [21k, corpore, Corrida de Rua, meia maratona, outback]
 ---
 Neste domingo ocorreu a 15ª edição de meia maratona de São Paulo, com organização da Corpore, contando com a presença de 5 mil corredores divididos entre as distancias de 5k e 21k, correndo pelas ruas da cidade universitária em uma manhã fria na capital.
 
@@ -26,18 +26,20 @@ Não tenho treinado muito para distancias longas, fui em um ritimo confortavel p
 
 Prova finalizada em 2h17. Que venham as próximas!
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/04/meiacorpore_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/04/meiacorpore.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 1366</li>
-	<li><strong>Tempo Final:</strong> 02:17:33</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 21k</li>
-	<li><strong>Tempo Bruto:</strong> 02:23:29</li>
-	<li><strong>Classificação Total:</strong> 2538 </li>
-	<li><strong>Classificação por Faixa Etária:</strong> 102 </li>
-	<li><strong>Pace Médio:</strong> 06:31 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 09,20 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://connect.garmin.com/activity/480769771" target="_blank">Garmin</a></li>
-</ul>
+## Resultado:
+
+<a href="/images/2014/04/meiacorpore_big.JPG">
+![Meia Corpore- 2014]({{ site.url }}/images/2014/04/meiacorpore.JPG)
+</a>
+{: .pull-left}
+
+* **Número de Peito:**  1366
+* **Tempo Final:**  02:17:33
+* **Categoria:**  M2529
+* **Modalidade:**  21k
+* **Tempo Bruto:**  02:23:29
+* **Classificação Total:**  2538 
+* **Classificação por Faixa Etária:**  102 
+* **Pace Médio:**  06:31 min/km
+* **Velocidade Média Total: **  09,20 km/h
+* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/480769771" target="_blank">Garmin</a>
