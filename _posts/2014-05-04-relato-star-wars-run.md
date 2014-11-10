@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: Star Wars Run
+title: Relato - Star Wars Run
 date: 2014-05-04 14:14
 author: diego
 comments: true
-categories: [6k, anakin, Corrida de Rua, darth, força, force, luke, run, running, skywalker, star wars, vader]
+tags: [6k, anakin, Corrida de Rua, darth, força, force, luke, run, running, skywalker, star wars, vader]
 ---
 May the force be with you! Domingo, 4 de maio (may, 4th), foi dia de uma corrida de celebração da saga Star Wars, com percurso único de 6k, representando até então os atuais seis episódios da franquia.
 
@@ -26,18 +26,20 @@ Notei bastante gente pelo caminho sendo atendida por equipe medica. Pessoal que 
 
 Evento no geral bom, pelo valor da inscrição poderia ter uma camiseta de melhor qualidade, medalha melhor trabalhada, entre outros detalhes. Valeu pela brincadeira e pelo ótimo ritmo alcançado na prova (abaixo de 5min/km).
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/05/starwars6k_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/05/starwars6k.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 2061</li>
-	<li><strong>Tempo Final:</strong> 00:29:29</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 6k</li>
-	<li><strong>Tempo Bruto:</strong> 00:35:15</li>
-	<li><strong>Classificação Total:</strong> 330/3740</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 62/461</li>
-	<li><strong>Pace Médio:</strong> 04:54 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 13,20 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://connect.garmin.com/activity/492925424" target="_blank">Garmin</a></li>
-</ul>
+## Resultado:
+
+<a href="/images/2014/05/starwars6k_big.jpg">
+![Tribuna Santos - 2014]({{ site.url }}/images/2014/05/starwars6k.jpg)
+</a>
+{: .pull-left}
+
+* **Número de Peito:**  2061
+* **Tempo Final:**  00:29:29
+* **Categoria:**  M2529
+* **Modalidade:**  6k
+* **Tempo Bruto:**  00:35:15
+* **Classificação Total:**  330/3740
+* **Classificação por Faixa Etária:**  62/461
+* **Pace Médio:**  04:54 min/km
+* **Velocidade Média Total: **  13,20 km/h
+* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/492925424" target="_blank">Garmin</a>
