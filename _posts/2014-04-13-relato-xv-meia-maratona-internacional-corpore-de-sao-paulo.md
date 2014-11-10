@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relato: XV Meia Maratona Internacional Corpore de São Paulo
+title: Relato - XV Meia Maratona Internacional Corpore de São Paulo
 date: 2014-04-13 12:14
 author: diego
 comments: true
