@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: 29º 10Km Tribuna FM – Santos
+title: Relato - 29º 10Km Tribuna FM – Santos
 date: 2014-05-18 13:21
 author: diego
 comments: true
-categories: [10k, Corrida de Rua, santos, tribunas]
+tags: [10k, Corrida de Rua, santos, tribunas]
 ---
 Neste domingo, dia 18, foi realizada mais uma edição da corrida Tribuna de Santos, tradicional corrida de 10k que ocorre pelas ruas da cidade.
 
@@ -29,18 +29,20 @@ Ainda consegui tomar banho na academia que fica ao lado da chegada =)
 Semana que vem tem meia! Ja nos preparativos, até lá!
 
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/05/tribuna_10k_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/05/tribuna_10k.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 6095</li>
-	<li><strong>Tempo Final:</strong> 00:58:31</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10k</li>
-	<li><strong>Tempo Bruto:</strong> 01:03:21</li>
-	<li><strong>Classificação Total:</strong> 3837</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 439</li>
-	<li><strong>Pace Médio:</strong> 05:51 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 10,25 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://connect.garmin.com/activity/507106361" target="_blank">Garmin</a></li>
-</ul>
+## Resultado:
+
+<a href="/images/2014/05/tribuna_10k_big.JPG">
+![Tribuna Santos - 2014]({{ site.url }}/images/2014/05/tribuna_10k.jpg)
+</a>
+{: .pull-left}
+
+* **Número de Peito:**  6095
+* **Tempo Final:**  00:58:31
+* **Categoria:**  M2529
+* **Modalidade:**  10k
+* **Tempo Bruto:**  01:03:21
+* **Classificação Total:**  3837
+* **Classificação por Faixa Etária:**  439
+* **Pace Médio:**  05:51 min/km
+* **Velocidade Média Total: **  10,25 km/h
+* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/507106361" target="_blank">Garmin</a>
