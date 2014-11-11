@@ -47,4 +47,4 @@ O professor Rodrigo Lobo elaborou uma planilha especialmente para você que já 
 
 </div>
 
-**Fonte: <a href="http://o2porminuto.ativo.com/corrida-de-rua/materia/treino-para-queimar-gordura-abdominal" target="_blank">o2porminuto</a>
+#### Fonte: <a href="http://o2porminuto.ativo.com/corrida-de-rua/materia/treino-para-queimar-gordura-abdominal" target="_blank">o2porminuto</a>
