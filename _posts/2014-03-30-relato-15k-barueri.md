@@ -26,8 +26,8 @@ Para uma prova gratuita, não muito o que reclamar.
 
 ## Resultado:
 
-<a href="/images/2014/04/15kBarueri2014_big.jpg">
-![15K Barueri - 2014]({{ site.url }}/images/2014/04/15kBarueri2014.jpg)
+<a href="/images/2014/03/15kBarueri2014_big.jpg">
+![15K Barueri - 2014]({{ site.url }}/images/2014/03/15kBarueri2014.jpg)
 </a>
 {: .pull-left}
 
