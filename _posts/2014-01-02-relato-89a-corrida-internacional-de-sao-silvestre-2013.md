@@ -6,11 +6,13 @@ author: diego
 comments: true
 tags: [brigadeiro, Corrida, Corrida de Rua, sao silvestre]
 ---
+
 Nesta terça que encerra o ano de 2013, foi realizada mais uma edição da mais tradicional prova de corrida de rua do Brasil, a São Silvestre, chegando na edição numero 89 e contando com a presença de quase 30 mil corredores, entre inscritos e pipocas.
 
 A retirada do kit se deu nos quatro dias anteriores ao dia da prova, na região do Ginásio do Ibirapuera, como nas edições anteriores.
 
 Fiz a retirada no sábado a tarde, segundo dia da retirada. Fiquei com certo receio de filas mas foi bem rápido, diferente da edição anterior que fiquei quase duas horas debaixo de sol na fila. O kit veio composto por camiseta, chip descartável, numero de peito e os tradicionais materiais de merchandising.
+
 <a href="/images/2014/01/ss_2013_espera.jpg">
 ![São Silvestre 2013]({{ site.url }}/images/2014/01/ss_2013_espera_prev.jpg)
 </a>
@@ -27,6 +29,7 @@ Cheguei de forma rápida no estacionamento, coisa de 10 - 15 min, e do metrô at
 Foi tempo de alongar e aguardar cerca de quinze minutos pela largada, pontualmente as 9 horas.
 
 Entre o tempo que você chega no local da largada até efetivamente largar, você curte bastante o clima da prova, da festa. Gente fantasiada em todo o lugar, gente pulando na frente das cameras de televisão, enfim festa.
+
 <a href="/images/2014/01/ss_2013_largada.jpg">
 ![São Silvestre 2013]({{ site.url }}/images/2014/01/ss_2013_largada_prev.jpg)
 </a>
@@ -39,6 +42,7 @@ Não é uma corrida que busco fazer tempo, apenas terminar e curtir a festa que 
 Aquele clima legal onde o povo acompanha a prova em todo o percurso, inclusive ajudam a refrescar jogando agua com mangueira no pessoal, incentivam, apoiam, da um gosto especial para esta prova. Poderiam ser assim também em provas mais importantes como a Maratona de SP, mas falta interesse inclusive televisivo para atrapalha isso.
 
 O temperatura estava quente, mas o sol entre nuvens e umas rajadas de vento ajudaram bastante a refrescar este clima durante a prova.
+
 <a href="/images/2014/01/ss_2013_final.jpg">
 ![São Silvestre 2013]({{ site.url }}/images/2014/01/ss_2013_final_prev.jpg)
 </a>
