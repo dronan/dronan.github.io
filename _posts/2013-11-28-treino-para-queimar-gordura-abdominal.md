@@ -4,9 +4,9 @@ title: Treino para queimar gordura abdominal
 date: 2013-11-28 17:53
 author: diego
 comments: true
-categories: [abdomen, Corrida de Rua, gordura, secar, treino]
+tags: [abdomen, Corrida de Rua, gordura, secar, treino]
 ---
-<em><strong>Por Fausto Fagioli Fonseca (o2porminuto)</strong></em>
+#### Por Fausto Fagioli Fonseca (o2porminuto)
 
 Fator de risco para doenças cardiovasculares, o excesso de gordura abdominal não é nada fácil de ser eliminado. Corredores de rua, porém, dispõem de um poderoso aliado contra a gordura acumulada na cintura: os treinos intervalados, modalidade de corrida de alta intensidade seguida de um breve descanso. Sim, a atividade que os treinadores colocam na planilha dos seus corredores com a função de aumentar a velocidade, a explosão e, consequentemente, baixar os dígitos do cronômetro nas provas também pode derreter a gordura em excesso que insiste em se alojar no seu abdome.
 
@@ -16,7 +16,7 @@ Essas respostas se caracterizam, por exemplo, pela variação da frequência car
 
 A principal diferença para os treinos moderados e contínuos é que estes são responsáveis, sobretudo, pela queima de gordura periférica, “especialmente em pernas e braços, mas com efeito limitado sobre o tronco e a barriga”, ressalta Riani. Então, independentemente de qual seja seu objetivo, correr mais rápido ou exibir uma barriga de tanquinho, apostar nos intervalados pode ser a melhor opção.
 
-<strong>DERRETENDO A GORDURA</strong>
+#### DERRETENDO A GORDURA
 
 Entenda como funciona, passo a passo, a queima de gordura abdominal com os treinos intervalados.
 
@@ -35,11 +35,16 @@ Entenda como funciona, passo a passo, a queima de gordura abdominal com os trein
 
 Fontes: Fisiologista do Instituto Vita e do Laboratório de Diagnósticos da América (Dasa), Luiz Riani é graduado em medicina pela Unicamp (Universidade de Campinas), pós-graduado em medicina esportiva e fisiologia do exercício pela Faculdade de Medicina da Universidade de São Paulo (FMUSP). Corredor e triatleta há 13 anos, Rodrigo Lobo é bacharel em educação física pela Escola de Educação Física e Esporte da Universidade de São Paulo (Eefe-USP) e diretor técnico da Lobo Assessoria Esportiva.
 
-<strong>TREINO PARA SECAR</strong>
+#### TREINO PARA SECAR
 
 O professor Rodrigo Lobo elaborou uma planilha especialmente para você que já é capazde correr 5 km com tranquilidade e pretende “derreter” a gordura abdominal. Clique na planilha abaixo ampliá-la e confira:
 
 <div style="display:block; width:100%; text-align: center;">
-<a href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/11/treino_big.jpg" target="_blank"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/11/treino.jpg" /></a></div>
 
-Fonte: <a href="http://o2porminuto.ativo.com/corrida-de-rua/materia/treino-para-queimar-gordura-abdominal" target="_blank">o2porminuto</a>
+<a href="/images/2013/11/treino_big.jpg">
+![Corrida Pampulha 2013]({{ site.url }}/images/2013/11/treino.jpg)
+</a>
+
+</div>
+
+**Fonte: <a href="http://o2porminuto.ativo.com/corrida-de-rua/materia/treino-para-queimar-gordura-abdominal" target="_blank">o2porminuto</a>

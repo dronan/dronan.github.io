@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Relato: 5ª Corrida Internacional Cidade de Guarulhos
+title: Relato - 5ª Corrida Internacional Cidade de Guarulhos
 date: 2013-12-08 15:43
 author: diego
 comments: true
-categories: [aniversario, comemorações, Corrida, Corrida de Rua, Guarulhos]
+tags: [aniversario, comemorações, Corrida, Corrida de Rua, Guarulhos]
 ---
+
 Neste domingo, 8 de dezembro, foi realizada a 5ª Corrida Internacional Cidade de Guarulhos, com as distancias de 5 e 10k, corrida que faz parte do calendário oficial da cidade como uma das celebrações de aniversário, com adesão cada vez maior no número de participantes - ano passado cerca de 2 mil, esta no cerca de 2.500 participantes, ainda mais por ser da prefeitura e ter um preço bem em conta comparando com as demais.
 
 Fiz a retirada do kit no sábado de manhã, em uma tenda montada no Bosque Maia, como de costume. Retirada que foi bem rápida, sem muita fila. Kit veio contendo o chip de cronometragem, camiseta, numero de peito em uma sacola, além dos materiais de merchandising. O restante do sábado foi basicamente descansar, preparar as coisas para acordar e sair de casa.
@@ -27,19 +28,20 @@ Uma critica construtiva: se quiserem levar mesmo a sério esta corrida, tornar u
 É isto, só falta agora a festa da São Silvestre para fechar este puxado 2013.
 
 
+## Resultado:
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/12/guarulhos_2013_big.jpg"><img alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/12/guarulhos_2013.jpg" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 1084</li>
-	<li><strong>Tempo Final:</strong> 00:57:16</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10k</li>
-	<li><strong>Tempo Bruto:</strong> 00:59:31</li>
-	<li><strong>Classificação Total:</strong> 468</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 39</li>
-	<li><strong>Pace Médio:</strong> 05:40 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 10,60 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://connect.garmin.com/activity/413629806" target="_blank">Garmin</a></li>
-</ul>
+<a href="/images/2013/12/guarulhos_2013_big.jpg">
+![Corrida Guarulhos 2013]({{ site.url }}/images/2013/12/guarulhos_2013.jpg)
+</a>
+{: .pull-left}
+
+* **Número de Peito:**  1084
+* **Tempo Final:**  00:57:16
+* **Categoria:**  M2529
+* **Modalidade:**  10k
+* **Tempo Bruto:**  00:59:31
+* **Classificação Total:**  468
+* **Classificação por Faixa Etária:**  39
+* **Pace Médio:**  05:40 min/km
+* **Velocidade Média Total: **  10,60 km/h
+* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/413629806" target="_blank">Garmin</a>
