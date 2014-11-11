@@ -44,6 +44,7 @@ O professor Rodrigo Lobo elaborou uma planilha especialmente para você que já 
 <a href="/images/2013/11/treino_big.jpg">
 ![Corrida Pampulha 2013]({{ site.url }}/images/2013/11/treino.jpg)
 </a>
+{: .pull-center}
 
 </div>
 
