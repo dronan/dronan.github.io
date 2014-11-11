@@ -12,7 +12,7 @@ A retirada do kit se deu nos quatro dias anteriores ao dia da prova, na região 
 
 Fiz a retirada no sábado a tarde, segundo dia da retirada. Fiquei com certo receio de filas mas foi bem rápido, diferente da edição anterior que fiquei quase duas horas debaixo de sol na fila. O kit veio composto por camiseta, chip descartável, numero de peito e os tradicionais materiais de merchandising.
 <a href="/images/2014/01/ss_2013_espera.jpg">
-![São Silvestre 2013]({{ site.url }}/images/2014/01/ss_2013_espera.jpg)
+![São Silvestre 2013]({{ site.url }}/images/2014/01/ss_2013_espera_prev.jpg)
 </a>
 {: .pull-left}
 
@@ -28,9 +28,9 @@ Foi tempo de alongar e aguardar cerca de quinze minutos pela largada, pontualmen
 
 Entre o tempo que você chega no local da largada até efetivamente largar, você curte bastante o clima da prova, da festa. Gente fantasiada em todo o lugar, gente pulando na frente das cameras de televisão, enfim festa.
 <a href="/images/2014/01/ss_2013_largada.jpg">
-![São Silvestre 2013]({{ site.url }}/images/2014/01/ss_2013_largada.jpg)
+![São Silvestre 2013]({{ site.url }}/images/2014/01/ss_2013_largada_prev.jpg)
 </a>
-{: .pull-letf}
+{: .pull-left}
 
 Depois de dez minutos (ou mais) do início da prova finalmente começamos a dar os primeiros passos no meio da multidão, onde logo mais tem início a mais uma prova.
 
@@ -40,7 +40,7 @@ Aquele clima legal onde o povo acompanha a prova em todo o percurso, inclusive a
 
 O temperatura estava quente, mas o sol entre nuvens e umas rajadas de vento ajudaram bastante a refrescar este clima durante a prova.
 <a href="/images/2014/01/ss_2013_final.jpg">
-![São Silvestre 2013]({{ site.url }}/images/2014/01/ss_2013_final.jpg)
+![São Silvestre 2013]({{ site.url }}/images/2014/01/ss_2013_final_prev.jpg)
 </a>
 {: .pull-left}
 
