@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: Run The Night 2013
+title: Relato - Run The Night 2013
 date: 2013-08-25 13:44
 author: diego
 comments: true
-categories: [30k, Corrida de Rua, maratona, meia maratona, Noturna, revezamento]
+tags: [30k, Corrida de Rua, maratona, meia maratona, Noturna, revezamento]
 ---
 Na noite deste sábado, 24, ocorreu na Cidade Universitária, em São Paulo, a Run The Night, a primeira meia maratona de revezamento noturna, com opções de quartetos, duplas ou solo.
 
@@ -36,19 +36,21 @@ Concluí meus 30km em 3h18min, os 21km devem ter dado cerca de 2h17min, tempo al
 
 Semana que vem tem mais 30km (pretendo 35km) de rodagem para a maratona, outubro está chegando, e este deve ser o próximo grande desafio!
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/08/runthenightmedalha_big.jpg"><img alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/08/runthenightmedalha.jpg" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 499</li>
-	<li><strong>Tempo Relógio (30K):</strong> 03:18:39</li>
-	<li><strong>Tempo Final:</strong> 02:16:57</li>
-	<li><strong>Categoria:</strong> M2029</li>
-	<li><strong>Modalidade:</strong> 21k</li>
-	<li><strong>Tempo Bruto:</strong> 02:19:11</li>
-	<li><strong>Classificação Total:</strong> 506</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 49/54</li>
-	<li><strong>Pace Médio:</strong> 06:31 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 09,20 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://connect.garmin.com/activity/364506872" target="_blank">Garmin</a></li>
-</ul>
+## Resultado:
+
+<a href="/images/2013/08/runthenightmedalha_big.jpg">
+![Run the night 2013]({{ site.url }}/images/2013/08/runthenightmedalha.jpg)
+</a>
+{: .pull-left}
+
+* **Número de Peito:**  499
+* **Tempo Relógio (30K):**  03:18:39
+* **Tempo Final:**  02:16:57
+* **Categoria:**  M2029
+* **Modalidade:**  21k
+* **Tempo Bruto:**  02:19:11
+* **Classificação Total:**  506
+* **Classificação por Faixa Etária:**  49/54
+* **Pace Médio:**  06:31 min/km
+* **Velocidade Média Total: **  09,20 km/h
+* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/364506872" target="_blank">Garmin</a>
