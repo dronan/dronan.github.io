@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: 89ª Corrida Internacional de São Silvestre 2013
+title: Relato - 89ª Corrida Internacional de São Silvestre 2013
 date: 2014-01-02 11:01
 author: diego
 comments: true
-categories: [brigadeiro, Corrida, Corrida de Rua, sao silvestre]
+tags: [brigadeiro, Corrida, Corrida de Rua, sao silvestre]
 ---
 Nesta terça que encerra o ano de 2013, foi realizada mais uma edição da mais tradicional prova de corrida de rua do Brasil, a São Silvestre, chegando na edição numero 89 e contando com a presença de quase 30 mil corredores, entre inscritos e pipocas.
 
@@ -30,7 +30,7 @@ Entre o tempo que você chega no local da largada até efetivamente largar, voc�
 <a href="/images/2014/01/ss_2013_largada.jpg">
 ![São Silvestre 2013]({{ site.url }}/images/2014/01/ss_2013_largada.jpg)
 </a>
-{: .pull-right}
+{: .pull-letf}
 
 Depois de dez minutos (ou mais) do início da prova finalmente começamos a dar os primeiros passos no meio da multidão, onde logo mais tem início a mais uma prova.
 
