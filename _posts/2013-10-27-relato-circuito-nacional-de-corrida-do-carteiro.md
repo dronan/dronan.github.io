@@ -4,7 +4,7 @@ title: Relato: Circuito Nacional de Corrida do Carteiro
 date: 2013-10-27 15:30
 author: diego
 comments: true
-categories: [8k, carteiro, correios, Corrida, Corrida de Rua, osasco]
+tags: [8k, carteiro, correios, Corrida, Corrida de Rua, osasco]
 ---
 Neste domingo aconteceu o Circuito Nacional de Corrida do Carteiro de 2013, prova que comemorou o aniversário de 350 anos da companhia.
 
@@ -27,18 +27,20 @@ Kit pós prova entregue sem complicação, contendo medalha, isotônico, fruta e
 Próxima corrida é a SP Classic - Zumbi dos Palmares, no difícil percurso do Ibirapuera que não corro faz um tempo. Vem recorde por aí?!
 
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/10/correios_big.jpg"><img alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/10/correios.jpg" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 1025</li>
-	<li><strong>Tempo Final:</strong> 00:50:14</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 8.6k</li>
-	<li><strong>Tempo Bruto:</strong> 00:51:17</li>
-	<li><strong>Classificação Total:</strong> 325</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 27</li>
-	<li><strong>Pace Médio:</strong> 05:50 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 10,03 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://connect.garmin.com/activity/396212034" target="_blank">Garmin</a></li>
-</ul>
+## Resultado:
+
+<a href="/images/2013/10/correios_big.jpg">
+![Corrida do Carteiro 2013]({{ site.url }}/images/2013/10/correios.jpg)
+</a>
+{: .pull-left}
+
+* **Número de Peito:**  1025
+* **Tempo Final:**  00:50:14
+* **Categoria:**  M2529
+* **Modalidade:**  8.6k
+* **Tempo Bruto:**  00:51:17
+* **Classificação Total:**  325
+* **Classificação por Faixa Etária:**  27
+* **Pace Médio:**  05:50 min/km
+* **Velocidade Média Total: **  10,03 km/h
+* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/396212034" target="_blank">Garmin</a>
