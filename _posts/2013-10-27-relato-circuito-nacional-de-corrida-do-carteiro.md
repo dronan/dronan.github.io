@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relato: Circuito Nacional de Corrida do Carteiro
+title: Relato - Circuito Nacional de Corrida do Carteiro
 date: 2013-10-27 15:30
 author: diego
 comments: true
