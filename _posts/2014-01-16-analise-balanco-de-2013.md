@@ -1,13 +1,18 @@
 ---
 layout: post
-title: Análise: Balanço de 2013
+title: Análise - Balanço de 2013
 date: 2014-01-16 17:31
 author: diego
 comments: true
-categories: [2013, analise, balanço, Corrida de Rua, corridas, metas]
+tags: [2013, analise, balanço, Corrida de Rua, corridas, metas]
 ---
 2013 foi um ano que se resumiu a treino, treino e mais treino. Tudo isso buscando a grande meta de concluir a Maratona Internacional de São Paulo. 
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/01/analise2013_big.JPG"><img class="imgTitulo" alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/01/analise2013.JPG"></a></div>
+
+
+<a href="/images/2014/01/analise2013_big.jpg">
+![Analise 2013]({{ site.url }}/images/2014/01/analise2013.jpg)
+</a>
+{: .pull-left}
 
 Começou com a maratona marcada para abril, e depois de pouco treino - o maior e mais insano foi rodar 31km num sábado de fevereiro e no dia seguinte correr uma prova de 10km em Barueri - em março anunciaram o adiamento da mesma para outubro, ganhara neste momento um fôlego e tempo para treino e maior confiança na busca do objetivo do ano. Provavelmente não conseguiria se fosse mesmo em abril.
 

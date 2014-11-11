@@ -10,7 +10,11 @@ Nesta terça que encerra o ano de 2013, foi realizada mais uma edição da mais 
 
 A retirada do kit se deu nos quatro dias anteriores ao dia da prova, na região do Ginásio do Ibirapuera, como nas edições anteriores.
 
-Fiz a retirada no sábado a tarde, segundo dia da retirada. Fiquei com certo receio de filas mas foi bem rápido, diferente da edição anterior que fiquei quase duas horas debaixo de sol na fila. O kit veio composto por camiseta, chip descartável, numero de peito e os tradicionais materiais de merchandising.<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/01/ss_2013_espera.jpg"><img class="imgTitulo" alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/01/ss_2013_espera.jpg" /></a></div>
+Fiz a retirada no sábado a tarde, segundo dia da retirada. Fiquei com certo receio de filas mas foi bem rápido, diferente da edição anterior que fiquei quase duas horas debaixo de sol na fila. O kit veio composto por camiseta, chip descartável, numero de peito e os tradicionais materiais de merchandising.
+<a href="/images/2014/01/ss_2013_espera.jpg">
+![São Silvestre 2013]({{ site.url }}/images/2014/01/ss_2013_espera.jpg)
+</a>
+{: .pull-left}
 
 O restante do fim de semana até o dia da prova foi zero de treino e aguardar a chegada da prova.
 
@@ -22,7 +26,11 @@ Cheguei de forma rápida no estacionamento, coisa de 10 - 15 min, e do metrô at
 
 Foi tempo de alongar e aguardar cerca de quinze minutos pela largada, pontualmente as 9 horas.
 
-Entre o tempo que você chega no local da largada até efetivamente largar, você curte bastante o clima da prova, da festa. Gente fantasiada em todo o lugar, gente pulando na frente das cameras de televisão, enfim festa.<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/01/ss_2013_largada.jpg"><img class="imgTitulo" alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/01/ss_2013_largada.jpg" /></a></div>
+Entre o tempo que você chega no local da largada até efetivamente largar, você curte bastante o clima da prova, da festa. Gente fantasiada em todo o lugar, gente pulando na frente das cameras de televisão, enfim festa.
+<a href="/images/2014/01/ss_2013_largada.jpg">
+![São Silvestre 2013]({{ site.url }}/images/2014/01/ss_2013_largada.jpg)
+</a>
+{: .pull-right}
 
 Depois de dez minutos (ou mais) do início da prova finalmente começamos a dar os primeiros passos no meio da multidão, onde logo mais tem início a mais uma prova.
 
@@ -30,7 +38,11 @@ Não é uma corrida que busco fazer tempo, apenas terminar e curtir a festa que 
 
 Aquele clima legal onde o povo acompanha a prova em todo o percurso, inclusive ajudam a refrescar jogando agua com mangueira no pessoal, incentivam, apoiam, da um gosto especial para esta prova. Poderiam ser assim também em provas mais importantes como a Maratona de SP, mas falta interesse inclusive televisivo para atrapalha isso.
 
-O temperatura estava quente, mas o sol entre nuvens e umas rajadas de vento ajudaram bastante a refrescar este clima durante a prova.<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/01/ss_2013_final.jpg"><img class="imgTitulo" alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/01/ss_2013_final.jpg" /></a></div>
+O temperatura estava quente, mas o sol entre nuvens e umas rajadas de vento ajudaram bastante a refrescar este clima durante a prova.
+<a href="/images/2014/01/ss_2013_final.jpg">
+![São Silvestre 2013]({{ site.url }}/images/2014/01/ss_2013_final.jpg)
+</a>
+{: .pull-left}
 
 Os cinco pontos de hidratação foram o suficiente para o percurso. E aquela crítica aos pessoal que tumultua tudo no primeiro posto de hidratação e deixa o restante vazio, prendendo inclusive quem vem atras bloqueando a passagem. Um ponto de isotonico por volta do km 10 foi bem proveitoso.
 
@@ -40,18 +52,20 @@ E assim foi mais uma São Silvestre, dessa vez 100% corrida, sem uma andada, ao 
 
 A todos um Feliz 2014!!
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/01/saosilvestre_2013_big.jpg"><img alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/01/saosilvestre_2013.jpg" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 5498</li>
-	<li><strong>Tempo Final:</strong> 01:36:57</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10k</li>
-	<li><strong>Tempo Bruto:</strong> 01:55:04</li>
-	<li><strong>Classificação Total:</strong> 9164</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 752</li>
-	<li><strong>Pace Médio:</strong> 06:24 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 09,38 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://connect.garmin.com/activity/423311751" target="_blank">Garmin</a></li>
-</ul>
+## Resultado:
+
+<a href="/images/2014/01/saosilvestre_2013_big.jpg">
+![São Silvestre 2013]({{ site.url }}/images/2014/01/saosilvestre_2013.jpg)
+</a>
+{: .pull-left}
+
+* **Número de Peito:**  5498
+* **Tempo Final:**  01:36:57
+* **Categoria:**  M2529
+* **Modalidade:**  10k
+* **Tempo Bruto:**  01:55:04
+* **Classificação Total:**  9164
+* **Classificação por Faixa Etária:**  752
+* **Pace Médio:**  06:24 min/km
+* **Velocidade Média Total: **  09,38 km/h
+* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/423311751" target="_blank">Garmin</a>

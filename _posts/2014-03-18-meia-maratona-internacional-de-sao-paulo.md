@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: Meia-maratona Internacional de São Paulo
+title: Relato - Meia-maratona Internacional de São Paulo
 date: 2014-03-18 15:45
 author: diego
 comments: true
-categories: [Corrida, Corrida de Rua, globo, meia maratona, yescom]
+tags: [Corrida, Corrida de Rua, globo, meia maratona, yescom]
 ---
 Domingo, 23 de fevereiro, foi realizada em São Paulo a VIII edição da Maratona Internacional, pelas ruas da capital paulista, contando com a presença de 12 mil corredores divididos entre as distancias de 5K e 21K.
 
@@ -24,18 +24,20 @@ Nada contra mas fica um ponto negativo para a Yescom cujo locutor ofendeu gratui
 
 Até lá!
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/03/meiaYescom_2014_big.jpg"><img alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/03/meiaYescom_2014.jpg" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 6005</li>
-	<li><strong>Tempo Final:</strong> 02:17:22</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 21k</li>
-	<li><strong>Tempo Bruto:</strong> 02:20:44</li>
-	<li><strong>Classificação Total:</strong> 4342</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 325</li>
-	<li><strong>Pace Médio:</strong> 06:21 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 9,5 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://connect.garmin.com/activity/449959087" target="_blank">Garmin</a></li>
-</ul>
+## Resultado:
+
+<a href="/images/2014/03/meiaYescom_2014_big.jpg">
+![Meia Maratona - 2014]({{ site.url }}/images/2014/03/meiaYescom_2014.jpg)
+</a>
+{: .pull-left}
+
+* **Número de Peito:**  6005
+* **Tempo Final:**  02:17:22
+* **Categoria:**  M2529
+* **Modalidade:**  21k
+* **Tempo Bruto:**  02:20:44
+* **Classificação Total:**  4342
+* **Classificação por Faixa Etária:**  325
+* **Pace Médio:**  06:21 min/km
+* **Velocidade Média Total: **  9,5 km/h
+* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/449959087" target="_blank">Garmin</a>

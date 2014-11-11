@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: 15K Barueri
+title: Relato - 15K Barueri
 date: 2014-03-30 14:58
 author: diego
 comments: true
-categories: [15k, barueri, Corrida de Rua]
+tags: [15k, barueri, Corrida de Rua]
 ---
 Neste domingo, foi realizada em Barueri a quinta edição da corrida que marca as comemorações do aniversário da cidade. Corrida gratuita com limitação no número de inscritos, contando com as distancias de 15k ou 5k, além de caminhada.
 
@@ -24,18 +24,20 @@ Pontos de hidratação o suficiente, embora todos com água quente, diferentemen
 
 Para uma prova gratuita, não muito o que reclamar.
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/03/15kBarueri2014_big.jpg"><img alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2014/03/15kBarueri2014.jpg" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 418</li>
-	<li><strong>Tempo Final:</strong> 01:35:12</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 15k</li>
-	<li><strong>Tempo Bruto:</strong> 01:35:43</li>
-	<li><strong>Classificação Total:</strong> 897</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 351</li>
-	<li><strong>Pace Médio:</strong> 06:16 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 09,60 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://connect.garmin.com/activity/470432468" target="_blank">Garmin</a></li>
-</ul>
+## Resultado:
+
+<a href="/images/2014/04/15kBarueri2014_big.jpg">
+![15K Barueri - 2014]({{ site.url }}/images/2014/04/15kBarueri2014.jpg)
+</a>
+{: .pull-left}
+
+* **Número de Peito:**  418
+* **Tempo Final:**  01:35:12
+* **Categoria:**  M2529
+* **Modalidade:**  15k
+* **Tempo Bruto:**  01:35:43
+* **Classificação Total:**  897
+* **Classificação por Faixa Etária:**  351
+* **Pace Médio:**  06:16 min/km
+* **Velocidade Média Total: **  09,60 km/h
+* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/470432468" target="_blank">Garmin</a>
