@@ -9,8 +9,10 @@ tags: [10k, 5k, Bosque, Cidade, Corrida, Corrida de Rua, de, Guarulhos, Internac
 Depois de ter pipocado para a corrida do internacional shopping que fica bem próximo de casa (seria minha primeira corrida em vez da night run), encarei a 2ª Corrida Internacional Cidade de Guarulhos, que aconteceu na região do Bosque Maia aqui na região central da cidade.
 
 
-
-<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2010/12/corridaguarulhos.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2010/12/corridaguarulhos.jpg" alt=""   class="imgTitulo" /></a></div>
+<a href="/images/2010/12/corridaguarulhos.jpg">
+![Cidade Guarulhos]({{ site.url }}/images/2010/12/corridaguarulhos.jpg)
+</a>
+{: .pull-left}
 
 O dia amanheceu como na corrida do Jockey: um sol para cada um! Bem complicado!! Depois de feito o alongamento e aquecimento, encontrei um amigo meu que ia participar da corrida e largamos juntos, correndo num ritimo mais leve para poupar do calor conseguimos correr juntos cerca de 2km, até cansar e se dispersar na multidão.
 
@@ -20,9 +22,10 @@ No geral foi boa a experiência de correr na minha cidade, nessa finalizei o per
 
 ## Resultado:
 
-
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2010/12/DSC_0176_big.gif"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2010/12/DSC_0176.gif" alt="" /></a></div>
+<a href="/images/2010/12/DSC_0176_big.gif">
+![Cidade Guarulhos]({{ site.url }}/images/2010/12/DSC_0176.gif)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 5432
 * **Tempo Final:** 00:34:32

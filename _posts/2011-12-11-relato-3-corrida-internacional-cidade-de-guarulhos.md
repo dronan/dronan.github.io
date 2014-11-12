@@ -9,7 +9,11 @@ tags: [10k, Corrida, Corrida de Rua, Guarulhos, maia]
 Neste domingo nublado aconteceu a 3ª edição da Corrida Internacional Cidade de Guarulhos, com as distancias de 5K e 10K, pelas ruas do Maia no Centro da cidade.
 
 
-<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/corrida_grs_01.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/corrida_grs_01.JPG" alt="" width="547" height="364" /></a></div>
+<a href="/images/2011/12/corrida_grs_01.jpg">
+![Corrida Internacional Cidade de Guarulhos]({{ site.url }}/images/2011/12/corrida_grs_01.jpg)
+</a>
+{: .pull-left}
+
 Diferentemente do ano passado, o sol escondido entre as nuvens dutante toda a prova, o que ajudou e muito! Estava com certo receio, comparando com o que foi no ano passado, que quase quebro nos 5K. Tudo bem que na época era minha 2ª ou 3ª prova mas mesmo assim, o desgaste é enorme, tanto que muita gente passou mal na época devido ao calor.
 
 A retirada do kit se deu no sábado, kit bastante similar ao do ano passado, contendo uma camiseta vermelha, número de peito, chip descartável e materiais de merchandising. Retirada rápida, no mesmo local (em uma tenda no meio do Bosque Maia). Ajuda também pelo fato de apenas duas mil pessoas terem participado da corrida.
@@ -37,7 +41,10 @@ Agora que venha a São Silvestre, mas sem música porque chove :( Minha primeira
 ## Resultado:
 
 
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/3corrida_grs2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/3corrida_grs2011.jpg" alt="" /></a></div>
+<a href="/images/2011/12/3corrida_grs2011_big.jpg">
+![Corrida Internacional Cidade de Guarulhos]({{ site.url }}/images/2011/12/3corrida_grs2011.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 1587
 * **Tempo Final:** 00:55:56

@@ -8,16 +8,22 @@ tags: [6k, Corrida de Rua, corrida de rua, meia maratona, são paulo]
 ---
 Nesta manha aconteceu em São Paulo a Meia Maratona, na região do Pacaembu, com percursos de 6k e 21k. Como ainda estou rumo aos 10k, corri os 6k.
 
+<a href="/images/2011/02/nike_pacaembu_meiasp2011.jpg">
+![Meia SP]({{ site.url }}/images/2011/02/nike_pacaembu_meiasp2011.jpg)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/02/nike_pacaembu_meiasp2011.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/02/nike_pacaembu_meiasp2011_small.gif" alt="" /></a></div>
 Não sei se foi à ansiedade para a corrida, mas a ultima noite foi bem difícil para dormir, fora aquelas acordadas no meio da noite pensando que já esta atrasado pra corrida, enfim, o despertador não deixou passar do horário.
 
 Sai de casa por volta das 6h50min da manha, rumo ao Pacaembu. Trajeto livre, nem 20 minutos já estava na porta do estádio, quem dera se fosse sempre assim o transito em Sampa, enfim. Carro estacionado, separo as coisas e rumo ao local de Largada. Quanta gente!  Para chegar até o local do guarda-volumes foi uma eternidade, mas deu tempo de deixar as coisas guardadas.
 
 Pertences no guarda volumes, alongamento feito, dada aquela ultima passada no banheiro químico (pior parte ever - ainda acho que tem um corpo em decomposição sempre dentro dessas cabines hahahaha), bora se juntar a multidão para a largada.
 
+<a href="/images/2011/02/nike_pacaembu_meiasp2011_2.jpg">
+![Meia SP]({{ site.url }}/images/2011/02/nike_pacaembu_meiasp2011_2.jpg)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/02/nike_pacaembu_meiasp2011_2.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/02/nike_pacaembu_meiasp2011_2_small.gif" alt="" /></a></div>
 O tempo, nublado, ajudou e muito em grande parte do trajeto – o sol só pegou mesmo nos últimos 2k. Desta vez não tinha muita gente fazendo ‘caminhada’ no meio do caminho, o que ajudou a melhorar o desempenho fazendo uma media próxima a 6min/km. Já tinha conhecimento de grande parte do percurso, o que ajudou a dosar o rítimo.
 
 Nada a reclamar da quantidade de pontos de hidratação, dois (para os 6k) e um no final do trajeto.
@@ -28,8 +34,10 @@ A, ponto negativo 2: perdi oportunidade de registrar excelentes fotos =(
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/01/DSC_0153_big.gif"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/01/DSC_0153.gif" alt="" /></a></div>
+<a href="/images/2011/02/DSC_0153_big.jpg">
+![Meia SP]({{ site.url }}/images/2011/02/DSC_0153.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 19041
 * **Tempo Final:** 00:37:23

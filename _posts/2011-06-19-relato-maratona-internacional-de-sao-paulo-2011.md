@@ -8,8 +8,11 @@ tags: [2011, Corrida, Corrida de Rua, Internacional, maratona, relato de prova, 
 ---
 Neste domingo, dia 19 de junho, cerca de 22 mil corredores participaram da Maratona de São Paulo 2011, com os percursos de 42k, 25k, 10k e uma caminhada de 3k, todos com partida da Ponte Octávio Frias de Oliveira, a “ponte estaiada” da Zona Sul de São Paulo, com a concentração de atletas na Av. Roberto Marinho.
 
+<a href="/images/2011/06/maratona-sp-2011.jpg">
+![Maratona Internacional de SP]({{ site.url }}/images/2011/06/maratona-sp-2011.jpg)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/06/maratona-sp-2011.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/06/maratona-sp-2011.jpg" alt=""  class="imgTitulo" /></a></div>
 Retirei o kit no Ginásio Poliesportivo Mauro Pinheiro, próximo ao parque do Ibirapuera, no sábado, dia anterior a corrida, durante a tarde. Gastei cerca de 30 minutos para fazer a retirada; um bom tempo, levando em consideração a fila que estava e a quantidade de pessoas que deixaram para retirar o kit de ultima hora, como fiz.
 
 Esperava hoje uma temperatura mais fria, mas frio mesmo só enquanto não havia a presença do Sol. Sai de casa com os termômetros marcando cerca de 12 graus, as 5:30 da manha, e pouco antes de iniciar a prova, as 8:35 já beirava os 25 graus, temperatura agradável para buscar um bom tempo sem desgaste excessivo, seja pelo calor ou mesmo pelo frio.
@@ -44,8 +47,10 @@ Coloquei de forma incorreta o chip e fiquei sem resultado oficial, fazendo cálc
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/06/maratonasp2011_big.JPG"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/06/maratonasp2011.jpg" alt="" /></a></div>
+<a href="/images/2011/06/maratonasp2011_big.jpg">
+![Maratona Internacional de SP]({{ site.url }}/images/2011/06/maratonasp2011.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 27048
 * **Tempo Final:** 00:58:25

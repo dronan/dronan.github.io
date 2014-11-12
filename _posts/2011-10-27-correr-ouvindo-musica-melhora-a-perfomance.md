@@ -26,6 +26,6 @@ Uma música agitada faz o atleta se esforçar mais e melhorar seu rendimento.
 
 O ritmo também colabora para diminuir o cansaço e aumentar a resistência muscular, proporcionando mais prazer. 
 
-Por Carolina Abranches
+*Por Carolina Abranches*
 
-Fonte: <a href="http://www.dgabc.com.br/News/5922072/correr-ouvindo-musica-melhora-a-perfomance.aspx?utm_source=facebook&utm_medium=smm&utm_content=mundocorrida_post02&utm_campaign=20111027">DGABC</a>
+**Fonte**: <a href="http://www.dgabc.com.br/News/5922072/correr-ouvindo-musica-melhora-a-perfomance.aspx?utm_source=facebook&utm_medium=smm&utm_content=mundocorrida_post02&utm_campaign=20111027">DGABC</a>

@@ -8,8 +8,11 @@ tags: [10k, 5k, Corrida, Corrida de Rua, Noite, Noturna, Rua, SP]
 ---
 Depois de pensar muito, tomei coragem para encarar a minha primeira corrida de rua. A escolhida foi a Fila Nigth Run, etapa São Paulo que aconteceu na região do Anhembi.
 
+<a href="http://lh6.ggpht.com/_v2d3SMfHp7o/TN83ZAnKMmI/AAAAAAAACWM/JBwCo5Ffxfg/s912/DSC_0044.JPG">
+![Night Run](http://lh6.ggpht.com/_v2d3SMfHp7o/TN83ZAnKMmI/AAAAAAAACWM/JBwCo5Ffxfg/s912/DSC_0044.JPG)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a class="lightbox" href="http://lh6.ggpht.com/_v2d3SMfHp7o/TN83ZAnKMmI/AAAAAAAACWM/JBwCo5Ffxfg/s912/DSC_0044.JPG"><img class="imgTitulo" src="http://lh6.ggpht.com/_v2d3SMfHp7o/TN83ZAnKMmI/AAAAAAAACWM/JBwCo5Ffxfg/s912/DSC_0044.JPG" alt="" width="547" height="364" /></a></div>
 O decorrer da semana foi aquele clima de ansiedade, afinal, nunca havia passado pela experiência!
 
 Mas nada como começar em uma noturna, em um dia frio. E como estava frio! Apesar de estar praticamente no meio da primavera estava aquele clima de inverno, temperatura muito baixa, então o jeito é aquecer, e continuar aquecido correndo!
@@ -24,8 +27,10 @@ Não tenho objetivo de vencer uma 5k, mas finalizar, quem sabe começar abaixar 
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2010/12/DSC_0083_big.gif"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2010/12/DSC_0083.gif" alt="" /></a></div>
+<a href="/images/2010/12/DSC_0083_big.jpg">
+![Night Run]({{ site.url }}/images/2010/12/DSC_0083.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 2281
 * **Tempo Final:** 00:29:54

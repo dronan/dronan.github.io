@@ -26,8 +26,10 @@ Próxima corrida: talvez a serie delta no meio pro fim de agosto, ou a etapa Pri
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/07/estacoesAdidasInverno2011_big.jpg" _mce_href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/07/estacoesAdidasInverno2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/07/estacoesAdidasInverno2011.jpg" _mce_src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/07/estacoesAdidasInverno2011.jpg" alt="" /></a></div>
+<a href="/images/2011/07/estacoesAdidasInverno2011_big.jpg">
+![Circuito das Estações]({{ site.url }}/images/2011/07/estacoesAdidasInverno2011.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 2001
 * **Tempo Final:** 00:59:42

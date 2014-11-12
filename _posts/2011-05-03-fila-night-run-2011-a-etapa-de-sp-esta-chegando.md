@@ -6,32 +6,38 @@ author: diego
 comments: true
 tags: [10k, anhembi, Corrida de Rua, corrida de rua, fila, night run]
 ---
-<div style="text-align: center; width: 100%; display: block;"><img style="float: none;" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/05/fila_night_run_2011.jpg" alt="" /></div>
+
+<a href="/images/2011/05/fila_night_run_2011.jpg">
+![Fila Night Run]({{ site.url }}/images/2011/05/fila_night_run_2011.jpg)
+</a>
+{: .pull-left}
+
 No próximo sábado, dia 07, acontece a etapa de São Paulo da Fila Night Run, com percursos de 5k ou 10k.
 
+<a href="/images/2011/05/fila_night_run_2011_percurso.jpg">
+![Fila Night Run]({{ site.url }}/images/2011/05/fila_night_run_2011_percurso.jpg)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/05/fila_night_run_2011_percurso.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/05/fila_night_run_2011_percurso.jpg" alt="" /></a></div>
 O percurso, conforme ilustra a imagem, envolve as Avenidas Olavo Fontora, Santos Dumont e a Praça Campos de Bagatelle, tendo como ponto de partida e chegada na Av. Santos Dumont, em frente ao Campo de Marte, com a estrutura do evento na Praça Heróis da Força Expedicionária Brasileira – FEB.
 
-
-
-<strong>Retirada do Kit</strong>
+**Retirada do Kit**
 
 A retirada do kit deve ser feita no Shopping Bourbon - Rua Turiassú, 2100 nas seguintes datas:
 
-<strong>Quinta–Feira</strong> das 10h00 às 20h00
+**Quinta–Feira** das 10h00 às 20h00
 
-<strong>Sexta-Feira </strong>das 10h00 às 20h00
+**Sexta-Feira **das 10h00 às 20h00
 
-<strong>Sábado</strong> das 10h00 às 15h00
+**Sábado** das 10h00 às 15h00
 
 Para a retirada do kit, deve ser adotado os procedimentos:
 
-<strong>1º passo:**
+**1º passo:**
 
 Retire seu Nº de peito no piso Turiassú em frente ao Supermercado Záffari.
 
-<strong>2º Passo:**
+**2º Passo:**
 
 Retirada de Kit Loja Centauro piso Pompéia
 
@@ -49,14 +55,14 @@ Estacionamento UniPare – Rua Voluntários da Pátria, 344
 
 Valor: R$ 8,00
 
-<span style="text-decoration: line-through;"><strong>Retirada do Chip</strong></span>
+## Retirada do Chip
 
-<span style="text-decoration: line-through;">O chip deve ser retirado no prórpio sabado, dia da corrida, entre 18h30 e 19h30. Lembrando que o horário de largada está marcado para as (20h00).</span>
+*O chip deve ser retirado no prórpio sabado, dia da corrida, entre 18h30 e 19h30. Lembrando que o horário de largada está marcado para as (20h00).*
 
-<strong>Atualização:** O horário da largada para as 5K será as 19h30, e as 20h30 para os 10K.
+### Atualização: O horário da largada para as 5K será as 19h30, e as 20h30 para os 10K.
 
-<strong>Atualização 2:**
+### Atualização 2:
 
-<strong>Horário de retirada de chip:**
+## Horário de retirada de chip:
 
 Os chips serão retirados junto com os kits. NÃO HAVERÁ RETIRADA DE CHIP NO DIA DA PROVA.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Viagem: Paraty
+title: Viagem - Paraty
 date: 2011-07-24 21:56
 author: diego
 comments: true
@@ -68,6 +68,6 @@ Sai de Ubatuba por volta das 16 horas, a partir de então, chegando em Caraguata
 
 Pelo menos consegui chegar para as cobranças de pênaltis do jogo do Brasil, alias, foi bom isso? Pelo menos ri bastante nas cobranças hahahaha
 
-Fotos da viagem: <a href="https://picasaweb.google.com/dronan/Paraty?authkey=Gv1sRgCIPO3caAvoWTsAE">Clique aqui</a>.
+*Fotos da viagem*: <a href="https://picasaweb.google.com/dronan/Paraty?authkey=Gv1sRgCIPO3caAvoWTsAE">Clique aqui</a>.
 
 Até a próxima insanidade!!

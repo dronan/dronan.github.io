@@ -18,7 +18,7 @@ O técnico judiciário, Marcelo Jacoto, 29, corre há oito anos e já participou
 
 “Já disputei provas em muitos países, e peguei frio em muitos deles. Durante os treinos nesses locais com temperaturas mais baixas, costumo me agasalhar bem. Já durante a corrida, não gosto de usar muitos acessórios, pois acho que eles me atrapalham um pouco, mas alguns amigos usam luvas e toucas. O que eu sempre faço é levar várias roupas reservas na mochila, para trocar quando acaba a prova”.
 
-<strong>Hidratação e alimentação</strong>
+## Hidratação e alimentação
 
 O atleta deve dar grande atenção à hidratação quando for participar de corridas no frio, como explica o ex-técnico de atletismo e ex-treinador, Nilson Duarte Monteiro.
 
@@ -30,7 +30,7 @@ Quanto à alimentação, o treinador Onécimo Ubiratam Medina Melo, diretor téc
 
 “Um cardápio mais calórico pode ser adicionado, porém aconselhável não alterar muito seu cardápio habitual para não dar problemas estomacais”, completa Eduardo Tavares.
 
-<strong>Preparação</strong>
+## Preparação
 
 Muitos corredores no Brasil fazem seus treinamentos, ou até mesmo participam de provas que contam com temperaturas altas. Assim sendo, outra dúvida que pode surgir é, como adaptar meu corpo para uma corrida a temperaturas baixas?
 
@@ -40,7 +40,7 @@ O atleta pode começar por mudar seu horário de treinamento, deslocando-o para 
 
 Com o treinamento em temperaturas mais parecidas com a do dia da prova, o atleta se adapta também psicologicamente, como fala Melo. “Para um atleta que irá enfrentar pela primeira vez uma corrida no frio pode ser um pouco desconfortável, pois a respiração, vento, ar ambiente, tudo é diferente, e isso pode fazer com que ele se sinta mais cansado durante a corrida. O melhor a fazer é se concentrar e focar o objetivo traçado durante os treinos”.
 
-<strong>Na corrida</strong>
+## Na corrida
 
 Nas provas realizadas em temperaturas por volta de 5ºC, o corredor pode mudar alguns aspectos na sua estratégia, como explica Monteiro. “Mesmo tendo feito o aquecimento de forma adequada, é mais vantajoso para o atleta que vai correr no frio começar a prova em um ritmo um pouco abaixo do ideal de prova que ele está acostumado, e ir crescendo progressivamente”, diz o treinador, que completa.
 

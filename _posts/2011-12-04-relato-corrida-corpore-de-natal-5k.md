@@ -26,8 +26,10 @@ Lado curioso: Ja paguei caro por corridas que não chegaram nem aos pés desta, 
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/natalcorpore_2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/natalcorpore_2011.jpg" alt="" /></a></div>
+<a href="/images/2011/12/natalcorpore_2011_big.jpg">
+![Corpore 5K]({{ site.url }}/images/2011/12/natalcorpore_2011.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 1035
 * **Tempo Final:** 00:25:48.45

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hipertrofia x Corrida: o dilema de correr e ficar sarado sem emagrecer
+title: Hipertrofia x Corrida - O dilema de correr e ficar sarado sem emagrecer
 date: 2011-12-17 18:58
 author: diego
 comments: true
@@ -20,7 +20,7 @@ Bruno Acioli tem tendência a ser magro. Com 1,77m e 69kg, o corredor, de 24 ano
 
 - Tanto corrida quanto musculação fazem bem ao corpo e à mente. Musculação, pelo lado estético. Corrida, pelo lado psico-fisiológico. A chave do sucesso para quem não quer emagrecer é a suplementação depois do treino. Se você não repõe direito, o organismo busca energia do músculo, daí você perde massa magra.
 
-<b>Dicas da especialista</b>
+## Dicas da especialista
 
 A nutricionista esportiva e triatleta Yana Glaser concorda com Bruno.
 
@@ -36,7 +36,7 @@ Para quem visa emagrecer, a dica é ficar uma hora após o treino sem comer nada
 
 - Nesses casos, a musculação também é indicada para aumentar a taxa metabólica basal, que é o mínimo de energia necessária para manter as funções vitais do organismo em repouso.
 
-<b>Hipertrofia nunca mais</b>
+## Hipertrofia nunca mais
 
 Brasiliente, estudante de direito, Bruno Menezes (23), ficou dos 14 aos 18 anos só pensando em ficar forte. Qualquer atividade aeróbica que pudesse fazê-lo emagrecer ou secar, ele não praticava. Malhar era seu único foco. Por problemas pessoais e emocionais, começou a praticar esportes, aliando corrida ou natação à academia. E a vida deu uma reviravolta.
 

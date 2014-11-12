@@ -6,14 +6,17 @@ author: diego
 comments: true
 tags: [Corrida de Rua, corrida de rua, inverno, treinos]
 ---
-<strong>por Miguel Sarkis</strong>
+**por Miguel Sarkis**
 
 Se há algum assunto que deveria ser eternamente tratado na vida de um praticante de atividades físicas, caminhada ou corrida, esse deve, sem dúvida, ser o de como se exercitar no início, meio e fim do inverno.
 
 Existe coisa mais desmotivadora do que sair de uma sequência infernal de calor, festas e feriados e logo ingressar num frio acompanhado de garoa e, de quando em quando, uma tempestade? Não, não há temperatura mais desmotivadora (a menos que você esteja numa estação de esqui, em cidades frias por sua natureza) e a ela darei o nome de vilã, por enquanto.
 
+<a href="/images/2011/05/inverno.jpg">
+![Inverno]({{ site.url }}/images/2011/05/inverno.jpg)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/05/inverno.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/05/inverno.jpg" alt="" /></a></div>
 Ao mocinho da questão, momentaneamente, chamaremos de casa, bar, café, restaurante e demais locais aconchegantes nos quais se produzem verdadeiros escudos e antídotos para vencermos os vilões, tal qual o inverno.
 
 Mas, pensando bem, será que a ordem está correta? Será que há mesmo um vilão e um mocinho nessa história?
@@ -22,7 +25,7 @@ Vamos discutir o assunto e tentar amadurecer o que seria uma resposta e uma solu
 
 É verdade que algumas pessoas encaram bem o inverno e se aventuram em verdadeiros treinamentos de alto rendimento, porém, a maioria das pessoas não topa o inverno. Podemos observar alguns suicídios em países como a Inglaterra, onde os dias não se cansam de nascer cinza, então, fica muito difícil encontrar fãs para o período de inverno.
 
-<em>Comer ou Correr, eis a questão</em>
+*Comer ou Correr, eis a questão*
 
 É muito fácil engordarmos no inverno e não é por uma matemática muito complexa não, mas sim, por uma simples questão de adição. De gordura, é claro.
 
@@ -36,7 +39,7 @@ Achamos que ficaremos resfriados, com dores e demais mal estar causados pelas ba
 
 A temperatura baixa e a chuva fina não deveriam ser tratadas como vilãs, até mesmo por que elas diminuem a sobrecarga física, desde que ajustados os tipos de roupas e os alimentos, além de permitirem a continuidade do controle de treinamento e gastos energéticos.
 
-<em>Comemos demais e não gastamos a contento</em>
+*Comemos demais e não gastamos a contento*
 
 Para comer muito não é preciso esforço, senão o de mastigar. Exercitar-se sim. Então, o vilão seria a comida? Certamente que não, nos sentimos mais esfomeados no inverno, além do estado de ansiedade, por não termos vencido o mal estar de não termos ido treinar, que deixa-nos para baixo e sem motivação, ao sermos vencidos pelo obstáculo da temperatura.
 
@@ -52,4 +55,4 @@ Treinamentos e bom humor se equilibram e permitem a derrubada dos vilões do per
 
 Cuide-se para não se tornar o vilão da história, Corra contra o tempo mesmo.
 
-Fonte: <a href="http://www.ativo.com/Esportes/Pages/VilaoeMocinhodoInverno.aspx" target="_blank">Ativo.com </a>.
+**Fonte**: <a href="http://www.ativo.com/Esportes/Pages/VilaoeMocinhodoInverno.aspx" target="_blank">Ativo.com </a>.

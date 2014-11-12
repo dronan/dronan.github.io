@@ -8,9 +8,10 @@ tags: [10k, 5k, Corrida, Corrida de Rua, Delta, Jockey, Rua, Serie, SP]
 ---
 Depois da Night Run, hora de encarar a primeira diurna. A proxima que aparecia no calendario era esta, Serie Delta, distancias de 5km e 10km no Jockey Club em São Paulo, então vamos lá!
 
-
-
-<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2010/12/seriedelta.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2010/12/seriedelta.jpg" alt=""  class="imgTitulo" /></a></div>
+<a href="/images/2010/12/seriedelta.jpg">
+![Delta]({{ site.url }}/images/2010/12/seriedelta.jpg)
+</a>
+{: .pull-left}
 
 Agora mais preparado (com o frequencimetro - RS300X da Polar), e treinado (comecei a praticar mais principalmente em parques), fui para minha segunda corrida. E o sol nesta castigou. Apesar de ter chovido no dia anterior, o tempo amanhaceu aberto, sem nuvens e o sol pegou forte desde o inicio. Consegui manter um ritimo relativamente bom até os 3km, até sair da sombra do muro do Jockey, que quando saiu, meu relogio avisou pra pegar leve que não sou profissional e resolvi caminhar uns 200 metros para baixar a pulsação.
 
@@ -20,9 +21,10 @@ Nas semanas que antecederam a corrida fiquei sabendo de mais pessoas conhecidas 
 
 ## Resultado:
 
-
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2010/12/DSC_0128_big.gif"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2010/12/DSC_0128.gif" alt="" /></a></div>
+<a href="/images/2010/12/DSC_0128_big.jpg">
+![Delta]({{ site.url }}/images/2010/12/DSC_0128.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 560
 * **Tempo Final:** 00:33:19

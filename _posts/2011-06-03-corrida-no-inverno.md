@@ -10,14 +10,12 @@ Apesar de estarmos enfrentando temperaturas mais agradáveis, o <strong>frio</s
 
 Algumas dicas são:
 
-Optar pelas esteiras para <strong>manter o condicionamento físico</strong>. A corrida indoor vai seguir os mesmos princípios da rua no que diz respeito ao aquecimento e alongamento. O aumento da inclinação do aparelho pode aproximar a dificuldade da das ruas – 1% a 2% é o suficiente. Não se pode esquecer da<strong>hidratação</strong>.
+Optar pelas esteiras para **manter o condicionamento físico**. A corrida indoor vai seguir os mesmos princípios da rua no que diz respeito ao aquecimento e alongamento. O aumento da inclinação do aparelho pode aproximar a dificuldade da das ruas – 1% a 2% é o suficiente. Não se pode esquecer da **hidratação**.
 
-Mudar alguns hábitos ao <strong>treinar ao ar livre</strong>. Além de aumentar o tempo de <strong>aquecimento</strong> para melhorar o rendimento do corpo, é necessário proteger as mãos devido a vasoconstrição; e a cabeça, por onde se perde boa parte do calor produzido durante o exercício.
+Mudar alguns hábitos ao **treinar ao ar livre**. Além de aumentar o tempo de **aquecimento** para melhorar o rendimento do corpo, é necessário proteger as mãos devido a vasoconstrição; e a cabeça, por onde se perde boa parte do calor produzido durante o exercício.
 
 Usar calças e jaquetas corta vento se a temperatura for menor que 10º C.
 
 Com informação e um pouco de vontade não fica tão difícil manter o ritmo de treinamento.
 
-Fonte: <a href="http://www.corredortrainer.com.br/corrida-no-inverno/" target="_blank">Corredor Trainer</a>
-
-
+**Fonte**: <a href="http://www.corredortrainer.com.br/corrida-no-inverno/" target="_blank">Corredor Trainer</a>

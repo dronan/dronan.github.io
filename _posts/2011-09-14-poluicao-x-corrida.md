@@ -22,20 +22,13 @@ Procure não treinar no período das 10h00 as 16h00. Neste período o ar se enco
 Evite treinar em lugares que tenham alto trafego de veículos.
 Procure fazer seu treino em lugares com muito verde.
  
-
 Tome bastante água, no mínimo 2 litros diários. A hidratação é essencial.
 Não da para mudar de trabalho, escola, região ou cidade por causa da poluição, mas podemos minimizar seus efeitos!
 
- 
-
 Comente no Fôlego ou no twitter @jrdelia
-
- 
 
 Abraço
 
- 
-
 Jr D’Elia
 
-Fonte: <a href="http://globoesporte.globo.com/platb/folego/2011/09/13/poluicao-x-corrida/" target="_blank">Fôlego</a>
+**Fonte**: <a href="http://globoesporte.globo.com/platb/folego/2011/09/13/poluicao-x-corrida/" target="_blank">Fôlego</a>

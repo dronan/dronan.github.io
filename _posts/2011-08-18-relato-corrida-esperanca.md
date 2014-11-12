@@ -30,8 +30,10 @@ Minha próxima prova agora não sei se é a "Estações Adidas" em Curitiba ou a
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/08/esperanca_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/08/esperanca.jpg" alt="" /></a></div>
+<a href="/images/2011/08/esperanca_big.jpg">
+![Criança Esperança]({{ site.url }}/images/2011/08/esperanca.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 32873
 * **Tempo Final:** 00:22:15

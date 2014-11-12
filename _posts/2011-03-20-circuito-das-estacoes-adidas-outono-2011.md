@@ -22,8 +22,10 @@ A próxima agora é a meia maratona da corpore, ou 5k ou 21k, não tem um meio t
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/03/DSC_0077_big.JPG"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/03/DSC_0077.JPG" alt="" /></a></div>
+<a href="/images/2011/03/DSC_0077_big.jpg">
+![Circuito Adidas]({{ site.url }}/images/2011/03/DSC_0077.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 2122
 * **Tempo Final:** 01:03:27.21

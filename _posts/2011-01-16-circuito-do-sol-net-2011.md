@@ -8,9 +8,10 @@ tags: [10k, 5k, Circuito, Corrida, Corrida de Rua, Net, Pacaembu, Rua, Sol]
 ---
 Depois de um descanso merecido no fim de ano, finalmente chegou a primeira corrida de 2011.
 
-
-
-<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/01/corridasolpacaembu.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/01/corridasolpacaembu.jpg" alt=""  class="imgTitulo" /></a></div>
+<a href="/images/2011/01/corridasolpacaembu.jpg">
+![Circuito do Sol]({{ site.url }}/images/2011/01/corridasolpacaembu.jpg)
+</a>
+{: .pull-left}
 
 A corrida que abriu o meu "calendario de 2011" foi o Circuito do Sol, em SP. O dia amanheceu como torci a semana inteira que acontecesse: nublado! ufa! um alivio. Propicio para que tivesse um bom desempenho, sem chegar "morrendo" por culpa do forte sol.
 
@@ -20,9 +21,10 @@ Fechei os 5 km em 00:31:35, meu melhor tempo até agora correndo de dia! Seria m
 
 ## Resultado:
 
-
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2010/12/DSC_0135_big.gif"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2010/12/DSC_0135.gif" alt="" /></a></div>
+<a href="/images/2010/12/DSC_0135_big.jpg">
+![Circuito do Sol]({{ site.url }}/images/2010/12/DSC_0135.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 459
 * **Tempo Final:** 00:31:35.55

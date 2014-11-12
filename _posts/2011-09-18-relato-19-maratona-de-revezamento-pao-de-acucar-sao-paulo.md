@@ -56,8 +56,10 @@ Próxima corrida: Eco Run da Braskem!
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/09/pda_2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/09/pda_2011.jpg" alt="" /></a></div>
+<a href="/images/2011/09/pda_2011_big.jpg">
+![Pão de Açúcar]({{ site.url }}/images/2011/09/pda_2011.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 5351-3
 * **Tempo Final:** 01:05:00
@@ -70,4 +72,4 @@ Próxima corrida: Eco Run da Braskem!
 * **Pace Médio:** 05:52 min/km
 * ** Velocidade Média Total:** 10:21 km/h
 
-Percurso e maiores informações: <a href="http://www.runtastic.com/en/users/Diego-Ronan/sport-sessions/5450572" target="_blank">Clique aqui</a>.
+**Percurso e maiores informações**: <a href="http://www.runtastic.com/en/users/Diego-Ronan/sport-sessions/5450572" target="_blank">Clique aqui</a>.

@@ -26,8 +26,10 @@ Próxima corrida é a da Samsung - Zumbi dos Palmares, penultima (?) do ano. At�
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/10/braskem_2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/10/braskem_2011.jpg" alt="" /></a></div>
+<a href="/images/2011/10/braskem_2011_big.jpg">
+![Brasken]({{ site.url }}/images/2011/10/braskem_2011.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 2790
 * **Tempo Final:** 00:59:06

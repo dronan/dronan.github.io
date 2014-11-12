@@ -6,7 +6,7 @@ author: diego
 comments: true
 tags: [Corrida de Rua, medicao, organização, preparo, prova]
 ---
-Guia para Medição de Percursos de Corrida de Rua – Orientação às Empresas Organizadoras
+## Guia para Medição de Percursos de Corrida de Rua – Orientação às Empresas Organizadoras
 
 Antes de proceder a medição do percurso aonde será corrida a Prova, a Empresa Organizadora deverá obter a sua liberação pelas autoridades de trânsito local, em documento por escrito, incluindo detalhes de faixas de trânsito, curvas, cruzamentos, etc.. visando facilitar o trabalho de medição, básico para a realização da Prova e a homologação de seu resultado pela CBAt.
 
@@ -22,24 +22,17 @@ O percurso será então medido pelo método da bicicleta calibrada utilizando o 
 
 <img src="http://www.corridaderua.com.br/img/med02.gif" alt="" />
 
-O medidor seguirá rigidamente os procedimentos oficializados pela CBAt por orientação da IAAF / AIMS
+**O medidor seguirá rigidamente os procedimentos oficializados pela CBAt por orientação da IAAF / AIMS**
 
 Todas as informações da fase inicial deverão ser repassadas ao medidor para que ele possa analisar e decidir a melhor maneira de medir o percurso, para tanto ele necessitará de proteção policial de trânsito em todas as fases de seu trabalho, o qual envolverá:
 
-	<li>
-<div>vistoria do percurso escolhido pela organização da Prova,avaliações preliminares do mesmo</div>
-	<li>
-<div>layout de uma distância padrão (sugerida mínima de 300m) com fita de aço calibrada (Lufkin ou Stanley de 30m) para calibragem dos aparelhos em lugar pouco movimentado</div>
-	<li>
-<div>cálculos e efetivação da medição, marcação dos km com tinta de demarcação asfáltica, locação da largada e chegada com pino de aço</div>
-	<li>
-<div>Mapa do Percurso contendo identificação de todos os pontos relevantes da medição, incluindo pontos de retorno, lista e descrição dos km, largada e checada, etc..( anexo exemplo de mapa de percurso)</div>
-	<li>
-<div>preenchimento em formulário próprio da descriçãoo do tipo de percurso segundo classificação da IAAF / AIMS ( tipo em loop, ponto a ponto, ida e volta, etc.), conceito de drop e separation (desnível e separação entre largada e chegada), estes aspectos são exigidos para as provas nacionais e internacionais, etc…</div>
-	<li>
-<div>perfil plano altimétrico do percurso, referido a cada km além da largada e chegada (exemplo contido na figura anexa)</div>
-	<li>
-<div>emissão preliminar do certificado da CBAT</div>
+* istoria do percurso escolhido pela organização da Prova,avaliações preliminares do mesmo
+* layout de uma distância padrão (sugerida mínima de 300m) com fita de aço calibrada (Lufkin ou Stanley de 30m) para calibragem dos aparelhos em lugar pouco movimentado
+* cálculos e efetivação da medição, marcação dos km com tinta de demarcação asfáltica, locação da largada e chegada com pino de aço
+* Mapa do Percurso contendo identificação de todos os pontos relevantes da medição, incluindo pontos de retorno, lista e descrição dos km, largada e checada, etc..( anexo exemplo de mapa de percurso)
+* preenchimento em formulário próprio da descriçãoo do tipo de percurso segundo classificação da IAAF / AIMS ( tipo em loop, ponto a ponto, ida e volta, etc.), conceito de drop e separation (desnível e separação entre largada e chegada), estes aspectos são exigidos para as provas nacionais e internacionais, etc…
+* perfil plano altimétrico do percurso, referido a cada km além da largada e chegada (exemplo contido na figura anexa)
+* emissão preliminar do certificado da CBAT
 
 Para provas nacionais e internacionais toda esta documentação deverá ser encaminhada à CBAT para revisão e certificação (análise por um medidor certificador ou de nível A) visando a obtenção do certificado definitivo da IAAF ou IAAF / AIMS
 
@@ -49,11 +42,12 @@ Este procedimento de certificação do percurso por um segundo medidor é exigid
 
 Estes e outros pontos serão esclarecidos quando da consulta inicial e solicitação de reconhecimento da Prova pela Empresa Organizadora à CBAt.
 
-<strong>Exemplo de mapa contendo detalhes e perfíl plano altimétrico:**
+## Exemplo de mapa contendo detalhes e perfíl plano altimétrico
 
 <img src="http://www.corridaderua.com.br/img/med03.gif" alt="" />
 
-<strong>Observações Úteis</strong>
+
+## Observações Úteis
 
 Antes da medição propriamente dita, o medidor irá definir um percurso com fita de aço calibrada de aprox 300/400 m em linha reta e local pouco movimentado aonde irá calibrar o aparelho credenciado para a medição (Jones Oerth Counter), antes e depois da medição, esta operação é necessária para a complementação dos cálculos a serem apresentados no relatório final da medição.
 
@@ -64,12 +58,12 @@ A hora ideal para efetuar a medição, a ser combinada com o medidor, deverá se
 
 Não deverá haver pressa no trabalho e a velocidade máxima da bicicleta não deverá ultrapassar 16 km / hora, por segurança e durabilidade do aparelho de medição (frágil.
 
-<strong>Exemplo de mapa de percurso, com desenho dos detalhes e locação de largada e chegada e indicação em texto de restrições do percurso:**
+**Exemplo de mapa de percurso, com desenho dos detalhes e locação de largada e chegada e indicação em texto de restrições do percurso:**
 
 <img src="http://www.corridaderua.com.br/img/med01.gif" alt="" />
 
 
 
-Fonte: <a href="http://blogdoecorunner.wordpress.com/2011/10/11/como-deve-ser-a-medio-de-percursos-de-corrida-de-rua/" target="_blank">Blog EcoRunner</a>
+**Fonte**: <a href="http://blogdoecorunner.wordpress.com/2011/10/11/como-deve-ser-a-medio-de-percursos-de-corrida-de-rua/" target="_blank">Blog EcoRunner</a>
 
 

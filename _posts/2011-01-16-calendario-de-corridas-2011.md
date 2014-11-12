@@ -7,6 +7,7 @@ comments: true
 tags: [2011, calendario, Corrida, Corrida de Rua, Rua]
 ---
 2011 chegou e com o ano inicia mais uma temporada de corridas! Abaixo, o calendário de corridas de rua!
+
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tbody>
 <tr>

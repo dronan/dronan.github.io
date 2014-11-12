@@ -8,13 +8,17 @@ tags: [21k, 5k, corpore, Corrida de Rua, corrida de rua, meia maratona]
 ---
 Neste domingo aconteceu a XII Meia Maratona Internacional Corpore de São Paulo, com as opções de corrida de 5K e 21K, com os percursos conforme ilustram as imagens.
 
+<a href="/images/2011/04/Corpore_MeiaMaratona_21K_web.jpg">
+![Corpore Meia]({{ site.url }}/images/2011/04/Corpore_MeiaMaratona_21K_web.jpg)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a  class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/Corpore_MeiaMaratona_21K_web.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/Corpore_MeiaMaratona_21K_web.jpg" alt="" class="imgTitulo" /></a></div>
-<div style="text-align: center; width: 100%; display: block;">
 
+<a href="/images/2011/04/Corpore_MeiaMaratona_5K_web.jpg">
+![Corpore Meia]({{ site.url }}/images/2011/04/Corpore_MeiaMaratona_5K_web.jpg)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/Corpore_MeiaMaratona_5K_web.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/Corpore_MeiaMaratona_5K_web.jpg" alt=""  class="imgTitulo" /></a></div>
-</div>
 Trajeto escolhido: 5k.
 
 O local para retirada do kit, próximo ao local da prova e praticamente no mesmo local da premiação não causaram maiores problemas, foi um processo rápido e tranqüilo pelo menos quando fui (13hrs do sábado).
@@ -33,8 +37,10 @@ O local da premiação foi o suficiente para uma grande  concentração de pesso
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/DSC_0126_big.JPG"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/DSC_0126.JPG" alt="" /></a></div>
+<a href="/images/2011/04/DSC_0126_big.jpg">
+![Corpore Meia]({{ site.url }}/images/2011/04/DSC_0126.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 11073
 * **Tempo Final:** 00:27:44.34

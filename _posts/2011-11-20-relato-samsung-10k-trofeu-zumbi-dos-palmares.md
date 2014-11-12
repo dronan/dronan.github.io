@@ -8,9 +8,10 @@ tags: [10k, Corrida, Corrida de Rua, ibirapuera, rubem berta, samsung, zumbi dos
 ---
 Neste domingo, dia 20, ocorreu a 10ª edição da corrida Samsung - Troféu Zumbi dos Palmares, em São Paulo, no tradicional percurso de 10K, ou opção da caminhada para os 3,1K de prova.
 
-
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/11/SamsungZumbiDosPalmares.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/11/SamsungZumbiDosPalmares.jpg" alt="" class="imgTitulo" /></a></div>
+<a href="/images/2011/11/SamsungZumbiDosPalmares.jpg">
+![Zumbi dos Palmares]({{ site.url }}/images/2011/11/SamsungZumbiDosPalmares.jpg)
+</a>
+{: .pull-left}
 
 Apesar do dia ter começado frio, o sol veio forte e fez com que a temperatura subisse rapidamente.
 
@@ -32,8 +33,10 @@ Faltam mais 2 para fechar o ano!
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/11/samsung_2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/11/samsung_2011.jpg" alt="" /></a></div>
+<a href="/images/2011/11/samsung_2011_big.jpg">
+![Zumbi dos Palmares]({{ site.url }}/images/2011/11/samsung_2011.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 5244
 * **Tempo Final:** 00:58:05
