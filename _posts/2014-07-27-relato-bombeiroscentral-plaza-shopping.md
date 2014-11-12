@@ -15,7 +15,7 @@ Como havia a opção e não tive tempo para tal, deixei para retirar o kit no pr
 
 Chegando por volta das 6h40, estacionei na rua Agostinho Gomes (referência para um próximo ano), a cerca de três quadras do parque - local que abrigou a estrutura da prova. Para retirar o kit foram duas filas: uma da confirmação, para quem não tinha o número de peito impresso e a outra da retirada em si. Demorou cerca de quinze minutos ambas etapas. Com o kit em mãos, foi alongar partir para mais uma corrida de 10km. O kit, diferentemente das outras vezes, trouxe o chip descartável, além de vir composto por uma camiseta manga longa, número de peito, informativos da corpore e materiais de merchandising.
 
-Ainda com tempo de sobra, deu para tirar bastante fotos do local do evento, só indo para o local da largada pouco depois do inicio da mesma, saindo com a “galera do fundão”.
+Ainda com tempo de sobra, deu para tirar bastante fotos do local do evento, só indo para o local da largada pouco depois do inicio da mesma, saindo com a "galera do fundão".
 
 O dia amanheceu frio, apesar do sol presente e sem nuvens, foi ótimo para impor um ritmo forte na prova.  
 
@@ -24,7 +24,7 @@ Percurso pesado, com ponto de hidratação com água gelada a cada 3km, foi mais
 ## Resultado:
 
 <a href="/images/2014/07/bombeiros_big.JPG">
-![Bombeiros 2014]({{ site.url }}/images/2014/07/bombeiros.JPG)
+![Bombeiros]({{ site.url }}/images/2014/07/bombeiros.JPG)
 </a>
 {: .pull-left}
 

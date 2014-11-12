@@ -19,7 +19,7 @@ Marcada inicialmente para início as 7h30, houve cerca de 20 minutos de atraso d
 Tudo bem que não da para crucificar a organização se todo mundo chega faltando dez minutos para o termino do translado, no caso marcado às 7h - e na prática durou até quinze para as 8 - formando uma enorme fila, mas seria mais fácil se fosse melhor organizado ou se tal translado funcionasse para levar do ponto de chegada para a largada. Quem sabe ano que vem pensam nisso.
 
 <a href="/images/2013/11/2paz_big.jpg">
-![Corrida da Paz 2013]({{ site.url }}/images/2013/11/2paz.jpg)
+![Corrida da Paz]({{ site.url }}/images/2013/11/2paz.jpg)
 </a>
 {: .pull-left}
 
@@ -36,7 +36,7 @@ Semana que vem tem a "Volta da Pampulha", conhecer a região que nunca fui, corr
 ## Resultado:
 
 <a href="/images/2013/11/paz_big.jpg">
-![Corrida da Paz 2013]({{ site.url }}/images/2013/11/paz.jpg)
+![Corrida da Paz]({{ site.url }}/images/2013/11/paz.jpg)
 </a>
 {: .pull-left}
 

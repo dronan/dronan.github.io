@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: 7ª Meia Maratona Internacional de São Paulo
+title: Relato - 7ª Meia Maratona Internacional de São Paulo
 date: 2013-03-17 13:39
 author: diego
 comments: true
-categories: [21k, Corrida, Corrida de Rua, maratona, meia, SP, yescom]
+tags: [21k, Corrida, Corrida de Rua, maratona, meia, SP, yescom]
 ---
 Neste domingo foi realizada a 7ª Meia Maratona Internacional de São Paulo, com percursos de 5k ou 21k, com a presença de cerca de dez mil participantes.
 
@@ -32,21 +32,21 @@ E parabéns a Nessa Romeu, que vi no percurso, ao Marcus Garcia e a Carla Paraiz
 
 Próxima prova é os 15k de Barueri, semana que vem.
 
+## Resultado:
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/03/meiasp_big.jpg"><img alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/03/meiasp.jpg" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 7607</li>
-	<li><strong>Tempo Final:</strong> 02:06:05</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 21k</li>
-	<li><strong>Tempo Bruto:</strong> 02:14:57</li>
-	<li><strong>Classificação Total:</strong> 2918</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 208</li>
-	<li><strong>Pace Médio:</strong> 06:00 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 10,00 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://bit.ly/ZjcfXz" target="_blank">Motoactv</a></li>
-</ul>
-&nbsp;
+<a href="/images/2013/03/meiasp_big.jpg">
+![Meia Maratona de SP]({{ site.url }}/images/2013/03/meiasp.jpg)
+</a>
+{: .pull-left}
+
+* **Número de Peito:**  7607
+* **Tempo Final:**  02:06:05
+* **Categoria:**  M2529
+* **Modalidade:**  21k
+* **Tempo Bruto:**  02:14:57
+* **Classificação Total:**  2918
+* **Classificação por Faixa Etária:**  208
+* **Pace Médio:**  06:00 min/km
+* **Velocidade Média Total: **  10,00 km/h
+* **Informações Gerais: ** <a href="http://bit.ly/ZjcfXz" target="_blank">Motoactv</a>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relato: Correr e Caminhar - Mercedes Benz
+title: Relato - Correr e Caminhar - Mercedes Benz
 date: 2013-03-10 17:04
 author: diego
 comments: true
@@ -20,19 +20,19 @@ Nenhum ponto de hidratação dos 5 pelo trajeto havia água fria, pelo calor que
 
 A próxima prova é a Meia Maratona de São Paulo, a mesma em que iniciei as meias maratonas ano passado fechando em quase 2h30. Vamos ver se consigo baixar pelo menos 20 minutos, tudo depende do clima no dia.
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/03/mercedes_big.jpg"><img alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/03/mercedes.jpg" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 1111</li>
-	<li><strong>Tempo Final:</strong> 00:53:25</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10k</li>
-	<li><strong>Tempo Bruto:</strong> 00:53:25</li>
-	<li><strong>Classificação Total:</strong> 303</li>
-	<li><strong>Classificação por Faixa Etária:</strong> N/D</li>
-	<li><strong>Pace Médio:</strong> 05:21 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 11,23 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="https://motoactv.com/public/show?workoutActivityId=uHAfXU6%2BTHCUYoRc2JZXlQ%3D%3D&activity=1" target="_blank">Motoactv</a></li>
-</ul>
-&nbsp;
+## Resultado:
+
+<a href="/images/2013/03/mercedes_big.jpg">
+![Mercedes]({{ site.url }}/images/2013/03/mercedes.jpg)
+</a>
+{: .pull-left}
+
+* **Número de Peito:**  1111
+* **Tempo Final:**  00:53:25
+* **Categoria:**  M2529
+* **Modalidade:**  10k
+* **Tempo Bruto:**  00:53:25
+* **Classificação Total:**  303
+* **Pace Médio:**  05:21 min/km
+* **Velocidade Média Total: **  11,23 km/h
+* **Informações Gerais: ** <a href="https://motoactv.com/public/show?workoutActivityId=uHAfXU6%2BTHCUYoRc2JZXlQ%3D%3D&activity=1" target="_blank">Motoactv</a>

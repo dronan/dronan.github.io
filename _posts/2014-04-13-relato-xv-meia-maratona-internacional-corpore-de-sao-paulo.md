@@ -29,7 +29,7 @@ Prova finalizada em 2h17. Que venham as próximas!
 ## Resultado:
 
 <a href="/images/2014/04/meiacorpore_big.JPG">
-![Meia Corpore- 2014]({{ site.url }}/images/2014/04/meiacorpore.jpg)
+![Meia Corpore]({{ site.url }}/images/2014/04/meiacorpore.jpg)
 </a>
 {: .pull-left}
 

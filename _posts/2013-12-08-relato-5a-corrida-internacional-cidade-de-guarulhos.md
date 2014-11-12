@@ -31,7 +31,7 @@ Uma critica construtiva: se quiserem levar mesmo a sério esta corrida, tornar u
 ## Resultado:
 
 <a href="/images/2013/12/guarulhos_2013_big.jpg">
-![Corrida Guarulhos 2013]({{ site.url }}/images/2013/12/guarulhos_2013.jpg)
+![Corrida Guarulhos]({{ site.url }}/images/2013/12/guarulhos_2013.jpg)
 </a>
 {: .pull-left}
 

@@ -1,14 +1,19 @@
 ---
 layout: post
-title: Relato: Revezamento Bertioga/Maresias 2013 - Parte 01
+title: Relato - Revezamento Bertioga/Maresias 2013 - Parte 01
 date: 2013-05-17 18:38
 author: diego
 comments: true
-categories: [2013, Bertioga, Corrida de Rua, endorfina, equipe, maratona, Maresias, revezamento, Ultra, Ultramaratona]
+tags: [2013, Bertioga, Corrida de Rua, endorfina, equipe, maratona, Maresias, revezamento, Ultra, Ultramaratona]
 ---
 ​N​este sábado​ acontece a primeira etapa da corrida de revezamento Bertioga - Maresias, edição de 2013.
 
-Fechamos o grupo em oito pessoas, que farão os respectivos trechos na ordem: Priscila​, Silvia​, Beto​, ​Carol​, ​Wesley​, ​Diego​, Gilson, Henrique​. O Igor e a Ana darão apoio dirigindo os carros.<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/05/image_1366945147243095.jpg"><img class="imgTitulo" alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/05/image_1366945147243095.jpg" /></a></div>
+Fechamos o grupo em oito pessoas, que farão os respectivos trechos na ordem: Priscila​, Silvia​, Beto​, ​Carol​, ​Wesley​, ​Diego​, Gilson, Henrique​. O Igor e a Ana darão apoio dirigindo os carros.
+
+<a href="/images/2013/05/image_1366945147243095.jpg">
+![Bertioga Maresias]({{ site.url }}/images/2013/05/image_1366945147243095.jpg)
+</a>
+{: .pull-left}
 
 Depois de reuniões no "pé no parque", decidimos fazer as trocas de pessoas do revezamento em carros "pares e impares", em vez de um único carro (Van), para facilitar o revezamento e não deixar ninguém esperando o carro "preso no transito" chegar. O carro 01 será responsável por todos os pontos pares do trajeto, até completar a prova, assim como o carro 02, que ficará responsável pelos pares. Fechamos também um quarto em um hostel de Maresias para acomodar todos os participantes pós prova.
 

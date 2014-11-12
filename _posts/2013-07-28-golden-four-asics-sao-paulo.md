@@ -10,7 +10,7 @@ tags: [Corrida de Rua, fria, frio, g4, golde4, golden4asics, meia maratona, rapi
 Neste domingo foi realizada mais uma edição de São Paulo da Golden Four Asics, corrida com percurso único de meia maratona que contou com muito frio e a presença de 6 mil participantes.
 
 <a href="/images/2013/07/g4_2.jpg">
-![G4 2013]({{ site.url }}/images/2013/07/g4_2.jpg)
+![Golden Four Asics]({{ site.url }}/images/2013/07/g4_2.jpg)
 </a>
 {: .pull-left}
 
@@ -18,7 +18,7 @@ A entrega dos kit foi realizada no sábado no centro de convenções do World Tr
 Deixei para ir buscar o kit no sábado por volta das 14 horas. Encontrei amigos da Galera Endorfinada no local e fiz a retirada sem enfrentar muita fila. Kit retirado, e personalização com minha estimativa de tempo feita, restou curtir a feira, em seguida fazer um treino curto (6k) da planilha para a maratona e aguardar a corrida que viria de manhã.
 
 <a href="/images/2013/07/g4_4.jpg">
-![G4 2013]({{ site.url }}/images/2013/07/g4_4.jpg)
+![Golden Four Asics]({{ site.url }}/images/2013/07/g4_4.jpg)
 </a>
 {: .pull-left}
 
@@ -31,7 +31,7 @@ Domingo as 5h o relógio desperta, muito frio e neblina em São Paulo com temper
 Por volta das 6h30min chegamos no Shopping Eldorado, cujo estacionamento que estaria aberto para quem quisesse deixar o carro ao custo normal do valor pago para o shopping. Como ficava relativamente próximo (cerca de 2km da largada/chegada) foi uma boa opção.
 
 <a href="/images/2013/07/g4_3.jpg">
-![G4 2013]({{ site.url }}/images/2013/07/g4_3.jpg)
+![Golden Four Asics]({{ site.url }}/images/2013/07/g4_3.jpg)
 </a>
 {: .pull-left}
 
@@ -42,7 +42,7 @@ Me posicionei na minha área (com pace com previsão de 2h de prova). Só restou
 Deixei para trás os marcadores de ritmo e fui na casa dos 5min/km durante todo o percurso, o ritmo forte pesou na casa do km 14 de prova, foi administrar a velocidade até o fim. Percurso que contou com Garotade, Água, atendimento Médico e Banheiro Químico em todo o percurso a cada 3km, padrão das provas da Asics. O percurso deste ano foi o que a foto abaixo ilustra.
 
 <a href="/images/2013/07/g4_10.jpg">
-![G4 2013]({{ site.url }}/images/2013/07/g4_10.jpg)
+![Golden Four Asics]({{ site.url }}/images/2013/07/g4_10.jpg)
 </a>
 {: .pull-left}
 
@@ -57,7 +57,7 @@ Agora é continuar os treinos, diminuir a quantidade de musculação até o dia 
 ## Resultado:
 
 <a href="/images/2013/07/g4medalha_big.jpg">
-![G4 2013]({{ site.url }}/images/2013/07/g4medalha.jpg)
+![Golden Four Asics]({{ site.url }}/images/2013/07/g4medalha.jpg)
 </a>
 {: .pull-left}
 

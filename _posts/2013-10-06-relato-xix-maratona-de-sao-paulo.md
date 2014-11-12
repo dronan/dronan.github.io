@@ -20,7 +20,7 @@ Chegou domingo. Depois de três meses de muito treino e desgaste, finalmente che
 Foi também a prova de estreia do Garmin 310xt, depois de ter vendido o MotoACTV.
 
 <a href="/images/2013/10/1377397_10151917507739344_5738634_n.jpg">
-![Maratona de SP 2013]({{ site.url }}/images/2013/10/1377397_10151917507739344_5738634_n.jpg)
+![Maratona de SP]({{ site.url }}/images/2013/10/1377397_10151917507739344_5738634_n.jpg)
 </a>
 {: .pull-left}
 
@@ -35,7 +35,7 @@ Procurando ficar sempre atrás dos "blocos" que buscavam os 42k, mantive um pace
 O primeiro sache de carboidrato consumi no km 9, pouco antes da ponte estaiada na marginal pinheiros, sempre pegando e ingerindo água em todos pontos de hidratação.
 
 <a href="/images/2013/10/1383919_10151916739019344_1454519770_n.jpg">
-![Maratona de SP 2013]({{ site.url }}/images/2013/10/1383919_10151916739019344_1454519770_n.jpg)
+![Maratona de SP]({{ site.url }}/images/2013/10/1383919_10151916739019344_1454519770_n.jpg)
 </a>
 {: .pull-left}
 
@@ -46,7 +46,7 @@ No km 16 estava o ponto de Gatorade da prova. Desta vez em saquinho, mil vezes m
 No km 18 avistei o Beto me aguardando embaixo da placa de marcação do km 22, local que ele iria me encontrar e partir para fazer uma "meia maratona", me dando um suporte na parte final da Maratona. Neste quilometro também avistei outro amigo, o Wesley, na busca dos 42k.
 
 <a href="/images/2013/10/1375901_10151917505014344_1506735022_n.jpg">
-![Maratona de SP 2013]({{ site.url }}/images/2013/10/1375901_10151917505014344_1506735022_n.jpg)
+![Maratona de SP]({{ site.url }}/images/2013/10/1375901_10151917505014344_1506735022_n.jpg)
 </a>
 {: .pull-left}
 
@@ -59,7 +59,7 @@ Na USP foi a região onde encontrei o Roberto Itimura, um guerreiro também na s
 Entre os kms 26 e 36, pouco depois da saída da cidade universitária, fomos na base do trote e caminhada. Não estavamos diferentes de ninguém ao nosso redor, todos dando aquele apoio uns aos outros para não desanimar mas o cansaço era demais para todos, tanto que o que se via era somente gente caminhando e expressões de dor.
 
 <a href="/images/2013/10/1392025_10151917096294344_2080155431_n.jpg">
-![Maratona de SP 2013]({{ site.url }}/images/2013/10/1392025_10151917096294344_2080155431_n.jpg)
+![Maratona de SP]({{ site.url }}/images/2013/10/1392025_10151917096294344_2080155431_n.jpg)
 </a>
 {: .pull-left}
 
@@ -79,7 +79,7 @@ E o Garmin, 100% adaptado e fácil operar.
 ## Resultado:
 
 <a href="/images/2013/10/1383858_10151917356799344_426841208_n.jpg">
-![Maratona de SP 2013]({{ site.url }}/images/2013/10/medalha_maratona_peq.jpg)
+![Maratona de SP]({{ site.url }}/images/2013/10/medalha_maratona_peq.jpg)
 </a>
 {: .pull-left}
 

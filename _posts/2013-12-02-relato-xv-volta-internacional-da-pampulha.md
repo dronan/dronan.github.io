@@ -24,7 +24,7 @@ Domingo, dia da prova, amanheceu com tempo nublado, mas com um calor bem forte q
 Acabei acordando as 6h da manha, tomei o café e parti para a área de largada por volta das 6h30. Pensando que a largada seria em frente ao Mineirão, fui para a largada pensando que andaria somente 2km; só descobri que não era bem assim quando cheguei no suposto local e vi a marcação de "km 16", ou seja, teria que andar mais quase 2km até a largada. Confesso que não me informei a respeito e fui na base do achismo, talvez se tivesse me informado a respeito antes disso, teria ido de carro até o local.
 
 <a href="/images/2013/12/xvpampulha_largada.jpg">
-![Corrida Pampulha 2013]({{ site.url }}/images/2013/12/xvpampulha_largada.jpg)
+![Corrida Pampulha]({{ site.url }}/images/2013/12/xvpampulha_largada.jpg)
 </a>
 {: .pull-left}
 
@@ -45,7 +45,7 @@ Próximo domingo tem mais, em casa agora. Penúltimo desafio do ano antes das "f
 ## Resultado:
 
 <a href="/images/2013/12/xvpampulha_big.jpg">
-![Corrida Pampulha 2013]({{ site.url }}/images/2013/12/xvpampulha.jpg)
+![Corrida Pampulha]({{ site.url }}/images/2013/12/xvpampulha.jpg)
 </a>
 {: .pull-left}
 

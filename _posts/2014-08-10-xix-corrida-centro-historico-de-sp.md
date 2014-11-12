@@ -35,7 +35,6 @@ Uma prova gostosa, pesada mais divertida, um belo treino de 9km para subidas.
 </a>
 {: .pull-left}
 
-
 * **Número de Peito:**  2016
 * **Tempo Final:** 00:51:19
 * **Categoria:** M2529

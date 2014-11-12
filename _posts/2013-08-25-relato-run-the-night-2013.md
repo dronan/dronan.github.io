@@ -39,7 +39,7 @@ Semana que vem tem mais 30km (pretendo 35km) de rodagem para a maratona, outubro
 ## Resultado:
 
 <a href="/images/2013/08/runthenightmedalha_big.jpg">
-![Run the night 2013]({{ site.url }}/images/2013/08/runthenightmedalha.jpg)
+![Run the night]({{ site.url }}/images/2013/08/runthenightmedalha.jpg)
 </a>
 {: .pull-left}
 

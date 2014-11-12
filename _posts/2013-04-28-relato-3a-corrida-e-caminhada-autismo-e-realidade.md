@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: 3ª corrida e caminhada autismo e realidade
+title: Relato - 3ª corrida e caminhada autismo e realidade
 date: 2013-04-28 12:53
 author: diego
 comments: true
-categories: [8k, autismo, Corrida, Corrida de Rua, estaiada]
+tags: [8k, autismo, Corrida, Corrida de Rua, estaiada]
 ---
 Neste domingo ocorreu a 3ª corrida e caminhada autismo e realidade, com trajetos de 4k para os caminhantes e 8k para os corredores. Foi uma corrida gratuita (com opção para doação), promovida desta vez pela Yescom.
 
@@ -26,18 +26,20 @@ O único ponto digamos baixo foi a medalha que poderia ter sido melhor trabalhad
 
 Meu chip acabou amassando na sacola, resultado: sem tempo oficial, como ja aconteceu na Maratona de SP em 2011.
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/04/autismo_big.jpg"><img alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/04/autismo.jpg" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 3063</li>
-	<li><strong>Tempo Final:</strong> 00:41:49</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 8k</li>
-	<li><strong>Tempo Bruto:</strong> 00:42:00</li>
-	<li><strong>Classificação Total:</strong> N/D</li>
-	<li><strong>Classificação por Faixa Etária:</strong> N/D</li>
-	<li><strong>Pace Médio:</strong> 05:06 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 11,08 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://connect.garmin.com/activity/304462570" target="_blank">Garmin</a></li>
-</ul>
+## Resultado:
+
+<a href="/images/2013/04/autismo_big.jpg">
+![Autismo]({{ site.url }}/images/2013/04/autismo.jpg)
+</a>
+{: .pull-left}
+
+* **Número de Peito:**  3063
+* **Tempo Final:**  00:41:49
+* **Categoria:**  M2529
+* **Modalidade:**  8k
+* **Tempo Bruto:**  00:42:00
+* **Classificação Total:**  N/D
+* **Classificação por Faixa Etária:**  N/D
+* **Pace Médio:**  05:06 min/km
+* **Velocidade Média Total: **  11,08 km/h
+* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/304462570" target="_blank">Garmin</a>

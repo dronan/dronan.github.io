@@ -27,7 +27,7 @@ Até lá!
 ## Resultado:
 
 <a href="/images/2014/03/meiaYescom_2014_big.jpg">
-![Meia Maratona - 2014]({{ site.url }}/images/2014/03/meiaYescom_2014.jpg)
+![Meia Maratona]({{ site.url }}/images/2014/03/meiaYescom_2014.jpg)
 </a>
 {: .pull-left}
 

@@ -30,7 +30,7 @@ Finalizei a corrida em 52 minutos, o mesmo tempo do ano passado, entre os meus m
 ## Resultado:
 
 <a href="/images/2013/11/record_2013_big.jpg">
-![Record na Rua 2013]({{ site.url }}/images/2013/11/record_2013.jpg)
+![Record na Rua]({{ site.url }}/images/2013/11/record_2013.jpg)
 </a>
 {: .pull-left}
 

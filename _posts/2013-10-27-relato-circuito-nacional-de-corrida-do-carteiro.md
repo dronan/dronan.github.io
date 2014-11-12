@@ -30,7 +30,7 @@ Próxima corrida é a SP Classic - Zumbi dos Palmares, no difícil percurso do I
 ## Resultado:
 
 <a href="/images/2013/10/correios_big.jpg">
-![Corrida do Carteiro 2013]({{ site.url }}/images/2013/10/correios.jpg)
+![Corrida do Carteiro]({{ site.url }}/images/2013/10/correios.jpg)
 </a>
 {: .pull-left}
 

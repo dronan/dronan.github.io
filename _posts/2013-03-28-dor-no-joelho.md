@@ -4,11 +4,14 @@ title: Dor no Joelho
 date: 2013-03-28 10:45
 author: diego
 comments: true
-categories: [afastamento, Corrida, Corrida de Rua, joelho, lesão, maratona, meia]
+tags: [afastamento, Corrida, Corrida de Rua, joelho, lesão, maratona, meia]
 ---
 Venho sentindo o resultado daquele incomodo no joelho durante a meia maratona até agora. É uma dor meio chata do lado direito da patela da perna esquerda.
 
-<a href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/03/dor-no-joelho1.jpg"><img class="size-full wp-image-1130 aligncenter" alt="dor no joelho" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/03/dor-no-joelho1.jpg" width="400" height="320" /></a>
+<a href="/images/2013/03/dor-no-joelho1.jpg">
+![Joelho]({{ site.url }}/images/2013/03/dor-no-joelho1.jpg)
+</a>
+{: .pull-left}
 
 Passei semana passada no ortopedista que me recomendou fisioterapia + anti inflamatório. Pelo menos não aparenta ser nada digamos, grave que requer longo afastamento.
 

@@ -32,7 +32,7 @@ Semana que vem tem meia! Ja nos preparativos, até lá!
 ## Resultado:
 
 <a href="/images/2014/05/tribuna_10k_big.JPG">
-![Tribuna Santos - 2014]({{ site.url }}/images/2014/05/tribuna_10k.jpg)
+![Tribuna Santos]({{ site.url }}/images/2014/05/tribuna_10k.jpg)
 </a>
 {: .pull-left}
 

@@ -29,7 +29,7 @@ Evento no geral bom, pelo valor da inscrição poderia ter uma camiseta de melho
 ## Resultado:
 
 <a href="/images/2014/05/starwars6k_big.JPG">
-![Star Wars - 2014]({{ site.url }}/images/2014/05/starwars6k.JPG)
+![Star Wars]({{ site.url }}/images/2014/05/starwars6k.JPG)
 </a>
 {: .pull-left}
 

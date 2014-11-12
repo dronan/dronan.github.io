@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: XIV Meia Maratona Internacional Netshoes / Corpore de São Paulo
+title: Relato - XIV Meia Maratona Internacional Netshoes / Corpore de São Paulo
 date: 2013-04-14 14:46
 author: diego
 comments: true
-categories: [21k, Corrida de Rua, garoa, meia, meia maratona, recuperacao, são paulo]
+tags: [21k, Corrida de Rua, garoa, meia, meia maratona, recuperacao, são paulo]
 ---
 Neste domingo foi realizada na região da USP a XIV Meia Maratona Internacional Netshoes / Corpore de São Paulo, com opções de percurso divididos em 5k ou os 21k.
 
@@ -30,19 +30,21 @@ Resultado ótimo, dentro das expectativas. Tempo de relógio finalizado em 2h08m
 
 42195 metros, logo mas estou aí ;)
 
-<strong>
-Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/04/meiacorpore_big.jpg"><img alt="" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2013/04/meiacorpore.jpg" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 4119</li>
-	<li><strong>Tempo Final (relógio):</strong> 02:08:32 || 6:04min/km</li>
-	<li><strong>Tempo Final (oficial):</strong> 02:13:57</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 21k</li>
-	<li><strong>Tempo Bruto:</strong> 02:28:20</li>
-	<li><strong>Classificação Total:</strong> 2957</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 143</li>
-	<li><strong>Pace Médio:</strong> 06:20 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 9,46 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="http://bit.ly/14nx36c" target="_blank">Motoactv</a></li>
-</ul>
+## Resultado:
+
+<a href="/images/2013/04/cmeiacorpore_big.jpg">
+![Meia Corpore]({{ site.url }}/images/2013/04/cmeiacorpore.jpg)
+</a>
+{: .pull-left}
+
+* **Número de Peito:**  4119
+* **Tempo Final (relógio):**  02:08:32 || 6:04min/km
+* **Tempo Final (oficial):**  02:13:57
+* **Categoria:**  M2529
+* **Modalidade:**  21k
+* **Tempo Bruto:**  02:28:20
+* **Classificação Total:**  2957
+* **Classificação por Faixa Etária:**  143
+* **Pace Médio:**  06:20 min/km
+* **Velocidade Média Total: **  9,46 km/h
+* **Informações Gerais: ** <a href="http://bit.ly/14nx36c" target="_blank">Motoactv</a>

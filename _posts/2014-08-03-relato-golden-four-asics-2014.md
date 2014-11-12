@@ -5,7 +5,7 @@ description: "Corrida Corpore Centro Histórico, realizada pelo 19º ano, nas ru
 author: diego
 comments: true
 modified: 2014-08-03 13:59
-categories: [21k, asics, Corrida de Rua, g4, golden4asics, meia, meiasp]
+tags: [21k, asics, Corrida de Rua, g4, golden4asics, meia, meiasp]
 ---
 
 Neste domingo foi dia de Golden Four, com a presença de seis mil participantes correndo a distancia única de 21k na região do Jockey Club de São Paulo.
@@ -28,15 +28,12 @@ Estrutura da prova sensacional, desde a retirada do kit, até a entrega do pós 
 
 Se todas por aqui fosse assim, valeria pagar o que cobram por cada prova. Aliás, praticamente o mesmo valor com 90% de qualidade inferior a Asics.
 
-
-
 ## Resultado:
 
 <a href="/images/2014/07/asics_big.JPG">
-![Golden Four 2014]({{ site.url }}/images/2014/07/asics.JPG)
+![Golden Four]({{ site.url }}/images/2014/07/asics.JPG)
 </a>
 {: .pull-left}
-
 
 * **Número de Peito:** 5567
 * **Tempo Final:** 02:02:39
