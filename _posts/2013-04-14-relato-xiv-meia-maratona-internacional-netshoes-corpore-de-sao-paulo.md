@@ -38,7 +38,7 @@ Resultado ótimo, dentro das expectativas. Tempo de relógio finalizado em 2h08m
 {: .pull-left}
 
 * **Número de Peito:**  4119
-* **Tempo Final (relógio):**  02:08:32 || 6:04min/km
+* **Tempo Final (relógio):**  02:08:32 - 6:04min/km
 * **Tempo Final (oficial):**  02:13:57
 * **Categoria:**  M2529
 * **Modalidade:**  21k

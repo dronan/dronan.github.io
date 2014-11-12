@@ -26,6 +26,6 @@ Este período é de extrema importância, pois é o momento de recuperação, en
 
 Dessa forma, boas opções são: sanduíche de pão com queijo branco e peito de peru, iogurte com cereais e frutas, ou macarrão com carne ou frango grelhado, nas quantidades adequadas para cada indivíduo.
 
->Heloisa Guarita é diretora-técnica e nutricionista da RGNutri Consultoria Nutricional. Graduada pelo Centro Universitário São Camilo, é especialista em Fisiologia do Exercício pela Universidade Federal de São Paulo. rgnutri.com.br
+##### Heloisa Guarita é diretora-técnica e nutricionista da RGNutri Consultoria Nutricional. Graduada pelo Centro Universitário São Camilo, é especialista em Fisiologia do Exercício pela Universidade Federal de São Paulo. rgnutri.com.br
 
-** Fonte: ** <a href="http://www.thefinisher.com.br/news/materia/-alimentacao-para-os-42-km#.UR0dIqWc98w" target="_blank">The Finisher</a>
+**Fonte:** <a href="http://www.thefinisher.com.br/news/materia/-alimentacao-para-os-42-km#.UR0dIqWc98w" target="_blank">The Finisher</a>
