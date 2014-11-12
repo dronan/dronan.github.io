@@ -12,7 +12,24 @@
     {% for post in site.related_posts limit:2 offset:1 %}
       <div class="list-item">
         <h4><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h4>
-        <span>Publicado em {{ post.date | date: "%B %d, %Y" }}</span>
+        <span>Publicado em <!-- Whitespace added for readability -->
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%-d" }}
+        {% case m %}
+          {% when '1' %}de Janeiro
+          {% when '2' %}de Fevereiro
+          {% when '3' %}de Março
+          {% when '4' %}de Abril
+          {% when '5' %}de Maio
+          {% when '6' %}de Junho
+          {% when '7' %}de Julho
+          {% when '8' %}de Agosto
+          {% when '9' %}de Setembro
+          {% when '10' %}de Outubro
+          {% when '11' %}de Novembro
+          {% when '12' %}de Dezembero
+        {% endcase %}
+        {{ post.date | date: " de %Y" }}</span>
       </div><!-- /.list-item -->
     {% endfor %}
   </div><!-- /.read-more-list -->

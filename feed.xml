@@ -30,7 +30,24 @@ layout: null
     <email>{{ site.owner.email }}</email>
   </author>
   <content type="html">{{ post.content | xml_escape }}
-  &lt;p&gt;&lt;a href=&quot;{{ site.url }}{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt; was originally published by {{ site.owner.name }} at &lt;a href=&quot;{{ site.url }}&quot;&gt;{{ site.title }}&lt;/a&gt; on {{ post.date | date: "%B %d, %Y" }}.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;{{ site.url }}{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt; was originally published by {{ site.owner.name }} at &lt;a href=&quot;{{ site.url }}&quot;&gt;{{ site.title }}&lt;/a&gt; em 
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%-d" }}
+        {% case m %}
+          {% when '1' %}de Janeiro
+          {% when '2' %}de Fevereiro
+          {% when '3' %}de Março
+          {% when '4' %}de Abril
+          {% when '5' %}de Maio
+          {% when '6' %}de Junho
+          {% when '7' %}de Julho
+          {% when '8' %}de Agosto
+          {% when '9' %}de Setembro
+          {% when '10' %}de Outubro
+          {% when '11' %}de Novembro
+          {% when '12' %}de Dezembero
+        {% endcase %}
+        {{ post.date | date: " de %Y" }}.&lt;/p&gt;</content>
 </entry>
 {% endfor %}
 </feed>
