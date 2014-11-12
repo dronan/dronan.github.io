@@ -32,8 +32,8 @@ Resultado ótimo, dentro das expectativas. Tempo de relógio finalizado em 2h08m
 
 ## Resultado:
 
-<a href="/images/2013/04/cmeiacorpore_big.jpg">
-![Meia Corpore]({{ site.url }}/images/2013/04/cmeiacorpore.jpg)
+<a href="/images/2013/04/meiacorpore_big.jpg">
+![Meia Corpore]({{ site.url }}/images/2013/04/meiacorpore.jpg)
 </a>
 {: .pull-left}
 
