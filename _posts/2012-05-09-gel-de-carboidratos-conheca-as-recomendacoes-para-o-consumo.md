@@ -4,7 +4,7 @@ title: Gel de carboidratos: conheça as recomendações para o consumo
 date: 2012-05-09 23:05
 author: diego
 comments: true
-categories: [carboidrato, Corrida de Rua, gel, nutricao]
+tags: [carboidrato, Corrida de Rua, gel, nutricao]
 ---
 Você acorda bem cedo, coloca a roupa apropriada, toma café da manhã e vai para a rua fazer o que mais gosta: correr, nadar ou pedalar. Seja em longões ou em provas, sabe que é importante se hidratar corretamente e ingerir carboidratos, substâncias fundamentais para o funcionamento do corpo, principalmente quando se fala em desempenho. É por conta dessa necessidade que existem os géis energéticos, disponíveis em sachê ou pó, recomendados pela praticidade e eficiência durante o esporte que, além de tudo, proporcionam recuperação adequada dos músculos.
 

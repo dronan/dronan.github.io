@@ -63,5 +63,5 @@ Junho ainda não tenho uma prova definida, talvez seja somente um mês de muito 
 * **Classificação Total:**  442
 * **Classificação por Faixa Etária:**  72/180
 * **Pace Médio:**  05:13 min/km
-* **Velocidade Média Total: **  11,47 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/318006390" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  11,47 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/318006390" target="_blank">Garmin</a>

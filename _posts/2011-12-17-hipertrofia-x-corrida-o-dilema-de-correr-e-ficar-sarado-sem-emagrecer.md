@@ -4,7 +4,7 @@ title: Hipertrofia x Corrida: o dilema de correr e ficar sarado sem emagrecer
 date: 2011-12-17 18:58
 author: diego
 comments: true
-categories: [Corrida, Corrida de Rua, dicas, emagrecimento, hipertrofia]
+tags: [Corrida, Corrida de Rua, dicas, emagrecimento, hipertrofia]
 ---
 Momento importante da vida do jovem brasileiro: a chegada do verão se aproxima. Com ele, corpos à mostra, bronzeados em dia, corridas cada vez mais animadas e cheias de gente bonita. Por conta desses fatores, muitos corredores não querem ficar magrinhos e apelam para a academia para manter os músculos. Como sempre, uns exageram. Outros encontram o equilíbrio através do esporte.
 

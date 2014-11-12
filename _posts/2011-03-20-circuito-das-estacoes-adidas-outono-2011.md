@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: Circuito das Estações Adidas Outono 2011
+title: Relato - Circuito das Estações Adidas Outono 2011
 date: 2011-03-20 18:58
 author: diego
 comments: true
-categories: [2011, adidas, circuito das estações, Corrida de Rua, corrida de rua, Pacaembu]
+tags: [2011, adidas, circuito das estações, Corrida de Rua, corrida de rua, Pacaembu]
 ---
 Neste domingo foi dado inicio a primeira prova do Circuito das Estações em São Paulo, etapa Outono, para cerca de 6 mil corredores, em um dia típico para a época do ano que da nome a estação da prova; uma manha não tão fria, mas em uma temperatura agradável para a prática da corrida.
 
@@ -20,18 +20,20 @@ Agora é se esforçar para baixar mais este tempo e fazer as outras 3 etapas par
 
 A próxima agora é a meia maratona da corpore, ou 5k ou 21k, não tem um meio termo, então volto pra de 5. Não conheço o percurso, será uma novidade agradável para mim.
 
-<strong>Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/03/DSC_0077_big.JPG"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/03/DSC_0077.JPG" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 2122</li>
-	<li><strong>Tempo Final:</strong> 01:03:27.21</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10K</li>
-	<li><strong>Tempo Controle:</strong> 00:34:42.69</li>
-	<li><strong>Tempo Bruto:</strong> 01:05:05.40</li>
-	<li><strong>Classificação Total:</strong> 3180</li>
-	<li><strong>Classificação por Categoria:</strong> 417</li>
-	<li><strong>Classificação por Sexo:</strong> 2723</li>
-	<li><strong>Pace Médio:</strong> 	6:20 min/km</li>
-	<li><strong> Velocidade Média Total:</strong> 9,45 km/h</li>
-</ul>
+
+* **Número de Peito:** 2122
+* **Tempo Final:** 01:03:27.21
+* **Categoria:** M2529
+* **Modalidade:** 10K
+* **Tempo Controle:** 00:34:42.69
+* **Tempo Bruto:** 01:05:05.40
+* **Classificação Total:** 3180
+* **Classificação por Categoria:** 417
+* **Classificação por Sexo:** 2723
+* **Pace Médio:** 	6:20 min/km
+* ** Velocidade Média Total:** 9,45 km/h
+

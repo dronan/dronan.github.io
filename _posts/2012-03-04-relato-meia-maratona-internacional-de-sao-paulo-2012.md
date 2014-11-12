@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Relato: Meia Maratona Internacional de São Paulo 2012
+title: Relato - Meia Maratona Internacional de São Paulo 2012
 date: 2012-03-04 16:50
 author: diego
 comments: true
-categories: [21k, Corrida, Corrida de Rua, estreia, meia, meia maratona]
+tags: [21k, Corrida, Corrida de Rua, estreia, meia, meia maratona]
 ---
-Depois de um mês sem participar de provas, somente fazendo treinos, além de um período necessário de 15 dias de descanso - para quem estava na ativa de treino muscular há praticamente 3 anos ininterruptos, chegou o dia da Meia Maratona de São Paulo.<div class="moldura"><a  class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/03/Percurso2012_gd.jpg"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/03/Percurso2012_gd.jpg" alt="" /></a></div>
+Depois de um mês sem participar de provas, somente fazendo treinos, além de um período necessário de 15 dias de descanso - para quem estava na ativa de treino muscular há praticamente 3 anos ininterruptos, chegou o dia da Meia Maratona de São Paulo.
+
+<div class="moldura"><a  class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/03/Percurso2012_gd.jpg"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/03/Percurso2012_gd.jpg" alt="" /></a></div>
 
 A semana prometeu: muito sol, temperatura em São Paulo passando de 33 graus, tempo abafado, mormaço, recorde de noite mais quente do ano, para ajudar passei mal um dia inteiro há três dias da prova, tinha tudo para que minha estreia nos 21K fosse de maneira sofrida e muito desgastante! Tinha... sexta chegou uma frente fria em São Paulo que mudou esse cenário, derrubou um pouco a temperatura ja no sábado, salvando o dia da prova, graças a Deus! Apesar de ter feito sol, o calor não judiou como vinha acontecendo. As 7:30 da manhã (horário da largada) estava nublado, com temperatura entre 19 e 21 graus. Considerando que na quinta, nesse horário, já estava 28 e subindo....
 
@@ -24,17 +26,19 @@ Comparando a medalha com a do ano passado, essa ficou muito a desejar, mas isso 
 
 No geral foi uma excelente prova, não tive nenhum problema em relação a dores ou qualquer outro fator que poderia atrapalhar ou até mesmo interromper minha participação, enfim, fiz um tempo alto por me poupar bastante mas para a primeira o que vale é terminar. Que venham as outras meias. Próxima em abril, na USP, da Corpore. Percurso plano que tem tudo para fazer um tempo melhor, só não se super-estimar para não sair frustrado ou quebrar no caminho.
 
-<strong>Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a  class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/03/meiaSPYescom2012_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/03/meiaSPYescom2012.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 7684</li>
-	<li><strong>Tempo Final:</strong> 02:24:04</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 21K</li>
-	<li><strong>Tempo Bruto:</strong> 02:29:47</li>
-	<li><strong>Classificação Total:</strong> 4342</li>
-	<li><strong>Classificação por Categoria:</strong> 343</li>
-	<li><strong>Classificação por Sexo:</strong> 4342</li>
-	<li><strong>Pace Médio:</strong> 6:52 min/km</li>
-	<li><strong>Velocidade Média Total:</strong> 8,75 km/h</li>
-</ul>
+
+* **Número de Peito:** 7684
+* **Tempo Final:** 02:24:04
+* **Categoria:** M2529
+* **Modalidade:** 21K
+* **Tempo Bruto:** 02:29:47
+* **Classificação Total:** 4342
+* **Classificação por Categoria:** 343
+* **Classificação por Sexo:** 4342
+* **Pace Médio:** 6:52 min/km
+* **Velocidade Média Total:** 8,75 km/h
+

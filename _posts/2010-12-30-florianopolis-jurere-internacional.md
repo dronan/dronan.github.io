@@ -4,7 +4,7 @@ title: Florianópolis – 4º dia; Jurere Internacional
 date: 2010-12-30 22:42
 author: diego
 comments: true
-categories: [Carros, Casas, Corrida, Internacional, Jurere, mansões, mulheres, texano, treino, Viagens]
+tags: [Carros, Casas, Corrida, Internacional, Jurere, mansões, mulheres, texano, treino, Viagens]
 ---
 Hoje, dia que antecede o réveillon, dia de visitar Jurerê Internacional, um dos pontos mais “tops” de Floripa. O acesso é para o norte da ilha, então, seguir o mesmo esquema de ir para os ingleses: Continente –&gt; TICEN –&gt; TICAN –&gt; Jurerê.
 

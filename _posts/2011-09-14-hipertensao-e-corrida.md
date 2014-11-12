@@ -4,7 +4,7 @@ title: Hipertensão e Corrida
 date: 2011-09-14 10:17
 author: diego
 comments: true
-categories: [Corrida, Corrida de Rua, hipertensao, saude]
+tags: [Corrida, Corrida de Rua, hipertensao, saude]
 ---
 No Brasil hoje, a população de hipertensos é de 17 milhões de pessoas.
 É sabido que a atividade física é benéfica para o tratamento de várias doenças, com a hipertensão não é diferente.

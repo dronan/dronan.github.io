@@ -4,7 +4,7 @@ title: Alongamento muscular: a polêmica continua
 date: 2011-10-18 11:04
 author: diego
 comments: true
-categories: [alongamento, Corrida, Corrida de Rua, dicas]
+tags: [alongamento, Corrida, Corrida de Rua, dicas]
 ---
 Revista Contra-Relogio - Edição 215 - AGOSTO 2011 - EVELISE ZAIDAN
 <div id="iniciomateria">
@@ -36,7 +36,7 @@ O alongamento antes do exercício é recomendado caso a atividade exija grande f
 
 <strong>MELHOR FLEXIBILIDADE = MENOS LESÕES E MAIOR RENDIMENTO?</strong><strong> </strong>Na prática esportiva há uma associação entre a incidência de lesões esportivas e a falta de flexibilidade muscular. Essa associação direta é muito complicada, pois as lesões ocorrem por diversos fatores. Entretanto, não se pode afirmar que o alongamento não seja importante para prevenção de lesões. O recomendado é que o atleta faça aquecimento antes de iniciar o alongamento, principalmente nos dias mais frios, para ativar a circulação sanguínea.
 
-&nbsp;
+
 
 Alguns estudiosos defendem que padrões de mobilidade reduzidos podem até favorecer as necessidades de certas atividades. Em outras palavras, a flexibilidade pode não ser o fator principal para o desempenho de modalidades esportivas que não dependam de grande amplitude de movimento, como é o caso da corrida.
 
@@ -60,4 +60,4 @@ Direcionar o preparo para as necessidade individuais do atleta pode ser o melhor
 
 Fonte: <a href="http://www.contrarelogio.com.br/materia/alongamento-muscular-a-polemica-continua/" target="_blank">Revista Contra-Relogio</a>
 
-&nbsp;
+

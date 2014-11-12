@@ -4,7 +4,7 @@ title: Florianópolis – 2º dia; Praia Mole, Mirante da Lagoa e Centro
 date: 2010-12-28 21:25
 author: diego
 comments: true
-categories: [barra da lagoa, centro, ferias, florianopolis, floripa, joaquina, mirante, praia mole, viagem, Viagens]
+tags: [barra da lagoa, centro, ferias, florianopolis, floripa, joaquina, mirante, praia mole, viagem, Viagens]
 ---
 Terça feira, segundo dia de Floripa. Saio do hotel depois de traçar um roteiro para o dia: Praia Mole, Mirante e Centro. A única "novidade" para mim seria o mirante, a praia mole ja conhecia e o centro também, ainda não tinha visto a noite mas não pensava que iria fugir muito daquele "padrão".
 

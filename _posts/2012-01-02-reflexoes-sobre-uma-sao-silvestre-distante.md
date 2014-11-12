@@ -4,7 +4,7 @@ title: Reflexões sobre uma São Silvestre distante
 date: 2012-01-02 16:45
 author: diego
 comments: true
-categories: [15k, Corrida de Rua, opiniao, sao silvestre]
+tags: [15k, Corrida de Rua, opiniao, sao silvestre]
 ---
 Vi de longe a São Silvestre, acompanhando pela televisão o show que a chuva deu, aparecendo e desaparecendo, caindo a cântaros ou simplesmente gotejando, criando poças gigantescas ou escorrendo rapidamente pelos esgotos.
 

@@ -4,7 +4,7 @@ title: Postura - O jeito certo de correr
 date: 2011-05-10 10:15
 author: diego
 comments: true
-categories: [Corrida de Rua, corrida de rua, dicas, postura]
+tags: [Corrida de Rua, corrida de rua, dicas, postura]
 ---
 Esta ilustração mostra com o que devemos nos preocupar durante uma corrida para principalmente previnir lesões.
 

@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Relato: Maratona Internacional de São Paulo 2011
+title: Relato - Maratona Internacional de São Paulo 2011
 date: 2011-06-19 14:32
 author: diego
 comments: true
-categories: [2011, Corrida, Corrida de Rua, Internacional, maratona, relato de prova, são paulo, SP]
+tags: [2011, Corrida, Corrida de Rua, Internacional, maratona, relato de prova, são paulo, SP]
 ---
 Neste domingo, dia 19 de junho, cerca de 22 mil corredores participaram da Maratona de São Paulo 2011, com os percursos de 42k, 25k, 10k e uma caminhada de 3k, todos com partida da Ponte Octávio Frias de Oliveira, a “ponte estaiada” da Zona Sul de São Paulo, com a concentração de atletas na Av. Roberto Marinho.
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/06/maratona-sp-2011.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/06/maratona-sp-2011.jpg" alt=""  class="imgTitulo" /></a></div>
 Retirei o kit no Ginásio Poliesportivo Mauro Pinheiro, próximo ao parque do Ibirapuera, no sábado, dia anterior a corrida, durante a tarde. Gastei cerca de 30 minutos para fazer a retirada; um bom tempo, levando em consideração a fila que estava e a quantidade de pessoas que deixaram para retirar o kit de ultima hora, como fiz.
 
@@ -40,17 +42,19 @@ Próxima corrida é daqui 2 semanas, o circuito da estações Adidas, 10k no Pac
 
 Coloquei de forma incorreta o chip e fiquei sem resultado oficial, fazendo cálculos pelo horário de largada / chegada, com o tempo de relógio, estimo o resultado:
 
-<strong>Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/06/maratonasp2011_big.JPG"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/06/maratonasp2011.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 27048</li>
-	<li><strong>Tempo Final:</strong> 00:58:25</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10K</li>
-	<li><strong>Tempo Bruto:</strong> 01:05:26</li>
-	<li><strong>Classificação Total:</strong> N/D</li>
-	<li><strong>Classificação por Categoria:</strong> N/D</li>
-	<li><strong>Classificação por Sexo:</strong> N/D</li>
-	<li><strong>Pace Médio:</strong> 05:51 min/km</li>
-	<li><strong> Velocidade Média Total:</strong> 10:27 km/h</li>
-</ul><br><br><br><br><br>
+
+* **Número de Peito:** 27048
+* **Tempo Final:** 00:58:25
+* **Categoria:** M2529
+* **Modalidade:** 10K
+* **Tempo Bruto:** 01:05:26
+* **Classificação Total:** N/D
+* **Classificação por Categoria:** N/D
+* **Classificação por Sexo:** N/D
+* **Pace Médio:** 05:51 min/km
+* ** Velocidade Média Total:** 10:27 km/h
+<br><br><br><br><br>

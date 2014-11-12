@@ -4,7 +4,7 @@ title: Poluição X Corrida
 date: 2011-09-14 10:15
 author: diego
 comments: true
-categories: [Corrida, Corrida de Rua, poluição, saude]
+tags: [Corrida, Corrida de Rua, poluição, saude]
 ---
 Nós sabemos que muitas pessoas entram na atividade física por indicação médica e um grande percentual desses pacientes são pessoas que sofrem de problemas respiratórios como, bronquite asma, sinusite e alergias.
 

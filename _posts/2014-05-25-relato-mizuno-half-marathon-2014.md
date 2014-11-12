@@ -58,5 +58,5 @@ Só fica a reclamação mesmo pelo percurso ser muito repetitivo. Gostei da part
 * **Classificação Total:**  1999
 * **Classificação por Faixa Etária:**  1669
 * **Pace Médio:**  05:37 min/km
-* **Velocidade Média Total: **  10,70 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/507106420" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  10,70 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/507106420" target="_blank">Garmin</a>

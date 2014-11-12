@@ -4,7 +4,7 @@ title: Florianópolis – 5º dia; Reveillon
 date: 2010-12-31 12:44
 author: diego
 comments: true
-categories: [2010, 2011, beiramar, conceicao, florianopolis, floripa, fogos, lagoa, pirotecnia, pirotecnico, reveillon, shopping, show, Viagens, virada]
+tags: [2010, 2011, beiramar, conceicao, florianopolis, floripa, fogos, lagoa, pirotecnia, pirotecnico, reveillon, shopping, show, Viagens, virada]
 ---
 O último dia do ano chegou, junto com ele chegou meus amigos Alcir e Pedro que estavam vindo de São Paulo e chegariam na rodoviária por volta das 9 horas da manha. Tomei café e me preparei para receber a ligação para encontrá-los na rodoviária. 10 da manha e nada, resolvi ir pra la... 10h30min nada. Por SMS consegui retorno e fiquei sabendo que eles chegariam depois de 1h ainda. Como tinha muito tempo fui caminhar pelo centro até que chegaram.
 

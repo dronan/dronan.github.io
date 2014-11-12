@@ -4,7 +4,7 @@ title: Dica de Treino: Tiros intervalados de Curta, Media e Longa Distancia
 date: 2011-07-07 09:26
 author: diego
 comments: true
-categories: [Corrida de Rua, dicas, treino]
+tags: [Corrida de Rua, dicas, treino]
 ---
 O GloboEsporte fez uma materia com um professor ensinando como deve se treinar tiros de acordo com a distancia da prova:
 

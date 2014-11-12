@@ -4,7 +4,7 @@ title: Dica de 10 lanches para consumir antes dos treinos
 date: 2011-10-23 13:45
 author: diego
 comments: true
-categories: [alimentacao, Corrida de Rua, pre treino]
+tags: [alimentacao, Corrida de Rua, pre treino]
 ---
 Uma dúvida muito frequente no meio esportivo é: o que consumir antes de um treino? Fica sempre a incerteza do que devemos combinar para obtermos um desempenho mais satisfatório, que otimize nossa performance.
 

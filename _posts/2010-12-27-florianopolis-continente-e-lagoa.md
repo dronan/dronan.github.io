@@ -4,7 +4,7 @@ title: Florianópolis – 1º dia; Continente e Lagoa da Conceição
 date: 2010-12-27 21:12
 author: diego
 comments: true
-categories: [centro, conceicao, continente, ferias, figueirense, florianopolis, floripa, lagoa, orlando, reveillon, scarpelli, viagem, Viagens]
+tags: [centro, conceicao, continente, ferias, figueirense, florianopolis, floripa, lagoa, orlando, reveillon, scarpelli, viagem, Viagens]
 ---
 Segunda feira, 27 de dezembro. Por volta das 9:30 da manha estou desembarcando no Terminal Rodoviário Rita Maria, em Florianópolis. Depois de 2 anos, novamente em Floripa, novamente para passar 1 semana, novamente réveillon.
 

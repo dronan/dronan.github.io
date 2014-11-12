@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: 19ª Maratona de Revezamento Pão de Açúcar - São Paulo
+title: Relato - 19ª Maratona de Revezamento Pão de Açúcar - São Paulo
 date: 2011-09-18 17:58
 author: diego
 comments: true
-categories: [Corrida, Corrida de Rua, maratona, pao de acucar, revezamento]
+tags: [Corrida, Corrida de Rua, maratona, pao de acucar, revezamento]
 ---
 Neste fim de semana de sol, ocorreu a 19ª Maratona Pão de Açúcar de São Paulo, percurso de 42.195 metros divididos entre equipes de dois, quatro e oito atletas.
 
@@ -54,18 +54,20 @@ Essa praticamente foi para fechar o dia! Depois dessa pilha somada a prova, me d
 
 Próxima corrida: Eco Run da Braskem!
 
-<strong>Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/09/pda_2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/09/pda_2011.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 5351-3</li>
-	<li><strong>Tempo Final:</strong> 01:05:00</li>
-	<li><strong>Categoria:</strong> N/D</li>
-	<li><strong>Modalidade:</strong> Revezamento 4 atletas: 11,264 metros</li>
-	<li><strong>Tempo Bruto:</strong> N/D</li>
-	<li><strong>Classificação Total:</strong> N/D</li>
-	<li><strong>Classificação por Categoria:</strong> N/D</li>
-	<li><strong>Classificação por Sexo:</strong> N/D</li>
-	<li><strong>Pace Médio:</strong> 05:52 min/km</li>
-	<li><strong> Velocidade Média Total:</strong> 10:21 km/h</li>
-</ul>
+
+* **Número de Peito:** 5351-3
+* **Tempo Final:** 01:05:00
+* **Categoria:** N/D
+* **Modalidade:** Revezamento 4 atletas: 11,264 metros
+* **Tempo Bruto:** N/D
+* **Classificação Total:** N/D
+* **Classificação por Categoria:** N/D
+* **Classificação por Sexo:** N/D
+* **Pace Médio:** 05:52 min/km
+* ** Velocidade Média Total:** 10:21 km/h
+
 Percurso e maiores informações: <a href="http://www.runtastic.com/en/users/Diego-Ronan/sport-sessions/5450572" target="_blank">Clique aqui</a>.

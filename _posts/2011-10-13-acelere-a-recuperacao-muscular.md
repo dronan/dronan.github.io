@@ -4,7 +4,7 @@ title: Acelere a recuperação muscular
 date: 2011-10-13 10:53
 author: diego
 comments: true
-categories: [Corrida, Corrida de Rua, dicas, muscular, recurperação]
+tags: [Corrida, Corrida de Rua, dicas, muscular, recurperação]
 ---
 <em>Entenda como e em que momento você deve apostar na tecnologia da nutrição esportiva pós-exercício</em>
 <em> Bruno Acioli e Daniel Braz</em>

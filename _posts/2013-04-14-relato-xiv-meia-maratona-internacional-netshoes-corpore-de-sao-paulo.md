@@ -46,5 +46,5 @@ Resultado ótimo, dentro das expectativas. Tempo de relógio finalizado em 2h08m
 * **Classificação Total:**  2957
 * **Classificação por Faixa Etária:**  143
 * **Pace Médio:**  06:20 min/km
-* **Velocidade Média Total: **  9,46 km/h
-* **Informações Gerais: ** <a href="http://bit.ly/14nx36c" target="_blank">Motoactv</a>
+* **Velocidade Média Total:**  9,46 km/h
+* **Informações Gerais:** <a href="http://bit.ly/14nx36c" target="_blank">Motoactv</a>

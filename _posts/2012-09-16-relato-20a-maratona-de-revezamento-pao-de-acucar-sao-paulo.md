@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: 20ª Maratona de Revezamento Pão de Açúcar – São Paulo
+title: Relato - 20ª Maratona de Revezamento Pão de Açúcar – São Paulo
 date: 2012-09-16 15:59
 author: diego
 comments: true
-categories: [Corrida de Rua, ibirapuera, maratona, pao de acucar, revezamento]
+tags: [Corrida de Rua, ibirapuera, maratona, pao de acucar, revezamento]
 ---
 Neste domingo, 16/09, com direito a muito sol, foi realizada a 20ª edição da Maratona de Revezamento do Pão de Açúcar, prova que contou com a presença de 36 mil atletas divididos em equipes de dois, quatro ou oito participantes.
 
@@ -34,18 +34,19 @@ Refletimos um ponto sobre a largada da São Silvestre as 9 da manhã: como será
 
 Quanto a camiseta: Acabei trocando com o Ademir, poupando dor de cabeça de tentar trocar no Pão de Açúcar.
 
-<strong>
-Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/09/pda_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/09/pda.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 4598-4</li>
-	<li><strong>Tempo Final:</strong> 01:02:11</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> Revezamento 42k</li>
-	<li><strong>Tempo Bruto:</strong> 04:19:25</li>
-	<li><strong>Classificação Total:</strong> 628</li>
-	<li><strong>Classificação por Faixa Etária:</strong> N/D</li>
-	<li><strong>Pace Médio:</strong> 6:13 min/km</li>
-	<li><strong>Velocidade Média Total: </strong>9,65 km/h</li>
-</ul>
-&nbsp;
+
+* **Número de Peito:** 4598-4
+* **Tempo Final:** 01:02:11
+* **Categoria:** M2529
+* **Modalidade:** Revezamento 42k
+* **Tempo Bruto:** 04:19:25
+* **Classificação Total:** 628
+* **Classificação por Faixa Etária:** N/D
+* **Pace Médio:** 6:13 min/km
+* **Velocidade Média Total:**9,65 km/h
+
+

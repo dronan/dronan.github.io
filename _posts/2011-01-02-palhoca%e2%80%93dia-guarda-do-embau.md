@@ -4,7 +4,7 @@ title: Palhoça – 7º dia; Guarda do Embaú
 date: 2011-01-02 20:46
 author: diego
 comments: true
-categories: [embau, florianopolis, floripa, guarda, onibus, palhoça, rodoviaria, são paulo, Viagens]
+tags: [embau, florianopolis, floripa, guarda, onibus, palhoça, rodoviaria, são paulo, Viagens]
 ---
 Infelizmente o ultimo dia de “férias” chegou, e junto chegou uma frente fria. Dia chuvoso, foi assim o ultimo dia em Floripa.
 

@@ -43,5 +43,5 @@ Semana que vem tem meia! Ja nos preparativos, até lá!
 * **Classificação Total:**  3837
 * **Classificação por Faixa Etária:**  439
 * **Pace Médio:**  05:51 min/km
-* **Velocidade Média Total: **  10,25 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/507106361" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  10,25 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/507106361" target="_blank">Garmin</a>

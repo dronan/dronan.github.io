@@ -4,7 +4,7 @@ title: Novo percurso da São Silveste - Google Maps
 date: 2011-11-06 09:30
 author: diego
 comments: true
-categories: [Corrida de Rua, novo percurso, sao silvestre]
+tags: [Corrida de Rua, novo percurso, sao silvestre]
 ---
 Tracei o novo trajeto da São Silvestre no Google Maps.
 
@@ -12,4 +12,4 @@ Pode ser acessado <a href="http://maps.google.com.br/maps?saddr=Av.+Paulista&am
 
 Uma pena terem alterado praticamente toda a prova, vamos ver como será a experiencia este ano....
 
-&nbsp;
+

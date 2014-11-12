@@ -41,5 +41,5 @@ Evento no geral bom, pelo valor da inscrição poderia ter uma camiseta de melho
 * **Classificação Total:**  330/3740
 * **Classificação por Faixa Etária:**  62/461
 * **Pace Médio:**  04:54 min/km
-* **Velocidade Média Total: **  13,20 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/492925424" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  13,20 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/492925424" target="_blank">Garmin</a>

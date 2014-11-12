@@ -1,14 +1,18 @@
 ---
 layout: post
-title: Relato: XII Meia Maratona Internacional Corpore de São Paulo
+title: Relato - XII Meia Maratona Internacional Corpore de São Paulo
 date: 2011-04-11 10:20
 author: diego
 comments: true
-categories: [21k, 5k, corpore, Corrida de Rua, corrida de rua, meia maratona]
+tags: [21k, 5k, corpore, Corrida de Rua, corrida de rua, meia maratona]
 ---
 Neste domingo aconteceu a XII Meia Maratona Internacional Corpore de São Paulo, com as opções de corrida de 5K e 21K, com os percursos conforme ilustram as imagens.
+
+
 <div class="moldura"><a  class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/Corpore_MeiaMaratona_21K_web.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/Corpore_MeiaMaratona_21K_web.jpg" alt="" class="imgTitulo" /></a></div>
 <div style="text-align: center; width: 100%; display: block;">
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/Corpore_MeiaMaratona_5K_web.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/Corpore_MeiaMaratona_5K_web.jpg" alt=""  class="imgTitulo" /></a></div>
 </div>
 Trajeto escolhido: 5k.
@@ -27,20 +31,22 @@ Com o trajeto sem inclinações e temperatura agradável, consegui manter um pas
 
 O local da premiação foi o suficiente para uma grande  concentração de pessoas, retirei o kit e corri pra casa, enfim, precisava descansar que mais tarde: U2 no Morumbi!
 
-<strong>Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/DSC_0126_big.JPG"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/DSC_0126.JPG" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 11073</li>
-	<li><strong>Tempo Final:</strong> 00:27:44.34</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 5K</li>
-	<li><strong>Tempo Bruto:</strong> 00:28:36.28</li>
-	<li><strong>Classificação Total:</strong> 737</li>
-	<li><strong>Classificação por Categoria:</strong> 99</li>
-	<li><strong>Classificação por Sexo:</strong> 654</li>
-	<li><strong>Pace Médio:</strong> 05:32 min/km</li>
-	<li><strong> Velocidade Média Total:</strong> 10,82 km/h</li>
-</ul>
+
+* **Número de Peito:** 11073
+* **Tempo Final:** 00:27:44.34
+* **Categoria:** M2529
+* **Modalidade:** 5K
+* **Tempo Bruto:** 00:28:36.28
+* **Classificação Total:** 737
+* **Classificação por Categoria:** 99
+* **Classificação por Sexo:** 654
+* **Pace Médio:** 05:32 min/km
+* ** Velocidade Média Total:** 10,82 km/h
+
 Próxima corrida: Indy 8K no dia 30 de abril! Corrida noturna após o treino classificatório da SP Indy 300.
 
 Até la!

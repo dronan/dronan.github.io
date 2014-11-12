@@ -4,7 +4,7 @@ title: Para correr no frio
 date: 2011-05-05 15:13
 author: diego
 comments: true
-categories: [Corrida de Rua, corrida de rua, dica, frio, inverno]
+tags: [Corrida de Rua, corrida de rua, dica, frio, inverno]
 ---
 Apesar de acostumados com clima tropical do Brasil, muitos atletas saem do País e enfrentam temperaturas baixas. Siga as dicas dos treinadores para se preparar adequadamente e encarar o frio sem medo.
 

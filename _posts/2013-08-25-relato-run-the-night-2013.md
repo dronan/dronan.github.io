@@ -52,5 +52,5 @@ Semana que vem tem mais 30km (pretendo 35km) de rodagem para a maratona, outubro
 * **Classificação Total:**  506
 * **Classificação por Faixa Etária:**  49/54
 * **Pace Médio:**  06:31 min/km
-* **Velocidade Média Total: **  09,20 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/364506872" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  09,20 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/364506872" target="_blank">Garmin</a>

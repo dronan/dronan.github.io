@@ -91,5 +91,5 @@ E o Garmin, 100% adaptado e fácil operar.
 * **Classificação Total:**  2202
 * **Classificação por Faixa Etária:**  158
 * **Pace Médio:**  07:07 min/km
-* **Velocidade Média Total: **  8,39 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/386902320" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  8,39 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/386902320" target="_blank">Garmin</a>

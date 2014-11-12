@@ -4,7 +4,7 @@ title: Corrida no inverno
 date: 2011-06-03 11:47
 author: diego
 comments: true
-categories: [Corrida de Rua, corrida de rua, corta frio, dicas, inverno, treino, vestimentas]
+tags: [Corrida de Rua, corrida de rua, corta frio, dicas, inverno, treino, vestimentas]
 ---
 Apesar de estarmos enfrentando temperaturas mais agradáveis, o <strong>frio</strong> não deve demorar a reaparecer. E quem corre (e quem não corre também) sabe que cidades no Sul e Sudeste do país podem ser bem frias logo pela manhã e à noite, quando muitos podem treinar. Como manter a motivação?
 
@@ -20,4 +20,4 @@ Com informação e um pouco de vontade não fica tão difícil manter o ritmo de
 
 Fonte: <a href="http://www.corredortrainer.com.br/corrida-no-inverno/" target="_blank">Corredor Trainer</a>
 
-&nbsp;
+

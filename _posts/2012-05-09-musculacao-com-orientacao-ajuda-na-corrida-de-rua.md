@@ -4,7 +4,7 @@ title: Musculação com orientação ajuda na corrida de rua
 date: 2012-05-09 23:08
 author: diego
 comments: true
-categories: [Corrida, Corrida de Rua, musculação, treino]
+tags: [Corrida, Corrida de Rua, musculação, treino]
 ---
 É cada vez mais comum encontrar nas academias corredores amadores interessados em fazer musculação com exercícios voltados para melhorar o desempenho nas provas. Os benefícios vão desde a melhora da postura, passando pelo ganho de resistência, até a prevenção de lesões. O militar Márcio Fonseca é um dos que encontrou nessa atividade um complemento para sua preparação para as corridas.
 

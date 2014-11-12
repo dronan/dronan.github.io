@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: 4ª Corrida Internacional Cidade de Guarulhos
+title: Relato - 4ª Corrida Internacional Cidade de Guarulhos
 date: 2012-12-09 15:44
 author: diego
 comments: true
-categories: [10k, Bosque, Corrida, Corrida de Rua, faccini, facini, facinni, Guarulhos, maia, paulo, são paulo, subida]
+tags: [10k, Bosque, Corrida, Corrida de Rua, faccini, facini, facinni, Guarulhos, maia, paulo, são paulo, subida]
 ---
 Neste domingo, dia 9 de dezembro, foi realizada a 4ª edição da Corrida Internacional Cidade de Guarulhos, contando com os percursos de 5k e 10k e a presença de cerca de 2 mil participantes, sem mudanças de traçado.
 
@@ -22,20 +22,21 @@ Falando um pouco da estrutura da prova: pontos de hidratação nos Kms: 1,5 (na 
 
 Semana que vem tem uma de 15k, Sargento Gonzaguinha, estreia minha nessa prova. Até lá!!
 
-<strong>
-Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/guarulhos_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/guarulhos.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 1485</li>
-	<li><strong>Tempo Final:</strong> 00:53:33</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10k</li>
-	<li><strong>Tempo Bruto:</strong> 00:53:49</li>
-	<li><strong>Classificação Total:</strong> 339</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 34</li>
-	<li><strong>Classificação por Sexo:</strong> N/D</li>
-	<li><strong>Pace Médio:</strong> 5:21 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 11,20 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="https://motoactv.com/public/show?workoutActivityId=W2YVakrTS1ihKbJ8fYpalQ%3D%3D&amp;activity=1" target="_blank">Motoactv</a></li>
-</ul>
-&nbsp;
+
+* **Número de Peito:** 1485
+* **Tempo Final:** 00:53:33
+* **Categoria:** M2529
+* **Modalidade:** 10k
+* **Tempo Bruto:** 00:53:49
+* **Classificação Total:** 339
+* **Classificação por Faixa Etária:** 34
+* **Classificação por Sexo:** N/D
+* **Pace Médio:** 5:21 min/km
+* **Velocidade Média Total:** 11,20 km/h
+* **Informações Gerais:** <a href="https://motoactv.com/public/show?workoutActivityId=W2YVakrTS1ihKbJ8fYpalQ%3D%3D&amp;activity=1" target="_blank">Motoactv</a>
+
+

@@ -49,5 +49,5 @@ Semana que vem tem a "Volta da Pampulha", conhecer a região que nunca fui, corr
 * **Classificação por Faixa Etária:**  115/260
 * **Classificação por Sexo:**  749/1798
 * **Pace Médio:**  05:29 min/km
-* **Velocidade Média Total: **  10,92 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/408091027" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  10,92 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/408091027" target="_blank">Garmin</a>

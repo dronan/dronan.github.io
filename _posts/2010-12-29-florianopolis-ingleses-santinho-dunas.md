@@ -4,7 +4,7 @@ title: Florianópolis – 3º dia; Praia dos Ingleses, Dunas dos Ingleses e Sant
 date: 2010-12-29 22:16
 author: diego
 comments: true
-categories: [Dunas, florianopolis, floripa, Ingleses, Praia dos Ingleses, Santinho, viagem, Viagens]
+tags: [Dunas, florianopolis, floripa, Ingleses, Praia dos Ingleses, Santinho, viagem, Viagens]
 ---
 Quarta feira, 3º dia na ilha da magia. Saudades de São Paulo? O que é São Paulo?! O roteiro do dia é subir para o norte da ilha e conhecer a praia dos ingleses. O dia não amanheceu tão ensolarado como nos últimos dias, nublado, mas nada que impeça de conhecer novos lugares.
 

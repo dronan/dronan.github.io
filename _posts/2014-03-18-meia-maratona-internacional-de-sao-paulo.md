@@ -39,5 +39,5 @@ Até lá!
 * **Classificação Total:**  4342
 * **Classificação por Faixa Etária:**  325
 * **Pace Médio:**  06:21 min/km
-* **Velocidade Média Total: **  9,5 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/449959087" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  9,5 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/449959087" target="_blank">Garmin</a>

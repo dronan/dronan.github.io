@@ -4,7 +4,7 @@ title: Aprender a correr devagar para correr rápido
 date: 2012-01-09 17:31
 author: diego
 comments: true
-categories: [Corrida de Rua, dica, frequencia, resistencia, treino, velocidade]
+tags: [Corrida de Rua, dica, frequencia, resistencia, treino, velocidade]
 ---
 <em>por Sérgio Rocha </em>
 

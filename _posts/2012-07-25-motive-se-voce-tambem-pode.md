@@ -4,7 +4,7 @@ title: Motive-se: Você também pode!
 date: 2012-07-25 14:55
 author: diego
 comments: true
-categories: [Corrida de Rua, corrida de rua, motivação]
+tags: [Corrida de Rua, corrida de rua, motivação]
 ---
 Nunca escrevi a respeito, então vou falar um pouco da minha pequena trajetória na corrida, que sim: muda o estilo de vida, a vontade, o emocional de qualquer pessoa que pratica, não é papo, balela, mas constatação.
 
@@ -26,7 +26,7 @@ Em novembro de 2010, aparece a “Fila Night Run” no calendário, e o Leonardo
 
 Na semana da prova, um frio absurdo, até meio incomum para a época. Nunca havia corrido na rua até então. Ha alguns dias da prova, no máximo que aguentava fazer, era cerca de dez minutos na esteira com interrupção de alguns minutos para pegar fôlego e continuar. Na quarta feira, faltando três dias para a prova, resolvemos ir ao bosque maia – um parque próximo de casa em Guarulhos – e dar duas voltas no percurso de 2200 metros. Indo sempre no trote, fizemos o treino em cerca de quarenta minutos ou pouco mais. Diria que neste treino foi essencial para dar uma tranquilizada; já dava para perceber chegar ao objetivo dos cinco quilômetros não era impossível.
 
-Chega então o grande dia da corrida, e o resultado é o que escrevi no relato: <a href="http://www.diegoronan.com.br/diegoronan/index.php/2010/11/13/fila-night-run-2010-sp/" target="_blank">Fila Night Run 2010 – SP</a>.
+Chega então o grande dia da corrida, e o resultado é o que escrevi no Relato - <a href="http://www.diegoronan.com.br/diegoronan/index.php/2010/11/13/fila-night-run-2010-sp/" target="_blank">Fila Night Run 2010 – SP</a>.
 
 Assim que termina a primeira prova, você entende o motivo pelo qual vale a pena acordar nem se for às quatro da manhã de um domingo para correr. A sensação do pós-prova é indescritível. A primeira corrida já motivou até a comprar um frequêncímetro, já que cansei bastante ainda mais por estar sem base de tempo e frequência cardíaca, já para a próxima corrida.
 

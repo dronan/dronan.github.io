@@ -70,5 +70,5 @@ Agora é continuar os treinos, diminuir a quantidade de musculação até o dia 
 * **Classificação Total:**  3124/4424
 * **Classificação por Faixa Etária:**  312
 * **Pace Médio:**  05:38 min/km
-* **Velocidade Média Total: **  10,70 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/349656826" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  10,70 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/349656826" target="_blank">Garmin</a>

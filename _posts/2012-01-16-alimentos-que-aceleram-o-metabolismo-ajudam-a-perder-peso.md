@@ -4,7 +4,7 @@ title: Alimentos que aceleram o metabolismo ajudam a perder peso
 date: 2012-01-16 14:00
 author: diego
 comments: true
-categories: [alimentacao, Corrida de Rua, dicas, nutricao]
+tags: [alimentacao, Corrida de Rua, dicas, nutricao]
 ---
 Vejam alguns alimentos: 
 

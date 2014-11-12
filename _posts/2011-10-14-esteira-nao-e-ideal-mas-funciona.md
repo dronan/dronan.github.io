@@ -4,7 +4,7 @@ title: Esteira: não é ideal, mas funciona
 date: 2011-10-14 10:58
 author: diego
 comments: true
-categories: [ajuda, Corrida, Corrida de Rua, dica, esteira]
+tags: [ajuda, Corrida, Corrida de Rua, dica, esteira]
 ---
 <em>Treinando exclusivamente na esteira é possível fazer 10 km abaixo de 50’, mas alguns cuidados são necessários</em>
 

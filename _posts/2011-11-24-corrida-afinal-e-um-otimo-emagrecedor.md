@@ -4,7 +4,7 @@ title: Corrida, afinal, é um ótimo Emagrecedor
 date: 2011-11-24 10:15
 author: diego
 comments: true
-categories: [Corrida, Corrida de Rua, emagrecimento, saude]
+tags: [Corrida, Corrida de Rua, emagrecimento, saude]
 ---
 Isso é verdadeiro para todos? Afinal, a corrida serve para emagrecer ou não? O treinador Miguel Sarkis explica como se faz para emagrecer correndo.
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: Meia de Sampa
+title: Relato - Meia de Sampa
 date: 2012-07-15 14:48
 author: diego
 comments: true
-categories: [21k, Corrida de Rua, meia maratona, são paulo]
+tags: [21k, Corrida de Rua, meia maratona, são paulo]
 ---
 Neste domingo muito frio de julho foi realizada a "Meia de Sampa", na região do Jockey Club de São Paulo e imediações da USP / Parque Villa Lobos, que contou com a presença de um bom número de corredores para os percursos de 5.5K, 10K ou 21K. Parti para os 21K, minha terceira meia maratona, primeira nestas condições de temperatura.
 
@@ -17,6 +17,8 @@ No domingo, dia da prova, acordei as 5 horas da manha. Com uma temperatura baix�
 Cheguei dentro do Jockey por volta das 6h45min, como havia esquecido a sacola para usar o guarda volumes, preferi deixar tudo no carro mesmo, só levei a chave no bolso e o celular, já que iria ouvindo musica no percurso.
 
 Chip retirado, feito um alongamento rápido, tive que procurar algum lugar que tivesse água para umedecer a cinta do frequencímetro. Nada como uma cinta molhada com uma temperatura de 9 graus. Assim que o frequencímetro passou a funcionar "na base do tranco", me posicionei no pelotão verde, bem ao lado do marcador de ritmo dos 6,5min/km. Optei por acompanha-lo para tentar fazer uma boa marca (em comparação as anteriores). Não havia ido aos banheiros químicos antes da largada devido a grande fila somada a falta de tempo, isso acabou pesando mais tarde.
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/meiadesampa_01.jpg"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/meiadesampa_01.jpg" alt="" /></a></div>
 É iniciada a prova por volta das 7h10min, com o percurso saindo de dentro do Jockey (no estacionamento) em direção a rua José Augusto de Queiros, rua paralela ao Jockey, em direção da Av. Lineu de Paula Machado. Até então não dava para impor um ritmo bom devido a quantidade de pessoas, tanto que o marcador de ritmo estava ha quase 500 metros de distancia em determinados trechos e eu não tinha espaço para fazer uma aproimação. Nesta Av também, por volta do km 3, se encontrava o primeiro ponto de hidratação, havia somente uma pessoa de cada lado da rua distribuindo água para todo mundo, não consegui pegar, também não era tão necessário no momento.
 
@@ -38,21 +40,23 @@ Apesar do imenso frio foi uma excelente prova, superou as expectativas em relaç
 
 A última meia maratona do ano é a Golden Four da Asics, para quem queria fazer uma este ano, fazer 4 e ainda uma de 25km esta ótimo.
 
-<strong>Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/meiadesampa_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/meiadesampa.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 1111</li>
-	<li><strong>Tempo Relógio:</strong> 02:11:40</li>
-	<li><strong>Tempo Final:</strong> 02:14:30</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 21K</li>
-	<li><strong>Tempo Bruto:</strong> 02:17:02.88</li>
-	<li><strong>Classificação Total:</strong> 1183</li>
-	<li><strong>Classificação por Categoria:</strong> 137</li>
-	<li><strong>Classificação por Sexo:</strong> 1068</li>
-	<li><strong>Pace Médio:</strong> 6,24 min/km</li>
-	<li><strong>Velocidade Média Total: </strong>9,37 km/h</li>
-</ul>
-&nbsp;
+## Resultado:
 
-&nbsp;
+
+<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/meiadesampa_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/meiadesampa.jpg" alt="" /></a></div>
+
+* **Número de Peito:** 1111
+* **Tempo Relógio:** 02:11:40
+* **Tempo Final:** 02:14:30
+* **Categoria:** M2529
+* **Modalidade:** 21K
+* **Tempo Bruto:** 02:17:02.88
+* **Classificação Total:** 1183
+* **Classificação por Categoria:** 137
+* **Classificação por Sexo:** 1068
+* **Pace Médio:** 6,24 min/km
+* **Velocidade Média Total:**9,37 km/h
+
+
+
+

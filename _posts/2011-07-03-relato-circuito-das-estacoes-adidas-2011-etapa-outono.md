@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: Circuito das Estações Adidas 2011 - Etapa Inverno
+title: Relato - Circuito das Estações Adidas 2011 - Etapa Inverno
 date: 2011-07-03 20:07
 author: diego
 comments: true
-categories: [adidas, Circuito, Corrida, Corrida de Rua, estacoes, etapa outono]
+tags: [adidas, Circuito, Corrida, Corrida de Rua, estacoes, etapa outono]
 ---
 Neste domingo aconteceu a etapa inverno do Circuito das Estações Adidas 2011 em São Paulo, prova de 10Km na região do Pacaembu.
 
@@ -24,17 +24,19 @@ Tenho que aprender ainda a dar sprint em hora certa durante a prova, treinar mai
 
 Próxima corrida: talvez a serie delta no meio pro fim de agosto, ou a etapa Primavera das Estações Adidas, em Curitiba. Como vou dirigindo para la e farei quase um bate volta, distancia curta: 5Km.
 
-<strong>Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/07/estacoesAdidasInverno2011_big.jpg" _mce_href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/07/estacoesAdidasInverno2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/07/estacoesAdidasInverno2011.jpg" _mce_src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/07/estacoesAdidasInverno2011.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 2001</li>
-	<li><strong>Tempo Final:</strong> 00:59:42</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10K</li>
-	<li><strong>Tempo Bruto:</strong> N/D</li>
-	<li><strong>Classificação Total:</strong> N/D</li>
-	<li><strong>Classificação por Categoria:</strong> N/D</li>
-	<li><strong>Classificação por Sexo:</strong> N/D</li>
-	<li><strong>Pace Médio:</strong> 05:58 min/km</li>
-	<li><strong> Velocidade Média Total:</strong> 10:05 km/h</li>
-</ul>
+
+* **Número de Peito:** 2001
+* **Tempo Final:** 00:59:42
+* **Categoria:** M2529
+* **Modalidade:** 10K
+* **Tempo Bruto:** N/D
+* **Classificação Total:** N/D
+* **Classificação por Categoria:** N/D
+* **Classificação por Sexo:** N/D
+* **Pace Médio:** 05:58 min/km
+* ** Velocidade Média Total:** 10:05 km/h
+

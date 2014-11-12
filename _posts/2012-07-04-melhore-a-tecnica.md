@@ -4,7 +4,7 @@ title: Melhore a técnica
 date: 2012-07-04 13:36
 author: diego
 comments: true
-categories: [Corrida de Rua, corrida de rua, dicas, tecnica]
+tags: [Corrida de Rua, corrida de rua, dicas, tecnica]
 ---
 <em>Use os exercícios educativos para aperfeiçoar sua postura e ter melhor rendimento na corrida
 </em><em>Por Denise Schipani</em>

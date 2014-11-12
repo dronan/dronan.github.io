@@ -4,7 +4,7 @@ title: 10 erros comuns antes e durante uma prova
 date: 2011-10-12 10:53
 author: diego
 comments: true
-categories: [Corrida de Rua, dicas, durante a prova, pre prova]
+tags: [Corrida de Rua, dicas, durante a prova, pre prova]
 ---
 Revista Contra-Relogio: Edição 185 - FEVEREIRO 2009 - TOMAZ LOURENÇO
 

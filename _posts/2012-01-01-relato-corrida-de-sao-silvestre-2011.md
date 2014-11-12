@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Relato: Corrida de São Silvestre 2011
+title: Relato - Corrida de São Silvestre 2011
 date: 2012-01-01 23:09
 author: diego
 comments: true
-categories: [15k, chuva, Corrida de Rua, lama, sao silvestre, yescom]
+tags: [15k, chuva, Corrida de Rua, lama, sao silvestre, yescom]
 ---
 Neste sábado aconteceu a tradicional corrida de São Silvestre, corrida que fecha o ano de atividades esportivas em São Paulo.
+
+
 <div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/pic_ss01.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/pic_ss01.JPG" alt="" /></a></div>
 Esta foi a primeira edição da corrida depois da mudança de percurso - mudança péssima por sinal.
 
@@ -15,6 +17,8 @@ A retirada do kit ocorreu no ginásio do Ibirapuera, na quarta / quinta / sexta 
 No sábado, dia da corrida e último dia do ano, fiz um almoço comum as 13 horas e as 15 horas, fui com meu tio, Mario, e meu amigo, Leonardo, para a corrida.
 
 Pelo fato da corrida começar em um ponto e terminar em outro, e, como disse o "dono" da São Silvestre para quem iria de carro ou embora do evento: "<em>Isso não é problema meu</em>"<em> (sic)</em>, optei por ir de metrô, ja que teria que estacionar o carro próximo a chegada, no Ibirapuera, e sofrer certo desgaste andando uns 3km até a largada, em subida íngreme; fora que para ir embora peagaria certo trânsito pela quantidade de gente no local.
+
+
 <div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/pic_ss02.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/pic_ss02.JPG" alt="" /></a></div>
 Chegamos na Paulista por volta das 16 horas, tempo bem fechado mas sem chuva até então, somente um tempo abafado.
 
@@ -27,6 +31,8 @@ Assim que consigo me "infiltrar" no pelotão geral, é só alegria. Muito gostos
 Falando da corrida em si, assim que saiu da "festa de aparecer na Globo" que durou praticamente até a Consolação, seguimos em direção ao Pacaembu, sob sofre chuva. Encontrei meu amigo (Leonardo) que tinha perdido na largada na descida da Major Natanael. Com piso molhado devido a chuva, estava com medo de escorregar na decida, só deu uma tranquilidade quando chegou na av. Pacaembu, momento que a chuva também deu uma trégua.
 
 Aqui vai uma critica: Na av. Pacaembu havia sinalizações do primeiro ponto de hidratação, 2º Km de prova, e cadê? Só havia do km 4 para frente. Pisada feia na bola.
+
+
 <div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/pic_ss03.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/pic_ss03.JPG" alt="" /></a></div>
 Consegui conduzir a prova até a subida da Brigadeiro, meio cansado pelas subidas que jogaram a FC ao máximo, mas conseguindo administrar. Durante todo o trajeto o que se via era gente assistindo a prova, incentivando, enfim, bem diferente de todas provas que tinha participado até então.
 
@@ -54,20 +60,22 @@ Logo mais lanço um balanço do ano nas corridas deste ano.
 
 Que venham as meia maratonas, creio que ja consiga encarar. Consegui terminar bem os 15k, sem chegar a exaustão :).
 
-<strong>Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/ss2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/ss2011.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 10390</li>
-	<li><strong>Tempo Final:</strong> 01:40:42</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 15K</li>
-	<li><strong>Tempo Bruto:</strong> 01:44:40</li>
-	<li><strong>Classificação Total:</strong> 10318</li>
-	<li><strong>Classificação por Categoria:</strong> 947</li>
-	<li><strong>Classificação por Sexo:</strong> N/D</li>
-	<li><strong>Pace Médio:</strong> 6:43 min/km</li>
-	<li><strong> Velocidade Média Total:</strong> 8,94 km/h</li>
-</ul>
-&nbsp;
+## Resultado:
 
-&nbsp;
+
+<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/ss2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/ss2011.jpg" alt="" /></a></div>
+
+* **Número de Peito:** 10390
+* **Tempo Final:** 01:40:42
+* **Categoria:** M2529
+* **Modalidade:** 15K
+* **Tempo Bruto:** 01:44:40
+* **Classificação Total:** 10318
+* **Classificação por Categoria:** 947
+* **Classificação por Sexo:** N/D
+* **Pace Médio:** 6:43 min/km
+* ** Velocidade Média Total:** 8,94 km/h
+
+
+
+

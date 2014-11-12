@@ -34,5 +34,5 @@ A próxima prova é a Meia Maratona de São Paulo, a mesma em que iniciei as mei
 * **Tempo Bruto:**  00:53:25
 * **Classificação Total:**  303
 * **Pace Médio:**  05:21 min/km
-* **Velocidade Média Total: **  11,23 km/h
-* **Informações Gerais: ** <a href="https://motoactv.com/public/show?workoutActivityId=uHAfXU6%2BTHCUYoRc2JZXlQ%3D%3D&activity=1" target="_blank">Motoactv</a>
+* **Velocidade Média Total:**  11,23 km/h
+* **Informações Gerais:** <a href="https://motoactv.com/public/show?workoutActivityId=uHAfXU6%2BTHCUYoRc2JZXlQ%3D%3D&activity=1" target="_blank">Motoactv</a>

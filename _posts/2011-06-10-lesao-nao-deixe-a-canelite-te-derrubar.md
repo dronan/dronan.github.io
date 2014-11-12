@@ -4,11 +4,13 @@ title: Lesão: não deixe a canelite te derrubar
 date: 2011-06-10 17:12
 author: diego
 comments: true
-categories: [canelite, Corrida de Rua, corrida de rua, lesão]
+tags: [canelite, Corrida de Rua, corrida de rua, lesão]
 ---
 <div>
 
 Popularmente chamada de canelite, a síndrome de estresse do medial tibial costuma ser um tormento para muitos corredores iniciantes - e, em alguns casos, também para os mais experientes. Processo inflamatório que ocorre na membrana que envolve o osso da canela - a tíbia <strong>(veja no infográfico abaixo) </strong>-, a lesão pode ter relação com vários fatores: excesso de atividade, corrida em superfícies duras (asfalto, por exemplo), uso de calçados com sistema de amortecimento inadequado, entre outros problemas ligados a impacto.
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/06/canelite.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/06/canelite.jpg" alt="" /></a></div>
 <strong>Tratamento</strong>
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: XVII Corrida dos Bombeiros Corpore
+title: Relato - XVII Corrida dos Bombeiros Corpore
 date: 2012-07-01 15:17
 author: diego
 comments: true
-categories: [10k, bombeiros, corpore, Corrida, Corrida de Rua, ipiranga]
+tags: [10k, bombeiros, corpore, Corrida, Corrida de Rua, ipiranga]
 ---
 Neste domingo aconteceu a XVII edição da Corrida dos Bombeiros da Corpore, corrida que homenageia o dia dos bombeiros (2 de julho) no bairro do Ipiranga, em São Paulo.
 
@@ -37,20 +37,22 @@ Agora é treinar mais subidas para se matar menos nestes trechos. E daqui 2 sema
 E da-lhe endorfina!!
 
 
-<strong>Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/bombeiros_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/bombeiros.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 3229</li>
-	<li><strong>Tempo Final:</strong> 00:58:24.34</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10K</li>
-	<li><strong>Tempo Bruto:</strong> 01:00:44.56</li>
-	<li><strong>Classificação Total:</strong> 2181</li>
-	<li><strong>Classificação por Categoria:</strong> 164</li>
-	<li><strong>Classificação por Sexo:</strong> 1980</li>
-	<li><strong>Pace Médio:</strong> 5,50 min/km</li>
-	<li><strong>Velocidade Média Total: </strong>10,27 km/h</li>
-</ul>
-&nbsp;
+## Resultado:
 
-&nbsp;
+
+<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/bombeiros_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/bombeiros.jpg" alt="" /></a></div>
+
+* **Número de Peito:** 3229
+* **Tempo Final:** 00:58:24.34
+* **Categoria:** M2529
+* **Modalidade:** 10K
+* **Tempo Bruto:** 01:00:44.56
+* **Classificação Total:** 2181
+* **Classificação por Categoria:** 164
+* **Classificação por Sexo:** 1980
+* **Pace Médio:** 5,50 min/km
+* **Velocidade Média Total:**10,27 km/h
+
+
+
+

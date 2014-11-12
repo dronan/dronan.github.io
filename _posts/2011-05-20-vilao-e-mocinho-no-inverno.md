@@ -4,13 +4,15 @@ title: Vilão e mocinho no inverno
 date: 2011-05-20 09:55
 author: diego
 comments: true
-categories: [Corrida de Rua, corrida de rua, inverno, treinos]
+tags: [Corrida de Rua, corrida de rua, inverno, treinos]
 ---
 <strong>por Miguel Sarkis</strong>
 
 Se há algum assunto que deveria ser eternamente tratado na vida de um praticante de atividades físicas, caminhada ou corrida, esse deve, sem dúvida, ser o de como se exercitar no início, meio e fim do inverno.
 
 Existe coisa mais desmotivadora do que sair de uma sequência infernal de calor, festas e feriados e logo ingressar num frio acompanhado de garoa e, de quando em quando, uma tempestade? Não, não há temperatura mais desmotivadora (a menos que você esteja numa estação de esqui, em cidades frias por sua natureza) e a ela darei o nome de vilã, por enquanto.
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/05/inverno.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/05/inverno.jpg" alt="" /></a></div>
 Ao mocinho da questão, momentaneamente, chamaremos de casa, bar, café, restaurante e demais locais aconchegantes nos quais se produzem verdadeiros escudos e antídotos para vencermos os vilões, tal qual o inverno.
 

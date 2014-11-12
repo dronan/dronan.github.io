@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: Corrida Esperança
+title: Relato - Corrida Esperança
 date: 2011-08-18 10:21
 author: diego
 comments: true
-categories: [5k, Corrida, Corrida de Rua, esperança, são paulo]
+tags: [5k, Corrida, Corrida de Rua, esperança, são paulo]
 ---
 Neste fim de semana aconteceu a “Corrida Esperança” em todo o Brasil. Uma corrida solidária onde a verba arrecadada foi destinada ao projeto “Criança Esperança”.
 
@@ -28,20 +28,22 @@ Apesar de tudo, bati mais uma marca pessoal, diminui um pouco mais meu pace em u
 
 Minha próxima prova agora não sei se é a "Estações Adidas" em Curitiba ou a "Maratona Pão de Açúcar de Revezamento", aqui em São Paulo, a decisão vem nas próximas semanas.
 
-<strong>Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/08/esperanca_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/08/esperanca.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 32873</li>
-	<li><strong>Tempo Final:</strong> 00:22:15</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 4,2K</li>
-	<li><strong>Tempo Bruto:</strong> N/D</li>
-	<li><strong>Classificação Total:</strong> N/D</li>
-	<li><strong>Classificação por Categoria:</strong> N/D</li>
-	<li><strong>Classificação por Sexo:</strong> N/D</li>
-	<li><strong>Pace Médio:</strong> 05:18 min/km</li>
-	<li><strong> Velocidade Média Total:</strong> 11:33 km/h</li>
-</ul>
+
+* **Número de Peito:** 32873
+* **Tempo Final:** 00:22:15
+* **Categoria:** M2529
+* **Modalidade:** 4,2K
+* **Tempo Bruto:** N/D
+* **Classificação Total:** N/D
+* **Classificação por Categoria:** N/D
+* **Classificação por Sexo:** N/D
+* **Pace Médio:** 05:18 min/km
+* ** Velocidade Média Total:** 11:33 km/h
+
 Percurso e maiores informações: <a href="http://www.runtastic.com/en/users/Diego-Ronan/sport-sessions/4557888" target="_blank">Clique aqui</a>.
 
 Até la!

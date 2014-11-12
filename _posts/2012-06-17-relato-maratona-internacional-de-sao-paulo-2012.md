@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: Maratona Internacional de São Paulo 2012
+title: Relato - Maratona Internacional de São Paulo 2012
 date: 2012-06-17 19:44
 author: diego
 comments: true
-categories: [25k, Corrida de Rua, maratona, são paulo]
+tags: [25k, Corrida de Rua, maratona, são paulo]
 ---
 Nesta manha fria de domingo, dia 17, ocorreu a Maratona Internacional de São Paulo, com opções de percursos, além dos 42k da maratona, de corridas de 25K ou 10K, ou então uma caminhada de 3K. Diferentemente do ano passado, que optei pelos 10K, quis experimentar a distancia dos 25K.
 
@@ -41,20 +41,22 @@ O ponto que achei engraçado foi o papo entre os corredores perguntando em que p
 Tirando os problemas o importante é cruzar a linha, e procurar fazer treinos longos decentes daqui pra frente, fazer uma rodagem nem se preocupando tanto com distância, mas com tempo... buscar algo em torno de 2h, 2h30, ainda mais com uma meia maratona para daqui um mês ;).
 
 
-<strong>Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/06/maratona2012_25_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/06/maratona2012_25.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 16053</li>
-	<li><strong>Tempo Final:</strong> 02:59:30</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 25K</li>
-	<li><strong>Tempo Bruto:</strong> 03:06:44</li>
-	<li><strong>Classificação Total:</strong> 1960</li>
-	<li><strong>Classificação por Categoria:</strong> 138</li>
-	<li><strong>Classificação por Sexo:</strong> N/D</li>
-	<li><strong>Pace Médio:</strong> 7,11 min/km</li>
-	<li><strong>Velocidade Média Total: </strong>8,36 km/h</li>
-</ul>
-&nbsp;
+## Resultado:
 
-&nbsp;
+
+<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/06/maratona2012_25_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/06/maratona2012_25.jpg" alt="" /></a></div>
+
+* **Número de Peito:** 16053
+* **Tempo Final:** 02:59:30
+* **Categoria:** M2529
+* **Modalidade:** 25K
+* **Tempo Bruto:** 03:06:44
+* **Classificação Total:** 1960
+* **Classificação por Categoria:** 138
+* **Classificação por Sexo:** N/D
+* **Pace Médio:** 7,11 min/km
+* **Velocidade Média Total:**8,36 km/h
+
+
+
+

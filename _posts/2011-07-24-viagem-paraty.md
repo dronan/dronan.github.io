@@ -4,7 +4,7 @@ title: Viagem: Paraty
 date: 2011-07-24 21:56
 author: diego
 comments: true
-categories: [angra, Fotografia, paraty, praias, rio, rj, rj-165, sp-171, Viagens]
+tags: [angra, Fotografia, paraty, praias, rio, rj, rj-165, sp-171, Viagens]
 ---
 Aproveitei o fim de semana de sol de 16 e 17 de julho e fui para Paraty, afinal, já havia um tempo que queria conhecer a cidade e nunca dava certo.
 

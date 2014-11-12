@@ -41,5 +41,5 @@ Prova finalizada em 2h17. Que venham as próximas!
 * **Classificação Total:**  2538 
 * **Classificação por Faixa Etária:**  102 
 * **Pace Médio:**  06:31 min/km
-* **Velocidade Média Total: **  09,20 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/480769771" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  09,20 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/480769771" target="_blank">Garmin</a>

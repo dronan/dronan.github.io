@@ -4,7 +4,7 @@ title: Dor muscular nem sempre é ruim
 date: 2011-10-16 11:02
 author: diego
 comments: true
-categories: [Corrida de Rua, dicas, dores, muscular, recuperacao]
+tags: [Corrida de Rua, dicas, dores, muscular, recuperacao]
 ---
 Revista Contra-Relogio Edição 194 - NOVEMBRO 2009 - LUIZ CARLOS DE MORAES
 <div id="iniciomateria">
@@ -20,7 +20,7 @@ Apesar de desconhecida a verdadeira causa, a dor chamada pelos fisiologistas de 
 
 <strong>INICIANTES E IDOSOS. </strong>Embora os iniciantes, assim como os idosos, estejam mais sujeitos, qualquer pessoa que resolva fazer uma atividade para a qual não esteja acostumada poderá ser surpreendida com as dores musculares nas primeiras 24/48 horas seguintes à atividade, o que não deixa de ser uma adaptação normal do organismo. Corredores que não mantêm regularidade no treinamento e quando treinam resolvem recuperar o tempo perdido são candidatos a dores seguidas de lesões. É preferível treinar três vezes por semana sempre nos dias certos, do que numa semana treinar seis dias, na outra dois e na outra nenhuma.
 
-&nbsp;
+
 
 É preciso estar atento às formas de aliviar as dores. Produtos analgésicos (em spray ou cremes) são apenas um paliativo, não atuando na causa. Se a atividade que gerou a dor foi bem planejada, um exercício mais leve no dia seguinte serve para ajudar o processo de adaptação muscular às novas exigências do treinamento. Porém, se as dores musculares forem muito intensas, o gelo e repouso quase sempre são opções melhores. Qualquer exigência a mais da musculatura faz com que os micro traumatismos das fibras musculares sejam acompanhados de derramamento de líquidos entre as fibras, até certo ponto uma reação normal de defesa do organismo.
 

@@ -4,7 +4,7 @@ title: Corrida ajuda no processo de emagrecimento
 date: 2012-11-09 13:33
 author: diego
 comments: true
-categories: [alimentacao, Corrida de Rua, emagrecimento, nutricao]
+tags: [alimentacao, Corrida de Rua, emagrecimento, nutricao]
 ---
 Esqueça as dietas “milagrosas” e até das simpatias que sua tia lhe ensinou. Pois, se você quer perder peso, a regra é basicamente uma: queimar mais calorias do que ingerir. Para isso, a corrida é uma ferramenta valiosa. Pois, em uma hora de corrida rápida, eliminam-se em média 800 calorias (dependendo do ritmo dos passos e do tipo do terreno), a mesma quantidade fornecida por um hambúrguer e uma porção de batatas fritas. Mas, basta meia hora de exercício para acelerar o metabolismo — e o corpo passa a queimar calorias em um ritmo 30% mais veloz ao longo do dia — ajudando na melhoria do condicionamento físico. Por isso, além de dedicação, você precisará equilibrar sua dieta.
 

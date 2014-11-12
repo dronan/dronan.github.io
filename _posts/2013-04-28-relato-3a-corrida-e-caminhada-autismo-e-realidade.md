@@ -41,5 +41,5 @@ Meu chip acabou amassando na sacola, resultado: sem tempo oficial, como ja acont
 * **Classificação Total:**  N/D
 * **Classificação por Faixa Etária:**  N/D
 * **Pace Médio:**  05:06 min/km
-* **Velocidade Média Total: **  11,08 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/304462570" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  11,08 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/304462570" target="_blank">Garmin</a>

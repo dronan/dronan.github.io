@@ -44,5 +44,5 @@ Se todas por aqui fosse assim, valeria pagar o que cobram por cada prova. Aliás
 * **Classificação por Sexo:** 2659/3795
 * **Classificação por Faixa Etária:** 308/429
 * **Pace Médio:** 05:44 min/km
-* **Velocidade Média Total: ** 10,50 km/h
-* **Informações Gerais: **<a href="http://connect.garmin.com/activity/556257612" target="_blank">Garmin</a>
+* **Velocidade Média Total:** 10,50 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/556257612" target="_blank">Garmin</a>

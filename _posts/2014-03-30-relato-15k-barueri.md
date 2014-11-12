@@ -39,5 +39,5 @@ Para uma prova gratuita, não muito o que reclamar.
 * **Classificação Total:**  897
 * **Classificação por Faixa Etária:**  351
 * **Pace Médio:**  06:16 min/km
-* **Velocidade Média Total: **  09,60 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/470432468" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  09,60 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/470432468" target="_blank">Garmin</a>

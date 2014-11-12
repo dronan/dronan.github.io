@@ -4,7 +4,7 @@ title: Saiba a importância de aliar a dieta ao treino para emagrecer
 date: 2012-08-23 14:01
 author: diego
 comments: true
-categories: [Corrida de Rua, dicas, nutricao]
+tags: [Corrida de Rua, dicas, nutricao]
 ---
 Correr é uma atividade com alto gasto de energia e uma boa opção para quem quer perder gordura, garante a nutricionista Andrea Matarazzo Carraro, de São Paulo. Mas, é preciso atenção à alimentação, pois ela é a base para emagrecer com saúde. “Uma dieta com menos calorias ingeridas do que gastas é o ideal para perder peso. Porém, as muito restritivas ou com pouco carboidrato podem promover perda de massa muscular, comprometer o rendimento, possibilitar surgimento de lesões e o aumento na produção de radicais livres”, explica.
 

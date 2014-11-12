@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: Fila Night Run 2012 - Etapa São Paulo - Interlagos
+title: Relato - Fila Night Run 2012 - Etapa São Paulo - Interlagos
 date: 2012-05-13 13:30
 author: diego
 comments: true
-categories: [10k, Corrida de Rua, fila, night run]
+tags: [10k, Corrida de Rua, fila, night run]
 ---
 Neste sábado, 13 de maio, aconteceu no autódromo de Interlagos a Fila Night Run, primeira etapa de 2012 em São Paulo. O evento, apesar de cada vez mais caro, justifica o preço com suas varias atrações, muita música, luz e animação, um clima bem gostoso para correr. Geralmente se paga mais caro para umas corridas grandes que não oferecem metade disso.
 
@@ -40,20 +40,22 @@ Por volta das 22h40min saí do autódromo, rumo para casa. Trajeto de volta foi 
 
 A próxima é a corrida da Tribuna FM de Santos, hotel ja reservado, é só descer e curtir mais uma corrida :)
 
-<strong>Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/05/nightrun_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/05/nightrun.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 7978</li>
-	<li><strong>Tempo Final:</strong> 00:56:35.87</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10K</li>
-	<li><strong>Tempo Bruto:</strong> 00:58:55.16</li>
-	<li><strong>Classificação Total:</strong> 1277</li>
-	<li><strong>Classificação por Categoria:</strong> 238</li>
-	<li><strong>Classificação por Sexo:</strong> 1161</li>
-	<li><strong>Pace Médio:</strong> 05:39 min/km</li>
-	<li><strong>Velocidade Média Total: </strong>10,60 km/h</li>
-</ul>
-&nbsp;
+## Resultado:
 
-&nbsp;
+
+<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/05/nightrun_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/05/nightrun.jpg" alt="" /></a></div>
+
+* **Número de Peito:** 7978
+* **Tempo Final:** 00:56:35.87
+* **Categoria:** M2529
+* **Modalidade:** 10K
+* **Tempo Bruto:** 00:58:55.16
+* **Classificação Total:** 1277
+* **Classificação por Categoria:** 238
+* **Classificação por Sexo:** 1161
+* **Pace Médio:** 05:39 min/km
+* **Velocidade Média Total:**10,60 km/h
+
+
+
+

@@ -4,7 +4,7 @@ title: Dicas para seu primeiro triathlon
 date: 2012-02-01 14:06
 author: diego
 comments: true
-categories: [Corrida de Rua, dicas, triathlon]
+tags: [Corrida de Rua, dicas, triathlon]
 ---
 A decisão está tomada, você aceitou o desafio e quer participar de seu primeiro triathlon em 2012. Independente de sua atual forma física, seja um corredor experiente ou até mesmo um iniciante em esportes em geral, algumas dicas são fundamentais para seu primeiro triathlon.
 
@@ -58,6 +58,6 @@ Uma vez que você cruzar o pórtico de chegada, curta o momento e a conquista, e
 Ironguides
 Vinícius Santana – ironguides coach, Rio de Janeiro
 Via <a href="http://www.ativo.com/Esportes/Pages/dicasparaseuprimeirotriathlon2.aspx" target="_blank">Ativo.com</a>
-ativo.com</ul>
+ativo.com
 
 

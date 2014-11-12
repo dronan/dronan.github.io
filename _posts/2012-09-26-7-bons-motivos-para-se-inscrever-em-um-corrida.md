@@ -4,7 +4,7 @@ title: 7 (bons) motivos para se inscrever em um corrida
 date: 2012-09-26 10:18
 author: diego
 comments: true
-categories: [Corrida de Rua, dicas]
+tags: [Corrida de Rua, dicas]
 ---
 <strong>1.Ganhar presentes
 </strong>Atualmente, os kits de participação dos corredores vão dos mais básicos, contendo apenas camiseta,chip de cronometragem  número de peito, aos mais luxuosos, com a opção de squeezes, toalhas, meias, bolsas, bonés, toucas, viseiras e chinelos. Varia de acordo com a temática do evento, da época do ano e do preço da inscrição, mas ter opções de kits para agradar diversos gostos e "bolsos" é um bom motivo para você fazer nscrição em uma prova.

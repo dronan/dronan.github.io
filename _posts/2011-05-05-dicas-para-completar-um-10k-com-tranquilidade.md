@@ -4,7 +4,7 @@ title: Dicas para completar um 10K com tranqüilidade
 date: 2011-05-05 09:17
 author: diego
 comments: true
-categories: [Corrida de Rua, corrida de rua, dicas]
+tags: [Corrida de Rua, corrida de rua, dicas]
 ---
 Saiba como participar e terminar com segurança uma 10K. É só tomar alguns cuidados, principalmente para quem vai participar pela primeira vez.
 

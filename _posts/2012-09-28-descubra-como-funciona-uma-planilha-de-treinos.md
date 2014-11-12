@@ -4,7 +4,7 @@ title: Descubra como funciona uma planilha de treinos
 date: 2012-09-28 12:38
 author: diego
 comments: true
-categories: [Corrida de Rua, dicas, treinos]
+tags: [Corrida de Rua, dicas, treinos]
 ---
 Comece a segunda-feira com 45’LE, passe para 6 x (4’LE/2’MO) na quarta e termine a semana com 2 km LE, 8 km MO e 2 km FO. Parece termos complicados para quem não entende nada de treinamento e muito menos de corridas, mas, quem está acostumado a treinar conhece bem esses amontoados de números e siglas aí de cima e sabe que eles representam nada mais nada menos que um pequeno trecho de uma planilha de treino. E é justamente sobre ela que vamos falar a seguir.
 

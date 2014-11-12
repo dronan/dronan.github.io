@@ -4,7 +4,7 @@ title: Confira 9 opções de lanches prontos (ou quase) para seu próximo treino
 date: 2012-07-10 16:12
 author: diego
 comments: true
-categories: [Corrida, Corrida de Rua, nutricao, pre treino]
+tags: [Corrida, Corrida de Rua, nutricao, pre treino]
 ---
 <em><strong>Por Jessica Girdwain (<a href="http://runnersworld.abril.com.br/materias/opcoes/" target="_blank">Runners</a>)</strong></em>
 <div>

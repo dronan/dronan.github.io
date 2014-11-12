@@ -4,7 +4,7 @@ title: Menos é mais - Falta de tempo não é desculpa
 date: 2012-10-19 16:26
 author: diego
 comments: true
-categories: [Corrida de Rua, corridas, pouco tempo, tempo, treinos]
+tags: [Corrida de Rua, corridas, pouco tempo, tempo, treinos]
 ---
 Ganhe velocidade e condicionamento mesmo sem treinar tanto quanto gostaria
 
@@ -32,4 +32,4 @@ Manter uma rotina de treinos consistente não é desafio só para os iniciantes:
 
 <img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/10/box2.gif" alt="" />
 
-<strong>Fonte:</strong> <a href="http://runnersworld.abril.com.br/materias/menosmais/" target="_blank">Runners</a>
+<strong>Fonte:** <a href="http://runnersworld.abril.com.br/materias/menosmais/" target="_blank">Runners</a>

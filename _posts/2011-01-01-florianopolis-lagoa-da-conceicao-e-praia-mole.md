@@ -4,7 +4,7 @@ title: Florianópolis – 6º dia; Lagoa da Conceição e Praia Mole
 date: 2011-01-01 22:45
 author: diego
 comments: true
-categories: [barba negra, camarao, centro, embau, joaquina, praia mole, salmao, sequencia, ticen, titri, Viagens]
+tags: [barba negra, camarao, centro, embau, joaquina, praia mole, salmao, sequencia, ticen, titri, Viagens]
 ---
 Depois do ultimo dia do ano, o primeiro dia! Acordamos depois de 4 horas da noite anterior, cerca de 08h30min da manha. Primeira providencia não perder o café da manha (vai até as 09h00min), e segunda providencia: ir aproveitar os últimos momentos em Floripa, o que é bom não passa, voa, infelizmente.
 

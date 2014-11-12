@@ -4,15 +4,17 @@ title: Circuito das Estações Adidas - Etapa São Paulo / Outono
 date: 2011-03-18 11:39
 author: diego
 comments: true
-categories: [10k, adidas, circuito das estações, Corrida de Rua, corrida de rua]
+tags: [10k, adidas, circuito das estações, Corrida de Rua, corrida de rua]
 ---
 Está chegando a primeira etapa do Circuito das Estações da Adidas de 2011 em São Paulo. A corrida de rua acontece no próximo domingo, as 8 horas da manha, na região do Pacaembu naquele já conhecido e típico trajeto dos 10k, que envolvem basicamente a Av. Pacaembu e o Elevado Costa e Silva.
+
+
 
 <div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/03/mapaEstacoesSP.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/03/mapaEstacoesSP.jpg" alt=""  class="imgTitulo" /></a></div>
 
 Hoje e amanha acontece a retirada do kit na loja <strong>Velocità Moema</strong>, no endereço <strong>Av. Pavão, 342, Moema, São Paulo</strong>
 
-<strong>Horários:</strong>
+<strong>Horários:**
 Sexta das 10h as 20h
 Sabado das 10h as 18h
 

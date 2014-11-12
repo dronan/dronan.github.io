@@ -37,5 +37,5 @@ Percurso pesado, com ponto de hidratação com água gelada a cada 3km, foi mais
 * **Classificação por Faixa Etária:**  84/217
 * **Classificação por Sexo:**  1178/3107
 * **Pace Médio:**  05:20 min/km
-* **Velocidade Média Total: **  11,40 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/modern/activity/547479308" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  11,40 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/modern/activity/547479308" target="_blank">Garmin</a>

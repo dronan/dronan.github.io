@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: 46ª Sargento Gonzaguinha
+title: Relato - 46ª Sargento Gonzaguinha
 date: 2012-12-16 14:01
 author: diego
 comments: true
-categories: [15k, Corrida de Rua, corrida de rua, gonzaguinha, relato, santana, zona norte]
+tags: [15k, Corrida de Rua, corrida de rua, gonzaguinha, relato, santana, zona norte]
 ---
 Neste 16 de dezembro, domingo, foi realizada a 46ª edição da tradicional corrida "Sargento Gonzaguinha" pelas ruas da Zona Norte de São Paulo. Corrida que conta com distancia de 15K além de uma caminhada de cerca de 3K e é tida como o último teste para muitos antes de encarar a São Silvestre no último dia do ano.
 
@@ -28,19 +28,20 @@ Apesar de tudo, é mais uma corrida que vale a pena participar, trajeto único q
 
 Para fechar o ano agora, dia 31, São Silvestre!
 
-<strong>
-Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/gonzaguinha_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/gonzaguinha.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 2011</li>
-	<li><strong>Tempo Final:</strong> 01:28:43</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 15k</li>
-	<li><strong>Tempo Bruto:</strong> 01:32:52</li>
-	<li><strong>Classificação Total:</strong> 1295</li>
-	<li><strong>Classificação por Faixa Etária:</strong> 80</li>
-	<li><strong>Pace Médio:</strong> 05:55 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 10,14 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="https://motoactv.com/public/show?workoutActivityId=04UszuJPTzirPEMObRF2KA%3D%3D&amp;activity=1" target="_blank">Motoactv</a></li>
-</ul>
-&nbsp;
+
+* **Número de Peito:** 2011
+* **Tempo Final:** 01:28:43
+* **Categoria:** M2529
+* **Modalidade:** 15k
+* **Tempo Bruto:** 01:32:52
+* **Classificação Total:** 1295
+* **Classificação por Faixa Etária:** 80
+* **Pace Médio:** 05:55 min/km
+* **Velocidade Média Total:** 10,14 km/h
+* **Informações Gerais:** <a href="https://motoactv.com/public/show?workoutActivityId=04UszuJPTzirPEMObRF2KA%3D%3D&amp;activity=1" target="_blank">Motoactv</a>
+
+

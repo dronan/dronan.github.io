@@ -4,7 +4,7 @@ title: Correr ouvindo música melhora a perfomance
 date: 2011-10-27 16:07
 author: diego
 comments: true
-categories: [Corrida, Corrida de Rua, dicas, musica]
+tags: [Corrida, Corrida de Rua, dicas, musica]
 ---
 A música está para a corrida assim como a água está para matar a sede. 
 

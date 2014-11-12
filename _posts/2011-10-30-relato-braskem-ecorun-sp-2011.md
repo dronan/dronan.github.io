@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: Braskem EcoRun - SP - 2011
+title: Relato - Braskem EcoRun - SP - 2011
 date: 2011-10-30 18:50
 author: diego
 comments: true
-categories: [10k, braskem, Corrida de Rua, corrida de rua, eco, relato, run]
+tags: [10k, braskem, Corrida de Rua, corrida de rua, eco, relato, run]
 ---
 Neste fim de semana aconteceu etapa São Paulo da Braskem EcoRun, com um clima nublado após um sabado de muito calor.
 
@@ -24,20 +24,22 @@ Não sei porque mas quase quebro no meio da prova. Excesso de treino na semana d
 
 Próxima corrida é a da Samsung - Zumbi dos Palmares, penultima (?) do ano. Até la!
 
-<strong>Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/10/braskem_2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/10/braskem_2011.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 2790</li>
-	<li><strong>Tempo Final:</strong> 00:59:06</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10K</li>
-	<li><strong>Tempo Bruto:</strong> 01:01:20.29</li>
-	<li><strong>Classificação Total:</strong> 1077</li>
-	<li><strong>Classificação por Categoria:</strong> 144</li>
-	<li><strong>Classificação por Sexo:</strong> 984</li>
-	<li><strong>Pace Médio:</strong> 05:54 min/km</li>
-	<li><strong> Velocidade Média Total:</strong> 10:01 km/h</li>
-</ul>
-&nbsp;
+## Resultado:
 
-&nbsp;
+
+<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/10/braskem_2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/10/braskem_2011.jpg" alt="" /></a></div>
+
+* **Número de Peito:** 2790
+* **Tempo Final:** 00:59:06
+* **Categoria:** M2529
+* **Modalidade:** 10K
+* **Tempo Bruto:** 01:01:20.29
+* **Classificação Total:** 1077
+* **Classificação por Categoria:** 144
+* **Classificação por Sexo:** 984
+* **Pace Médio:** 05:54 min/km
+* ** Velocidade Média Total:** 10:01 km/h
+
+
+
+

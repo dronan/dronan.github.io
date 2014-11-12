@@ -57,5 +57,5 @@ Próximo domingo tem mais, em casa agora. Penúltimo desafio do ano antes das "f
 * **Classificação Total:**  5105º
 * **Classificação por Faixa Etária:**  460
 * **Pace Médio:**  06:27 min/km
-* **Velocidade Média Total: **  09,30 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/411966544" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  09,30 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/411966544" target="_blank">Garmin</a>

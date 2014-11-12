@@ -4,9 +4,11 @@ title: Cuidado para não passar do limite nos treinos: o overtraining e seus efe
 date: 2011-06-15 22:22
 author: diego
 comments: true
-categories: [Corrida, Corrida de Rua, lesão, overtraining, treino]
+tags: [Corrida, Corrida de Rua, lesão, overtraining, treino]
 ---
 <p>A treinadora e professora de ioga Adriana Camargo corria 21 km no asfalto e 16 km na areia fofa durante a semana. Aos domingos, o trajeto costumava ser de 30 km. Treinos intensos e um vício pelo esporte, que quase não foi minado por conta de um problema sério: o overtraining. Estado de fadiga crônica, causado pelo excesso de treinamento ou recuperação insuficiente, ele foi agindo silenciosamente até estourar de uma vez só. Além das dores e demais consequências, o diagnóstico médico assustou Adriana: ela teria que parar de correr e não poderia sequer sentar tranquilamente numa poltrona de cinema.</p>
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/06/adrianacamargo_60.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/06/adrianacamargo_60.jpg" alt="" /></a></div><p>- O médico perguntou se eu estava tentando suicídio e falou que eu não poderia nunca mais correr e, muito menos, praticar ioga. Disse também que não daria para ir ao cinema sem sentir dor. Mas decidi não seguir os conselhos dele de operar. Procurei tratamentos alternativos, como acupuntura, um ioga mais leve e fiquei repousando bastante tempo. Voltei aos poucos e hoje consigo fazer todos os movimentos de ioga. Estou 100% recuperada - diz Adriana, que reclama principalmente das dores nas articulações.</p>
 
 <p>Sem cuidados, os treinos de Adriana aconteciam de domingo a domingo, sem descanso, garante. A professora de ioga diz que os sintomas foram evoluindo de forma gradativa, mas ela não deu muita atenção. Até que tudo estourou de uma vez só.</p>

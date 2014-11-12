@@ -4,7 +4,7 @@ title: Entrevista com o Dr. Drauzio Varella pela Runners
 date: 2012-03-23 17:56
 author: diego
 comments: true
-categories: [Corrida, Corrida de Rua, dicas, maratona, treino]
+tags: [Corrida, Corrida de Rua, dicas, maratona, treino]
 ---
 Gostei de uma entrevista com o Dr. Drauzio Varella, reproduzindo a matéria aqui no blog:
 

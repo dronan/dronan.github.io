@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: Tricolor Run
+title: Relato - Tricolor Run
 date: 2012-11-16 16:11
 author: diego
 comments: true
-categories: [coisa da boa, Corrida, Corrida de Rua, morumbi, nike, são paulo, spfc]
+tags: [coisa da boa, Corrida, Corrida de Rua, morumbi, nike, são paulo, spfc]
 ---
 O São Paulo realizou neste feriado de 15 de novembro a primeira edição da Tricolor Run, corrida no entorno do estádio do Morumbi com percursos de 4K e 8K, contando com a presença de 3 mil atletas, tendo como temática a lembrança dos 20 anos da conquista do primeiro título mundial de futebol do clube.
 
@@ -33,19 +33,20 @@ Agora á aguardar a Disney Magic Run no domingo. Hoje, sexta, retiro o kit.
 Até la!
 
 
-<strong>
-Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/11/tricolorrun_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/11/tricolorrun.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 8834</li>
-	<li><strong>Tempo Final:</strong> 00:42:33</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 8k</li>
-	<li><strong>Tempo Bruto:</strong> 00:44:59</li>
-	<li><strong>Classificação Total:</strong> 352</li>
-	<li><strong>Classificação por Categoria:</strong> 70</li>
-	<li><strong>Pace Médio:</strong> 5:19 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 11,28 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="https://motoactv.com/public/show?workoutActivityId=T2/6S3pPRsGuTEv%2BiNffTA%3D%3D&activity=1" target="_blank">Motoactv</a></li>
-</ul>
-&nbsp;
+
+* **Número de Peito:** 8834
+* **Tempo Final:** 00:42:33
+* **Categoria:** M2529
+* **Modalidade:** 8k
+* **Tempo Bruto:** 00:44:59
+* **Classificação Total:** 352
+* **Classificação por Categoria:** 70
+* **Pace Médio:** 5:19 min/km
+* **Velocidade Média Total:** 11,28 km/h
+* **Informações Gerais:** <a href="https://motoactv.com/public/show?workoutActivityId=T2/6S3pPRsGuTEv%2BiNffTA%3D%3D&activity=1" target="_blank">Motoactv</a>
+
+

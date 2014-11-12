@@ -4,7 +4,7 @@ title: Como escolher o tênis adequado para a prática de corrida de rua
 date: 2012-05-22 18:54
 author: diego
 comments: true
-categories: [Corrida de Rua, corridas, dicas, fisioterapia, tenis]
+tags: [Corrida de Rua, corridas, dicas, fisioterapia, tenis]
 ---
 Por <strong>David Homsi</strong>
 Rio de Janeiro

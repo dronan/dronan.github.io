@@ -4,7 +4,7 @@ title: Com o equipamento certo em mãos, é hora de o iniciante montar o treino
 date: 2012-03-21 16:04
 author: diego
 comments: true
-categories: [cooper, Corrida, Corrida de Rua, dicas, treino]
+tags: [cooper, Corrida, Corrida de Rua, dicas, treino]
 ---
 <em>Preparador físico ressalta a importância de uma avaliação física criteriosa antes de mais nada e enfatiza que o atleta nunca deve ultrapassar o limite</em>
 
@@ -26,4 +26,4 @@ Independentemente do que o iniciante almeja, todos devem iniciar com treinos lev
 
 Para você que não gosta de praticar esportes sozinho, opte pelo vôlei, basquete, futebol ou até mesmo participar dos grupos de corrida. Estudos comprovam que o aluno que treina acompanhado se sente mais motivado do que quando está sozinho. A corrida, por exemplo, um esporte, em tese, solitário, é onde mais se faz amigos. E não se esqueça de sempre alongar antes e depois de praticar qualquer atividade física.
 
-<strong>Fonte:</strong> <a href="http://globoesporte.globo.com/eu-atleta/noticia/2012/03/com-o-equipamento-certo-em-maos-e-hora-de-o-iniciante-montar-o-treino.html" target="_blank">Globo.com</a>
+<strong>Fonte:** <a href="http://globoesporte.globo.com/eu-atleta/noticia/2012/03/com-o-equipamento-certo-em-maos-e-hora-de-o-iniciante-montar-o-treino.html" target="_blank">Globo.com</a>

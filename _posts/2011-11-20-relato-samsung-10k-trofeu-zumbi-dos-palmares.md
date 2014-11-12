@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Relato: Samsung 10K Troféu Zumbi dos Palmares
+title: Relato - Samsung 10K Troféu Zumbi dos Palmares
 date: 2011-11-20 17:49
 author: diego
 comments: true
-categories: [10k, Corrida, Corrida de Rua, ibirapuera, rubem berta, samsung, zumbi dos palmares]
+tags: [10k, Corrida, Corrida de Rua, ibirapuera, rubem berta, samsung, zumbi dos palmares]
 ---
 Neste domingo, dia 20, ocorreu a 10ª edição da corrida Samsung - Troféu Zumbi dos Palmares, em São Paulo, no tradicional percurso de 10K, ou opção da caminhada para os 3,1K de prova.
+
+
 
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/11/SamsungZumbiDosPalmares.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/11/SamsungZumbiDosPalmares.jpg" alt="" class="imgTitulo" /></a></div>
 
@@ -28,20 +30,22 @@ Fechei a prova em pouco mais de 58 minutos.
 
 Faltam mais 2 para fechar o ano!
 
-<strong>Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/11/samsung_2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/11/samsung_2011.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 5244</li>
-	<li><strong>Tempo Final:</strong> 00:58:05</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10K</li>
-	<li><strong>Tempo Bruto:</strong> 01:00:33</li>
-	<li><strong>Classificação Total:</strong> 1886/4158</li>
-	<li><strong>Classificação por Categoria:</strong> 155/283</li>
-	<li><strong>Classificação por Sexo:</strong> 1679/3210</li>
-	<li><strong>Pace Médio:</strong> 5:48 min/km</li>
-	<li><strong> Velocidade Média Total:</strong> 10,33 km/h</li>
-</ul>
-&nbsp;
+## Resultado:
 
-&nbsp;
+
+<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/11/samsung_2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/11/samsung_2011.jpg" alt="" /></a></div>
+
+* **Número de Peito:** 5244
+* **Tempo Final:** 00:58:05
+* **Categoria:** M2529
+* **Modalidade:** 10K
+* **Tempo Bruto:** 01:00:33
+* **Classificação Total:** 1886/4158
+* **Classificação por Categoria:** 155/283
+* **Classificação por Sexo:** 1679/3210
+* **Pace Médio:** 5:48 min/km
+* ** Velocidade Média Total:** 10,33 km/h
+
+
+
+

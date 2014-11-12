@@ -4,11 +4,13 @@ title: Analise: Balanço de 2011
 date: 2012-01-12 11:11
 author: diego
 comments: true
-categories: [2011, analise, Corrida de Rua, corridas]
+tags: [2011, analise, Corrida de Rua, corridas]
 ---
 2011: Um ano que começou com o objetivo de começar a correr os 10K, nem cogitando uma São Silvestre e terminar o ano na Paulista correndo os 15K com direito a muita chuva! Foi a primeira corrida que peguei um tempo assim alias!! Além de muita subida.
 
 Consegui manter a média de correr pelo menos uma corrida por mês, seja no sol, na chuva, no frio ou no calor.
+
+
 <div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/01/balanco2011_big.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/01/balanco2011.JPG" alt="" /></a></div>
 Não consegui fechar o Circuito das Estações Adidas, devido ao Rock in Rio, mas compensei com corridas que não estavam no script no começo do ano, script que sempre planejamos mas nem sempre da para seguir a risca.
 

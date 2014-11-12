@@ -4,7 +4,7 @@ title: Desvende as zonas de treinamento
 date: 2012-10-03 10:08
 author: diego
 comments: true
-categories: [cardio, Corrida de Rua, dicas, frequencia, treinamento, zona]
+tags: [cardio, Corrida de Rua, dicas, frequencia, treinamento, zona]
 ---
 Se você tem vontade de calçar os tênis e ir logo para as ruas, fique atento: antes de começar a treinar, é imprescindível que se visite um especialista para que seja feito um exame ergométrico ou ergoespirométrico – este último permite identificar as zonas ideais para o treinamento aeróbio – com a finalidade de analisar a resposta hemodinâmica, ou seja, a pressão e o movimento da circulação sanguínea, e das frequências cardíacas.
 
@@ -28,7 +28,7 @@ Há duas maneiras de se medir a frequência cardíaca: pelos monitores de frequ�
 
 <strong>Zona de esforço máximo: </strong>Utiliza entre 90% e 100% da FC máx. e é usada por atletas que precisam de explosão, como Usain Bolt nos 100 metros. Porém, nessa zona o risco de lesão é alto e o treino deve ser intercalado com outros mais leves, como a zona de manutenção.
 
-&nbsp;
+
 
 (Fontes: Renato Dutra, supervisor técnico da Run&amp;Fun Assessoria Esportiva, Bacharel em esporte pela Escola de Educação Física e Esporte da Universidade de São Paulo (USP) e especializado em treinamento desportivo pela Escola Paulista de Medicina e Fernando Pessoa, professor da Race Consultoria Esportiva e graduado pela Faculdade de Educação Física de Santo André (FEFISA)
 

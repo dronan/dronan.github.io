@@ -4,7 +4,7 @@ title: Estabelecer várias metas facilita na hora de vencer uma prova
 date: 2011-11-05 13:36
 author: diego
 comments: true
-categories: [Corrida, Corrida de Rua, dicas, metas]
+tags: [Corrida, Corrida de Rua, dicas, metas]
 ---
 <img src="http://exame.abril.com.br/assets/pictures/32209/size_590_Prova_de_corrida.jpg" alt="Concentrar-se apenas no tempo pode prejudicar seu desempenho" class="imgTitulo" /> São Paulo - Diga a outro corredor que você tem uma prova programada. Ele provavelmente responderá com uma pergunta: "Vai fazer pra quanto?" Temos essa mania de medir o sucesso pelos minutos. Mas concentrar-se apenas no tempo pode prejudicar seu desempenho, diz Patty Finke, treinadora em Oregon (EUA). Afinal, não fazer aquele tempo estipulado depois de tanto treino "é tão deprimente que você pode acabar desistindo".
 

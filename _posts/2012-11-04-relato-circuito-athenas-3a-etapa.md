@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: Circuito Athenas - 3ª etapa
+title: Relato - Circuito Athenas - 3ª etapa
 date: 2012-11-04 14:45
 author: diego
 comments: true
-categories: [21k, athenas, Corrida, Corrida de Rua, meia maratona]
+tags: [21k, athenas, Corrida, Corrida de Rua, meia maratona]
 ---
 Neste domingo, 04 de novembro, foi realizada a terceira e última etapa do Circuito Athenas, circuito de distancias progressivas, iniciando em 10k na primeira etapa, 16k na segunda etapa e fechando com distancia máxima de 21k na terceira etapa.
 
@@ -20,19 +20,20 @@ Ainda para ajudar, por volta do km 13 comecei a sentir um desconforto no estôma
 
 Não atingimos o objetivo proposto, faltou perna, treino específico, alimentação correta e inteligência para não ignorar o que o corpo pede, se me desse ouvidos a historia poderia ser diferente. Mas meia, ano que vem tem mais!!
 
-<strong>
-Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/11/athenas_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/11/athenas.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 6353</li>
-	<li><strong>Tempo Final:</strong> 2:12:26</li>
-	<li><strong>Categoria:</strong> M2130</li>
-	<li><strong>Modalidade:</strong> 21k</li>
-	<li><strong>Tempo Bruto:</strong> 02:17:24</li>
-	<li><strong>Classificação Total:</strong> 959</li>
-	<li><strong>Classificação por Categoria:</strong> 123/148</li>
-	<li><strong>Pace Médio:</strong> 6:18 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 9,51 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="https://motoactv.com/public/show?workoutActivityId=TiwLF18UQ3Kv0841BAJyCA%3D%3D&amp;activity=1" target="_blank">Motoactv</a></li>
-</ul>
-&nbsp;
+
+* **Número de Peito:** 6353
+* **Tempo Final:** 2:12:26
+* **Categoria:** M2130
+* **Modalidade:** 21k
+* **Tempo Bruto:** 02:17:24
+* **Classificação Total:** 959
+* **Classificação por Categoria:** 123/148
+* **Pace Médio:** 6:18 min/km
+* **Velocidade Média Total:** 9,51 km/h
+* **Informações Gerais:** <a href="https://motoactv.com/public/show?workoutActivityId=TiwLF18UQ3Kv0841BAJyCA%3D%3D&amp;activity=1" target="_blank">Motoactv</a>
+
+

@@ -4,7 +4,7 @@ title: Inscrições para a Corrida de São Silvestre alcançam 17 mil corredores
 date: 2011-11-16 12:15
 author: diego
 comments: true
-categories: [15k, Corrida, Corrida de Rua, sao silvestre]
+tags: [15k, Corrida, Corrida de Rua, sao silvestre]
 ---
 As inscrições para a tradicional Corrida de São Silvestre entraram na fase final: faltam apenas 30% das vagas para a principal prova de rua do país. Até agora 17 mil corredores estão confirmados para correr no último dia do ano, na cidade de São Paulo. E, você, já confirmou sua participação?
 
@@ -35,4 +35,4 @@ A competição terá os seguintes horários de largada:
 
 Fonte: <a href="http://globoesporte.globo.com/atletismo/corrida-de-rua/noticia/2011/11/inscricoes-para-corrida-de-sao-silvestre-alcancam-17-mil-corredores.html" target="_blank">GloboEsporte</a>
 
-&nbsp;
+

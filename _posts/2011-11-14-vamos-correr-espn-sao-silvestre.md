@@ -4,7 +4,7 @@ title: Vamos Correr - ESPN - São Silvestre
 date: 2011-11-14 16:34
 author: diego
 comments: true
-categories: [Corrida de Rua, desrespeito, espn, novo percurso, sao silvestre, tradicao, yescom]
+tags: [Corrida de Rua, desrespeito, espn, novo percurso, sao silvestre, tradicao, yescom]
 ---
 A ESPN Brasil apresentou no programa Vamos Correr uma materia sobre o descaso do "dono" da São Silvestre a respeito das mudanças de percurso.
 

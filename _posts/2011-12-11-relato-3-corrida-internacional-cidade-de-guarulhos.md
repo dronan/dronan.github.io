@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Relato: 3ª Corrida Internacional Cidade de Guarulhos
+title: Relato - 3ª Corrida Internacional Cidade de Guarulhos
 date: 2011-12-11 12:27
 author: diego
 comments: true
-categories: [10k, Corrida, Corrida de Rua, Guarulhos, maia]
+tags: [10k, Corrida, Corrida de Rua, Guarulhos, maia]
 ---
 Neste domingo nublado aconteceu a 3ª edição da Corrida Internacional Cidade de Guarulhos, com as distancias de 5K e 10K, pelas ruas do Maia no Centro da cidade.
+
+
 <div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/corrida_grs_01.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/corrida_grs_01.JPG" alt="" width="547" height="364" /></a></div>
 Diferentemente do ano passado, o sol escondido entre as nuvens dutante toda a prova, o que ajudou e muito! Estava com certo receio, comparando com o que foi no ano passado, que quase quebro nos 5K. Tudo bem que na época era minha 2ª ou 3ª prova mas mesmo assim, o desgaste é enorme, tanto que muita gente passou mal na época devido ao calor.
 
@@ -32,20 +34,22 @@ Não sei se foi o fato da música ter acompanhado, mas estou menos cansado e ter
 
 Agora que venha a São Silvestre, mas sem música porque chove :( Minha primeira 15K, dependendo de como me sair, decido fazer (ou não) os 21K da meia maratona em março.
 
-<strong>Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/3corrida_grs2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/3corrida_grs2011.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 1587</li>
-	<li><strong>Tempo Final:</strong> 00:55:56</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10K</li>
-	<li><strong>Tempo Bruto:</strong> 00:56:21</li>
-	<li><strong>Classificação Total:</strong> 480</li>
-	<li><strong>Classificação por Categoria:</strong> N/D</li>
-	<li><strong>Classificação por Sexo:</strong> N/D</li>
-	<li><strong>Pace Médio:</strong> 05:35 min/km</li>
-	<li><strong> Velocidade Média Total:</strong> 10,73km/h</li>
-</ul>
-&nbsp;
+## Resultado:
 
-&nbsp;
+
+<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/3corrida_grs2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/3corrida_grs2011.jpg" alt="" /></a></div>
+
+* **Número de Peito:** 1587
+* **Tempo Final:** 00:55:56
+* **Categoria:** M2529
+* **Modalidade:** 10K
+* **Tempo Bruto:** 00:56:21
+* **Classificação Total:** 480
+* **Classificação por Categoria:** N/D
+* **Classificação por Sexo:** N/D
+* **Pace Médio:** 05:35 min/km
+* ** Velocidade Média Total:** 10,73km/h
+
+
+
+

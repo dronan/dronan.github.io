@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: Corrida Corpore de Natal - 5K
+title: Relato - Corrida Corpore de Natal - 5K
 date: 2011-12-04 13:28
 author: diego
 comments: true
-categories: [5k, corpore, Corrida, Corrida de Rua, natal, recorde pessoal]
+tags: [5k, corpore, Corrida, Corrida de Rua, natal, recorde pessoal]
 ---
 Neste domingo ocorreu a corrida festiva de encerramento de mais um ano de corridas do calendário da Corpore, a Corrida Corpore de Natal.
 
@@ -24,20 +24,22 @@ Fazia tempo que não fazia uma de 5K, deu para sentir uma evoluida com essa baix
 
 Lado curioso: Ja paguei caro por corridas que não chegaram nem aos pés desta, que foi na faixa.
 
-<strong>Resultado:</strong>
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/natalcorpore_2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/natalcorpore_2011.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 1035</li>
-	<li><strong>Tempo Final:</strong> 00:25:48.45</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 5K</li>
-	<li><strong>Tempo Bruto:</strong>00:26:28.52</li>
-	<li><strong>Classificação Total:</strong> 527</li>
-	<li><strong>Classificação por Categoria:</strong> 61</li>
-	<li><strong>Classificação por Sexo:</strong> 482</li>
-	<li><strong>Pace Médio:</strong> 05:09 min/km</li>
-	<li><strong> Velocidade Média Total:</strong> 11,63 km/h</li>
-</ul>
-&nbsp;
+## Resultado:
 
-&nbsp;
+
+<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/natalcorpore_2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/natalcorpore_2011.jpg" alt="" /></a></div>
+
+* **Número de Peito:** 1035
+* **Tempo Final:** 00:25:48.45
+* **Categoria:** M2529
+* **Modalidade:** 5K
+* **Tempo Bruto:**00:26:28.52
+* **Classificação Total:** 527
+* **Classificação por Categoria:** 61
+* **Classificação por Sexo:** 482
+* **Pace Médio:** 05:09 min/km
+* ** Velocidade Média Total:** 11,63 km/h
+
+
+
+

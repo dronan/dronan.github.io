@@ -71,5 +71,5 @@ Valeu galera e que venham as próximas!!
 * **Classificação Categoria:**  54
 * **Classificação Geral:**  288
 * **Pace Médio:**  05:42 min/km
-* **Velocidade Média Total: **  10,50 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/315287690" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  10,50 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/315287690" target="_blank">Garmin</a>

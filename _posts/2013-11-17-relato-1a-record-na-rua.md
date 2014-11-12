@@ -42,5 +42,5 @@ Finalizei a corrida em 52 minutos, o mesmo tempo do ano passado, entre os meus m
 * **Classificação Total:**  738/2219
 * **Classificação por Faixa Etária:**  44/117
 * **Pace Médio:**  05:14 min/km
-* **Velocidade Média Total: **  11,60 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/405516024" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  11,60 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/405516024" target="_blank">Garmin</a>

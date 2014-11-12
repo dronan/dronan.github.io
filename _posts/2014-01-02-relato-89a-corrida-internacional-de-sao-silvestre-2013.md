@@ -71,5 +71,5 @@ A todos um Feliz 2014!!
 * **Classificação Total:**  9164
 * **Classificação por Faixa Etária:**  752
 * **Pace Médio:**  06:24 min/km
-* **Velocidade Média Total: **  09,38 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/423311751" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  09,38 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/423311751" target="_blank">Garmin</a>

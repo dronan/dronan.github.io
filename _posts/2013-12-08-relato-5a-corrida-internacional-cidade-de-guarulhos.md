@@ -42,5 +42,5 @@ Uma critica construtiva: se quiserem levar mesmo a sério esta corrida, tornar u
 * **Classificação Total:**  468
 * **Classificação por Faixa Etária:**  39
 * **Pace Médio:**  05:40 min/km
-* **Velocidade Média Total: **  10,60 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/413629806" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  10,60 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/413629806" target="_blank">Garmin</a>

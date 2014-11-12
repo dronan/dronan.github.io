@@ -47,6 +47,6 @@ Próxima prova é os 15k de Barueri, semana que vem.
 * **Classificação Total:**  2918
 * **Classificação por Faixa Etária:**  208
 * **Pace Médio:**  06:00 min/km
-* **Velocidade Média Total: **  10,00 km/h
-* **Informações Gerais: ** <a href="http://bit.ly/ZjcfXz" target="_blank">Motoactv</a>
+* **Velocidade Média Total:**  10,00 km/h
+* **Informações Gerais:** <a href="http://bit.ly/ZjcfXz" target="_blank">Motoactv</a>
 

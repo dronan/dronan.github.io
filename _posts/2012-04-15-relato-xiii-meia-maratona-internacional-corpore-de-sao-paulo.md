@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Relato: XIII Meia Maratona Internacional Corpore de São Paulo
+title: Relato - XIII Meia Maratona Internacional Corpore de São Paulo
 date: 2012-04-15 15:21
 author: diego
 comments: true
-categories: [21k, corpore, Corrida de Rua, meia maratona]
+tags: [21k, corpore, Corrida de Rua, meia maratona]
 ---
 Neste domingo ocorreu a XIII Meia Maratona Netshoes Corpore Internacional de São Paulo, no ja tradicional percurso que engloba a Cidade Universitária e o bairro do Butantã na Capital, com percursos para dois tipos de gostos: um para quem ta iniciando ou não se sente muito a vontade com a distância da meia maratona, com os 5k, ou os 21k para quem gosta dos grandes desafios.
+
+
 <div class="moldura"><a  class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/Corpore_MeiaMaratona_21K_web.jpg"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/Corpore_MeiaMaratona_21K_web.jpg" alt="" /></a></div>
 
 Optei pelos 21K, minha segunda meia maratona! O objetivo incial foi tentar manter um rítimo relativamente forte para mim, para conseguir fechar, se possível, próximo a 2h10. Não foi possível, mas comento a seguir.
@@ -17,7 +19,9 @@ Sábado também fiz a reposição do gel de malto, o restante to dia ficou para 
 
 Fiz um teste com alimentação, a base de "junk food" (lê-se pizza), como fonte de carboidrato na noite anterior e no café, para ver como seria a diferença de desgaste; uma base para poder fazer uma comparação com a meia da yescom, onde fiz aquela alimentação certinha, no dia anterior a prova e no dia da mesma. Faz sim diferença!
 
-No domingo, devido ao fechamento das vias próximas a USP, tive que madrugar, acordar 4:50 da manhã, tomar um café (pizza) bem rápido, me trocar e voar para la, para chegar antes das 6 da manhã para poder estacionar dentro da Cidade Universitária.<div class="moldura"><a  class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/04/meia_corpore.jpg"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/04/meia_corpore.jpg" alt="" /></a></div>
+No domingo, devido ao fechamento das vias próximas a USP, tive que madrugar, acordar 4:50 da manhã, tomar um café (pizza) bem rápido, me trocar e voar para la, para chegar antes das 6 da manhã para poder estacionar dentro da Cidade Universitária.
+
+<div class="moldura"><a  class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/04/meia_corpore.jpg"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/04/meia_corpore.jpg" alt="" /></a></div>
 
 Consegui, por volta das 6h40min da manhã já estava com o carro estacionado, tempo para ir até a arena do evento, deixar as coisas no guarda-volume, alongar, encontrar um amigo e dar a última passada no banheiro antes de iniciar a corrida.
 
@@ -43,17 +47,19 @@ Na próxima meia maratona quem sabe. Treino agora o mínimo que tenho que fazer 
 
 Próximo desafio: baixar o tempo dos 8k da Indy, vamos ver se consigo!
 
-<strong>Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a  class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/04/meiaSPCorpore2012_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/04/meiaSPCorpore2012.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 5466</li>
-	<li><strong>Tempo Final:</strong> 02:18:20</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 21K</li>
-	<li><strong>Tempo Bruto:</strong> 02:28:34</li>
-	<li><strong>Classificação Total:</strong> 1902</li>
-	<li><strong>Classificação por Categoria:</strong> 85</li>
-	<li><strong>Classificação por Sexo:</strong> 1591</li>
-	<li><strong>Pace Médio:</strong> 6:33 min/km</li>
-	<li><strong>Velocidade Média Total:</strong> 9,13 km/h</li>
-</ul>
+
+* **Número de Peito:** 5466
+* **Tempo Final:** 02:18:20
+* **Categoria:** M2529
+* **Modalidade:** 21K
+* **Tempo Bruto:** 02:28:34
+* **Classificação Total:** 1902
+* **Classificação por Categoria:** 85
+* **Classificação por Sexo:** 1591
+* **Pace Médio:** 6:33 min/km
+* **Velocidade Média Total:** 9,13 km/h
+

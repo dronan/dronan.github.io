@@ -4,7 +4,7 @@ title: Sem ondas de largada por ritmo, em 2012 teremos a Caminhada de São Silve
 date: 2012-01-02 16:47
 author: diego
 comments: true
-categories: [15k, Corrida de Rua, opiniao, sao silvestre]
+tags: [15k, Corrida de Rua, opiniao, sao silvestre]
 ---
 No meio das corridas, sempre há uma piada interna ao ouvir comentários sobre a “Maratona de São Silvestre”, como se matematicamente 15 km fossem iguais a 42 km, são “apenas” 27.195 m de diferença… Algo quase que insignificante! Agora, falando sério, sem realmente uma organização e regras rígidas, teremos em 2012 a “Caminhada de São Silvestre”. Nunca corri uma prova tão cheia e travada como a de ontem (31). Eram 25 mil inscritos (claro que nem todos correram ou concluíram, e ainda teve muita gente “largando” no meio). Some-se ainda milhares de pipocas. Nunca corri uma prova com tantos pipocas. Na largada, era só olhar ao lado para ver muita (mas muita mesmo) gente sem chip ou número. Bem mais do que nos três anos anteriores em que corri. Para ter uma ideia, tive de costurar e correr em ziguezague até a chegada! E não estou exagerando.
 

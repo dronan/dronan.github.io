@@ -42,5 +42,5 @@ Próxima corrida é a SP Classic - Zumbi dos Palmares, no difícil percurso do I
 * **Classificação Total:**  325
 * **Classificação por Faixa Etária:**  27
 * **Pace Médio:**  05:50 min/km
-* **Velocidade Média Total: **  10,03 km/h
-* **Informações Gerais: ** <a href="http://connect.garmin.com/activity/396212034" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  10,03 km/h
+* **Informações Gerais:** <a href="http://connect.garmin.com/activity/396212034" target="_blank">Garmin</a>

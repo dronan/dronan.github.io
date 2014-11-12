@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato: 1ª Disney Magic Run
+title: Relato - 1ª Disney Magic Run
 date: 2012-11-18 14:50
 author: diego
 comments: true
-categories: [10k, 2012, Corrida, Corrida de Rua, disney, são paulo]
+tags: [10k, 2012, Corrida, Corrida de Rua, disney, são paulo]
 ---
 Neste domingo, 18 de novembro, foi realizada a 1ª Disney Magic Run / Troféu Zumbi dos Palmares, com duas opções de prova: Caminhada de 3K e a corrida de 10K. Esta corrida substituiu a "São Paulo Classic" que vinha sendo disputada nesta mesma época e percurso até o ano de 2011.
 
@@ -24,20 +24,21 @@ Ainda no final da prova encontrei o Faria, O Corredor Corretor e demais amigos.
 
 A próxima é a 10K da Cidade de Guarulhos, até la!!
 
-<strong>
-Resultado:</strong>
+## Resultado:
+
+
 <div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/11/disney_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/11/disney.jpg" alt="" /></a></div>
-<ul>
-	<li><strong>Número de Peito:</strong> 2777</li>
-	<li><strong>Tempo Final:</strong> 00:52:26</li>
-	<li><strong>Categoria:</strong> M2529</li>
-	<li><strong>Modalidade:</strong> 10k</li>
-	<li><strong>Tempo Bruto:</strong> 00:53:57</li>
-	<li><strong>Classificação Total:</strong> 799/3288</li>
-	<li><strong>Classificação por Categoria:</strong> 70/227</li>
-	<li><strong>Classificação por Sexo:</strong> 685/2054</li>
-	<li><strong>Pace Médio:</strong> 5:14 min/km</li>
-	<li><strong>Velocidade Média Total: </strong> 11,44 km/h</li>
-	<li><strong>Informações Gerais: </strong><a href="https://motoactv.com/public/show?workoutActivityId=94SSXQnVQDac7dn6lFAZsA%3D%3D&amp;activity=1" target="_blank">Motoactv</a></li>
-</ul>
-&nbsp;
+
+* **Número de Peito:** 2777
+* **Tempo Final:** 00:52:26
+* **Categoria:** M2529
+* **Modalidade:** 10k
+* **Tempo Bruto:** 00:53:57
+* **Classificação Total:** 799/3288
+* **Classificação por Categoria:** 70/227
+* **Classificação por Sexo:** 685/2054
+* **Pace Médio:** 5:14 min/km
+* **Velocidade Média Total:** 11,44 km/h
+* **Informações Gerais:** <a href="https://motoactv.com/public/show?workoutActivityId=94SSXQnVQDac7dn6lFAZsA%3D%3D&amp;activity=1" target="_blank">Motoactv</a>
+
+

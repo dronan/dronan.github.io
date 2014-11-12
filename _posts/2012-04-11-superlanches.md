@@ -4,7 +4,7 @@ title: Superlanches
 date: 2012-04-11 13:29
 author: diego
 comments: true
-categories: [Corrida de Rua, dicas, lanches]
+tags: [Corrida de Rua, dicas, lanches]
 ---
 <h2>Comidinhas gostosas, que saciam a gula e trazem benefícios surpreendentes à saúde</h2>
 Por Nicole Falcone | Foto Jonathan Kantor
