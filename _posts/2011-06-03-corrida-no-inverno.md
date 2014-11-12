@@ -6,7 +6,7 @@ author: diego
 comments: true
 tags: [Corrida de Rua, corrida de rua, corta frio, dicas, inverno, treino, vestimentas]
 ---
-Apesar de estarmos enfrentando temperaturas mais agradáveis, o <strong>frio</strong> não deve demorar a reaparecer. E quem corre (e quem não corre também) sabe que cidades no Sul e Sudeste do país podem ser bem frias logo pela manhã e à noite, quando muitos podem treinar. Como manter a motivação?
+Apesar de estarmos enfrentando temperaturas mais agradáveis, o **frio** não deve demorar a reaparecer. E quem corre (e quem não corre também) sabe que cidades no Sul e Sudeste do país podem ser bem frias logo pela manhã e à noite, quando muitos podem treinar. Como manter a motivação?
 
 Algumas dicas são:
 

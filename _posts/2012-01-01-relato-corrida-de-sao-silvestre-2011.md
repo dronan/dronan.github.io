@@ -19,7 +19,7 @@ A retirada do kit ocorreu no ginásio do Ibirapuera, na quarta / quinta / sexta 
 
 No sábado, dia da corrida e último dia do ano, fiz um almoço comum as 13 horas e as 15 horas, fui com meu tio, Mario, e meu amigo, Leonardo, para a corrida.
 
-Pelo fato da corrida começar em um ponto e terminar em outro, e, como disse o "dono" da São Silvestre para quem iria de carro ou embora do evento: "<em>Isso não é problema meu</em>"<em> (sic)</em>, optei por ir de metrô, ja que teria que estacionar o carro próximo a chegada, no Ibirapuera, e sofrer certo desgaste andando uns 3km até a largada, em subida íngreme; fora que para ir embora peagaria certo trânsito pela quantidade de gente no local.
+Pelo fato da corrida começar em um ponto e terminar em outro, e, como disse o "dono" da São Silvestre para quem iria de carro ou embora do evento: *"Isso não é problema meu" (sic)*, optei por ir de metrô, ja que teria que estacionar o carro próximo a chegada, no Ibirapuera, e sofrer certo desgaste andando uns 3km até a largada, em subida íngreme; fora que para ir embora peagaria certo trânsito pela quantidade de gente no local.
 
 <a href="/images/2012/12/pic_ss02.jpg">
 ![São Silvestre]({{ site.url }}/images/2012/12/pic_ss02.jpg)

@@ -13,7 +13,7 @@ Está chegando a primeira etapa do Circuito das Estações da Adidas de 2011 em 
 </a>
 {: .pull-left}
 
-Hoje e amanha acontece a retirada do kit na loja <strong>Velocità Moema</strong>, no endereço <strong>Av. Pavão, 342, Moema, São Paulo</strong>
+Hoje e amanha acontece a retirada do kit na loja **Velocità Moema**, no endereço **Av. Pavão, 342, Moema, São Paulo**.
 
 **Horários:**
 Sexta das 10h as 20h

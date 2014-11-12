@@ -51,6 +51,6 @@ Gostei de uma entrevista com o Dr. Drauzio Varella, reproduzindo a matéria aq
 
 **“Este ano pretendo correr as maratonas do Rio e de Chicago. Se fizer abaixo de 4h10, me qualifico para Boston”**
 
-Drauzio Varella é oncologista e já publicou **11 livros**, entre eles <em>Estação Carandiru</em>
+Drauzio Varella é oncologista e já publicou **11 livros**, entre eles *Estação Carandiru*
 
 **Fonte**: <a href="http://runnersworld.abril.com.br/entrevistas/drauzio-varella/" target="_blank">Runners</a>

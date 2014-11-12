@@ -15,7 +15,7 @@ A retirada do kit de deu unicamente no sábado, no Hotel Tivoli, próximo ao par
 </a>
 {: .pull-left}
 
-Um dos palestrantes, **Solonei Silva**, vencedor da ultima Maratona de São Paulo, estava deu um panorama sobre sua historia de superação. O segundo tema abordado foram de Maratonistas com a marca de <strong>sub 3 horas</strong> da prova de 42K. O terceiro tema foi a respeito de **Nutrição esportiva**: os erros e acertos dos atletas antes e depois dos treinos e durante as provas, palestra ministrada pela nutricionista Andrea Zaccaro. Finalizando as palestras, o último tema foi a respeito de **Treinos Externos**, curiosidades passadas por ultramaratonistas e triatletas dos treinos mais incomuns que fizeram.
+Um dos palestrantes, **Solonei Silva**, vencedor da ultima Maratona de São Paulo, estava deu um panorama sobre sua historia de superação. O segundo tema abordado foram de Maratonistas com a marca de **sub 3 horas** da prova de 42K. O terceiro tema foi a respeito de **Nutrição esportiva**: os erros e acertos dos atletas antes e depois dos treinos e durante as provas, palestra ministrada pela nutricionista Andrea Zaccaro. Finalizando as palestras, o último tema foi a respeito de **Treinos Externos**, curiosidades passadas por ultramaratonistas e triatletas dos treinos mais incomuns que fizeram.
 
 Retirei o kit por volta das 15 horas, não havia fila para a retirada mas havia bastante gente visitando a Expo. O kit retirado no local veio contendo chip de cronometragem descartável, numero de peito, viseira, camiseta, materiais de merchandising e um vale lanche (este mais útil para que iria acompanhar todas as palestras, ou boa parte delas).
 
