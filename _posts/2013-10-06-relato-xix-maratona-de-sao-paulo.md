@@ -75,7 +75,6 @@ Ano que vem tem mais, melhor treinado e quem sabe com acompanhamento nutricional
 
 E o Garmin, 100% adaptado e fácil operar.
 
-
 ## Resultado:
 
 <a href="/images/2013/10/1383858_10151917356799344_426841208_n.jpg">

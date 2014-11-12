@@ -4,7 +4,7 @@ title: Relato - Correr e Caminhar - Mercedes Benz
 date: 2013-03-10 17:04
 author: diego
 comments: true
-categories: [10k, abc, Corrida, Corrida de Rua, mercedes, rede acesso, santo andre, sao bernardo]
+tags: [10k, abc, Corrida, Corrida de Rua, mercedes, rede acesso, santo andre, sao bernardo]
 ---
 Neste domingo, 10 de março, foi realizada a etapa de São Bernardo do circuito gratuito Correr e Caminhar para viver bem, dentro da fabrica da Mercedes - Benz.
 

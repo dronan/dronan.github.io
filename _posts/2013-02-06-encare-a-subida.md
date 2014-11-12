@@ -23,5 +23,3 @@ Ele dá a dica: “Em subidas, o ideal é imprimir um ritmo de passadas com meno
 Murilo Klein recomenda a realização de simulados com características similares às da prova para que cada corredor determine sua estratégia. Com algumas meias-maratonas no currículo, o engenheiro Francisco Scagliusi, 53 anos, submeteu-se a uma rotina especial de 3 meses de preparação para cravar 1h36’22” na edição de 2012 da meia de Nova York. “Como a primeira metade é mais acidentada, projetei minha corrida com uma velocidade média na qual eu recuperava o ritmo nas descidas. Isso foi fundamental para poupar energia e buscar desempenho no segundo trecho.”
 
 **Fonte:** <a href="http://www.thefinisher.com.br/treino/materia/-encare-a-subida#.URKJJb-gZ8w" target="_blank">The Finisher</a>
-
-&nbsp;

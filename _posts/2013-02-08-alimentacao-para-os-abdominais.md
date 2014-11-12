@@ -16,4 +16,4 @@ As melhores fontes de Omega 3 são o peixe gordo de água fria (salmão, cavala,
 
 Para evitar tal fenômeno, devemos ** escolher alimentos orgânicos e frescos** (livres de pesticidas, aditivos, corantes e conservantes),** reduzir o consumo de álcool** e ** eliminar os alimentos a que somos alérgicos**.
 
-** Fonte:** <a href="http://balance.pt/1180-alimentacao-para-os-abdominais" target="_blank">Balance Health Club</a>
+**Fonte:** <a href="http://balance.pt/1180-alimentacao-para-os-abdominais" target="_blank">Balance Health Club</a>

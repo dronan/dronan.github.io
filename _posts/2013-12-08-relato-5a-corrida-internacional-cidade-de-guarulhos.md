@@ -27,7 +27,6 @@ Uma critica construtiva: se quiserem levar mesmo a sério esta corrida, tornar u
 
 É isto, só falta agora a festa da São Silvestre para fechar este puxado 2013.
 
-
 ## Resultado:
 
 <a href="/images/2013/12/guarulhos_2013_big.jpg">

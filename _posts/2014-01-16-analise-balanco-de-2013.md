@@ -8,7 +8,6 @@ tags: [2013, analise, balanço, Corrida de Rua, corridas, metas]
 ---
 2013 foi um ano que se resumiu a treino, treino e mais treino. Tudo isso buscando a grande meta de concluir a Maratona Internacional de São Paulo. 
 
-
 <a href="/images/2014/01/analise2013_big.jpg">
 ![Analise 2013]({{ site.url }}/images/2014/01/analise2013.jpg)
 </a>

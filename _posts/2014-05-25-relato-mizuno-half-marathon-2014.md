@@ -8,7 +8,9 @@ tags: [21k, Corrida de Rua, meia, mizuno, são paulo, SP]
 ---
 Neste domingo frio de maio, foi realizada a primeira edição da Meia Maratona da Mizuno, a exemplo da Golden Four da Asics, prometendo um padrão de organização internacional, com distancia única de 21K.
 
+<a href="/images/2014/05/mizuno01.JPG">
 ![Mizuno 21K]({{ site.url }}/images/2014/05/mizuno01.JPG)
+</a>
 {: .pull-left}
 
 A retirada dos kits se deu unicamente no sábado, dia anterior da prova, em uma arena montada no Jockey. Fiz a retirada logo de manhã, antes do curso, por volta das 8h30. Kit de qualidade boa: camiseta, um numero de peito enorme, viseira, materiais da prova, chip de cronometragem, sache de gel, fizeram parte do mesmo.
@@ -17,7 +19,9 @@ O único ponto que vi com problemas, foram as instabilidades no sistema de retir
 
 Domingo amanheceu com tempo chuvoso, frio, com temperatura batendo na casa dos 15 graus. Acordei as 5h15min para sair das 6h da manha de casa (largada marcada para as 7:30). Após o café da manhã a base de carboidrato, parti para o Jockey, de onde seria dada a largada.
 
+<a href="/images/2014/05/mizuno02.JPG">
 ![Mizuno 21K]({{ site.url }}/images/2014/05/mizuno02.JPG)
+</a>
 {: .pull-right}
 
 Cheguei na região pouco antes das 7h, deixei o carro ao lado do Parque do Povo e fui a pé para o Jockey Clube, longe dos flanelinhas que dominam a região, ja que não há fiscalização e policiamento para coibir.
@@ -26,7 +30,9 @@ Chegando por volta das 7h10 no Jockey, foi tempo para um alongamento e partir pa
 
 Devido ao tempo frio, fiz a corrida com mentalidade para buscar tempo, quem sabe um sub 2? A largada foi dada pontualmente as 7:30, saindo do Jockey, em direção da Ponte Cidade Universitária, fazendo um caminho diferente do habitual; passando pela Ponte Cidade Universitária, chega a Praça Pan-americana, onde tivemos que fazer duas idas e volta até o Parque Vila Lobos, retornando para o Jockey e repetindo o percurso da ida. Em frente ao Jockey, mas quatro idas e voltas, para completar os 3K's restantes.
 
+<a href="/images/2014/05/mizuno03.jpg">
 ![Mizuno 21K]({{ site.url }}/images/2014/05/mizuno03.jpg)
+</a>
 {: .pull-left}
 
 Todo esse vai e vem acaba cansando mentalmente, tornando o percurso chato, e as curvas atrapalham a performace, visto que toda hora tinha que reduzir para pegar uma mais fechada.

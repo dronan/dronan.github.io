@@ -28,7 +28,6 @@ Ainda consegui tomar banho na academia que fica ao lado da chegada =)
 
 Semana que vem tem meia! Ja nos preparativos, até lá!
 
-
 ## Resultado:
 
 <a href="/images/2014/05/tribuna_10k_big.JPG">
