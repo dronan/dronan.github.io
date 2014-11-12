@@ -9,7 +9,10 @@ tags: [21k, corpore, Corrida de Rua, meia maratona]
 Neste domingo ocorreu a XIII Meia Maratona Netshoes Corpore Internacional de São Paulo, no ja tradicional percurso que engloba a Cidade Universitária e o bairro do Butantã na Capital, com percursos para dois tipos de gostos: um para quem ta iniciando ou não se sente muito a vontade com a distância da meia maratona, com os 5k, ou os 21k para quem gosta dos grandes desafios.
 
 
-<div class="moldura"><a  class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/Corpore_MeiaMaratona_21K_web.jpg"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/04/Corpore_MeiaMaratona_21K_web.jpg" alt="" /></a></div>
+<a href="/images/2012/04/Corpore_MeiaMaratona_21K_web.jpg">
+![Meia Maratona Corpore]({{ site.url }}/images/2012/04/Corpore_MeiaMaratona_21K_web.jpg)
+</a>
+{: .pull-left}
 
 Optei pelos 21K, minha segunda meia maratona! O objetivo incial foi tentar manter um rítimo relativamente forte para mim, para conseguir fechar, se possível, próximo a 2h10. Não foi possível, mas comento a seguir.
 
@@ -21,7 +24,10 @@ Fiz um teste com alimentação, a base de "junk food" (lê-se pizza), como fonte
 
 No domingo, devido ao fechamento das vias próximas a USP, tive que madrugar, acordar 4:50 da manhã, tomar um café (pizza) bem rápido, me trocar e voar para la, para chegar antes das 6 da manhã para poder estacionar dentro da Cidade Universitária.
 
-<div class="moldura"><a  class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/04/meia_corpore.jpg"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/04/meia_corpore.jpg" alt="" /></a></div>
+<a href="/images/2012/04/meia_corpore.jpg">
+![Meia Maratona Corpore]({{ site.url }}/images/2012/04/meia_corpore.jpg)
+</a>
+{: .pull-left}
 
 Consegui, por volta das 6h40min da manhã já estava com o carro estacionado, tempo para ir até a arena do evento, deixar as coisas no guarda-volume, alongar, encontrar um amigo e dar a última passada no banheiro antes de iniciar a corrida.
 
@@ -49,8 +55,10 @@ Próximo desafio: baixar o tempo dos 8k da Indy, vamos ver se consigo!
 
 ## Resultado:
 
-
-<div class="moldura"><a  class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/04/meiaSPCorpore2012_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/04/meiaSPCorpore2012.jpg" alt="" /></a></div>
+<a href="/images/2012/04/meiaSPCorpore2012_big.jpg">
+![Meia Maratona Corpore]({{ site.url }}/images/2012/04/meiaSPCorpore2012.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 5466
 * **Tempo Final:** 02:18:20

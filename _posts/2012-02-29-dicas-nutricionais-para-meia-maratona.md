@@ -10,44 +10,44 @@ Nos dias que antecedem a prova procure consumir alimentos leves e sem exageros, 
 
 Hidrate-se muito bem. Beba pelo menos 1 copo de água a cada hora (uma média de 3 litros). Verifique a cor da urina para saber se está bem hidratado. O ideal é que ela esteja bem clara.
 
-<strong>Sugestão de jantar da noite anterior:**
+**Sugestão de jantar da noite anterior:**
 
-	<li>2 pratos fundos de macarrão
-	<li>molho de tomate sem óleo
-	<li>salada de frutas
-	<li>suco de frutas
-	<li>Evite ingerir fibras e folhas de difícil digestão na véspera da prova.
+* 2 pratos fundos de macarrão
+* molho de tomate sem óleo
+* salada de frutas
+* suco de frutas
+* Evite ingerir fibras e folhas de difícil digestão na véspera da prova.
 
-<strong>Sugestão de café da manhã (3 horas antes da largada)</strong>
+**Sugestão de café da manhã (3 horas antes da largada)**
 
-	<li>2 pães com geléia
-	<li>6 bolachas maisena
-	<li>1 banana
-	<li>2 colh. sopa de mel
-	<li>1 copo de suco de laranja coado
-	<li>Tenha cuidado com quantidades excessivas de leite integral, queijo e iogurte.
-	<li>Evite comer as cascas das frutas (são mais difíceis de serem digeridas), pães integrais.
-	<li>Não coma nada que não esteja habituado.
+* 2 pães com geléia
+* 6 bolachas maisena
+* 1 banana
+* 2 colh. sopa de mel
+* 1 copo de suco de laranja coado
+* Tenha cuidado com quantidades excessivas de leite integral, queijo e iogurte.
+* Evite comer as cascas das frutas (são mais difíceis de serem digeridas), pães integrais.
+* Não coma nada que não esteja habituado.
 
-<strong>1 hora antes da largada
-</strong>É importante ingerir uma pequena quantidade de carboidrato , de preferência em gel ou barra ou frutas, bolachas de água e sal, etc...
+**1 hora antes da largada**
+É importante ingerir uma pequena quantidade de carboidrato , de preferência em gel ou barra ou frutas, bolachas de água e sal, etc...
 
 Leve também uma garrafinha com água para a largada, uma banana ou pão.
 
-<strong>Durante a prova:
-</strong>Reposição de carboidratos - Para a meia maratona, é importante fazer a reposição de carboidratos e água a cada 5 km ou 25 minutos. Use carboidrato em gel (1 sachê para cada 200 ml de água), carboidrato em pó preparados conforme a indicação da embalagem (de 150 a 200 ml) a cada intervalo de 30 minutos.
+**Durante a prova:**
+Reposição de carboidratos - Para a meia maratona, é importante fazer a reposição de carboidratos e água a cada 5 km ou 25 minutos. Use carboidrato em gel (1 sachê para cada 200 ml de água), carboidrato em pó preparados conforme a indicação da embalagem (de 150 a 200 ml) a cada intervalo de 30 minutos.
 
 Se preferir, pode usar frutas secas como bananinha passa sem açúcar (1 barrinha a cada 30 minutos), ou mesmo uma fatia de pão de forma no mesmo intervalo. Não teste nada novo no dia da prova. Use somente o que estiver acostumado.
 
-<strong>Hidratação:** Pegue água em todos os postos e aproveite para jogar um pouco na cabeça para diminuir a sensação de calor. Se você é daqueles que transpiram muito durante a prova e ficam com "sal" no rosto e no corpo, procure optar pelos isotônicos (como SportDrink, Gatorade e outros), além de repor o carboidrato e a água, estará repondo também o sódio que perde pelo suor.
+**Hidratação:** Pegue água em todos os postos e aproveite para jogar um pouco na cabeça para diminuir a sensação de calor. Se você é daqueles que transpiram muito durante a prova e ficam com "sal" no rosto e no corpo, procure optar pelos isotônicos (como SportDrink, Gatorade e outros), além de repor o carboidrato e a água, estará repondo também o sódio que perde pelo suor.
 
-<strong>Depois da prova:
-</strong>Coma bastante frutas, pão, barras, batata cozida, pão e beba muito líquido.
+**Depois da prova:**
+Coma bastante frutas, pão, barras, batata cozida, pão e beba muito líquido.
 
 É muito importante a alimentação para a recuperação do atleta, tente fazer uma refeição saudável o mais rápido possível.
 
-<strong>Por que precisamos hidratar?
-</strong>O corpo humano é constituído 80% de água e esta desempenha importantes funções como o transporte de nutrientes e substâncias para dentro e fora das células e o controle da temperatura corporal. Esta água se encontra nos líquidos intracelulares, e extra celulares, incluindo o plasma sangüíneo.
+**Por que precisamos hidratar?**
+O corpo humano é constituído 80% de água e esta desempenha importantes funções como o transporte de nutrientes e substâncias para dentro e fora das células e o controle da temperatura corporal. Esta água se encontra nos líquidos intracelulares, e extra celulares, incluindo o plasma sangüíneo.
 
 Durante a contração muscular parte da energia produzida é calor, que se não for perdido pode aumentar a temperatura corporal e levar a desde simples queda no rendimento até sérias conseqüências fisiológicas (desativação de enzimas, desnaturação e proteínas, colapso cardíaco). O ser humano tem a característica homeotérmica, ou seja, a necessidade de manter a temperatura constante em torno de 37º.
 
@@ -59,4 +59,4 @@ A desidratação impede fortemente performance principalmente quando há perdas 
 
 Fique atento aos sinais da desidratação, o primeiro deles é a sede.
 
-<strong>Fonte:** <a href="http://www.starkonline.com.br/content/aplicacao/stark/nutricao/gerados/dicas_patricia.asp">Stark</a>
+**Fonte:** <a href="http://www.starkonline.com.br/content/aplicacao/stark/nutricao/gerados/dicas_patricia.asp">Stark</a>

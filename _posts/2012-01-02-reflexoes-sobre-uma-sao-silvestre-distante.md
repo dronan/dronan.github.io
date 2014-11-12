@@ -6,6 +6,7 @@ author: diego
 comments: true
 tags: [15k, Corrida de Rua, opiniao, sao silvestre]
 ---
+
 Vi de longe a São Silvestre, acompanhando pela televisão o show que a chuva deu, aparecendo e desaparecendo, caindo a cântaros ou simplesmente gotejando, criando poças gigantescas ou escorrendo rapidamente pelos esgotos.
 
 Vi a coragem do irmão de Bekele e a bravura indômita de Priscah Jeptoo, defendendo a todo custo a liderança conquistada e que, em alguns instantes, pareceu perdida. Acho que ela é a corredora de elite com o estilo mais estranho que já vi.
@@ -30,4 +31,4 @@ Para mim, porém, a imagem que ficou da prova foi a de um grupo de gordinhos, to
 
 Aquela imagem de entusiasmo deixa evidente que a corrida é para todos e que, por mais dura que pareça e por mais difíceis que sejam as condições, pode ser um prazer e uma alegria. E que todos podem desfrutar dela, gordos ou magros, jovens ou velhos, ricos ou pobres. É a democracia dos corpos no asfalto.
 
-Fonte: <a href="http://rodolfolucena.folha.blog.uol.com.br/arch2012-01-01_2012-01-31.html" target="_blank">Blog Rodolfo Lucena</a>
+**Fonte:** <a href="http://rodolfolucena.folha.blog.uol.com.br/arch2012-01-01_2012-01-31.html" target="_blank">Blog Rodolfo Lucena</a>

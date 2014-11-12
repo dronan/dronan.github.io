@@ -6,7 +6,8 @@ author: diego
 comments: true
 tags: [Corrida de Rua, dica, frequencia, resistencia, treino, velocidade]
 ---
-<em>por Sérgio Rocha </em>
+
+##### por Sérgio Rocha
 
 Uma das primeiras coisas que ouvi do técnico Wanderlei de Oliveira quando comecei a treinar com ele foi: “Ô bacana, você precisa aprender a correr devagar para poder correr rápido”. Em nossos bate-papos durante os treinos, me disse que tinha aprendido isso ainda na época de velocista. Ele estava no exterior e quando foi treinar com corredores mais rápidos, notou que as rodagens eram sempre lentas: “Bom, se os caras são mais rápidos que eu e treinam devagar, eu preciso aprender a fazer a mesma coisa”, disse.
 
@@ -22,4 +23,4 @@ Se funciona? Deve funcionar. Ele mesmo dá exemplos de atletas que corriam ou fa
 
 Bom, eu tenho adotado o MPA para meus treinos de rodagem. Se funcionar em mim, eu aviso!
 
-Fonte: <a href="http://revistacontrarelogio.com.br/blogs/corredolatra/2012/01/06/aprender-a-correr-devagar-para-correr-rapido/" target="_blank">Contra Relogio</a>
+**Fonte:** <a href="http://revistacontrarelogio.com.br/blogs/corredolatra/2012/01/06/aprender-a-correr-devagar-para-correr-rapido/" target="_blank">Contra Relogio</a>

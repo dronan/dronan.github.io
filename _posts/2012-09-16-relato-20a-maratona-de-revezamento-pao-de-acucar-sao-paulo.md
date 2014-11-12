@@ -37,7 +37,10 @@ Quanto a camiseta: Acabei trocando com o Ademir, poupando dor de cabeça de tent
 ## Resultado:
 
 
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/09/pda_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/09/pda.jpg" alt="" /></a></div>
+<a href="/images/2012/09/pda_big.jpg">
+![Pão de Açúcar]({{ site.url }}/images/2012/09/pda.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 4598-4
 * **Tempo Final:** 01:02:11

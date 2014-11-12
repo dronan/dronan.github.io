@@ -14,13 +14,19 @@ Só achei que as 9 horas é um horário muito tarde ainda mais no horário de ve
 
 A prova também vem perdendo seu brilho, com cada vez menos participantes da forte elite mundial. É o preço que se paga principalmente pela desorganização.
 
-<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/fila.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/fila.JPG" alt="" /></a></div>
+<a href="/images/2012/12/fila.jpg">
+![São Silvestre]({{ site.url }}/images/2012/12/fila.jpg)
+</a>
+{: .pull-left}
 
 Retirei o kit no primeiro dia (sexta) no ginásio do ibirapuera, mesmo local de 2010. Diferentemente do ano passado que fui no segundo dia no fim da tarde, desta vez fui no primeiro dia a tarde. Resultado: pouco mais de duas horas de fila e sol na cabeça para retirar o kit, até atletas da elite passaram por um perrengue para conseguir o kit de participação. Amigos e amigas que retiraram seus kits no segundo dia (sábado) ou terceiro e último dia (domingo) levaram entre 5 e 10 minutos para fazê-lo. Ano que vem então primeiro dia? Nem a pau! Perdi mais tempo para retirar o kit do que estimei para completar os 15km da prova (1h30).
 
 O kit veio composto por camiseta, chip, número de peito, papeis de merchandising além de "amostras grátis" de produtos de patrocinadores do evento. Camiseta branca como no ano passado mas achei mal desenhada, poderiam ter caprichado mais. Pelo menos a medalha deste ano ficou tão bonita (ou até mais que) comparando com a do ano passado.
 
-<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/paulista.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/paulista.JPG" alt="" /></a></div>
+<a href="/images/2012/12/paulista.jpg">
+![São Silvestre]({{ site.url }}/images/2012/12/paulista.jpg)
+</a>
+{: .pull-left}
 
 Logo depois da retirada na sexta fiz meu último treino do ano, 40min de rodagem, quase na casa dos 8km pelas ruas do bairro. A alimentação no domingo, tanto o almoço quanto a janta foram a base de carboidrato, agora de verdade, macarrão, para dar certa sustância para a prova, afinal a brigadeiro estaria a poucas horas de mim.
 
@@ -28,7 +34,10 @@ Não estava com expectativas para a corrida. Apenas festejar o fim de ano e cheg
 
 Segunda, depois de levantar as 6h30min e colocar a roupa da corrida, tomei um café rápido: pão e água, e parti para buscar a Amanda e partir para a paulista. Como no ano passado, preferi ir de Metrô: melhor por não ter muita opção de estacionamento próximo a Paulista, interdições na cidade e rápido acesso. As 7h30min o carro já estava parado no estacionamento próximo ao Metrô Tietê. No metropolitano fiz o percurso Tietê > Luz > Paulista > Trianon chegando próximo às 8 horas na região do MASP. 
 
-<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/paulista2.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/paulista2.JPG" alt="" /></a></div>
+<a href="/images/2012/12/paulista2.jpg">
+![São Silvestre]({{ site.url }}/images/2012/12/paulista2.jpg)
+</a>
+{: .pull-left}
 
 Com as coisas guardadas nos "ônibus guarda-volumes" estacionados próximo ao MASP, foi tempo de guardar as coisas, dar a última passada no banheiro, fazer um alongamento muito rápido, afinal neste momento faltavam cerca de cinco minutos para o início da prova e partir em direção a largada.
 
@@ -40,7 +49,10 @@ A prova nos primeiros 8km foi praticamente só descida. Até a Consolação não
 
 Encontrei meu tio, Mario, maratonista, na descida em direção da Av. Pacaembu, algo bem inesperado ainda mais pela quantidade de gente nesse meio.
 
-<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/consolacao.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/consolacao.JPG" alt="" /></a></div>
+<a href="/images/2012/12/consolacao.jpg">
+![São Silvestre]({{ site.url }}/images/2012/12/consolacao.jpg)
+</a>
+{: .pull-left}
 
 A partir da avenida Pacaembu deu para se soltar mais e impor um ritmo próprio sem mais se conter por causa do pessoal. O primeiro ponto de hidratação só apareceu no km 4, depois da Av Pacaembu. Os próximos seriam nos Kms 7 (água e Gatorade), 10, o último antes da subida da famosa brigadeiro no km 12 (água e Gatorade) e fechando logo depois de escalar a brigadeiro no km 14, para tomar a paulista e concluir a prova. Ainda sobre a hidratação parece também que la ninguém nunca havia feito uma prova: todos atacavam o primeiro ponto de distribuição, sendo que havia mais 5 em seguida, ou seja, faziam aquele tumulto, bloqueavam o caminho rodeando o ponto, ninguém conseguia pegar naquele ponto depressa e muita gente ficava parada e esperando sendo que nem 20 metros dali haviam mais pontos...
 
@@ -48,7 +60,10 @@ Ano passado esta foi minha primeira prova com distancia superior a 10km, e quebr
 
 Não achei que teria muita gente assistindo a corrida principalmente pelo horário ter mudado, mas engano meu, havia gente assistindo e apoiando no percurso todo!  Até mais comparando com o ano anterior.
 
-<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/brigadeiro.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/brigadeiro.JPG" alt="" /></a></div>
+<a href="/images/2012/12/brigadeiro.jpg">
+![São Silvestre]({{ site.url }}/images/2012/12/brigadeiro.jpg)
+</a>
+{: .pull-left}
 
 Terminar a corrida na paulista é diferente, tem um gosto especial, é uma coisa indescritível, só estando participando para saber. 
 
@@ -64,8 +79,10 @@ Fazendo um comentário pós viagem: Havia muita gente no aeroporto Santos Dumont
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/saosilvestre_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/saosilvestre.jpg" alt="" /></a></div>
+<a href="/images/2012/12/saosilvestre_big.jpg">
+![São Silvestre]({{ site.url }}/images/2012/12/saosilvestre.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 7657
 * **Tempo Final:** 01:40:17

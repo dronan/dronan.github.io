@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Motive-se: Você também pode!
+title: Motive-se - Você também pode!
 date: 2012-07-25 14:55
 author: diego
 comments: true
@@ -26,7 +26,7 @@ Em novembro de 2010, aparece a “Fila Night Run” no calendário, e o Leonardo
 
 Na semana da prova, um frio absurdo, até meio incomum para a época. Nunca havia corrido na rua até então. Ha alguns dias da prova, no máximo que aguentava fazer, era cerca de dez minutos na esteira com interrupção de alguns minutos para pegar fôlego e continuar. Na quarta feira, faltando três dias para a prova, resolvemos ir ao bosque maia – um parque próximo de casa em Guarulhos – e dar duas voltas no percurso de 2200 metros. Indo sempre no trote, fizemos o treino em cerca de quarenta minutos ou pouco mais. Diria que neste treino foi essencial para dar uma tranquilizada; já dava para perceber chegar ao objetivo dos cinco quilômetros não era impossível.
 
-Chega então o grande dia da corrida, e o resultado é o que escrevi no Relato - <a href="http://www.diegoronan.com.br/diegoronan/index.php/2010/11/13/fila-night-run-2010-sp/" target="_blank">Fila Night Run 2010 – SP</a>.
+Chega então o grande dia da corrida, e o resultado é o que escrevi no Relato - Fila Night Run 2010 – SP.
 
 Assim que termina a primeira prova, você entende o motivo pelo qual vale a pena acordar nem se for às quatro da manhã de um domingo para correr. A sensação do pós-prova é indescritível. A primeira corrida já motivou até a comprar um frequêncímetro, já que cansei bastante ainda mais por estar sem base de tempo e frequência cardíaca, já para a próxima corrida.
 
@@ -34,9 +34,9 @@ Conforme ia completando as corridas de cinco quilômetros, não me via fazendo a
 
 O tempo vai passando e o corpo pede mais, cinco fica pouco. O objetivo seguinte era progredir para os 10Km. Como o “Circuito das Estações Adidas” só fornecia esta distancia, e eu tinha como objetivo fazer o percurso e completar a mandala de medalhas (não consegui completar por causa do Rock in Rio), comecei a treinar toda sexta feira no Ibirapuera, já que é “do lado” do trabalho, dando pelo menos três voltas no percurso de três quilômetros.
 
-Em março de 2011, conquisto mais um objetivo: fechar sem dificuldades uma corrida de 10Km, ainda mais em uma época do ano que o calor não estava já pegando tanto (final do verão). <a href="http://www.diegoronan.com.br/diegoronan/index.php/2011/03/20/circuito-das-estacoes-adidas-outono-2011/" target="_blank">Leia o relato aqui</a>.
+Em março de 2011, conquisto mais um objetivo: fechar sem dificuldades uma corrida de 10Km, ainda mais em uma época do ano que o calor não estava já pegando tanto (final do verão).
 
-As provas de dez quilômetros viram “comuns” para mim e já que não conseguiria viajar no fim do ano como de costume, resolvi então participar da São Silvestre, um aumento de mais cinco quilômetros no volume final de corridas e treinos. Sempre correndo no Ibirapuera, aumentando só a quantidade de voltas – de três para cinco voltas no percurso de três quilômetros, fazendo treinos de volume e os longos, me deixou apto para a distância, onde consegui completar sem problemas. <a href="http://www.diegoronan.com.br/diegoronan/index.php/2012/01/01/relato-corrida-de-sao-silvestre-2011/" target="_blank">Leia o relato aqui</a>.
+As provas de dez quilômetros viram “comuns” para mim e já que não conseguiria viajar no fim do ano como de costume, resolvi então participar da São Silvestre, um aumento de mais cinco quilômetros no volume final de corridas e treinos. Sempre correndo no Ibirapuera, aumentando só a quantidade de voltas – de três para cinco voltas no percurso de três quilômetros, fazendo treinos de volume e os longos, me deixou apto para a distância, onde consegui completar sem problemas. 
 
 O ano de 2011 terminou objetivando completar uma meia maratona no ano de 2012. Objetivo mais que cumprido (considerando as quatro provas de 21k deste ano), alias, até em uma distancia maior que a meia maratona, considerando os 25km da maratona de São Paulo.
 

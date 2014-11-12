@@ -40,11 +40,12 @@ O ponto que achei engraçado foi o papo entre os corredores perguntando em que p
 
 Tirando os problemas o importante é cruzar a linha, e procurar fazer treinos longos decentes daqui pra frente, fazer uma rodagem nem se preocupando tanto com distância, mas com tempo... buscar algo em torno de 2h, 2h30, ainda mais com uma meia maratona para daqui um mês ;).
 
-
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/06/maratona2012_25_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/06/maratona2012_25.jpg" alt="" /></a></div>
+<a href="/images/2012/06/maratona2012_25_big.jpg">
+![Maratona]({{ site.url }}/images/2012/06/maratona2012_25.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 16053
 * **Tempo Final:** 02:59:30

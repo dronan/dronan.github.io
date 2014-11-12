@@ -18,8 +18,11 @@ Cheguei dentro do Jockey por volta das 6h45min, como havia esquecido a sacola pa
 
 Chip retirado, feito um alongamento rápido, tive que procurar algum lugar que tivesse água para umedecer a cinta do frequencímetro. Nada como uma cinta molhada com uma temperatura de 9 graus. Assim que o frequencímetro passou a funcionar "na base do tranco", me posicionei no pelotão verde, bem ao lado do marcador de ritmo dos 6,5min/km. Optei por acompanha-lo para tentar fazer uma boa marca (em comparação as anteriores). Não havia ido aos banheiros químicos antes da largada devido a grande fila somada a falta de tempo, isso acabou pesando mais tarde.
 
+<a href="/images/2012/07/meiadesampa_01.jpg">
+![Meia de Sampa]({{ site.url }}/images/2012/07/meiadesampa_01.jpg)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/meiadesampa_01.jpg"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/meiadesampa_01.jpg" alt="" /></a></div>
 É iniciada a prova por volta das 7h10min, com o percurso saindo de dentro do Jockey (no estacionamento) em direção a rua José Augusto de Queiros, rua paralela ao Jockey, em direção da Av. Lineu de Paula Machado. Até então não dava para impor um ritmo bom devido a quantidade de pessoas, tanto que o marcador de ritmo estava ha quase 500 metros de distancia em determinados trechos e eu não tinha espaço para fazer uma aproimação. Nesta Av também, por volta do km 3, se encontrava o primeiro ponto de hidratação, havia somente uma pessoa de cada lado da rua distribuindo água para todo mundo, não consegui pegar, também não era tão necessário no momento.
 
 Passando pelo túnel que corta a Francisco Moratto, seguindo pela Av Valdemar Ferreira, logo após a Praça Vicente Rodrigues havia a separação da galera dos 5.5K e 10K, que faziam a volta cinquenta metros à frente, dos 21K que continuavam pela Av. Afranio Peixoto, tomando logo a frente a Rua Alvarenga, onde se localizava o segundo ponto de hidratação do percurso.
@@ -42,8 +45,10 @@ A última meia maratona do ano é a Golden Four da Asics, para quem queria fazer
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/meiadesampa_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/07/meiadesampa.jpg" alt="" /></a></div>
+<a href="/images/2012/07/meiadesampa_big.jpg">
+![Meia de Sampa]({{ site.url }}/images/2012/07/meiadesampa.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 1111
 * **Tempo Relógio:** 02:11:40

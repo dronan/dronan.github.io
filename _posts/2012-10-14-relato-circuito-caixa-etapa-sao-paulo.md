@@ -10,8 +10,11 @@ Cerca de 3500 corredores participaram neste domingo, 14/10, da etapa de São Pau
 
 A retirada do kit, composto por camiseta, sacola, revistas de merchandising, e número de peito, aconteceu dentro da loja Centauro no shopping Bourbon, sexta e sábado que antecederam o evento. Deixei para fazer a retirada no sábado logo depois do almoço. Havia cerca de seis pessoas na minha frente, mas a retirada foi rápida, sem maiores problemas.
 
+<a href="/images/2012/10/pacaembu.jpg">
+![Caixa]({{ site.url }}/images/2012/10/pacaembu.jpg)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/10/pacaembu.jpeg"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/10/pacaembu.jpeg" alt="" /></a></div>
 Pelo custo da prova (R$50,00 a R$60,00), achei baixa a qualidade da camiseta. Ja corri prova gratuita que a camiseta da corrida era melhor. A medalha, meio pequena, mais um pouco trabalhada, nada a reclamar.
 
 Devido ao feriado, desta vez não treinei na sexta que antecedeu a corrida, mas vajei, fiz um bate-volta para Campos do Jordão que renderam quase 5 horas dentro do carro.
@@ -24,8 +27,11 @@ Consegui parar não tão próximo ao local, mas novamente com flanelinhas domina
 
 Aconteceu um fato meio chato na semana passada em que tive meu RS300x furtado na academia. Deixei em um canto e esqueci, depois que lembrei e voltei para pegar encontrei cinco e "ninguém viu". Tinha planos de pegar um Motoactv, mas isso planejava pegar daqui um ou dois anos, acabei antecipando a aquisição. O lado positivo foi a parte de correr com base de tempo e rítmo, GPS. Só preciso do bracelete para correr com ele mandando as musicas e ignorar de vez o celular. Domingo foi dia de estréia dele em uma prova oficial.
 
+<a href="/images/2012/10/circuitocaixa.jpg">
+![Caixa]({{ site.url }}/images/2012/10/circuitocaixa.jpg)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/10/circuitocaixa.jpg"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/10/circuitocaixa.jpg" alt="" /></a></div>
 A corrida iniciou exatamente as 8:15, sem atrasos, partindo da "pista de atletismo" do estádio do Pacaembu, tomando a praça Charles Muller, Av. Pacaembu e Elevado Costa e Silva, onde foi - como de praxe - a parte mais tediante da prova. Mantive um pace bom para mim, na casa dos 5min/km em todo o percurso, conseguindo assim fazer minha melhor marca em uma prova de 10km, pouco mais de 53 minutos.
 
 Em todo percurso haviam três pontos de hidratação, sendo o primeiro no acesso para o elevado, por volta do km 2, na volta do elevado, no km 6 e na saída do elevado rumando para a Av. Pacaembu no km 8. Pela temperatura do dia foi o suficiente.
@@ -36,8 +42,10 @@ No final do evento depois da retirada do kit finisher, encontrei a Katia, que ac
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/10/caixa_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/10/caixa.jpg" alt="" /></a></div>
+<a href="/images/2012/10/caixa_big.jpg">
+![Caixa]({{ site.url }}/images/2012/10/caixa.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 1391
 * **Tempo Final:** 00:53:10

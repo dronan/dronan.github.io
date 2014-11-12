@@ -30,8 +30,10 @@ Para fechar o ano agora, dia 31, São Silvestre!
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/gonzaguinha_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/gonzaguinha.jpg" alt="" /></a></div>
+<a href="/images/2012/12/gonzaguinha_big.jpg">
+![Sargento Gonzaguinha]({{ site.url }}/images/2012/12/gonzaguinha.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 2011
 * **Tempo Final:** 01:28:43

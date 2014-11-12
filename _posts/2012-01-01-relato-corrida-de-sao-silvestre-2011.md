@@ -8,8 +8,11 @@ tags: [15k, chuva, Corrida de Rua, lama, sao silvestre, yescom]
 ---
 Neste sábado aconteceu a tradicional corrida de São Silvestre, corrida que fecha o ano de atividades esportivas em São Paulo.
 
+<a href="/images/2012/12/pic_ss01.jpg">
+![São Silvestre]({{ site.url }}/images/2012/12/pic_ss01.jpg)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/pic_ss01.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/pic_ss01.JPG" alt="" /></a></div>
 Esta foi a primeira edição da corrida depois da mudança de percurso - mudança péssima por sinal.
 
 A retirada do kit ocorreu no ginásio do Ibirapuera, na quarta / quinta / sexta que antecederam a corrida. Deixei para ir na quinta por volta das 18h30min; não enfrentei filas e fiz a retirada rapidamente.
@@ -18,8 +21,11 @@ No sábado, dia da corrida e último dia do ano, fiz um almoço comum as 13 hora
 
 Pelo fato da corrida começar em um ponto e terminar em outro, e, como disse o "dono" da São Silvestre para quem iria de carro ou embora do evento: "<em>Isso não é problema meu</em>"<em> (sic)</em>, optei por ir de metrô, ja que teria que estacionar o carro próximo a chegada, no Ibirapuera, e sofrer certo desgaste andando uns 3km até a largada, em subida íngreme; fora que para ir embora peagaria certo trânsito pela quantidade de gente no local.
 
+<a href="/images/2012/12/pic_ss02.jpg">
+![São Silvestre]({{ site.url }}/images/2012/12/pic_ss02.jpg)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/pic_ss02.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/pic_ss02.JPG" alt="" /></a></div>
 Chegamos na Paulista por volta das 16 horas, tempo bem fechado mas sem chuva até então, somente um tempo abafado.
 
 Faltando 30 minutos para a largada, aqueço, faço o alongamento e aguardo em uma entrada próxima a largada.
@@ -32,8 +38,11 @@ Falando da corrida em si, assim que saiu da "festa de aparecer na Globo" que dur
 
 Aqui vai uma critica: Na av. Pacaembu havia sinalizações do primeiro ponto de hidratação, 2º Km de prova, e cadê? Só havia do km 4 para frente. Pisada feia na bola.
 
+<a href="/images/2012/12/pic_ss03.jpg">
+![São Silvestre]({{ site.url }}/images/2012/12/pic_ss03.jpg)
+</a>
+{: .pull-left}
 
-<div class="moldura"><a class="lightbox" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/pic_ss03.JPG"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/pic_ss03.JPG" alt="" /></a></div>
 Consegui conduzir a prova até a subida da Brigadeiro, meio cansado pelas subidas que jogaram a FC ao máximo, mas conseguindo administrar. Durante todo o trajeto o que se via era gente assistindo a prova, incentivando, enfim, bem diferente de todas provas que tinha participado até então.
 
 Na subida da Brigadeiro, recomeça a chuva, agora mais forte. Devido a frequência se manter na casa dos 189, resolvi caminhar um pouco para baixar para os 170 e continuar, isso deu um gás para que continuasse até o final.
@@ -62,8 +71,10 @@ Que venham as meia maratonas, creio que ja consiga encarar. Consegui terminar be
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/ss2011_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2011/12/ss2011.jpg" alt="" /></a></div>
+<a href="/images/2012/12/ss2011_big.jpg">
+![São Silvestre]({{ site.url }}/images/2012/12/ss2011.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 10390
 * **Tempo Final:** 01:40:42

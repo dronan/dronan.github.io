@@ -16,19 +16,17 @@ O importante é que seja respeitada a individualidade do atleta. “É melhor qu
 
 Há duas maneiras de se medir a frequência cardíaca: pelos monitores de frequência cardíaca (ou frequencímetro) que oferecem essa função ou usando a Fórmula de Karvonen, na qual você diminui sua idade de 220, porém, essa última, segundo Dutra, é uma fórmula sujeita a erros.
 
-<strong>As cinco zonas de treinamento</strong>
+## As cinco zonas de treinamento
 
-<strong>Zona de Manutenção: </strong>Para os iniciantes, é a mais recomendada, já que usa de 50% a 60% da FC Max. (frequência cardíaca máxima). Além disso, é considerada uma corrida para restauração. “Essa zona de treino é bem confortável e a mais utilizada por iniciantes ou treinos mais suaves”, explica Fernando Pessoa.
+**Zona de Manutenção:** Para os iniciantes, é a mais recomendada, já que usa de 50% a 60% da FC Max. (frequência cardíaca máxima). Além disso, é considerada uma corrida para restauração. “Essa zona de treino é bem confortável e a mais utilizada por iniciantes ou treinos mais suaves”, explica Fernando Pessoa.
 
-<strong>Zona aeróbia lipolítica: </strong>Essa zona tem como principal fonte energética a gordura e é feita principalmente para a perda de peso, pois usa de 60% a 70% da FC máx. e deve ser aliado ao consumo de proteínas.
+**Zona aeróbia lipolítica:** Essa zona tem como principal fonte energética a gordura e é feita principalmente para a perda de peso, pois usa de 60% a 70% da FC máx. e deve ser aliado ao consumo de proteínas.
 
-<strong>Zona limiar aeróbica: </strong>Ocorre quando o atleta quer adquirir resistência física e usa por meio dela de 70% a 80% da FC máx. É muito utilizado por atletas profissionais, pois visa o vigor muscular e a melhora no bombeamento e oxigenação do sangue.
+**Zona limiar aeróbica:** Ocorre quando o atleta quer adquirir resistência física e usa por meio dela de 70% a 80% da FC máx. É muito utilizado por atletas profissionais, pois visa o vigor muscular e a melhora no bombeamento e oxigenação do sangue.
 
-<strong>Zona mista: </strong>Após adquirir certa resistência física, o corredor não sentirá tanto o desgaste físico e passa a usar de 80% a 90% da FC máx. Com ela, a circulação do oxigênio no sangue e nos pulmões apresenta melhora.
+**Zona mista:** Após adquirir certa resistência física, o corredor não sentirá tanto o desgaste físico e passa a usar de 80% a 90% da FC máx. Com ela, a circulação do oxigênio no sangue e nos pulmões apresenta melhora.
 
-<strong>Zona de esforço máximo: </strong>Utiliza entre 90% e 100% da FC máx. e é usada por atletas que precisam de explosão, como Usain Bolt nos 100 metros. Porém, nessa zona o risco de lesão é alto e o treino deve ser intercalado com outros mais leves, como a zona de manutenção.
-
-
+**Zona de esforço máximo:** Utiliza entre 90% e 100% da FC máx. e é usada por atletas que precisam de explosão, como Usain Bolt nos 100 metros. Porém, nessa zona o risco de lesão é alto e o treino deve ser intercalado com outros mais leves, como a zona de manutenção.
 
 (Fontes: Renato Dutra, supervisor técnico da Run&amp;Fun Assessoria Esportiva, Bacharel em esporte pela Escola de Educação Física e Esporte da Universidade de São Paulo (USP) e especializado em treinamento desportivo pela Escola Paulista de Medicina e Fernando Pessoa, professor da Race Consultoria Esportiva e graduado pela Faculdade de Educação Física de Santo André (FEFISA)
 

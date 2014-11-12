@@ -24,7 +24,7 @@ Para quem ainda não está familiarizado com o uso do gel, o treinador Manuel La
 
 - O ideal é consumir a cada 40 ou 45 minutos de treino/prova, sempre com a presença de água.
 
-<strong>Sabor</strong>
+## Sabor
 
 Disponíveis em sabores como chocolate, açaí, laranja, frutas vermelhas, baunilha, limão e banana, os géis provocam discussão quanto ao sabor.
 
@@ -44,8 +44,7 @@ Moradora de Belo Horizonte (MG), Joana Ferreira Ahouagi reforça a importância 
 
 - Tenho uma nutricionista especializada em nutrição esportiva, que me orienta nos prés e pós provas, e em todo o processo de treinamento e fortalecimento muscular.
 
-<strong>Contra-indicações e efeitos colaterais
-</strong>
+## Contra-indicações e efeitos colaterais
 
 A Anvisa registra este tipo de produto como alimento para atletas, não sendo recomendado para os que se exercitam por lazer ou estética. Segundo Cristiane Perroni, o produto não substitui uma alimentação equilibrada e seu consumo deve ser orientado por nutricionista ou médico, para prevenir danos à saúde. Existe a possibilidade do nível de produção de insulina aumentar, ocasionando um quadro de hipoglicemia, como efeito rebote. Em doses muito altas, os carboidratos podem causar diarreia, náuseas e vômitos. Diabéticos também devem ser orientados por seus médicos antes de consumir esse tipo de alimento.
 

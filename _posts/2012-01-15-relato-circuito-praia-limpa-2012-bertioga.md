@@ -16,7 +16,10 @@ Deixei parar sair de casa por volta das 5h40min da manhaã, chegando no local da
 
 Demorei cerca de 15 minutos para retirar o kit e partir para o alongamento. Alongando, o Ademir, corredor de Guarulhos - blog: <a href="http://ironmangfbpa.blogspot.com/" target="_blank">http://ironmangfbpa.blogspot.com/</a>, acabou me encontrando durante intervalo entre o alongamento e inicio de prova.
 
-<div class="moldura"><a  class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/01/praialimpa_ademir.jpg"><img class="imgTitulo" src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/01/praialimpa_ademir.jpg" alt="" /></a></div>
+<a href="/images/2012/01/praialimpa_ademir.jpg">
+![Bertioga]({{ site.url }}/images/2012/01/praialimpa_ademir.jpg)
+</a>
+{: .pull-left}
 
 O percurso foi basicamente 5km de areia e 5km de asfalto, divididos 2.5k cada em duas voltas, iniciando na areia, com quatro pontos de hidratação.
 
@@ -28,11 +31,12 @@ A corrida foi relativamente boa, ainda mais sendo gratuita. Ja paguei para corre
 
 Ainda não defini qual será minha próxima corrida. Nas próximas semanas defino :)
 
-
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/01/bertioga_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/01/bertioga.jpg" alt="" /></a></div>
+<a href="/images/2012/01/bertioga_big.jpg">
+![Bertioga]({{ site.url }}/images/2012/01/bertioga.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 661
 * **Tempo Final:** 01:05:29.10

@@ -6,6 +6,7 @@ author: diego
 comments: true
 tags: [10k, Corrida de Rua, fila, night run]
 ---
+
 Neste sábado, 13 de maio, aconteceu no autódromo de Interlagos a Fila Night Run, primeira etapa de 2012 em São Paulo. O evento, apesar de cada vez mais caro, justifica o preço com suas varias atrações, muita música, luz e animação, um clima bem gostoso para correr. Geralmente se paga mais caro para umas corridas grandes que não oferecem metade disso.
 
 Devido ao local da retirada do Kit ( no Sonda, próximo ao shopping Bourbon na Francisco Matarazzo), deixei para retirar em cima da hora. O local em si onde funcionou a estrutura da retirada estava muito bom, com bastante espaço, mas o mercado e a região em si ficam muito a desejar. Poderia ter sido no Bourbon, como no ano passado, em um quiosque no meio do shopping, ou na própria Centauro do shopping - já que a loja patrocina o evento, mas sabe-se lá a viabilidade disso. Enfim, retirei o kit por volta das 14 horas do sábado; kit composto por camiseta, sacola (que será útil nos mercados aqui em São Paulo), Squeeze e número de peito.
@@ -43,7 +44,10 @@ A próxima é a corrida da Tribuna FM de Santos, hotel ja reservado, é só desc
 ## Resultado:
 
 
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/05/nightrun_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/05/nightrun.jpg" alt="" /></a></div>
+<a href="/images/2012/05/nightrun_big.jpg">
+![Fila Night Run]({{ site.url }}/images/2012/05/nightrun.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 7978
 * **Tempo Final:** 00:56:35.87

@@ -24,8 +24,10 @@ Semana que vem tem uma de 15k, Sargento Gonzaguinha, estreia minha nessa prova. 
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/guarulhos_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/12/guarulhos.jpg" alt="" /></a></div>
+<a href="/images/2012/12/guarulhos_big.jpg">
+![Guarulhos]({{ site.url }}/images/2012/12/guarulhos.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 1485
 * **Tempo Final:** 00:53:33

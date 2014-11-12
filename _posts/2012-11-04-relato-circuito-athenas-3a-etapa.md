@@ -22,8 +22,10 @@ Não atingimos o objetivo proposto, faltou perna, treino específico, alimentaç
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/11/athenas_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/11/athenas.jpg" alt="" /></a></div>
+<a href="/images/2012/11/athenas_big.jpg">
+![Athenas]({{ site.url }}/images/2012/11/athenas.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 6353
 * **Tempo Final:** 2:12:26

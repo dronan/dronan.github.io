@@ -26,4 +26,4 @@ A festa da São Silvestre foi mantida. Os fantasiados, estavam todos lá. Na dis
 
 Resumindo, com um ano de antecedência, mesmo que sejam mantidas “apenas” as 25 mil inscrições, a largada tem de ser rígida, ou vamos lançar a “Caminhada de São Silvestre”. Pelo menos assim, ninguém mais vai falar maratona…
 
-Fonte: <a href="http://revistacontrarelogio.com.br/blogs/na-corrida/2012/01/01/sem-ondas-e-ritmo-em-2012-teremos-a-caminhada-de-sao-silvestre/" target="_blank">Contra Relogio</a>
+**Fonte:** <a href="http://revistacontrarelogio.com.br/blogs/na-corrida/2012/01/01/sem-ondas-e-ritmo-em-2012-teremos-a-caminhada-de-sao-silvestre/" target="_blank">Contra Relogio</a>

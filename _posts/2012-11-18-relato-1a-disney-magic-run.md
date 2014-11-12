@@ -26,8 +26,10 @@ A próxima é a 10K da Cidade de Guarulhos, até la!!
 
 ## Resultado:
 
-
-<div class="moldura"><a class="lightbox cboxElement" href="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/11/disney_big.jpg"><img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/11/disney.jpg" alt="" /></a></div>
+<a href="/images/2012/11/disney_big.jpg">
+![Disney]({{ site.url }}/images/2012/11/disney.jpg)
+</a>
+{: .pull-left}
 
 * **Número de Peito:** 2777
 * **Tempo Final:** 00:52:26

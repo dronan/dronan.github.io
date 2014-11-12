@@ -6,6 +6,7 @@ author: diego
 comments: true
 tags: [Corrida, Corrida de Rua, musculação, treino]
 ---
+
 É cada vez mais comum encontrar nas academias corredores amadores interessados em fazer musculação com exercícios voltados para melhorar o desempenho nas provas. Os benefícios vão desde a melhora da postura, passando pelo ganho de resistência, até a prevenção de lesões. O militar Márcio Fonseca é um dos que encontrou nessa atividade um complemento para sua preparação para as corridas.
 
 - Eu faço musculação na segunda, quarta e sexta, e terça, quinta e sábado trabalho de corrida. A musculação é focada no trabalho de fortalecimento dos músculos da perna para evitar lesões e aumentar a resistência na corrida também - afirma o militar.

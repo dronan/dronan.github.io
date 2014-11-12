@@ -6,7 +6,7 @@ author: diego
 comments: true
 tags: [Corrida de Rua, corridas, dicas, fisioterapia, tenis]
 ---
-Por <strong>David Homsi</strong>
+Por **David Homsi**
 Rio de Janeiro
 
 Ainda recebo muitas dúvidas sobre o tênis correto para a corrida e sempre digo que o atleta deve escolher com cautela um tênis para essa prática. Para isso é importante ver antecipadamente alguns fatores listados abaixo antes de mudar o seu calçado:
@@ -18,26 +18,25 @@ Ainda recebo muitas dúvidas sobre o tênis correto para a corrida e sempre digo
 5) Fatores Ambientais: locais de treino;
 6) Corrida (tipos de corrida): quais distâncias irá correr, 5km, 10km, 21km...
 
-<strong>Não mexa em time que está ganhando
-</strong>
+**Não mexa em time que está ganhando**
 
 Se a pessoa não tiver nenhum problema no treinamento, ou nas corridas, será difícil recomendar uma mudança radical do tênis. É difícil melhorar uma situação em que tudo está bem. Por isso aconselho obter alguns pares extras do tênis favorito antes que ele saia de linha, ou que seja substituído por um modelo novo.
 
 As mudanças feitas pelos fabricantes podem variar de uma sutil alteração no amortecimento ou até uma mudança estrutural importante. Deve-se observar também, que muitas vezes, os fabricantes interrompem um modelo de tênis e retornam a sua produção alguns anos mais tarde, porém, com um modelo totalmente novo e o seu pé pode não se adaptar ao tênis, que até então era seu preferido.
 
-<strong>Como comprar</strong>
+**Como comprar**
 
 Saiba que uma das melhores formas de descobrir informações adequadas sobre o tênis é através de lojas especializada em corrida. Lá eles podem ajudar não só com as experiências próprias, mas também rever características desejadas em que o atleta procura num tênis. Essas lojas também podem alertar o corredor quanto às alterações na produção do tênis favorito.
 
 Se, por exemplo, a sola dos seus sapatos se desgastarem muito rapidamente, os vendedores qualificados dessas lojas podem recomendar outro modelo com melhor estrutura. Nesses casos sempre será levado em consideração o local onde você treina e a intensidade dos treinos.
 
-<strong>Vida útil do tênis</strong>
+**Vida útil do tênis**
 
 Lembre-se também que depois de ter usado o tênis por algum tempo é necessário substitui-lo, mesmo que a aparência do calçado esteja boa. O uso de um tênis errado ou desgastado é uma das principais causas de lesões do atleta de corrida. As estimativas variam, tal como os indivíduos, mas um cálculo estima que um calçado deve percorrer entre 350 e 550 milhas (em média 800km).
 
 Isto significa que muitas pessoas devem substituir os seus tênis antes de eles mostrarem um grande desgaste. Ao usar um tênis em demasia, ele gradualmente perderá sua capacidade de absorção de choque, bem como possivelmente irá começar a perder alguma de suas características de estabilidade.
 
-<strong>O tênis atual está correto?</strong>
+**O tênis atual está correto?**
 
 Aproveite o tênis velho e examine o seu solado. Observe onde ocorreu o desgaste.A maioria das pessoas se espanta ao ver que o desgaste se dá na região posterior e lateral do tênis. A razão para isso é que o primeiro ponto do seu pé que toca o solo é o calcanhar (justamente na região do desgaste). Isso é normal.
 
@@ -49,7 +48,7 @@ Se o tênis pender para o lado externo, você pode ter um alto arco do pé. Às 
 
 Além disso, você também deve observar o bico do tênis. Veja se ele tem algum desgaste entre os dedos do pé e/ou na parte superior. Se houver, provavelmente você deve sentir um desconforto nestas áreas ao correr. A dica é: procure um tênis mais largo.
 
-<strong>Na hora de comprar</strong>
+**Na hora de comprar**
 
 Como disse anteriormente, certifique-se de que você esteja numa loja especializada em corrida. A maioria das boas lojas irá permitir que você corra para cima e para baixo. Você precisa testar o tênis antes de comprar, e se você é um atleta de corrida, precisa testá-lo correndo.
 
