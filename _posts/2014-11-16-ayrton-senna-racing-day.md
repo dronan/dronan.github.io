@@ -27,5 +27,5 @@ Domingo, foi realizada em Interlagos a Ayrton Senna Racing Day, Maratona de Reve
 * **Classificação por Sexo:** ---
 * **Pace Médio:** ---
 * **Velocidade Média Total:** ---
-* * **Informações Gerais:** <a href="#">Garmin</a>
+* **Informações Gerais:** <a href="#">Garmin</a>
 
