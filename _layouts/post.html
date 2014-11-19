@@ -61,7 +61,9 @@
     </header>
 
     <div class="entry-content">
-      <iframe src="//www.facebook.com/plugins/like.php?href={{ site.url }}{{ page.url }}&amp;width&amp;layout=button&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId=185392424813274" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:80px; width:400px; font-align:right" allowTransparency="true"></iframe>    
+      <div class="social-post">
+        <iframe src="//www.facebook.com/plugins/like.php?href={{ site.url }}{{ page.url }}&amp;width&amp;layout=button&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=35&amp;appId=185392424813274" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowTransparency="true"></iframe>    
+      </div>
       {{ content }}
       <footer class="entry-meta">
         <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}" class="tag">{{ tag }}</a>{% unless forloop.last %}{% endunless %}{% endfor %}</span>
