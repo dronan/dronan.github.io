@@ -89,19 +89,6 @@
         {% if page.modified %}(revisado: <span class="entry-date date modified"><time datetime="{{ page.modified }}">{{ page.modified | date: "%m/%d/%Y" }}</time></span>){% endif %}
         <span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
         {% if page.share != false %}{% include social-share.html %}{% endif %}
-
-        <script type="text/javascript">
-            google_ad_client = "ca-pub-4625470068125633";
-            google_ad_slot = "8263989064";
-            google_ad_width = 728;
-            google_ad_height = 90;
-        </script>
-        <!-- Diego github -->
-        <script type="text/javascript"
-        src="//pagead2.googlesyndication.com/pagead/show_ads.js">
-        </script>
-
-
       </footer>
     </div><!-- /.entry-content -->
     {% if page.comments != false %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
