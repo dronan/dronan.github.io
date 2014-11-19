@@ -4,7 +4,6 @@ title: Relato - Ayrton Senna Racing Day 2014
 date: 2014-11-16 23:00
 author: diego
 comments: true
-description: Domingo, foi realizada em Interlagos a Ayrton Senna Racing Day, Maratona de Revezamento que ocorre no autódromo de Interlagos, que contou com a presença de pouco mais de seis mil atletas.
 tags: [10k, 42k, Corrida, Corrida de Rua, Interlagos, Autodromo, SP]
 ---
 
