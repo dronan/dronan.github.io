@@ -89,22 +89,23 @@
         {% if page.modified %}(revisado: <span class="entry-date date modified"><time datetime="{{ page.modified }}">{{ page.modified | date: "%m/%d/%Y" }}</time></span>){% endif %}
         <span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
         {% if page.share != false %}{% include social-share.html %}{% endif %}
+
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Diego github -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:728px;height:90px"
+             data-ad-client="ca-pub-4625470068125633"
+             data-ad-slot="8263989064"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+
       </footer>
     </div><!-- /.entry-content -->
     {% if page.comments != false %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
     {% if site.related_posts.size %}{% include read-more.html %}{% endif %}
   </article>
-  
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Diego github -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4625470068125633"
-     data-ad-slot="8263989064"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 </div><!-- /#main -->
 
 <div class="footer-wrapper">
