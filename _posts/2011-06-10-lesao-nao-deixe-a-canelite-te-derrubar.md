@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lesão: não deixe a canelite te derrubar
+title: Lesão - não deixe a canelite te derrubar
 date: 2011-06-10 17:12
 author: diego
 comments: true

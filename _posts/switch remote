@@ -1,0 +1,118 @@
+AstraZeneca
+Diego Ronan Kulian
+CPF: 326.047.788-82
+Nº cartao: 6395-7307-0012-96597
+
+
+
+
+
+switch remote
+ctrl + p - encontra arquivo
+ctrl + shift + p - comandos
+ctrl + alt + u / o - download do arquivo aberto
+ctrl + alt + u / f - sobe o atual
+ctrl + alt + u / n - sobe todos
+ctrl + alt + r / b - browse server
+
+language.xml
+seleciona o trecho a ser excluido e ctrl + D, até selecionar todos e depois 2 deletes
+
+seleção: ctrl + alt + seta p baixo
+tudo na mesma linha: ctrl + j
+
+
+placa de video low profile
+
+Chapinhas Low Profile P/ Placa De Vídeo Perfil Baixo Slim
+http://produto.mercadolivre.com.br/MLB-565768673-chapinhas-low-profile-p-placa-de-video-perfil-baixo-slim-_JM
+
+
+AF-S NIKKOR 24-70mm f/2.8G ED
+AF-S NIKKOR 70-200mm f/2.8G ED VR II
+Mount Adapter FT1
+
+truncate ibf_admin_logs;
+truncate ibf_admin_login_logs;
+truncate ibf_email_logs;
+truncate ibf_mail_error_logs;
+truncate ibf_moderator_logs;
+truncate ibf_spider_logs;
+truncate ibf_task_logs;
+truncate ibf_warn_logs;
+
+truncate dr_commentmeta;
+truncate dr_comments;
+
+
+
+http://www.4data.com.br/homologacao/pages/alteraidioma.asp?cd_idioma=3
+
+http://www.4data.com.br/homologacao/xml/Idioma/idiomaUser_12.xml
+http://www.4data.com.br/homologacao/xml/Idioma/idiomaUser_12.xml
+
+
+puxa do servidor
+git pull
+
+sobe no servidor
+git push
+
+commita:
+git commit -m "mensagem"
+ou
+git commit -am "mensagem"
+adiciona e commita
+
+
+atualizar e excluir os deletados
+git add . -u 
+
+
+git log --oneline
+git reset --hard codigoxpto123
+git push origin +master
+
+
+
+
+relatorios tam trabalhista
+
+
+<a id="btMenu" href="javascript:fn_menuNewVertical('relatorio_customizado')" onmouseover="MM_swapImage('img_relatorio_customizado','','images/newlla/base/group/bullet_menu.gif',1)" onmouseout="MM_swapImgRestore()">Relatórios Customizados</a>
+
+
+DM293933569BR
+DM293935499BR
+
+
+
+Clique aqui para buscar uma outra parte  lb_buscaroutraparte
+Rascunho salvo:
+
+lista_partes.asp
+cad_partes.asp
+
+portal\formNews\Admin\parteContratante_rdn.asp
+portal\formNews\Admin\parteContratada_rdn.asp
+portal\cadastro\pg_empresas.asp
+
+
+
+
+
+
+select * from Tb_Sub_Usuarios -- subusuarios
+select top 10 * from tb_origem  -- origens
+select * from Tb_Sub_Usuarios_Origens -- sub usuarios x origem
+select * from Tb_Areas_Origem -- biblioteca suborigens x sub usuarios
+select * from Tb_Areas_Origem_Usuarios -- acesso projeto x subareas x usuario
+
+
+
+
+
+
+
+
+''&lt;input type="checkbox" onclick=''''javascript:document.getElementById("ctrSel").value=1;'''' name="chks" value="''+convert(varchar,Projetos.CD_Projeto)+''_''+convert(varchar,ProjetosAtivs.CD_Status)+''_0_''+convert(varchar,ProjetosAtivs.CD_Projeto_Tarefa)+''_''+convert(varchar,ProjetosAtivs.CD_Projeto_Atividade)+''" /&gt;'',

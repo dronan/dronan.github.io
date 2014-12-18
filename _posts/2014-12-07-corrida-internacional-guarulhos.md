@@ -46,13 +46,14 @@ Para fechar o ano, este com poucas provas realizadas (não anda compensando $$$)
 </a>
 {: .pull-left}
 
-* **Número de Peito:** 000000
-* **Tempo Final:** 00:00:00
-* **Categoria:** XXX
+* **Número de Peito:** 1084
+* **Tempo Final:** 00:57:16
+* **Categoria:** M2529
 * **Modalidade:** 10k
-* **Tempo Bruto:** 00:00:00
-* **Classificação Total:** 000
-* **Pace Médio:** 0:00 min/km
-* **Velocidade Média Total:** 00,00 km/h
+* **Tempo Bruto:** 00:59:31
+* **Classificação Total:** 453
+* **Classificação por faixa etária:** 40
+* **Pace Médio:** 5:44 min/km
+* **Velocidade Média Total:** 10,48 km/h
 * **Informações Gerais:** <a href="#">Garmin</a>
 
