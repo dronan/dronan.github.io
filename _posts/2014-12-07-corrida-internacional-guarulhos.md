@@ -55,5 +55,5 @@ Para fechar o ano, este com poucas provas realizadas (não anda compensando $$$)
 * **Classificação por faixa etária:** 40
 * **Pace Médio:** 5:44 min/km
 * **Velocidade Média Total:** 10,48 km/h
-* **Informações Gerais:** <a href="#">Garmin</a>
+* **Informações Gerais:** <a href="http://connect.garmin.com/modern/activity/653149188">Garmin</a>
 

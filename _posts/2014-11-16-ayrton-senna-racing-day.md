@@ -51,5 +51,5 @@ Logo mais vem a próxima, a do aniversário da cidade de Guarulhos.
 * **Classificação Total:** 129
 * **Pace Médio:** 5:53 min/km
 * **Velocidade Média Total:** 10,19 km/h
-* **Informações Gerais:** <a href="#">Garmin</a>
+* **Informações Gerais:** <a href="http://connect.garmin.com/modern/activity/653149132">Garmin</a>
 
