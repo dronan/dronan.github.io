@@ -46,7 +46,7 @@ Para fechar o ano, este com poucas provas realizadas (não anda compensando $$$)
 </a>
 {: .pull-left}
 
-* **Número de Peito:** 1084
+* **Número de Peito:** 647
 * **Tempo Final:** 00:57:16
 * **Categoria:** M2529
 * **Modalidade:** 10k
