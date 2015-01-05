@@ -47,5 +47,5 @@ Agora é se preparar para a maratona do RJ! Um feliz 2015 a todos!
 * **Classificação por faixa etária:** 1000
 * **Pace Médio:** 7:37 min/km
 * **Velocidade Média Total:** 7,87 km/h
-* **Informações Gerais:** <a href="#">Garmin</a>
+* **Informações Gerais:** <a href="http://connect.garmin.com/modern/activity/663710686">Garmin</a>
 
