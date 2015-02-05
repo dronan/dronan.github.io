@@ -3,10 +3,6 @@ Diego Ronan Kulian
 CPF: 326.047.788-82
 Nº cartao: 6395-7307-0012-96597
 
-
-
-
-
 switch remote
 ctrl + p - encontra arquivo
 ctrl + shift + p - comandos
@@ -22,10 +18,7 @@ seleção: ctrl + alt + seta p baixo
 tudo na mesma linha: ctrl + j
 
 
-placa de video low profile
 
-Chapinhas Low Profile P/ Placa De Vídeo Perfil Baixo Slim
-http://produto.mercadolivre.com.br/MLB-565768673-chapinhas-low-profile-p-placa-de-video-perfil-baixo-slim-_JM
 
 
 AF-S NIKKOR 24-70mm f/2.8G ED
@@ -45,10 +38,11 @@ truncate dr_commentmeta;
 truncate dr_comments;
 
 
+Canon
+Sigma
+Tamron
 
 http://www.4data.com.br/homologacao/pages/alteraidioma.asp?cd_idioma=3
-
-http://www.4data.com.br/homologacao/xml/Idioma/idiomaUser_12.xml
 http://www.4data.com.br/homologacao/xml/Idioma/idiomaUser_12.xml
 
 
@@ -74,45 +68,57 @@ git reset --hard codigoxpto123
 git push origin +master
 
 
-
-
-relatorios tam trabalhista
-
-
-<a id="btMenu" href="javascript:fn_menuNewVertical('relatorio_customizado')" onmouseover="MM_swapImage('img_relatorio_customizado','','images/newlla/base/group/bullet_menu.gif',1)" onmouseout="MM_swapImgRestore()">Relatórios Customizados</a>
-
-
-DM293933569BR
-DM293935499BR
+http://www.4data.com.br/homologacao/home.asp?url_modulo=pg_cadastro&cd_caso=1328079&cd_perfil=27
 
 
 
-Clique aqui para buscar uma outra parte  lb_buscaroutraparte
-Rascunho salvo:
-
-lista_partes.asp
-cad_partes.asp
-
-portal\formNews\Admin\parteContratante_rdn.asp
-portal\formNews\Admin\parteContratada_rdn.asp
-portal\cadastro\pg_empresas.asp
+http://www.4data.com.br/homologacao/pages/alteraPerfil.asp?cd_perfil=27&url_modulo=pg_cadastro@cd_caso=1328079
 
 
-
-
-
-
-select * from Tb_Sub_Usuarios -- subusuarios
-select top 10 * from tb_origem  -- origens
-select * from Tb_Sub_Usuarios_Origens -- sub usuarios x origem
-select * from Tb_Areas_Origem -- biblioteca suborigens x sub usuarios
-select * from Tb_Areas_Origem_Usuarios -- acesso projeto x subareas x usuario
-
-
-
-
+Proc_Exec_Fluxo_Projetos
 
 
 
 
 ''&lt;input type="checkbox" onclick=''''javascript:document.getElementById("ctrSel").value=1;'''' name="chks" value="''+convert(varchar,Projetos.CD_Projeto)+''_''+convert(varchar,ProjetosAtivs.CD_Status)+''_0_''+convert(varchar,ProjetosAtivs.CD_Projeto_Tarefa)+''_''+convert(varchar,ProjetosAtivs.CD_Projeto_Atividade)+''" /&gt;'',
+
+
+
+
+
+
+if (document.getElementById("st_validador_objeto_empresa") != null) {
+	if (document.getElementById("st_validador_objeto_empresa").value == "1"){
+		if  ((document.getElementById("st_cobertura_seguro_module").value == "") || (document.getElementById("dt_ocorrencia_seguro_module").value == "")) {
+			alert('Os campos  \"Cobertura de Seguro\" e \"Data de Ocorrência\" devem ser peenchidos');
+			return false;
+		}
+	}
+}
+
+if (document.getElementById("cd_causaRaiz") != null) {
+	
+	var validacaoCoberturaData;
+	var CausaRaizSelecionada;
+	var total;
+
+	CausaRaizSelecionada = document.getElementById("cd_causaRaiz").value;
+
+	var causaraizCoberturaData = ["43839","43851","43826","43827","43801","43866","43892","43867","43893","43816","43846","43847","43812","43830","43835","43857","43871","43873","43875","43880","39876","39877","39872","39874","39875","39743","39870","39824","39871","39796","39873","39850","39878","39819","39821","39763","39894","39924","39895","39925","39806","39858","39859","39802","39827","39836"];
+	
+	validacaoCoberturaData = "0";
+
+	for	(total = 0; total < causaraizCoberturaData.length; total++) {
+	    if (CausaRaizSelecionada == causaraizCoberturaData[total]){
+	    	validacaoCoberturaData = "1";
+	    }
+	}
+
+	if (validacaoCoberturaData == "1"){
+			alert('Os campos  \"Cobertura de Seguro\" e \"Data de Ocorrência\" devem ser peenchidos');
+			return false;
+	}
+
+} 
+
+
