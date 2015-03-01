@@ -30,11 +30,11 @@ Pontos de hidratação nota 10! Todos com água a vontade e gelada, e um a cada 
 
 * **Número de Peito:** 1069
 * **Tempo Final:** 00:56:20
-* **Categoria:** M2529
+* **Categoria:** M3034
 * **Modalidade:** 10k
-* **Tempo Bruto:** ND
-* **Classificação Total:** ND
-* **Classificação por faixa etária:** ND
+* **Tempo Bruto:** 01:05:26
+* **Classificação Total:** 1532
+* **Classificação por faixa etária:** 216
 * **Pace Médio:** 5:33 min/km
 * **Velocidade Média Total:** 10,80 km/h
 * **Informações Gerais:** <a href="http://connect.garmin.com/modern/activity/682038971">Garmin</a>
