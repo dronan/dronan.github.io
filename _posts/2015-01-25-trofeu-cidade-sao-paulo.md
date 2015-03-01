@@ -32,9 +32,15 @@ Pontos de hidratação nota 10! Todos com água a vontade e gelada, e um a cada 
 * **Tempo Final:** 00:56:20
 * **Categoria:** M3034
 * **Modalidade:** 10k
+<<<<<<< HEAD
 * **Tempo Bruto:** 01:05:26
 * **Classificação Total:** 1532
 * **Classificação por faixa etária:** 216
+=======
+* **Tempo Bruto:** 01:05:16
+* **Classificação Total:** 1526
+* **Classificação por faixa etária:** 214
+>>>>>>> 12e9681b3f74218df87986fa99c2cb89db91a0aa
 * **Pace Médio:** 5:33 min/km
 * **Velocidade Média Total:** 10,80 km/h
 * **Informações Gerais:** <a href="http://connect.garmin.com/modern/activity/682038971">Garmin</a>
