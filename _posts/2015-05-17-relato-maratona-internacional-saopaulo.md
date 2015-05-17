@@ -43,7 +43,7 @@ Foi um belo longo para a maratona do RJ, antes tem uma meia (da Mizuno) pelo cam
 * **Categoria:**  M3034
 * **Modalidade:**  42k
 * **Tempo Bruto:** XX:XX:XX
-* **Classificação Total:**  XX
+* **Classificação Total:**  XXX
 * **Classificação por Faixa Etária:**  XX
 * **Pace Médio:** 06:40 min/km
 * **Velocidade Média Total:**  09,00 km/h
