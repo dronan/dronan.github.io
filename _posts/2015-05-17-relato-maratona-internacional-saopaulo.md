@@ -17,7 +17,9 @@ Domingo amanheceu nublado, com temperatura agradável, na casa dos 15°C. Levant
 
 Me posicionei no setor verde e aguardei a largada, que foi pontualmente às 7h30. Estava com certo receio por não ter treinado direito, principalmente os longos que comecei na segunda quinzena de março - dois meses antes da corrida, não conseguindo ainda fazer alguns por falta de tempo.
 
-![Maratona SP]({{ site.url }}/images/2015/05/11295604_10153298836819344_6983074171601387783_n.jpg)
+<a href="/images/2015/05/11295604_10153298836819344_6983074171601387783_n.JPG">
+![Maratona SP]({{ site.url }}/images/2015/05/11295604_10153298836819344_6983074171601387783_p.jpg)
+</a>
 {: .pull-left}
 
 
