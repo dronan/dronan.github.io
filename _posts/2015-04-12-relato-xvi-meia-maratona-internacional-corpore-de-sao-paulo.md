@@ -48,9 +48,9 @@ Por fim foi retirar a medalha e fazer os kms que faltaram no treino para a Marat
 * **Tempo Final:**  01:58:26
 * **Categoria:**  M2529
 * **Modalidade:**  21k
-* **Tempo Bruto:**  ND
-* **Classificação Total:**  ND
-* **Classificação por Faixa Etária:**  ND
+* **Tempo Bruto:** 02:19:49
+* **Classificação Total:**  2634
+* **Classificação por Faixa Etária:**  305
 * **Pace Médio:**  05:34 min/km
 * **Velocidade Média Total:**  10,80 km/h
 * **Informações Gerais:** <a href="https://connect.garmin.com/modern/activity/745060835" target="_blank">Garmin</a>
