@@ -51,10 +51,9 @@ A próxima é no Rio! Até lá!
 
 * **Número de Peito:** 1814 
 * **Tempo Final:**  01:54:50
-* **Tempo Bruto:**  02:04:21
 * **Categoria:**  M3034
 * **Modalidade:**  21k
-* **Tempo Bruto:** XX:XX:XX
+* **Tempo Bruto:** 02:04:21
 * **Classificação Total:**  1709
 * **Pace Médio:** 05:25 min/km
 * **Velocidade Média Total:**  11,10 km/h
