@@ -29,7 +29,7 @@ Consegui manter este ritmo até o km 19 quando o cansaço começou bater - próx
 
 Não deixei passar nenhum ponto de hidratação batido. Água na maioria gelada, em todos. A batata foi dado no km 27 e laranja por volta do km 35. Dois pontos de Gatorade, um no km 13 e um segundo no 32 também ajudaram bastante.
 
-Consegui baixar meu tempo em 20 minutos, comparando com minha primeira participação em maratonas fechando, fechando na casa das 4h41.
+Consegui baixar meu tempo em 20 minutos, comparando com minha primeira participação em maratonas, fechando na casa das 4h41.
 
 Foi um belo longo para a maratona do RJ, antes tem uma meia (da Mizuno) pelo caminho, nos vemos nela.
 
@@ -44,9 +44,9 @@ Foi um belo longo para a maratona do RJ, antes tem uma meia (da Mizuno) pelo cam
 * **Tempo Final:**  04:40:37
 * **Categoria:**  M3034
 * **Modalidade:**  42k
-* **Tempo Bruto:** XX:XX:XX
-* **Classificação Total:**  XXX
-* **Classificação por Faixa Etária:**  XX
+* **Tempo Bruto:** 04:48:22
+* **Classificação Total:**  1800
+* **Classificação por Faixa Etária:**  289
 * **Pace Médio:** 06:40 min/km
 * **Velocidade Média Total:**  09,00 km/h
 * **Informações Gerais:** <a href="https://connect.garmin.com/modern/activity/777502737" target="_blank">Garmin</a>
