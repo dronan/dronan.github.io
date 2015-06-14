@@ -44,7 +44,7 @@ A próxima é no Rio! Até lá!
 
 ## Resultado:
 
-<a href="/images/2015/06/meiamaratona_big.jpg">
+<a href="/images/2015/06/meiamaratona_big.JPG">
 ![Maratona Meia SP]({{ site.url }}/images/2015/06/meiamaratona.jpg)
 </a>
 {: .pull-left}
