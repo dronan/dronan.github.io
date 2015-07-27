@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relato - Mizuno Half-Matathon
+title: Relato - Mizuno Half-Marathon
 date: 2015-06-14 15:00
 author: diego
 comments: true
