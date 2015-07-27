@@ -11,8 +11,8 @@ Domingo foi dia de corrida, dia de cumprir o objetivo do começo do ano: correr 
 
 Sexta-feira fechei os treinos para a corrida na debaixo de um dilúvio, e, para ajudar, com o tênis que iria usar na prova. Resultado: um bom tempo com secador para deixa-lo pronto para a corrida; tirando este empecilho, restou viajar.
 
-<a href="/images/2015/07/maratona01_big.jpg">
-![Maratona RJ]({{ site.url }}/images/2015/07/maratona01.jpg)
+<a href="/images/2015/07/rj_maratona01_big.JPG">
+![Maratona RJ]({{ site.url }}/images/2015/07/rj_maratona01.JPG)
 </a>
 {: .pull-left}
 
@@ -22,8 +22,8 @@ Assim que desembarquei, fui ao hostel (Gaia, muito bom por sinal) - no bairro do
 
 No centro de convenções, assinei o termo de responsabilidade e me dirigi a fila da retirada, uma enorme fila, menor que a da Meia Maratona, mas que me custou uma hora para ter o kit em mãos. Kit composto por camiseta regata, número de peito, chip de cronometragem, revista, macarrão, bolacha, uma sacola para uso do guarda volumes, além da bolsa de transporte.
 
-<a href="/images/2015/07/maratona02_big.jpg">
-![Maratona RJ]({{ site.url }}/images/2015/07/maratona02.jpg)
+<a href="/images/2015/07/rj_maratona02_big.JPG">
+![Maratona RJ]({{ site.url }}/images/2015/07/rj_maratona02.JPG)
 </a>
 {: .pull-left}
 
@@ -35,8 +35,8 @@ Por volta as 20 horas jantei em um bar no Botafogo, comprei bisnaguinhas que ser
 
 Domingo acordei por voltas as 4:30, troquei de roupa e fui para o Aterro do Flamengo - chegada da prova, e de onde partiriam os ônibus para a largada da maratona. Saindo do hostel quase as 5:20, vinte minutos antes de partir o último ônibus para a largada, cheguei na fila em cima da hora. Embarquei e depois os ônibus partiram rumo ao Pontal, local do início da corrida.
 
-<a href="/images/2015/07/maratona03_big.jpg">
-![Maratona RJ]({{ site.url }}/images/2015/07/maratona03.jpg)
+<a href="/images/2015/07/rj_maratona03_big.JPG">
+![Maratona RJ]({{ site.url }}/images/2015/07/rj_maratona03.JPG)
 </a>
 {: .pull-left}
 
@@ -48,8 +48,8 @@ Fui a um ritmo confortável de 6 min/km durante toda a primeira parte da prova, 
 
 Quando chega na Barra da Tijuca, finalmente há público no entorno, embora quase ninguém da muita atenção à corrida. Também na Barra, foi o início da meia maratona para os muitos que partiram desta distancia. 
 
-<a href="/images/2015/07/maratona04_big.jpg">
-![Maratona RJ]({{ site.url }}/images/2015/07/maratona04.jpg)
+<a href="/images/2015/07/rj_maratona04_big.JPG">
+![Maratona RJ]({{ site.url }}/images/2015/07/rj_maratona04.JPG)
 </a>
 {: .pull-left}
 
@@ -59,8 +59,8 @@ O segundo túnel teve como diferencial muita música e luzes, deixando o ambient
 
 No Leblon o pessoal começa a dar mais atenção para a prova, gente incentivando, aplaudindo. Toda ação por volta do quase quilometro trinta é válido. E é assim até o final da prova, passando por Ipanema, Copacabana, Botafogo e, finalmente, o Aterro do Flamengo.
 
-<a href="/images/2015/07/maratona05_big.jpg">
-![Maratona RJ]({{ site.url }}/images/2015/07/maratona05.jpg)
+<a href="/images/2015/07/rj_maratona05_big.JPG">
+![Maratona RJ]({{ site.url }}/images/2015/07/rj_maratona05.JPG)
 </a>
 {: .pull-left}
 
@@ -72,8 +72,8 @@ Foi a última maratona do ano. Agora resta concentrar em distancias menores e de
 
 ## Resultado:
 
-<a href="/images/2015/07/maratona_big.JPG">
-![Maratona RJ]({{ site.url }}/images/2015/07/maratona.jpg)
+<a href="/images/2015/07/rj_maratona_big.JPG">
+![Maratona RJ]({{ site.url }}/images/2015/07/rj_maratona.JPG)
 </a>
 {: .pull-left}
 
