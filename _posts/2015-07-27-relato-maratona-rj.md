@@ -78,11 +78,12 @@ Foi a última maratona do ano. Agora resta concentrar em distancias menores e de
 {: .pull-left}
 
 * **Número de Peito:** 5121
-* **Tempo Final:** 04:45:41
+* **Tempo Final:** 04:46:47
 * **Categoria:**  M3034
 * **Modalidade:**  42k
-* **Tempo Bruto:** 04:46:47
-* **Classificação Total:**  2759
-* **Pace Médio:** 06:44 min/km
+* **Tempo Bruto:** 04:52:15
+* **Classificação Total:**  2834
+* **Classificação Faixa Etária:**  496
+* **Pace Médio:** 06:47 min/km
 * **Velocidade Média Total:**  8,90 km/h
 * **Informações Gerais:** <a href="https://connect.garmin.com/modern/activity/845817796" target="_blank">Garmin</a>
