@@ -71,12 +71,9 @@ Consegui manter um pace tranquilo na primeira metade da prova, me poupando do de
 {: .pull-left}
 
 * **Número de Peito:** 3778
-* **Tempo Final:** ND
+* **Tempo Final:** 02:07:23
 * **Categoria:**  M3034
 * **Modalidade:**  21k
-* **Tempo Bruto:** ND
-* **Classificação Total:**  ND
-* **Classificação Faixa Etária:**  ND
-* **Pace Médio:** ND
-* **Velocidade Média Total:**  ND
-* **Informações Gerais:** ND
+* **Tempo Bruto:** 02:22:04
+* **Pace Médio:** 06:03 min/km
+* **Velocidade Média Total:**  9:90 km/h
