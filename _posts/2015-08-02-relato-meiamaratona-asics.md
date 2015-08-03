@@ -20,11 +20,12 @@ Fiquei em dúvidas se iria correr esta etapa (São Paulo), ou teria que adiar pa
 <a href="/images/2015/08/asics1_big.jpg">
 ![Meia Maratona Asics]({{ site.url }}/images/2015/08/asics1.jpg)
 </a>
-{: .pull-left}
+{: .pull-right}
 
 A retirada do kit foi realizada no WTC de São Paulo, no Hall de Eventos do D&D Shopping. Como sempre, a Asics dando uma aula de organização na retirada, com palestras, inúmeros staffs e com bastante espaço e stands para circulação. 
 
 Cheguei na tarde de sábado, único dia disponibilizado para a retirada. Não enfrentei mais que dez minutos de fila, levaria pelo menos o dobro se não estivesse com o proocolo impresso. Com o kit retirado, visitei a feira e acompanhei a palestra - ou relatos de prova - do Dr. Drauzio Varella, um dos palestrantes convidados. O principal ponto que ele disse: "correr não faz mal, não tem essa de idade ou tempo dedicado a isto para determinar quando parar; não precisa parar nunca, e nem deve." 
+
 <a href="/images/2015/08/asics2_big.jpg">
 ![Meia Maratona Asics]({{ site.url }}/images/2015/08/asics2.jpg)
 </a>
@@ -53,12 +54,13 @@ O único incômodo foi que levei uma câmera para fotografar a área de concentr
 
 O percurso foi o tradicional, saindo do jockey em direção a cidade universitária. Chegando nela, vamos rumo a praça pan americana, parque vila lobos e o retorno a praça pan americana. Entramos na USP onde corremos praticamente 50% da prova, saindo rumo ao jockey faltando menos de 3km para finalizar a prova.
 
+
+Um percurso já conhecido, sem muitas subidas e dificuldades. Hidratação a cada 3km, e sempre acompanhado de gatorade e banheiros químicos.
+
 <a href="/images/2015/08/asics5_big.jpg">
 ![Meia Maratona Asics]({{ site.url }}/images/2015/08/asics5.jpg)
 </a>
-{: .pull-left}
-
-Um percurso já conhecido, sem muitas subidas e dificuldades. Hidratação a cada 3km, e sempre acompanhado de gatorade e banheiros químicos.
+{: .pull-right}
 
 Consegui manter um pace tranquilo na primeira metade da prova, me poupando do desgaste da semana anterior; já na segunda metade arrisquei forçar um pouco mais e não tive problemas, consegui manter um bom ritimo e fechar a prova com um bom tempo, para quem não tinha pretenções nenhuma disso.
 
