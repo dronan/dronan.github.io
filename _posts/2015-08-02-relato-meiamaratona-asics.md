@@ -77,5 +77,8 @@ Consegui manter um pace tranquilo na primeira metade da prova, me poupando do de
 * **Categoria:**  M3034
 * **Modalidade:**  21k
 * **Tempo Bruto:** 02:22:04
+* **Classificação Total:**  ND
+* **Classificação Faixa Etária:**  ND
 * **Pace Médio:** 06:03 min/km
 * **Velocidade Média Total:**  9:90 km/h
+* **Informações Gerais:** <a href="https://connect.garmin.com/modern/activity/854283604" target="_blank">Garmin</a>
