@@ -24,8 +24,8 @@ O restante do dia foi de descanso. Faltando pouco mais de uma hora da largada, m
 
 Com tempo de sobra, ja fiz o alongamento assim que cheguei, por volta das 19h15, e restara aguardar a largada, inicialmente marcada para as 20 horas.
 
-<a href="/images/2015/11/oscar_adidas_largada.jpg">
-![Circuito Adidas]({{ site.url }}/images/2015/11/oscar_adidas_largada_big.jpg)
+<a href="/images/2015/11/oscar_adidas_largada_big.jpg">
+![Circuito Adidas]({{ site.url }}/images/2015/11/oscar_adidas_largada.jpg)
 </a>
 {: .pull-left}
 
@@ -40,8 +40,8 @@ O pós prova foi bem organizado, com uma dispersão rápida e tranquila, sem tum
 
 ## Resultado:
 
-<a href="/images/2015/11/oscar_adidas.jpg">
-![Circuito Adidas]({{ site.url }}/images/2015/11/oscar_adidas_big.jpg)
+<a href="/images/2015/11/oscar_adidas_big.jpg">
+![Circuito Adidas]({{ site.url }}/images/2015/11/oscar_adidas.jpg)
 </a>
 {: .pull-left}
 
