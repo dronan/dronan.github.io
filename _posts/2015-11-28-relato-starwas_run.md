@@ -17,9 +17,9 @@ O restante do dia foi basicamente em pé, não descansando um minuto, até a hor
 
 Por volta as 20:40, a vinte minutos da largada, cheguei no local e deixei o carro próximo ao Parque da Água Branca; dica para próximas provas cujo a largada seja no memorial. Assim que ganhamos acesso a arena, hora de alongar e esperar. 
 
-Com tempo abafado, e temperatura beirando os 30 graus, relâmpagos anunciavam uma breve virada no tempo. Assim que o relogio marca 21 horas, começa a prova, junto com uma forte chuva. Deixo os pertences no guarda volumes e para o fim da fila, na largada.
+Com tempo abafado, e temperatura beirando os 30 graus, relâmpagos anunciavam uma breve virada no tempo. 
 
-Largar entre os últimos é aquele inferno: bloco e gente caminhando por todo o lado, um show de freada brusca, corte pela calçada, contra-mão em certos trechos que não dava para passar, enfim...
+Assim que o relogio marca 21 horas, começa a prova, junto com a esperada forte chuva. Deixo os pertences no guarda volumes e para o fim da fila, na largada. Largar entre os últimos é aquele inferno: bloco e gente caminhando por todo o lado, um show de freada brusca, corte pela calçada, contra-mão em certos trechos que não dava para passar, enfim...
 
 Mesmo com os piores contratempos e com todo mundo atrapalhando, consegui manter uma média de 5:20 e fechar a prova em 38 minutos. Estimo 34 se não pegasse tantos blocos, tanta gente atrapalhando, que evitaria se fosse direto para a largada assim que tivesse chegado ao memorial.
 
