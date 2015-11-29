@@ -56,4 +56,4 @@ O pós prova foi bem organizado, com uma dispersão rápida e tranquila, sem tum
 * **Classificação Faixa Etária:**  37
 * **Pace Médio:** 05:25 min/km
 * **Velocidade Média Total:**  11:08 km/h
-* **Informações Gerais:** <a href="#" target="_blank">Garmin</a>
+* **Informações Gerais:** <a href="https://connect.garmin.com/modern/activity/970205535" target="_blank">Garmin</a>
