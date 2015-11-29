@@ -15,7 +15,9 @@ A retirada dos kits ocorreu na loja da Riachuello da Av. Paulista, nos 3 dias qu
 
 O restante do dia foi basicamente em pé, não descansando um minuto, até a hora da prova.
 
-Por volta as 20:40, a vinte minutos da largada, cheguei no local e deixei o carro próximo ao Parque da Água Branca; dica para próximas provas cujo a largada seja no memorial. Assim que ganhamos acesso a arena, hora de alongar e esperar. Com tempo abafado, e temperatura beirando os 30 graus, relâmpagos anunciavam uma breve virada no tempo. Assim que o relogio marca 21 horas, começa a prova, junto com uma forte chuva. Deixo os pertences no guarda volumes e para o fim da fila, na largada.
+Por volta as 20:40, a vinte minutos da largada, cheguei no local e deixei o carro próximo ao Parque da Água Branca; dica para próximas provas cujo a largada seja no memorial. Assim que ganhamos acesso a arena, hora de alongar e esperar. 
+
+Com tempo abafado, e temperatura beirando os 30 graus, relâmpagos anunciavam uma breve virada no tempo. Assim que o relogio marca 21 horas, começa a prova, junto com uma forte chuva. Deixo os pertences no guarda volumes e para o fim da fila, na largada.
 
 Largar entre os últimos é aquele inferno: bloco e gente caminhando por todo o lado, um show de freada brusca, corte pela calçada, contra-mão em certos trechos que não dava para passar, enfim...
 
