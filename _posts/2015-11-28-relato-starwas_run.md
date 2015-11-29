@@ -13,11 +13,11 @@ Corrida temática, como no ano passado, premiou quem fosse com o melhor cosplay,
 
 A retirada dos kits ocorreu na loja da Riachuello da Av. Paulista, nos 3 dias que antecederam o evento (e no sábado da prova). Local com pouco espaço, mas sem problemas, quase sem filas por volta do meio dia, a retirada foi tranquila. Kit veio contendo camiseta, chip retornável, numero de peito, e uma mascara do personagem escolhido no ato da inscrição (bem como a camiseta, também havia possibilidade de duas distintas).
 
-O restante do dia foi basicamente em pé, não descansando um minuto, até a hora da prova, chegando no local por volta as 20:40, a vinte minutos da largada, deixando o carro próximo ao Parque da Água Branca; dica para próximas provas cujo a largada seja no memorial.
+O restante do dia foi basicamente em pé, não descansando um minuto, até a hora da prova.
 
-Chegando no local, alonguei e esperei até as 21hrs, para guardar os pertences no guarda volumes. O tempo estava abafado, calor com temperatura beirando os 30 graus, mas relâmpagos anunciavam uma virada no tempo (breve). 
+Por volta as 20:40, a vinte minutos da largada, cheguei no local e deixei o carro próximo ao Parque da Água Branca; dica para próximas provas cujo a largada seja no memorial. Assim que ganhamos acesso a arena, hora de alongar e esperar. O tempo estava abafado, calor com temperatura beirando os 30 graus, mas relâmpagos anunciavam uma virada no tempo (breve). Assim que o relogio marca 21 horas, começa a prova. Deixo os pertences no guarda volumes e vamos para o fim da fila, na largada.
 
-Começa a prova, largando praticamente entre os últimos foi aquele inferno: bloco e gente caminhando por todo o lado, um show de freada brusca, corte pela calçada, contra-mão em certos trechos que não dava para passar, e com a chuva prometida desabando forte, desde o início da corrida. 
+Largar entre os últimos é aquele inferno: bloco e gente caminhando por todo o lado, um show de freada brusca, corte pela calçada, contra-mão em certos trechos que não dava para passar, enfim, e com a chuva prometida desabando forte, desde o início da corrida. 
 
 Mesmo com os piores contratempos e com todo mundo atrapalhando, consegui manter uma média de 5:20 e fechar a prova em 38 minutos. Estimo 34 se não pegasse tantos blocos, tanta gente atrapalhando, que evitaria se fosse direto para a largada assim que tivesse chegado ao memorial.
 
