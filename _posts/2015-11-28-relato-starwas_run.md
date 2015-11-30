@@ -37,12 +37,13 @@ E que venha a próxima.
 {: .pull-left}
 
 * **Número de Peito:** 1377
-* **Tempo Final:** 00:38:28
+* **Tempo Final:** 00:38:26
 * **Categoria:**  M3034
 * **Modalidade:**  7k
-* **Tempo Bruto:** ND
-* **Classificação Total:**  ND
-* **Classificação Faixa Etária:**  ND
-* **Pace Médio:** 05:20 min/km
+* **Tempo Bruto:** 00:52:23
+* **Classificação Total:**  594/5588
+* **Classificação Faixa Etária:**  106/650
+* **Classificação Sexo:**  514/3258
+* **Pace Médio:** 05:29 min/km
 * **Velocidade Média Total:**  11:20 km/h
 * **Informações Gerais:** <a href="https://connect.garmin.com/modern/activity/970205706" target="_blank">Garmin</a>
