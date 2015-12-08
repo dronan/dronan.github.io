@@ -84,8 +84,8 @@ A, claro, desta vez para o Tietê de ônibus =)
 
 ## Resultado:
 
-<a href="/images/2011/04/medalhaindyrun_2011_big.jpg">
-![Indy Run]({{ site.url }}/images/2011/04/medalhaindyrun_2011.jpg)
+<a href="/images/2011/04/medalhaindyrun_2011_big.JPG">
+![Indy Run]({{ site.url }}/images/2011/04/medalhaindyrun_2011.JPG)
 </a>
 {: .pull-left}
 
@@ -98,7 +98,7 @@ A, claro, desta vez para o Tietê de ônibus =)
 * **Classificação por Categoria:** 499
 * **Classificação por Sexo:** 499
 * **Pace Médio:** 05:48 min/km
-* ** Velocidade Média Total:** 10,35 km/h
+* **Velocidade Média Total:** 10,35 km/h
 
 Agora pronto pra próxima, e é mais uma noturna: Fila Night Run, agora 10k.
 

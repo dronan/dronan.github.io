@@ -37,8 +37,8 @@ O local da premiação foi o suficiente para uma grande  concentração de pesso
 
 ## Resultado:
 
-<a href="/images/2011/04/DSC_0126_big.jpg">
-![Corpore Meia]({{ site.url }}/images/2011/04/DSC_0126.jpg)
+<a href="/images/2011/04/DSC_0126_big.JPG">
+![Corpore Meia]({{ site.url }}/images/2011/04/DSC_0126.JPG)
 </a>
 {: .pull-left}
 
@@ -51,7 +51,7 @@ O local da premiação foi o suficiente para uma grande  concentração de pesso
 * **Classificação por Categoria:** 99
 * **Classificação por Sexo:** 654
 * **Pace Médio:** 05:32 min/km
-* ** Velocidade Média Total:** 10,82 km/h
+* **Velocidade Média Total:** 10,82 km/h
 
 Próxima corrida: Indy 8K no dia 30 de abril! Corrida noturna após o treino classificatório da SP Indy 300.
 
