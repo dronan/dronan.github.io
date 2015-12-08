@@ -61,5 +61,5 @@ Coloquei de forma incorreta o chip e fiquei sem resultado oficial, fazendo cálc
 * **Classificação por Categoria:** N/D
 * **Classificação por Sexo:** N/D
 * **Pace Médio:** 05:51 min/km
-* ** Velocidade Média Total:** 10:27 km/h
+* **Velocidade Média Total:** 10:27 km/h
 <br><br><br><br><br>

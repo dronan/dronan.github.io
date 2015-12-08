@@ -40,5 +40,5 @@ Próxima corrida: talvez a serie delta no meio pro fim de agosto, ou a etapa Pri
 * **Classificação por Categoria:** N/D
 * **Classificação por Sexo:** N/D
 * **Pace Médio:** 05:58 min/km
-* ** Velocidade Média Total:** 10:05 km/h
+* **Velocidade Média Total:** 10:05 km/h
 

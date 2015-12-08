@@ -44,7 +44,7 @@ Minha próxima prova agora não sei se é a "Estações Adidas" em Curitiba ou a
 * **Classificação por Categoria:** N/D
 * **Classificação por Sexo:** N/D
 * **Pace Médio:** 05:18 min/km
-* ** Velocidade Média Total:** 11:33 km/h
+* **Velocidade Média Total:** 11:33 km/h
 
 Percurso e maiores informações: <a href="http://www.runtastic.com/en/users/Diego-Ronan/sport-sessions/4557888" target="_blank">Clique aqui</a>.
 

@@ -47,7 +47,7 @@ Ainda não defini qual será minha próxima corrida. Nas próximas semanas defin
 * **Classificação por Categoria:** 19
 * **Classificação por Sexo:** 166
 * **Pace Médio:** 6:32 min/km
-* ** Velocidade Média Total:** 9,16 km/h
+* **Velocidade Média Total:** 9,16 km/h
 
 
 

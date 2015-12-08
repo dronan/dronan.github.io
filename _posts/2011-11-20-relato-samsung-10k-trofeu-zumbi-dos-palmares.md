@@ -47,7 +47,7 @@ Faltam mais 2 para fechar o ano!
 * **Classificação por Categoria:** 155/283
 * **Classificação por Sexo:** 1679/3210
 * **Pace Médio:** 5:48 min/km
-* ** Velocidade Média Total:** 10,33 km/h
+* **Velocidade Média Total:** 10,33 km/h
 
 
 

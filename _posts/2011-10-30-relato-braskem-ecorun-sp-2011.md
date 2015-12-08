@@ -40,7 +40,7 @@ Próxima corrida é a da Samsung - Zumbi dos Palmares, penultima (?) do ano. At�
 * **Classificação por Categoria:** 144
 * **Classificação por Sexo:** 984
 * **Pace Médio:** 05:54 min/km
-* ** Velocidade Média Total:** 10:01 km/h
+* **Velocidade Média Total:** 10:01 km/h
 
 
 

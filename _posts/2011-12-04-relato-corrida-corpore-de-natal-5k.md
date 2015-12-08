@@ -40,7 +40,7 @@ Lado curioso: Ja paguei caro por corridas que não chegaram nem aos pés desta, 
 * **Classificação por Categoria:** 61
 * **Classificação por Sexo:** 482
 * **Pace Médio:** 05:09 min/km
-* ** Velocidade Média Total:** 11,63 km/h
+* **Velocidade Média Total:** 11,63 km/h
 
 
 

@@ -55,7 +55,7 @@ Agora que venha a São Silvestre, mas sem música porque chove :( Minha primeira
 * **Classificação por Categoria:** N/D
 * **Classificação por Sexo:** N/D
 * **Pace Médio:** 05:35 min/km
-* ** Velocidade Média Total:** 10,73km/h
+* **Velocidade Média Total:** 10,73km/h
 
 
 

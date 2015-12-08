@@ -48,7 +48,7 @@ A, ponto negativo 2: perdi oportunidade de registrar excelentes fotos =(
 * **Classificação por Categoria:** 176
 * **Classificação por Sexo:** N/D
 * **Pace Médio:** 6:14 min/km
-* ** Velocidade Média Total:** 9,63 km/h
+* **Velocidade Média Total:** 9,63 km/h
 
 A próxima agora é o circuito das estações adidas, estréia nos 10k, também na região do Pacaembu.
 

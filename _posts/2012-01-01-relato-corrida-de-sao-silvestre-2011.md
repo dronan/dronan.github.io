@@ -85,7 +85,7 @@ Que venham as meia maratonas, creio que ja consiga encarar. Consegui terminar be
 * **Classificação por Categoria:** 947
 * **Classificação por Sexo:** N/D
 * **Pace Médio:** 6:43 min/km
-* ** Velocidade Média Total:** 8,94 km/h
+* **Velocidade Média Total:** 8,94 km/h
 
 
 

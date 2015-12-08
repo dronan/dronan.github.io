@@ -70,6 +70,6 @@ Próxima corrida: Eco Run da Braskem!
 * **Classificação por Categoria:** N/D
 * **Classificação por Sexo:** N/D
 * **Pace Médio:** 05:52 min/km
-* ** Velocidade Média Total:** 10:21 km/h
+* **Velocidade Média Total:** 10:21 km/h
 
 **Percurso e maiores informações**: <a href="http://www.runtastic.com/en/users/Diego-Ronan/sport-sessions/5450572" target="_blank">Clique aqui</a>.

@@ -71,7 +71,7 @@ O evento foi nota 10! Belo kit, organização e corrida. Pretendo  ir para campi
 * **Classificação por Categoria:** 352
 * **Classificação por Sexo:** 1835
 * **Pace Médio:** 05:46 min/km
-* ** Velocidade Média Total:** 10,39 km/h
+* **Velocidade Média Total:** 10,39 km/h
 
 Agora a próxima corrida é a Maratona de SP (farei a 10K).  Objetivo continua sendo o mesmo, não mais que 1 hora, e quem sabe baixar estes  57 minutos!
 
