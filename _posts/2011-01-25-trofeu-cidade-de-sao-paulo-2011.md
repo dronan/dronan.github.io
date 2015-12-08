@@ -8,8 +8,8 @@ tags: [2011, 6.1k, 6k, Cidade, Corrida de Rua, corrida de rua, são paulo, trofe
 ---
 Hoje aconteceu na região do Ibirapuera o Troféu Cidade de São Paulo, 6,1k e 10k de corrida de rua, contando com a participação de cerca de 10 mil corredores.
 
-<a href="/images/2011/01/img_0048.jpg">
-![Trofeu Cidade SP]({{ site.url }}/images/2011/01/img_0048.jpg)
+<a href="/images/2011/01/img_0048.gif">
+![Trofeu Cidade SP]({{ site.url }}/images/2011/01/img_0048.gif)
 </a>
 {: .pull-left}
 
@@ -17,8 +17,8 @@ Cheguei no local rapido, feriado em São Paulo é uma maravilha. Parei o carro n
 
 Chego por volta das 7:20 no local da largada, já vou atrás e localizo o Guarda Volumes, mas antes aproveito para registrar umas fotos do evento com o iPhone mesmo. Tirada as fotos, entrego minha sacolinha de treino com os pertences no guarda volume e começo uma meia hora de alongamento. Faltando 5 minutos, é se posicionar e partir pra corrida.
 
-<a href="/images/2011/01/img_0047.jpg">
-![Trofeu Cidade SP]({{ site.url }}/images/2011/01/img_0047.jpg)
+<a href="/images/2011/01/img_0047.gif">
+![Trofeu Cidade SP]({{ site.url }}/images/2011/01/img_0047.gif)
 </a>
 {: .pull-left}
 
@@ -34,8 +34,8 @@ Meu tempo de relógio: 00:40:05, 6,1k. Poderia ter forçado e baixado uns 2 ou 3
 
 ## Resultado:
 
-<a href="/images/2011/01/DSC_0129_big.jpg">
-![Trofeu Cidade SP]({{ site.url }}/images/2011/01/DSC_0129.jpg)
+<a href="/images/2011/01/DSC_0129_big.gif">
+![Trofeu Cidade SP]({{ site.url }}/images/2011/01/DSC_0129.gif)
 </a>
 {: .pull-left}
 

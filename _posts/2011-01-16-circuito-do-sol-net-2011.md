@@ -21,8 +21,8 @@ Fechei os 5 km em 00:31:35, meu melhor tempo até agora correndo de dia! Seria m
 
 ## Resultado:
 
-<a href="/images/2010/12/DSC_0135_big.jpg">
-![Circuito do Sol]({{ site.url }}/images/2010/12/DSC_0135.jpg)
+<a href="/images/2010/12/DSC_0135_big.gif">
+![Circuito do Sol]({{ site.url }}/images/2010/12/DSC_0135.gif)
 </a>
 {: .pull-left}
 

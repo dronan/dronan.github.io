@@ -34,8 +34,8 @@ A, ponto negativo 2: perdi oportunidade de registrar excelentes fotos =(
 
 ## Resultado:
 
-<a href="/images/2011/02/DSC_0153_big.jpg">
-![Meia SP]({{ site.url }}/images/2011/02/DSC_0153.jpg)
+<a href="/images/2011/02/DSC_0153_big.gif">
+![Meia SP]({{ site.url }}/images/2011/02/DSC_0153.gif)
 </a>
 {: .pull-left}
 

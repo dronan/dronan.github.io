@@ -22,8 +22,8 @@ A próxima agora é a meia maratona da corpore, ou 5k ou 21k, não tem um meio t
 
 ## Resultado:
 
-<a href="/images/2011/03/DSC_0077_big.jpg">
-![Circuito Adidas]({{ site.url }}/images/2011/03/DSC_0077.jpg)
+<a href="/images/2011/03/DSC_0077_big.gif">
+![Circuito Adidas]({{ site.url }}/images/2011/03/DSC_0077.gif)
 </a>
 {: .pull-left}
 
@@ -37,5 +37,5 @@ A próxima agora é a meia maratona da corpore, ou 5k ou 21k, não tem um meio t
 * **Classificação por Categoria:** 417
 * **Classificação por Sexo:** 2723
 * **Pace Médio:** 	6:20 min/km
-* ** Velocidade Média Total:** 9,45 km/h
+* **Velocidade Média Total:** 9,45 km/h
 
