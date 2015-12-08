@@ -8,11 +8,6 @@ tags: [21k, Corrida, Corrida de Rua, estreia, meia, meia maratona]
 ---
 Depois de um mês sem participar de provas, somente fazendo treinos, além de um período necessário de 15 dias de descanso - para quem estava na ativa de treino muscular há praticamente 3 anos ininterruptos, chegou o dia da Meia Maratona de São Paulo.
 
-<a href="/images/2012/03/Percurso2012_gd.jpg">
-![Meia Maratona]({{ site.url }}/images/2012/03/Percurso2012_gd.jpg)
-</a>
-{: .pull-left}
-
 A semana prometeu: muito sol, temperatura em São Paulo passando de 33 graus, tempo abafado, mormaço, recorde de noite mais quente do ano, para ajudar passei mal um dia inteiro há três dias da prova, tinha tudo para que minha estreia nos 21K fosse de maneira sofrida e muito desgastante! Tinha... sexta chegou uma frente fria em São Paulo que mudou esse cenário, derrubou um pouco a temperatura ja no sábado, salvando o dia da prova, graças a Deus! Apesar de ter feito sol, o calor não judiou como vinha acontecendo. As 7:30 da manhã (horário da largada) estava nublado, com temperatura entre 19 e 21 graus. Considerando que na quinta, nesse horário, já estava 28 e subindo....
 
 O kit contendo a camiseta (material muito bom, similar ao da Maratona de SP de 2011), numero de peito, chip e materiais de merchandising, deixei para retirar na sexta logo após o expediente, no ginásio do ibirapuera. Não enfrentei filas na retirada, fiz em cerca de cinco minutos. Visitei a feirinha da prova, geralmente tem nos eventos grandes promovidos pela Yescom, enfim, nada a reclamar quanto a isto.
