@@ -17,8 +17,8 @@ A retirada do kit se deu no Comando Militar do Sudeste, próximo ao Ginásio do 
 
 A Netshoes, uma das patrocinadoras da prova, fez um aplicativo para o Facebook que, câmeras instaladas entre o km 5 e 6 iriam registrar as pessoas que se cadastraram no serviço, que por sua vez teriam suas fotos publicadas automaticamente no próprio perfil do Facebook. Uma propaganda mais algo bem pensado e realizado. O cadastro era bem rápido: basicamente autorizar o aplicativo a ler o seu perfil. Poderia ser feito por algumas promoters da Netshoes no próprio local da retirada dos kits.
 
-<a href="/images/2012/08/centrohistorico_02.jpg">
-![Centro Historico]({{ site.url }}/images/2012/08/centrohistorico_02.jpg)
+<a href="/images/2012/08/centrohistorico_02.jpeg">
+![Centro Historico]({{ site.url }}/images/2012/08/centrohistorico_02.jpeg)
 </a>
 {: .pull-left}
 
@@ -28,8 +28,8 @@ No domingo, dia da prova, acordei as 6hrs. Dia amanheceu com céu claro, sem nuv
 
 Café da manha literalmente na base do pão e água e foi só partir para a corrida. Optei desta vez por deixar o carro no Metrô Tietê, já que não conheço bem a região da prova e não saberia bem aonde deixar o carro. Cheguei no Metrô por volta das 6h40. Embarcando na estação Tietê e desembarcando na São Bento, coisa de quatro ou cinco estações, fez com que chegasse no local pouco antes das 7 horas da manhã. Tempo suficiente para guardar as coisas no guarda volumes, aquecer, alongar e encontrar alguns amigos do Bosque Maia que iriam participar da corrida.
 
-<a href="/images/2012/08/centrohistorico_03.jpg">
-![Centro Historico]({{ site.url }}/images/2012/08/centrohistorico_03.jpg)
+<a href="/images/2012/08/centrohistorico_03.jpeg">
+![Centro Historico]({{ site.url }}/images/2012/08/centrohistorico_03.jpeg)
 </a>
 {: .pull-left}
 
