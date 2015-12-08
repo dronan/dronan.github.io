@@ -8,12 +8,6 @@ tags: [21k, corpore, Corrida de Rua, meia maratona]
 ---
 Neste domingo ocorreu a XIII Meia Maratona Netshoes Corpore Internacional de São Paulo, no ja tradicional percurso que engloba a Cidade Universitária e o bairro do Butantã na Capital, com percursos para dois tipos de gostos: um para quem ta iniciando ou não se sente muito a vontade com a distância da meia maratona, com os 5k, ou os 21k para quem gosta dos grandes desafios.
 
-
-<a href="/images/2012/04/Corpore_MeiaMaratona_21K_web.jpg">
-![Meia Maratona Corpore]({{ site.url }}/images/2012/04/Corpore_MeiaMaratona_21K_web.jpg)
-</a>
-{: .pull-left}
-
 Optei pelos 21K, minha segunda meia maratona! O objetivo incial foi tentar manter um rítimo relativamente forte para mim, para conseguir fechar, se possível, próximo a 2h10. Não foi possível, mas comento a seguir.
 
 Comentando sobre o kit e retirada: Veio composto por camiseta com número de peito impresso, revistas de merchandising, chip de cronometragem. Eles foram entregues na sexta, sábado e no domingo, momentos antes da prova. Deixei para retira-lo no sábado para evitar "perda de tempo" em última hora.
