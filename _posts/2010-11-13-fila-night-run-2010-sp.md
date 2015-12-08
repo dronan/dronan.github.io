@@ -8,11 +8,6 @@ tags: [10k, 5k, Corrida, Corrida de Rua, Noite, Noturna, Rua, SP]
 ---
 Depois de pensar muito, tomei coragem para encarar a minha primeira corrida de rua. A escolhida foi a Fila Nigth Run, etapa São Paulo que aconteceu na região do Anhembi.
 
-<a href="http://lh6.ggpht.com/_v2d3SMfHp7o/TN83ZAnKMmI/AAAAAAAACWM/JBwCo5Ffxfg/s912/DSC_0044.JPG">
-![Night Run](http://lh6.ggpht.com/_v2d3SMfHp7o/TN83ZAnKMmI/AAAAAAAACWM/JBwCo5Ffxfg/s912/DSC_0044.JPG)
-</a>
-{: .pull-left}
-
 O decorrer da semana foi aquele clima de ansiedade, afinal, nunca havia passado pela experiência!
 
 Mas nada como começar em uma noturna, em um dia frio. E como estava frio! Apesar de estar praticamente no meio da primavera estava aquele clima de inverno, temperatura muito baixa, então o jeito é aquecer, e continuar aquecido correndo!
@@ -27,8 +22,8 @@ Não tenho objetivo de vencer uma 5k, mas finalizar, quem sabe começar abaixar 
 
 ## Resultado:
 
-<a href="/images/2010/12/DSC_0083_big.jpg">
-![Night Run]({{ site.url }}/images/2010/12/DSC_0083.jpg)
+<a href="/images/2010/12/DSC_0083_big.gif">
+![Night Run]({{ site.url }}/images/2010/12/DSC_0083.gif)
 </a>
 {: .pull-left}
 

@@ -21,8 +21,8 @@ Nas semanas que antecederam a corrida fiquei sabendo de mais pessoas conhecidas 
 
 ## Resultado:
 
-<a href="/images/2010/12/DSC_0128_big.jpg">
-![Delta]({{ site.url }}/images/2010/12/DSC_0128.jpg)
+<a href="/images/2010/12/DSC_0128_big.gif">
+![Delta]({{ site.url }}/images/2010/12/DSC_0128.gif)
 </a>
 {: .pull-left}
 
