@@ -30,6 +30,9 @@ Manter uma rotina de treinos consistente não é desafio só para os iniciantes:
 
 **SIMPLIFIQUE -** Corra três vezes por semana, conforme o tempo permitir — ainda que isso signifique correr dois dias seguidos. "As pessoas planejam demais e, quando as coisas não saem conforme o esperado, elas simplesmente abrem mão", diz Leivers. Uma corrida de 20 a 30 minutos é suficiente para melhorar a força muscular e a capacidade aeróbica, mas até mesmo um trote de 15 minutos vai ajudar. "Abandone o perfeccionismo e aproveite o melhor que a corrida tem a lhe oferecer", diz Leivers.
 
-<img src="http://www.diegoronan.com.br/diegoronan/wp-content/uploads/2012/10/box2.gif" alt="" />
+<a href="/images/2012/10/box2.gif">
+![Menos é mais]({{ site.url }}/images/2012/10/box2.gif)
+</a>
+{: .pull-left}
 
 **Fonte:** <a href="http://runnersworld.abril.com.br/materias/menosmais/" target="_blank">Runners</a>
