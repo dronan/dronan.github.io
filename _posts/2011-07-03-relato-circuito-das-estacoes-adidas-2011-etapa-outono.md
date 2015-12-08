@@ -27,7 +27,7 @@ Próxima corrida: talvez a serie delta no meio pro fim de agosto, ou a etapa Pri
 ## Resultado:
 
 <a href="/images/2011/07/estacoesAdidasInverno2011_big.jpg">
-![Circuito das Estações]({{ site.url }}/images/2011/07/estacoesAdidasInverno2011.jpg)
+![Circuito das Estações]({{ site.url }}/images/2011/07/estacoesAdidasInverno2011.JPG)
 </a>
 {: .pull-left}
 
