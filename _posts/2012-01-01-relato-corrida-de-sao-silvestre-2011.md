@@ -8,8 +8,8 @@ tags: [15k, chuva, Corrida de Rua, lama, sao silvestre, yescom]
 ---
 Neste sábado aconteceu a tradicional corrida de São Silvestre, corrida que fecha o ano de atividades esportivas em São Paulo.
 
-<a href="/images/2012/12/pic_ss01.jpg">
-![São Silvestre]({{ site.url }}/images/2012/12/pic_ss01.jpg)
+<a href="/images/2011/12/pic_ss01.jpg">
+![São Silvestre]({{ site.url }}/images/2011/12/pic_ss01.jpg)
 </a>
 {: .pull-left}
 
@@ -21,8 +21,8 @@ No sábado, dia da corrida e último dia do ano, fiz um almoço comum as 13 hora
 
 Pelo fato da corrida começar em um ponto e terminar em outro, e, como disse o "dono" da São Silvestre para quem iria de carro ou embora do evento: *"Isso não é problema meu" (sic)*, optei por ir de metrô, ja que teria que estacionar o carro próximo a chegada, no Ibirapuera, e sofrer certo desgaste andando uns 3km até a largada, em subida íngreme; fora que para ir embora peagaria certo trânsito pela quantidade de gente no local.
 
-<a href="/images/2012/12/pic_ss02.jpg">
-![São Silvestre]({{ site.url }}/images/2012/12/pic_ss02.jpg)
+<a href="/images/2011/12/pic_ss02.jpg">
+![São Silvestre]({{ site.url }}/images/2011/12/pic_ss02.jpg)
 </a>
 {: .pull-left}
 
@@ -38,8 +38,8 @@ Falando da corrida em si, assim que saiu da "festa de aparecer na Globo" que dur
 
 Aqui vai uma critica: Na av. Pacaembu havia sinalizações do primeiro ponto de hidratação, 2º Km de prova, e cadê? Só havia do km 4 para frente. Pisada feia na bola.
 
-<a href="/images/2012/12/pic_ss03.jpg">
-![São Silvestre]({{ site.url }}/images/2012/12/pic_ss03.jpg)
+<a href="/images/2011/12/pic_ss03.jpg">
+![São Silvestre]({{ site.url }}/images/2011/12/pic_ss03.jpg)
 </a>
 {: .pull-left}
 
@@ -71,8 +71,8 @@ Que venham as meia maratonas, creio que ja consiga encarar. Consegui terminar be
 
 ## Resultado:
 
-<a href="/images/2012/12/ss2011_big.jpg">
-![São Silvestre]({{ site.url }}/images/2012/12/ss2011.jpg)
+<a href="/images/2011/12/ss2011_big.jpg">
+![São Silvestre]({{ site.url }}/images/2011/12/ss2011.jpg)
 </a>
 {: .pull-left}
 
