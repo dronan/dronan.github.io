@@ -10,8 +10,8 @@ Cerca de 3500 corredores participaram neste domingo, 14/10, da etapa de São Pau
 
 A retirada do kit, composto por camiseta, sacola, revistas de merchandising, e número de peito, aconteceu dentro da loja Centauro no shopping Bourbon, sexta e sábado que antecederam o evento. Deixei para fazer a retirada no sábado logo depois do almoço. Havia cerca de seis pessoas na minha frente, mas a retirada foi rápida, sem maiores problemas.
 
-<a href="/images/2012/10/pacaembu.jpg">
-![Caixa]({{ site.url }}/images/2012/10/pacaembu.jpg)
+<a href="/images/2012/10/pacaembu.jpeg">
+![Caixa]({{ site.url }}/images/2012/10/pacaembu.jpeg)
 </a>
 {: .pull-left}
 
