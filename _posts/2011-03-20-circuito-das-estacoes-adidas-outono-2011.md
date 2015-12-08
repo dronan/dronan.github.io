@@ -22,8 +22,8 @@ A próxima agora é a meia maratona da corpore, ou 5k ou 21k, não tem um meio t
 
 ## Resultado:
 
-<a href="/images/2011/03/DSC_0077_big.gif">
-![Circuito Adidas]({{ site.url }}/images/2011/03/DSC_0077.gif)
+<a href="/images/2011/03/DSC_0077_big.JPG">
+![Circuito Adidas]({{ site.url }}/images/2011/03/DSC_0077.JPG)
 </a>
 {: .pull-left}
 
