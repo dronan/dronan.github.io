@@ -7,7 +7,7 @@ comments: true
 tags: [15k, Corrida de Rua, gonzaguinha, pm, policia, policia militar, escola, cruzeiro do sul, educação física]
 ---
 
-ONeste domingo, 13 dezembro ocorreu na Escola de Educação Física da Policia Militar, em São Paulo, a 49ª edição da Corrida Sargento Gonzaguinha, com os corredores optando entre as distâncias de 15 km ou 5 km.
+Neste domingo, 13 dezembro ocorreu na Escola de Educação Física da Policia Militar, em São Paulo, a 49ª edição da Corrida Sargento Gonzaguinha, com os corredores optando entre as distâncias de 15 km ou 5 km.
 
 A retirada do kit ocorreu somente no sábado dia 12, no mesmo local da prova. Retirei o kit por volta das 11h. A dificuldade foi parar próximo ao local para que pudesse acessar a escola.
 
