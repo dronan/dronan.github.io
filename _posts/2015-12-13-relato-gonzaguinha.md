@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relato - 49 Sargento Gonzaguinha
+title: Relato - 49ª Sargento Gonzaguinha
 date: 2015-12-13 18:00
 author: diego
 comments: true
