@@ -43,4 +43,4 @@ Fechei a corrida em 53 minutos. Medalha bonita, mas inferior comparando aos anos
 * **Tempo Bruto:** 00:00:00
 * **Pace Médio:** 05:23 min/km
 * **Velocidade Média Total:**  11:21 km/h
-* **Informações Gerais:** <a href="#" target="_blank">Garmin</a>
+* **Informações Gerais:** <a href="https://connect.garmin.com/modern/activity/998528488" target="_blank">Garmin</a>
