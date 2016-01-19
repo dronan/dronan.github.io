@@ -32,7 +32,7 @@ Fechei a corrida em 53 minutos. Medalha bonita, mas inferior comparando aos anos
 ## Resultado:
 
 <a href="/images/2015/12/guarulhos_big.jpg">
-![StarWars Run]({{ site.url }}/images/2015/12/guarulhos.jpg)
+![Guarulhos]({{ site.url }}/images/2015/12/guarulhos.jpg)
 </a>
 {: .pull-left}
 

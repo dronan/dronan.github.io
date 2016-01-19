@@ -38,7 +38,7 @@ E o ano terminou assim, subindo a Brigadeiro "com um pé nas costas" e fechando 
 ## Resultado:
 
 <a href="/images/2015/12/saosilvestre_big.jpg">
-![StarWars Run]({{ site.url }}/images/2015/12/saosilvestre.jpg)
+![Sao Silvestre]({{ site.url }}/images/2015/12/saosilvestre.jpg)
 </a>
 {: .pull-left}
 
