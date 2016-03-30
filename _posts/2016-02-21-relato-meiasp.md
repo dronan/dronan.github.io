@@ -38,9 +38,9 @@ Pontos de hidratação a cada 2 - 3km, foram o suficiente. Uma pena que não dis
 * **Tempo Final:** 02:35:08
 * **Categoria:**  M3034
 * **Modalidade:**  15k
-* **Tempo Bruto:** 00:00:00
-* **Classificação Total:**  000
-* **Classificação Faixa Etária:**  000
+* **Tempo Bruto:** 02:48:20
+* **Classificação Total:**  5123
+* **Classificação Faixa Etária:**  858
 * **Pace Médio:** 07:06 min/km
 * **Velocidade Média Total:**  08:50 km/h
 * **Informações Gerais:** <a href="https://connect.garmin.com/modern/activity/1058519399" target="_blank">Garmin</a>
