@@ -37,7 +37,7 @@ Pontos de hidratação a cada 2 - 3km, foram o suficiente. Uma pena que não dis
 * **Número de Peito:** 6035
 * **Tempo Final:** 02:35:08
 * **Categoria:**  M3034
-* **Modalidade:**  15k
+* **Modalidade:**  21k
 * **Tempo Bruto:** 02:48:20
 * **Classificação Total:**  5123
 * **Classificação Faixa Etária:**  858
