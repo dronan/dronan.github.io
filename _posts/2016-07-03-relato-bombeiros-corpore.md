@@ -7,7 +7,7 @@ comments: true
 tags: [meia, Corrida, Corrida de Rua, corpore, 10k, bombeiros]
 ---
 
-Depois de três meses só treinando - não encontrei uma prova que valesse a pena participar neste período, domingo foi dia de voltar as ruas para fazer uma prova oficial.  A escolhida, foi a corrida dos Bombeiros, no difícil percurso do Ipiranga; corrida que comemora mais um aniversário da corporação, em todo mes de julho.
+Depois de três meses só treinando - não encontrei uma prova que valesse a pena participar neste período, domingo foi dia de voltar as ruas para fazer uma prova oficial.  A escolhida, foi a corrida dos Bombeiros, no difícil percurso do Ipiranga; corrida que comemora mais um aniversário da corporação, realizada todo mes de julho.
 
 Como estou em treinos para a maratona da Asics, agora no fim de julho, tive que completar um longão de 30k no sábado. Para ajudar, só pude treinar a noite, devido a compromissos; praticamente fiz 40k de prova de ladeira este fim de semana, ja que a planilha de sábado exigia treino de subidas.
 
