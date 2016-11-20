@@ -41,5 +41,5 @@ Fiz o que deu, e acabei fechando em 50m32s, foi quase, mas ok pelas circunstanci
 * **Classificação Faixa Etária:**  00
 * **Classificação Sexo:**  00
 * **Pace Médio:** 05:01 min/km
-* **Velocidade Média Total:**  11:80 km/h
-* **Informações Gerais:** <a href="https://connect.garmin.com/modern/activity/1426295072" target="_blank">Garmin</a>
+* **Velocidade Média Total:**  12:00 km/h
+* **Informações Gerais:** <a href="https://connect.garmin.com/modern/activity/1454358695" target="_blank">Garmin</a>
