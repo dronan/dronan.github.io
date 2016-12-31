@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relato - 92ª Corrida Internacional de São Silvestre 2014
+title: Relato - 92ª Corrida Internacional de São Silvestre
 date: 2016-12-31 12:00
 author: diego
 comments: true

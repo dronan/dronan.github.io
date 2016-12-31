@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relato - 91ª Corrida Internacional de São Silvestre 2014
+title: Relato - 91ª Corrida Internacional de São Silvestre
 date: 2015-12-31 12:00
 author: diego
 comments: true
