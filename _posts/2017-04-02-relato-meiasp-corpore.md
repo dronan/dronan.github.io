@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relato - XVII Meia Maratona Internacional de SP
+title: Relato - XVIII Meia Maratona Internacional de SP
 date: 2017-04-02 12:00
 author: diego
 comments: true
