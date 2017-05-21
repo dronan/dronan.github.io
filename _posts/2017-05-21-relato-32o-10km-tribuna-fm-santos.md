@@ -8,6 +8,7 @@ tags: [10k, Corrida de Rua, santos, tribunas]
 ---
 
 Tribuna de Santos: é uma prova sempre bem vinda ao calendário, pelos fatores do clima e envolvimento da cidade para com a prova. Minha última participação, foi em 2014; este ano decidi ir, ainda mais com bastante amigos inscritos nela, somando ao fato da facilidade de receber o kit em casa, via correios.
+
 <a href="/images/2017/05/tribuna_10k_big.jpg">
 ![Tribuna Santos]({{ site.url }}/images/2017/05/tribuna_10k.jpg)
 </a>
