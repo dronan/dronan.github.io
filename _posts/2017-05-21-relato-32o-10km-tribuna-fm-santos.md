@@ -8,8 +8,8 @@ tags: [10k, Corrida de Rua, santos, tribunas]
 ---
 
 Tribuna de Santos: é uma prova sempre bem vinda ao calendário, pelos fatores do clima e envolvimento da cidade para com a prova. Minha última participação, foi em 2014; este ano decidi ir, ainda mais com bastante amigos inscritos nela, somando ao fato da facilidade de receber o kit em casa, via correios.
-<a href="/images/2017/05/tribuna_10k.jpg">
-![Tribuna Santos]({{ site.url }}/images/2017/05/tribuna_10k_big.jpg)
+<a href="/images/2017/05/tribuna_10k_big.jpg">
+![Tribuna Santos]({{ site.url }}/images/2017/05/tribuna_10k.jpg)
 </a>
 {: .pull-left}
 
@@ -23,8 +23,8 @@ Encontrei os amigos da assessoria próximo ao guarda volumes, onde aguardamos at
 
 A corrida começou pontualmente às 8:15, com uns pingos de chuva. O dia apesar de nublado para chuvoso, estava relativamente quente e bem úmido.
 
-<a href="/images/2017/05/tribuna_10k_largada.jpg">
-![Tribuna Santos]({{ site.url }}/images/2017/05/tribuna_10k_largada_big.jpg)
+<a href="/images/2017/05/tribuna_10k_largada_big.jpg">
+![Tribuna Santos]({{ site.url }}/images/2017/05/tribuna_10k_largada.jpg)
 </a>
 {: .pull-right}
 
@@ -40,8 +40,8 @@ Próxima prova é meia!
 
 ## Resultado:
 
-<a href="/images/2017/05/tribuna_10k_medalha.jpg">
-![Tribuna Santos]({{ site.url }}/images/2017/05/tribuna_10k_medalha_big.jpg)
+<a href="/images/2017/05/tribuna_10k_medalha_big.jpg">
+![Tribuna Santos]({{ site.url }}/images/2017/05/tribuna_10k_medalha.jpg)
 </a>
 {: .pull-left}
 
