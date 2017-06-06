@@ -1,0 +1,29 @@
+---
+layout: post
+title: Sem ondas de largada por ritmo, em 2012 teremos a Caminhada de São Silvestre
+date: 2012-01-02 16:47
+author: diego
+comments: true
+tags: [15k, Corrida de Rua, opiniao, sao silvestre]
+---
+No meio das corridas, sempre há uma piada interna ao ouvir comentários sobre a “Maratona de São Silvestre”, como se matematicamente 15 km fossem iguais a 42 km, são “apenas” 27.195 m de diferença… Algo quase que insignificante! Agora, falando sério, sem realmente uma organização e regras rígidas, teremos em 2012 a “Caminhada de São Silvestre”. Nunca corri uma prova tão cheia e travada como a de ontem (31). Eram 25 mil inscritos (claro que nem todos correram ou concluíram, e ainda teve muita gente “largando” no meio). Some-se ainda milhares de pipocas. Nunca corri uma prova com tantos pipocas. Na largada, era só olhar ao lado para ver muita (mas muita mesmo) gente sem chip ou número. Bem mais do que nos três anos anteriores em que corri. Para ter uma ideia, tive de costurar e correr em ziguezague até a chegada! E não estou exagerando.
+
+O problema da largada é crônico. Já escrevi várias vezes aqui no blog e comentei no podcast CRNOAR. Mas na edição de 2011 foi ainda pior. Está certo que em 2010 larguei bem para frente, mas como comparação, foram cerca de 20 segundos para passar pelo chip de largada e, ontem, uns 5 minutos mesmo ficando 1h40 em pé, vendo ao meu redor centenas de pessoas sem a menor condição de largar mais na frente ou de correr num ritmo aceitável três quilômetros que fosse. O que estavam fazendo ali? Me indagava o tempo todo. Como exemplo, um na minha frente, com a filha adolescente junto, nem sabia o horário da largada!
+
+A Rede Globo, Fundação Cásper Líbero e Yescom vão abrir 45 mil inscrições em 2012, como adiantou Manoel Arroio, o Vasco, diretor técnico da São Silvestre. Sem largada em ondas com separação por ritmo, é mais do que inviável. A não ser que realmente queiram transformar a corrida numa caminhada de confraternização de final de ano. Vasco disse que não deve assumir a obrigação de acertar a largada, que os próprios corredores têm de fazer a fiscalização. Não é possível. Muitos brasileiros adoram levar vantagem, dar o famoso “jeitinho”.
+
+Como exemplo, teve gente que escreveu no Facebook, reclamando do preço, que mesmo se inscrevendo com o nome do pai idoso e pagando metade do valor, achava caro! Outro que se gabava, numa discussão durante a corrida no primeiro quilômetro da prova, de ter pulado a grade: “Ah, quem mandou ficar aí em pé, todo mundo pula”. Parabéns, espertalhões!. Outros não sabem mesmo, acham que ficando na frente vão aparecer da Globo. Sem ter a noção do risco que estão correndo ou de como atrapalham quem quer correr.
+
+A São Silvestre só será uma corrida se tiver, no mínimo, cinco largadas diferentes, separadas por uns 10 minutos cada, com ritmo comprovado por tempo. Cores diferentes nos números, grades ao redor e controle rígido. Com fantasiados, quem quer levar faixas, nunca correu ou quer apenas trotar/festejar/caminhar lá no fundão, na última onda. Simples assim. Como ocorre na Maratona de Chicago, por exemplo.
+
+Ontem, havia gente caminhando no km 1 ou correndo lentamente. Então, por que largar na “fila do gargarejo”? Sem falar na quantidade de pessoas entrando pelas laterais, empurrando, assumindo o risco de causar um acidente. Se alguém caísse, acabaria pisoteado. No chão, em ao menos uns 500 m na Avenida Paulista, inúmeras garrafas de água/isotônico e centenas de capas de chupa, sacos plásticos, fazendo muitos tropeçarem.
+
+Quanto ao percurso, sinceramente, não sei dizer se é melhor ou pior que o de 2010. Achei mais agradável de correr. Senti que passou mais rápido, mesmo correndo mais lentamente. A chuva e o fato de me sentir travado os 15 km atrapalham uma análise melhor. Tive a sensação de ser um trajeto mais sinuoso, principalmente pelo “braço” de 200 m no final da Avenida Pacaembu. Psicologicamente, uma vantagem: quando chega ao final da subida da Brigadeiro, você pensa, por mais cansado que esteja: “Opa, acabou, completei mais uma São Silvestre”, já que nos 2,3 km finais são em descida e plano. No começo, até tentei forçar para baixar meu tempo na prova, porém desisti rapidamente e optei por fazer a festa, brincando com as crianças e o público (esse sim, o ponto alto, com gente o tempo todo, mesmo com chuva, o que faz da São Silvestre uma prova especial). Como comparação, extraoficialmente, fiz 1:06:03, pelo meu relógio, contra 1:04:35 de 2010 – assim, com larguei bem mais atrás, não forcei e pelo volume de pessoas, além do trecho escorregadio na descida da Brigadeiro, o percurso novo é mais rápido.
+
+O temporal complicou demais a chegada, com muito barro e lama. Não dá para prever o clima (apesar de que muita gente vai culpar a Yescom pela chuva), mas a organização deve levar (e muito a sério) em consideração isso na edição deste ano. Houve muita água e barro, já que o espaço de dispersão era todo na grama. Ah, como ponto de destaque, a medalha. Talvez a mais bonita que já recebi numa prova. E entregue após completar os 15 km. Pelo menos.
+
+A festa da São Silvestre foi mantida. Os fantasiados, estavam todos lá. Na dispersão, me encontrei com o “The Flash”. Na largada, as faixas de sempre também. Como a de Cerquilho, bem próximo de mim. Com todos os problemas, a sensação de terminar o ano correndo e com saúde, completando a prova mais tradicional do Brasil, é indescritível. Mas fica a vontade de querer ser mais respeitado.
+
+Resumindo, com um ano de antecedência, mesmo que sejam mantidas “apenas” as 25 mil inscrições, a largada tem de ser rígida, ou vamos lançar a “Caminhada de São Silvestre”. Pelo menos assim, ninguém mais vai falar maratona…
+
+**Fonte:** <a href="http://revistacontrarelogio.com.br/blogs/na-corrida/2012/01/01/sem-ondas-e-ritmo-em-2012-teremos-a-caminhada-de-sao-silvestre/" target="_blank">Contra Relogio</a>
