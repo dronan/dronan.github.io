@@ -37,10 +37,10 @@ navigation:
   url: /tags/
 
 # The shortname for your Disqus site to enable comments.
-disqus:
+disqus: diegoronan
 
 # Author information - author info at the bottom of the post
-author_name: "John Doe"
+author_name: "Diego Ronan"
 author_bio: "Um paulistano, desenvolvedor de softwares, apaixonado por corridas, fotografia, viagens e muito rock."
 author_url:  "http://www.diegoronan.com.br"
 author_location: "Guarulhos, São Paulo"
