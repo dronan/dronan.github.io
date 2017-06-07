@@ -7,7 +7,11 @@ title: Links Úteis
 
 <div class="site-content">
   <div class="inner">
+    {% if page.sidebar == null %}
+    <main class="site-main-unique">
+    {% else %}
     <main class="site-main">
+    {% endif %}
       <article class="post">
         <header class="entry-header">
           <div class="entry-header-wrap">  
