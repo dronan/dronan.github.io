@@ -43,9 +43,19 @@
     max-width: 1200px;
 }
 
-.site-main {
+
+.site-main,
+.site-main-unique {
     float: left;
     margin-bottom: 30px;
+}
+
+.site-main-unique {
+    width: 100%;
+}
+
+
+.site-main {
     width: 75%;
 }
 
