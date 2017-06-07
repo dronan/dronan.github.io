@@ -185,10 +185,26 @@
 .comments-inner,
 .post-navigation .nav-inside {
     margin: 0 auto;
-    max-width: 740px;
     padding-left: 30px;
     padding-right: 30px;
 }
+
+.site-main .entry-content,
+.site-main .entry-footer,
+.site-main .author-info,
+.site-main .comments-inner,
+.site-main .post-navigation .nav-inside {
+    max-width: 740px;
+}
+
+.site-main-unique .entry-content,
+.site-main-unique .entry-footer,
+.site-main-unique .author-info,
+.site-main-unique .comments-inner,
+.site-main-unique .post-navigation .nav-inside {
+    max-width: 1140px;
+}
+
 
 .entry-content h1,
 .entry-content h2,
