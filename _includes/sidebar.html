@@ -9,7 +9,7 @@
 
     {% if site.mailchimp_url %}
     <section class="widget widget-newsletter">
-        <h2 class="widget-title">{{ site.title}} Newsletter</h2>
+        <h2 class="widget-title">Newsletter</h2>
         <!-- Begin MailChimp Signup Form -->
         <div id="mc_embed_signup">
             <form action="{{ site.mailchimp_url }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -31,10 +31,26 @@
     {% endif %}
 
     <section class="widget widget-recent-posts">
-        <h2 class="widget-title">Latest Posts</h2>
+        <h2 class="widget-title">Últimas Postagens</h2>
         <ul class="recent-posts">
             {% for post in site.posts limit:5 %}
-            <li class="recent-item"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%B %-d, %Y" }}</span></li>
+            <li class="recent-item"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{% assign m = page.date | date: "%-m" %}
+                        {{ page.date | date: "%-d" }}
+                        {% case m %}
+                          {% when '1' %}de Janeiro
+                          {% when '2' %}de Fevereiro
+                          {% when '3' %}de Março
+                          {% when '4' %}de Abril
+                          {% when '5' %}de Maio
+                          {% when '6' %}de Junho
+                          {% when '7' %}de Julho
+                          {% when '8' %}de Agosto
+                          {% when '9' %}de Setembro
+                          {% when '10' %}de Outubro
+                          {% when '11' %}de Novembro
+                          {% when '12' %}de Dezembero
+                        {% endcase %}
+                        {{ page.date | date: " de %Y" }}</span></li>
             {% endfor %}
         </ul><!-- .recent-posts -->
     </section><!-- .widget-recent-posts -->

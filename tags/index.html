@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Post Archives
+title: Tags
 ---
 <div class="site-content">
     <div class="inner">
@@ -23,10 +23,26 @@ title: Post Archives
                     <h2 id="{{ tag | cgi_escape }}">{{ tag }}</h2>
                     <ul class="archive-posts-list">
                         {% for post in site.tags[tag] %}
-                        <li><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="Permanent Link to {{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="archive-meta"> — <time class="published" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time></span></li>
+                        <li><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="Permanent Link to {{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="archive-meta"> — <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">{% assign m = page.date | date: "%-m" %}
+                        {{ page.date | date: "%-d" }}
+                        {% case m %}
+                          {% when '1' %}de Janeiro
+                          {% when '2' %}de Fevereiro
+                          {% when '3' %}de Março
+                          {% when '4' %}de Abril
+                          {% when '5' %}de Maio
+                          {% when '6' %}de Junho
+                          {% when '7' %}de Julho
+                          {% when '8' %}de Agosto
+                          {% when '9' %}de Setembro
+                          {% when '10' %}de Outubro
+                          {% when '11' %}de Novembro
+                          {% when '12' %}de Dezembero
+                        {% endcase %}
+                        {{ page.date | date: " de %Y" }}</time></span></li>
                         {% endfor %}
                     </ul>
-                    <p><a href="#top" class="archive-top-link" title="Back to Top">Return to top</a></p>
+                    <p><a href="#top" class="archive-top-link" title="Back to Top">Returnar para o topo</a></p>
                     {% endfor %}
                 </div><!-- .entry-content -->
             </article><!-- .post -->

@@ -14,7 +14,23 @@ layout: default
                         <h2 class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="Permanent Link to {{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h2>
                     </div><!-- .entry-header-wrap -->
                     <div class="entry-meta">
-                        by <span class="post-author">{{ site.author_name }}</span> on <time class="published" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+                        por <span class="post-author">{{site.author_name}}</span> em <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">{% assign m = page.date | date: "%-m" %}
+                        {{ page.date | date: "%-d" }}
+                        {% case m %}
+                          {% when '1' %}de Janeiro
+                          {% when '2' %}de Fevereiro
+                          {% when '3' %}de Março
+                          {% when '4' %}de Abril
+                          {% when '5' %}de Maio
+                          {% when '6' %}de Junho
+                          {% when '7' %}de Julho
+                          {% when '8' %}de Agosto
+                          {% when '9' %}de Setembro
+                          {% when '10' %}de Outubro
+                          {% when '11' %}de Novembro
+                          {% when '12' %}de Dezembero
+                        {% endcase %}
+                        {{ page.date | date: " de %Y" }}</time>
                     </div><!-- .entry-meta -->
                 </header><!-- .entry-header -->
                 <div class="entry-content">
@@ -23,7 +39,7 @@ layout: default
                     {% else %}
                         {{ post.content }}
                     {% endif %}
-                    <p class="read-more"><a href="{{ site.baseurl }}{{ post.url }}" class="more-link" title="read more">read more</a></p>
+                    <p class="read-more"><a href="{{ site.baseurl }}{{ post.url }}" class="more-link" title="read more">leia mais</a></p>
                 </div><!-- .entry-content -->
                 {% if post.tags.size > 0 %}
                 <footer class="entry-footer">
@@ -36,13 +52,13 @@ layout: default
             {% endfor %}
             {% if paginator.total_pages > 1 %}
             <nav class="pagination">
-                <h2 class="screen-reader-text">Posts navigation</h2>
+                <h2 class="screen-reader-text">Navegação</h2>
                 {% if paginator.previous_page %}
-                <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="newer-posts fa-chevron-left square fill-horizontal"><span class="screen-reader-text">Newer Posts</span></a>
+                <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="newer-posts fa-chevron-left square fill-horizontal"><span class="screen-reader-text">Postagens Mais Novas</span></a>
                 {% endif %}
-                <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+                <span class="page-number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
                 {% if paginator.next_page %}
-                <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="older-posts fa-chevron-right square fill-horizontal"><span class="screen-reader-text">Older Posts</span></a>
+                <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="older-posts fa-chevron-right square fill-horizontal"><span class="screen-reader-text">Postagens Antigas</span></a>
                 {% endif %}
             </nav><!-- .pagination -->
             {% endif %}
