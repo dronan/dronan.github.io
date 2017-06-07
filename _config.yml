@@ -18,6 +18,11 @@ tagline: "Relatos, hitórias, viagens e fotos."
 reading_time:     true
 words_per_minute: 200
 
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   UA-844293-4
+
+
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
 
@@ -33,11 +38,13 @@ navigation:
   url: /
 - text: Sobre
   url: /about/
-- text: Guia de Estilos
-  url: /style-guide/
+# - text: Guia de Estilos
+#  url: /style-guide/
 - text: Historico
   url: /historico/
-- text: Arquivo
+- text: Todos os Posts
+  url: /posts/
+- text: Tags
   url: /tags/
 
 # The shortname for your Disqus site to enable comments.
