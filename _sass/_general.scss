@@ -314,9 +314,14 @@ a:hover img {
     max-width: 50%;
 }
 
-.full-width {
+.site-main .full-width {
     clear: both;
     margin: 6px -80px 24px;
+}
+
+.site-main-unique .full-width {
+    clear: both;
+    margin: 6px 40px 24px;
 }
 
 /* Image captions */
