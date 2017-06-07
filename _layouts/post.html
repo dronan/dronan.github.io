@@ -36,30 +36,7 @@ layout: default
                     </div><!-- .entry-meta -->
 
                 <style type="text/css">
-                .entry-reading-time {                      
-                  /*
-                    font-size: 12px;
-                    float: right;
-                    letter-spacing: 1px;
-                    padding: 16px 30px;
-                    text-transform: uppercase;
-                */
 
-                    font-size: 12px;
-                    float: left;
-                    letter-spacing: 1px;
-                    padding: 4px 0px;
-                    text-transform: uppercase;
-                    margin: 0 79px;
-                    clear: both;
-                }
-
-                .social-post { 
-                    height: 0px;
-                    float: left;
-                    margin: 0 79px;
-                    clear: both;
-                }
                 </style>
 
                     {% if site.reading_time %}
@@ -73,12 +50,8 @@ layout: default
                     <div class="social-post">
                         <iframe src="//www.facebook.com/plugins/like.php?href={{ site.url }}{{ page.url }}&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=185392424813274" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowTransparency="true"></iframe>    
                     </div>
-
-
                 </header><!-- .entry-header -->
                 <div class="entry-content">
-
-
                     {{content}}
                 </div><!-- .entry-content -->
                 <footer class="entry-footer">
