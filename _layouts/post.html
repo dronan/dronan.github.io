@@ -14,7 +14,9 @@ layout: default
                         {% endif %}
                         <h1 class="entry-title">{{page.title}}</h1>
                     </div><!-- .entry-header-wrap -->
-                    <div class="entry-meta">
+
+                    <div class="container-fluid row">
+                    <div class="col-md-5 entry-meta">
                         por <span class="post-author">{{site.author_name}}</span> em <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">
                         {% assign m = page.date | date: "%-m" %}
                         {{ page.date | date: "%-d" }}
@@ -35,21 +37,19 @@ layout: default
                         {{ page.date | date: " de %Y" }}</time>
                     </div><!-- .entry-meta -->
 
-                <style type="text/css">
-
-                </style>
+                    <div class="col-md-2 social-post">
+                        <iframe src="//www.facebook.com/plugins/like.php?href={{ site.url }}{{ page.url }}&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=185392424813274" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowTransparency="true"></iframe>    
+                    </div>
 
                     {% if site.reading_time %}
-                    <div class="entry-reading-time">
-                        <i class="fa fa-clock-o" aria-hidden="true"></i>
+                    <div class="col-md-5 entry-reading-time">
+                        <span class="glyphicon glyphicon-time"></span>
                         {% assign readtime = content | number_of_words | divided_by:site.words_per_minute %}
                         Tempo de leitura ~{% if readtime <= 1 %}1 minuto{% else %}{{ readtime }} minutos{% endif %}
                     </div><!-- /.entry-reading-time -->
                     {% endif %}
 
-                    <div class="social-post">
-                        <iframe src="//www.facebook.com/plugins/like.php?href={{ site.url }}{{ page.url }}&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=185392424813274" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowTransparency="true"></iframe>    
-                    </div>
+                   
                 </header><!-- .entry-header -->
                 <div class="entry-content">
                     {{content}}
