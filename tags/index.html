@@ -23,8 +23,8 @@ title: Tags
                     <h2 id="{{ tag | cgi_escape }}">{{ tag }}</h2>
                     <ul class="archive-posts-list">
                         {% for post in site.tags[tag] %}
-                        <li><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="Permanent Link to {{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="archive-meta"> — <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">{% assign m = page.date | date: "%-m" %}
-                        {{ page.date | date: "%-d" }}
+                        <li><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="Permanent Link to {{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="archive-meta"> — <time class="published" datetime="{{ post.date | date: "%Y-%m-%d" }}">{% assign m = post.date | date: "%-m" %}
+                        {{ post.date | date: "%-d" }}
                         {% case m %}
                           {% when '1' %}de Janeiro
                           {% when '2' %}de Fevereiro
@@ -39,7 +39,7 @@ title: Tags
                           {% when '11' %}de Novembro
                           {% when '12' %}de Dezembero
                         {% endcase %}
-                        {{ page.date | date: " de %Y" }}</time></span></li>
+                        {{ post.date | date: " de %Y" }}</time></span></li>
                         {% endfor %}
                     </ul>
                     <p><a href="#top" class="archive-top-link" title="Back to Top">Returnar para o topo</a></p>

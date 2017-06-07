@@ -14,8 +14,8 @@ layout: default
                         <h2 class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="Permanent Link to {{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h2>
                     </div><!-- .entry-header-wrap -->
                     <div class="entry-meta">
-                        por <span class="post-author">{{site.author_name}}</span> em <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">{% assign m = page.date | date: "%-m" %}
-                        {{ page.date | date: "%-d" }}
+                        por <span class="post-author">{{site.author_name}}</span> em <time class="published" datetime="{{ post.date | date: "%Y-%m-%d" }}">{% assign m = post.date | date: "%-m" %}
+                        {{ post.date | date: "%-d" }}
                         {% case m %}
                           {% when '1' %}de Janeiro
                           {% when '2' %}de Fevereiro
@@ -30,7 +30,7 @@ layout: default
                           {% when '11' %}de Novembro
                           {% when '12' %}de Dezembero
                         {% endcase %}
-                        {{ page.date | date: " de %Y" }}</time>
+                        {{ post.date | date: " de %Y" }}</time>
                     </div><!-- .entry-meta -->
                 </header><!-- .entry-header -->
                 <div class="entry-content">
