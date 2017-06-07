@@ -1079,12 +1079,19 @@ a.archive-top-link:hover {
     }
 }
 
-.entry-reading-time {                      
+.entry-reading-time,
+.social-post {                      
+    background-color: #f7f7f7;
+    clear: both;
     font-size: 12px;
+    float: left;
     letter-spacing: 1px;
+    line-height: 1.5;
+    padding: 16px 30px;
     text-transform: uppercase;
 }
 
+
 .social-post { 
-    height: 0px;
+    height: 52px;
 }
