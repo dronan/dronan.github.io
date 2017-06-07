@@ -58,8 +58,8 @@ author_location: "Guarulhos, São Paulo"
 author_image: /images/diego_avatar.jpg
 
 # Sidebar Add banner
-banner_url: "http://www.diegoronan.com.br"
-banner_image: images/banner.jpg
+banner_url:
+banner_image:
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
 mailchimp_url: "//diegoronan.us16.list-manage.com/subscribe/post?u=8e9d94ec431c96e72f0049cb6&amp;id=cafe2d08cb"
