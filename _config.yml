@@ -14,6 +14,10 @@ description: "Relatos e dicas a respeito de corridas de rua, e um pouco de fotog
 # Tagline near the site title
 tagline: "Relatos, hitórias, viagens e fotos."
 
+# Tempo de leitura
+reading_time:     true
+words_per_minute: 200
+
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
 
