@@ -40,6 +40,8 @@ navigation:
   url: /about/
 # - text: Guia de Estilos
 #  url: /style-guide/
+- text: Links Úteis
+  url: /links/
 - text: Historico
   url: /historico/
 - text: Todos os Posts
