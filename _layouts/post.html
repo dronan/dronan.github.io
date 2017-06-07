@@ -15,7 +15,7 @@ layout: default
                         <h1 class="entry-title">{{page.title}}</h1>
                     </div><!-- .entry-header-wrap -->
                     <div class="entry-meta">
-                        by <span class="post-author">{{site.author_name}}</span> on <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">
+                        por <span class="post-author">{{site.author_name}}</span> em <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">
                         {% assign m = page.date | date: "%-m" %}
                         {{ page.date | date: "%-d" }}
                         {% case m %}
@@ -33,23 +33,36 @@ layout: default
                           {% when '12' %}de Dezembero
                         {% endcase %}
                         {{ page.date | date: " de %Y" }}</time>
-
-                        {% if site.reading_time %}
-                        <p class="entry-reading-time">
-                          <i class="fa fa-clock-o"></i>
-                          {% assign readtime = content | number_of_words | divided_by:site.words_per_minute %}
-                          Tempo de leitura ~{% if readtime <= 1 %}1 minuto{% else %}{{ readtime }} minutos{% endif %}
-                        </p><!-- /.entry-reading-time -->
-                        {% endif %}
-                        
                     </div><!-- .entry-meta -->
+
+                <style type="text/css">
+                .entry-reading-time {                      
+                    font-size: 12px;
+                    float: right;
+                    letter-spacing: 1px;
+                    padding: 16px 30px;
+                    text-transform: uppercase;
+                }
+                </style>
+
+                    {% if site.reading_time %}
+                    <div class="entry-reading-time">
+                        <i class="fa fa-clock-o"></i>
+                        {% assign readtime = content | number_of_words | divided_by:site.words_per_minute %}
+                        Tempo de leitura ~{% if readtime <= 1 %}1 minuto{% else %}{{ readtime }} minutos{% endif %}
+                    </div><!-- /.entry-reading-time -->
+                    {% endif %}
                 </header><!-- .entry-header -->
                 <div class="entry-content">
+<div class="social-post">
+        <iframe src="//www.facebook.com/plugins/like.php?href={{ site.url }}{{ page.url }}&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=185392424813274" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowTransparency="true"></iframe>    
+      </div>
+                
                     {{content}}
                 </div><!-- .entry-content -->
                 <footer class="entry-footer">
                     <div class="share-post">
-                        <span>Share</span>
+                        <span>Compartilhe</span>
                         <a class="fa-twitter" target="_blank" href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ site.url }}{{ page.url }}"><span class="screen-reader-text">Twitter</span></a>
                         <a class="fa-facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&amp;t={{ page.title | uri_escape }}"><span class="screen-reader-text">Facebook</span></a>
                         <a class="fa-google-plus" target="_blank" href="http://plus.google.com/share?url={{ site.url }}{{ page.url }}"><span class="screen-reader-text">Google+</span></a>
