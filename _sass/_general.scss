@@ -524,7 +524,7 @@ green     #859900  operators, other keywords
 
 .square-inverse {
     background-color: $gray;
-    color: $silver;
+    color: $white;
     display: inline-block;
     font-size: 14px;
     height: 50px;
@@ -533,7 +533,7 @@ green     #859900  operators, other keywords
     text-decoration: none;
     width: 50px;
     &:hover {
-        color: $white;
+        color: $silver;
     }
 }
 
