@@ -531,6 +531,7 @@ green     #859900  operators, other keywords
 
 /* Animations */
 .site-header,
+.site-main,
 .sidebar {
     -webkit-animation-duration: 0.7s;
     animation-duration:         0.7s;
@@ -561,25 +562,21 @@ green     #859900  operators, other keywords
 @-webkit-keyframes fadeInDown {
     from {
         opacity: 0;
-        -webkit-transform:  translateY(-20px);
-        transform:          translateY(-20px);
+        margin-top: 20px;
     }
     to {
         opacity: 1;
-        -webkit-transform:  translateY(0);
-        transform:          translateY(0);
+        margin-top: 0px;
     }
 }
 
 @keyframes fadeInDown {
     from {
         opacity: 0;
-        -webkit-transform:  translateY(-20px);
-        transform:          translateY(-20px);
+        margin-top: 20px;
     }
     to {
         opacity: 1;
-        -webkit-transform:  translateY(0);
-        transform:          translateY(0);
+        margin-top: 0px;
     }
 }
