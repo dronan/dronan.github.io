@@ -5,6 +5,8 @@
     {% endif %}   
 </figure>
 
+{% if include.imageurllarge %} 
 <script type="text/javascript">
 	document.getElementById("modalHtml").innerHTML = " <img src='{{ include.imageurllarge }}' alt='{{ include.title }}' />";
 </script>
+{% endif %}   
