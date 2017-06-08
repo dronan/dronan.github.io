@@ -523,7 +523,7 @@ green     #859900  operators, other keywords
 
 
 .square-inverse {
-    background-color: $picton-blue;
+    background-color: $gray;
     color: $silver;
     display: inline-block;
     font-size: 14px;
@@ -539,18 +539,18 @@ green     #859900  operators, other keywords
 
 
 .fill-horizontal-inverse {
-    background-color: $picton-blue;
-    -webkit-box-shadow: inset -50px 0 $gray;
-    -moz-box-shadow:    inset -50px 0 $gray;
-    box-shadow:         inset -50px 0 $gray;
+    background-color: $gray;
+    -webkit-box-shadow: inset -50px 0 $picton-blue;
+    -moz-box-shadow:    inset -50px 0 $picton-blue;
+    box-shadow:         inset -50px 0 $picton-blue;
     position: relative;
     -webkit-transition: box-shadow 0.3s;
     -moz-transition:    box-shadow 0.3s;
     transition:         box-shadow 0.3s;
     &:hover {
-        -webkit-box-shadow: inset 0 0 $gray;
-        -moz-box-shadow:    inset 0 0 $gray;
-        box-shadow:         inset 0 0 $gray;
+        -webkit-box-shadow: inset 0 0 $picton-blue;
+        -moz-box-shadow:    inset 0 0 $picton-blue;
+        box-shadow:         inset 0 0 $picton-blue;
     }
 }
 
