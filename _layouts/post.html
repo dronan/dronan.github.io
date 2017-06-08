@@ -70,9 +70,9 @@ layout: default
             </article><!-- .post -->
             <div class="author-box">
                 <div class="author-info">
-                    <div class="author-avatar" style="background-image: url({{ site.author_image }})"><span class="screen-reader-text">{{ site.author_name }}'s Picture</span></div>
+                    <div class="author-avatar" style="background-image: url({{ site.author_image }})"><span class="screen-reader-text">Foto de {{ site.author_name }}</span></div>
                     <div class="author-details">
-                        <h2 class="author-title">About {{ site.author_name }}</h2>
+                        <h2 class="author-title">Sobre {{ site.author_name }}</h2>
                         <p class="author-bio">{{ site.author_bio }}</p>
                         <span class="author-location"><i class="fa-map-marker" aria-hidden="true"></i> {{ site.author_location }}</span>
                         <span class="author-website"><i class="fa-chain" aria-hidden="true"></i> <a href="{{ site.author_url }}" target="_blank"> {{ site.author_url }}</a></span>
@@ -87,7 +87,7 @@ layout: default
                         {% if page.previous.banner_image %}
                         <a href="{{ site.baseurl }}{{page.previous.url}}" class="nav-thumb" style="background-image: url({{ "/images/posts/" | append: page.previous.banner_image }})"></a>
                         {% endif %}
-                        <div class="nav-before">Alterior</div>
+                        <div class="nav-before">Anterior</div>
                         <div class="nav-title"><a href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a></div>
                         <div class="nav-date">{{page.previous.date | date: "%B %-d, %Y"}}</div>
                     </div><!-- .nav-inside -->
