@@ -1100,7 +1100,8 @@ a.archive-top-link:hover {
 
 
 .iconos {
-    font: 11px 'Roboto Condensed';
+    font-size: 14px;
+    line-height: 1.5;
     margin: 40px 0 40px;
     color: #727272;
     font-weight: normal;
@@ -1112,7 +1113,11 @@ a.archive-top-link:hover {
     height: 48px;
     float: left;
     margin-right: 6px;
-    background-color: #86BDE2;
+    background-color: #21b2ea;
+    color: #FFF;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 5px;
 }
 
 .iconos .item * {

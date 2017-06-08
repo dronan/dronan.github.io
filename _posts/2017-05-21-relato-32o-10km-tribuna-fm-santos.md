@@ -41,23 +41,66 @@ Próxima prova é meia!
 {% include image_caption.html imageurl="/images/2017/05/tribuna_10k_medalha.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
 
 <div class="iconos clearfix">
+
 	<div class="item">
 		<i class="material-icons">confirmation_number</i>
 		<span>Número de Peito</span>
 		<strong>3562</strong>
 	</div>
+
 	<div class="item">
 		<i class="material-icons">access_time</i>
 		<span>Tempo Final</span>
 		<strong>00:53:05</strong>
 	</div>
+
+	<div class="item">
+		<i class="material-icons">hourglass_full</i>
+		<span>Tempo Bruto</span>
+		<strong>ND</strong>
+	</div>
+
+	<div class="item">
+		<i class="material-icons">supervisor_account</i>
+		<span>Categoria</span>
+		<strong>M3035</strong>
+	</div>
+
+	<div class="item">
+		<i class="material-icons">trending_up</i>
+		<span>Classificação Total</span>
+		<strong>ND</strong>
+	</div>
+
+
+	<div class="item">
+		<i class="material-icons">trending_up</i>
+		<span>Classificação Faixa Etária</span>
+		<strong>ND</strong>
+	</div>
+
+
+	<div class="item">
+		<i class="material-icons">timelapse</i>
+		<span>Pace Médio</span>
+		<strong>05:14 min/km</strong>
+	</div>
+
+
+	<div class="item">
+		<i class="material-icons">timelapse</i>
+		<span>Velocidade Média</span>
+		<strong>11,50 km/h</strong>
+	</div>
+
+	<div class="item">
+		<i class="material-icons">help_outline</i>
+		<span>Outras Informações</span>
+		<strong><a href="http://connect.garmin.com/activity/1746811294" target="_blank">Garmin</a></strong>
+	</div>
+
 </div>
 
-* **Categoria:**  M2529
-* **Modalidade:**  10k
-* **Tempo Bruto:**  ND
-* **Classificação Total:**  ND
-* **Classificação por Faixa Etária:**  ND
 * **Pace Médio:**  05:14 min/km
 * **Velocidade Média Total:**  11,50 km/h
 * **Informações Gerais:** <a href="http://connect.garmin.com/activity/1746811294" target="_blank">Garmin</a>
