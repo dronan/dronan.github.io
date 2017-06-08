@@ -44,7 +44,7 @@ Próxima prova é meia!
 
 	<div class="item">
 		<i class="material-icons">confirmation_number</i>
-		<span>Número de Peito</span>
+		<span>Número Peito</span>
 		<strong>3562</strong>
 	</div>
 
@@ -100,7 +100,3 @@ Próxima prova é meia!
 	</div>
 
 </div>
-
-* **Pace Médio:**  05:14 min/km
-* **Velocidade Média Total:**  11,50 km/h
-* **Informações Gerais:** <a href="http://connect.garmin.com/activity/1746811294" target="_blank">Garmin</a>

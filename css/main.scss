@@ -1097,11 +1097,8 @@ a.archive-top-link:hover {
 }
 
 
-
-
 .iconos {
     font-size: 14px;
-    line-height: 1.5;
     margin: 40px 0 40px;
     color: #727272;
     font-weight: normal;
@@ -1128,7 +1125,6 @@ a.archive-top-link:hover {
 .iconos .item {
     float: left;
     margin-bottom: 16px;
-    font-size: 14px;
     line-height: 17px;
     width: 140px;
 }
@@ -1141,12 +1137,4 @@ a.archive-top-link:hover {
 .clearfix:after {
     content: " ";
     display: table;
-}
-
-.iconos {    
-    font: 11px 'Roboto Condensed';
-    margin: 40px 0 40px;
-    color: #727272;
-    font-weight: normal;
-    width: 560px;
 }
