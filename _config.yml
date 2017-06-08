@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: "Diego Ronan"
+title: "diegoronan.com.br"
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: "Relatos e dicas a respeito de corridas de rua, e um pouco de fotografia."
 
 # Tagline near the site title
-tagline: "Relatos, hitórias, viagens e fotos."
+tagline: "Relatos, histórias, viagens e fotos."
 
 # Tempo de leitura
 reading_time:     true
@@ -78,12 +78,31 @@ instagram_username: "dronan"
 pinterest_username: "diegoronan"
 linkedin_username: "drkulian"
 
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
 # http://jekyllrb.com/docs/pagination/
+# Amount of post to show on home page
 paginate: 5
+
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+
+
 paginate_path: '/blog/page:num/'
 gems: [jekyll-paginate]
 
-permalink: pretty
-markdown: kramdown
-kramdown:
-    auto_ids: false
+
