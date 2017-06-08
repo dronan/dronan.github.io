@@ -1095,3 +1095,40 @@ a.archive-top-link:hover {
 .social-post { 
     height: 52px;
 }
+
+
+
+
+.iconos {
+    font: 11px 'Roboto Condensed';
+    margin: 40px 0 40px;
+    color: #727272;
+    font-weight: normal;
+    width: 560px;
+}
+
+.iconos .item {
+    float: left;
+    margin-bottom: 16px;
+    font-size: 14px;
+    line-height: 17px;
+    width: 140px;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix:before, 
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.iconos {    
+    font: 11px 'Roboto Condensed';
+    margin: 40px 0 40px;
+    color: #727272;
+    font-weight: normal;
+    width: 560px;
+}

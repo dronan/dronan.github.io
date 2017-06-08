@@ -12,7 +12,7 @@ Tribuna de Santos: é uma prova sempre bem vinda ao calendário, pelos fatores d
 
 <!--more-->
 
-{% include image_full.html imageurl="/images/2017/05/tribuna_10k.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
+{% include image_full.html imageurl="/images/2017/05/tribuna_10k_big.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
 
 O kit chegou faltando cerca de uma semana para a corrida. Um kit básico, contendo camiseta, número de peito, chip de cronometragem e uma revista sobre a prova.
 
@@ -24,7 +24,7 @@ Encontrei os amigos da assessoria próximo ao guarda volumes, onde aguardamos at
 
 A corrida começou pontualmente às 8:15, com uns pingos de chuva. O dia apesar de nublado para chuvoso, estava relativamente quente e bem úmido.
 
-{% include image_full.html imageurl="/images/2017/05/tribuna_10k_largada.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
+{% include image_full.html imageurl="/images/2017/05/tribuna_10k_largada_big.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
 
 Esta prova tem o percurso cheio do começo ao fim, as vezes temos que ir para a calçada como forma de abrir espaço para passagem, além de ser uma prova que o público acompanha e participa, com cartazes, academias dando aulas das calçadas, DJs, Shows, e até mesmo havia gente fazendo churrasco na calçada, pelo caminho.
 
@@ -40,8 +40,19 @@ Próxima prova é meia!
 
 {% include image_caption.html imageurl="/images/2017/05/tribuna_10k_medalha.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
 
-* **Número de Peito:**  3562
-* **Tempo Final:**  00:53:05
+<div class="iconos clearfix">
+	<div class="item">
+		<i class="ico_rede"></i>
+		<span>Número de Peito</span>
+		<strong>3562</strong>
+	</div>
+	<div class="item">
+		<i class="ico_rede"></i>
+		<span>Tempo Final</span>
+		<strong>00:53:05</strong>
+	</div>
+</div>
+
 * **Categoria:**  M2529
 * **Modalidade:**  10k
 * **Tempo Bruto:**  ND
