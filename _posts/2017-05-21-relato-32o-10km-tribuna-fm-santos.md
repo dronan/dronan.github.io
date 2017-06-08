@@ -42,12 +42,12 @@ Próxima prova é meia!
 
 <div class="iconos clearfix">
 	<div class="item">
-		<i class="ico_rede"></i>
+		<i class="material-icons">confirmation_number</i>
 		<span>Número de Peito</span>
 		<strong>3562</strong>
 	</div>
 	<div class="item">
-		<i class="ico_rede"></i>
+		<i class="material-icons">access_time</i>
 		<span>Tempo Final</span>
 		<strong>00:53:05</strong>
 	</div>

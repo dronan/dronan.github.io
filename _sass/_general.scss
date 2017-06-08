@@ -314,14 +314,22 @@ a:hover img {
     max-width: 50%;
 }
 
+.site-main .image-small {
+    text-align: center;
+}
+
 .site-main .full-width {
-    clear: both;
-    margin: 6px -80px 24px;
+    margin: 6px -80px 24px;  
 }
 
 .site-main-unique .full-width {
-    clear: both;
     margin: 6px 40px 24px;
+}
+
+.site-main .full-width,
+.site-main-unique .full-width {
+    clear: both;
+    text-align: center;
 }
 
 /* Image captions */
