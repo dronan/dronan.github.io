@@ -562,21 +562,25 @@ green     #859900  operators, other keywords
 @-webkit-keyframes fadeInDown {
     from {
         opacity: 0;
-        margin-top: 0px;
+        -webkit-transform:  translateY(-20px);
+        transform:          translateY(-20px);
     }
     to {
         opacity: 1;
-        margin-top: 20px;
+        -webkit-transform:  translateY(0);
+        transform:          translateY(0);
     }
 }
 
 @keyframes fadeInDown {
     from {
         opacity: 0;
-        margin-top: 0px;
+        -webkit-transform:  translateY(-20px);
+        transform:          translateY(-20px);
     }
     to {
         opacity: 1;
-        margin-top: 20px;
+        -webkit-transform:  translateY(0);
+        transform:          translateY(0);
     }
 }
