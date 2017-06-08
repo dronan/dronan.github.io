@@ -1,5 +1,5 @@
 <figure class="image-small caption">
-    <img src="{{ include.imageurl }}" alt="{{ include.title }}"  data-toggle="modal" data-target="#modalImageLarge" />
+    <img src="{{ include.imageurl }}" alt="{{ include.title }}" {% if include.imageurllarge %} style="cursor: pointer;" data-toggle="modal" data-target="#modalImageLarge" {% endif %} />
     {% if include.caption %}
     <figcaption class="caption-text">{{ include.caption }}</figcaption> 
     {% endif %}
