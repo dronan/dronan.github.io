@@ -38,9 +38,12 @@ Próxima prova é meia!
 
 ## Resultado:
 
-{% include image_caption.html imageurl="/images/2017/05/tribuna_10k_medalha.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
 
-<div class="iconos clearfix">
+<div class="row container-fluid">
+<div class="col-md-4">
+{% include image_caption.html imageurl="/images/2017/05/tribuna_10k_medalha.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
+</div>
+<div class="iconos clearfix col-md-8">
 
 	<div class="item">
 		<i class="material-icons">confirmation_number</i>
@@ -99,4 +102,5 @@ Próxima prova é meia!
 		<strong><a href="http://connect.garmin.com/activity/1746811294" target="_blank">Garmin</a></strong>
 	</div>
 
+</div>
 </div>
