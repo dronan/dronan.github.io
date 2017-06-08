@@ -1,38 +1,7 @@
 <figure class="image-small caption">
-    <img src="{{ include.imageurl }}" alt="{{ include.title }}" {% if include.imageurllarge %} style="cursor: pointer;" data-toggle="modal" data-target="#modalImageLarge" {% endif %} />
+    <img src="{{ include.imageurl }}" alt="{{ include.title }}" {% if include.imageurllarge %} style="cursor: pointer;" data-toggle="modal" data-target="#modalGenerico" {% endif %} />
     {% if include.caption %}
     <figcaption class="caption-text">{{ include.caption }}</figcaption> 
     {% endif %}
 </figure>
-
-
-<script type="text/javascript">
-  $(document).ready(function(){
-    $('#modalImageLargeLabel').modal({
-      show: true,
-      backdrop: 'static',
-      keyboard: true
-    });
-
-  });
-</script>
-
-<!-- Modal -->
-<div class="modal fade" id="modalImageLarge" tabindex="-1" role="dialog" aria-labelledby="modalImageLargeLabel">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="modalImageLargeLabel">Modal title</h4>
-      </div>
-      <div class="modal-body">
-
-tetse
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
 
