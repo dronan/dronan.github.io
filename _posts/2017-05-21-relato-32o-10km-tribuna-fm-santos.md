@@ -46,7 +46,7 @@ Próxima prova é meia!
 <div class="iconos clearfix col-md-8">
 
 	<div class="item">
-		<i class="material-icons square fill-horizontal-inverse">confirmation_number</i>
+		<i class="material-icons square-inverse fill-horizontal-inverse">confirmation_number</i>
 		<span>Número Peito</span>
 		<strong>3562</strong>
 	</div>
