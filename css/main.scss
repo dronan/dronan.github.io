@@ -1107,6 +1107,19 @@ a.archive-top-link:hover {
     width: 560px;
 }
 
+.iconos .item>i {
+    width: 48px;
+    height: 48px;
+    float: left;
+    margin-right: 6px;
+    background-color: #86BDE2;
+}
+
+.iconos .item * {
+    display: block;
+}
+
+
 .iconos .item {
     float: left;
     margin-bottom: 16px;
