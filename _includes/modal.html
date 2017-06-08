@@ -3,7 +3,10 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-body">
-      teste 2
+        <img src="{{ include.imageurl }}" alt="{{ include.title }}" {% if include.imageurllarge %} style="cursor: pointer;" data-toggle="modal" data-target="#modalGenerico" {% endif %} />
+        {% if include.caption %}
+        <figcaption class="caption-text">{{ include.caption }}</figcaption> 
+        {% endif %}
       </div>
     </div>
   </div>
