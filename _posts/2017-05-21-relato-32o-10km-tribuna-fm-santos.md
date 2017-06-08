@@ -39,7 +39,7 @@ Próxima prova é meia!
 ## Resultado:
 
 
-<div class="row container-fluid">
+<div class="row">
 <div class="col-md-4">
 {% include image_caption.html imageurl="/images/2017/05/tribuna_10k_medalha.jpg" imageurllarge="/images/2017/05/tribuna_10k_medalha_big.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
 </div>

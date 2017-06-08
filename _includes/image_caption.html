@@ -5,8 +5,13 @@
     {% endif %}   
 </figure>
 
-{% if include.imageurllarge %} 
-<script type="text/javascript">
-	document.getElementById("modalHtml").innerHTML = " <img src='{{ include.imageurllarge }}' alt='{{ include.title }}' />";
-</script>
-{% endif %}   
+<!-- Modal -->
+<div class="modal fade" id="modalGenerico" tabindex="-1" role="dialog" aria-labelledby="modalGenerico">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+         <img src='{{ include.imageurllarge }}' alt='{{ include.title }}' />
+      </div>
+    </div>
+  </div>
+</div>
