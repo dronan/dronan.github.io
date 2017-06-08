@@ -3,7 +3,7 @@ layout: post
 title: "Relato - 32º 10Km Tribuna FM – Santos"
 date: 2017-05-21 13:21
 author: diego
-banner_image:  iPhone-6.jpg
+banner_image: ../2017/05/tribuna_10k_medalha_big.jpg
 comments: true
 tags: [10k, Corrida de Rua, santos, tribuna, fm]
 ---
@@ -38,7 +38,7 @@ Próxima prova é meia!
 
 ## Resultado:
 
-
+10840
 <div class="row">
 <div class="col-md-4">
 {% include image_caption.html imageurl="/images/2017/05/tribuna_10k_medalha.jpg" imageurllarge="/images/2017/05/tribuna_10k_medalha_big.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
