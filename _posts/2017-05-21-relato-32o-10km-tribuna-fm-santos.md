@@ -57,26 +57,26 @@ Próxima prova é meia!
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">hourglass_full</i>
 		<span>Tempo Bruto</span>
-		<strong>ND</strong>
+		<strong>00:56:39</strong>
 	</div>
 
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">supervisor_account</i>
 		<span>Categoria</span>
-		<strong>M3035</strong>
+		<strong>M3034</strong>
 	</div>
 
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
 		<span>Classificação Total</span>
-		<strong>ND</strong>
+		<strong>2211</strong>
 	</div>
 
 
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
 		<span>Classificação Faixa Etária</span>
-		<strong>ND</strong>
+		<strong>332</strong>
 	</div>
 
 
