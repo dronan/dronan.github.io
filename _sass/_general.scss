@@ -507,6 +507,14 @@ green     #859900  operators, other keywords
 
 .fill-horizontal {
     background-color: $picton-blue;
+} 
+
+.fill-horizontal-inverse {
+    background-color: $tundora;
+}
+
+.fill-horizontal, .fill-horizontal-inverse {
+    
     -webkit-box-shadow: inset -50px 0 $tundora;
     -moz-box-shadow:    inset -50px 0 $tundora;
     box-shadow:         inset -50px 0 $tundora;
