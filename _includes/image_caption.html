@@ -2,6 +2,7 @@
     <img src="{{ include.imageurl }}" alt="{{ include.title }}" {% if include.imageurllarge %} style="cursor: pointer;" data-toggle="modal" data-target="#modalGenerico" {% endif %} />
     {% if include.caption %}
     <figcaption class="caption-text">{{ include.caption }}</figcaption> 
-    {% endif %}
+    {% endif %}   
 </figure>
 
+<script type="text/javascript">$("#modalHtml").html("teste modalHtml");</script>
