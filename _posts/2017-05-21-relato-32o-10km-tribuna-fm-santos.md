@@ -3,7 +3,7 @@ layout: post
 title: "Relato - 32º 10Km Tribuna FM – Santos"
 date: 2017-05-21 13:21
 author: diego
-banner_image: ../2017/05/tribuna_10k_medalha_big.jpg
+banner_image: ../2017/05/tribuna_10k_big.jpg
 comments: true
 tags: [10k, Corrida de Rua, santos, tribuna, fm]
 ---
@@ -11,8 +11,6 @@ tags: [10k, Corrida de Rua, santos, tribuna, fm]
 Tribuna de Santos: é uma prova sempre bem vinda ao calendário, pelos fatores do clima e envolvimento da cidade para com a prova. Minha última participação, foi em 2014; este ano decidi ir, ainda mais com bastante amigos inscritos nela, somando ao fato da facilidade de receber o kit em casa, via correios.
 
 <!--more-->
-
-{% include image_full.html imageurl="/images/2017/05/tribuna_10k_big.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
 
 O kit chegou faltando cerca de uma semana para a corrida. Um kit básico, contendo camiseta, número de peito, chip de cronometragem e uma revista sobre a prova.
 
@@ -38,7 +36,6 @@ Próxima prova é meia!
 
 ## Resultado:
 
-10840
 <div class="row">
 <div class="col-md-4">
 {% include image_caption.html imageurl="/images/2017/05/tribuna_10k_medalha.jpg" imageurllarge="/images/2017/05/tribuna_10k_medalha_big.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
