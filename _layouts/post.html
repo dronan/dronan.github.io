@@ -55,8 +55,6 @@ layout: default
                     {{content}}
                 </div><!-- .entry-content -->
                 <footer class="entry-footer">
-                    {% if page.modified %}{{ page.title }} foi modificada em <span class="entry-date date modified"><time datetime="{{ page.modified }}">{{ page.modified }}</time></span>
-                    <span class="author vcard fn">{{ site.owner.name }}</span>{% endif %}
                     <div class="share-post">
                         <span>Compartilhe</span>
                         <a class="fa-twitter" target="_blank" href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ site.url }}{{ page.url }}"><span class="screen-reader-text">Twitter</span></a>
@@ -91,7 +89,23 @@ layout: default
                         {% endif %}
                         <div class="nav-before">Anterior</div>
                         <div class="nav-title"><a href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a></div>
-                        <div class="nav-date">{{page.previous.date | date: "%B %-d, %Y"}}</div>
+                        <div class="nav-date">{% assign m = page.previous.date | date: "%-m" %}
+                        {{ page.previous.date | date: "%-d" }}
+                        {% case m %}
+                          {% when '1' %}de Janeiro
+                          {% when '2' %}de Fevereiro
+                          {% when '3' %}de Março
+                          {% when '4' %}de Abril
+                          {% when '5' %}de Maio
+                          {% when '6' %}de Junho
+                          {% when '7' %}de Julho
+                          {% when '8' %}de Agosto
+                          {% when '9' %}de Setembro
+                          {% when '10' %}de Outubro
+                          {% when '11' %}de Novembro
+                          {% when '12' %}de Dezembro
+                        {% endcase %}
+                        {{ page.previous.date | date: " de %Y" }}</div>
                     </div><!-- .nav-inside -->
                 </div><!-- .nav-previous -->
                 {% endif %}
@@ -103,7 +117,24 @@ layout: default
                         {% endif %}
                         <div class="nav-before">Próximo</div>
                         <div class="nav-title"><a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a></div>
-                        <div class="nav-date">{{page.next.date | date: "%B %-d, %Y"}}</div>
+                        <div class="nav-date">{% assign m = page.next.date | date: "%-m" %}
+                        {{ page.next.date | date: "%-d" }}
+                        {% case m %}
+                          {% when '1' %}de Janeiro
+                          {% when '2' %}de Fevereiro
+                          {% when '3' %}de Março
+                          {% when '4' %}de Abril
+                          {% when '5' %}de Maio
+                          {% when '6' %}de Junho
+                          {% when '7' %}de Julho
+                          {% when '8' %}de Agosto
+                          {% when '9' %}de Setembro
+                          {% when '10' %}de Outubro
+                          {% when '11' %}de Novembro
+                          {% when '12' %}de Dezembro
+                        {% endcase %}
+                        {{ page.next.date | date: " de %Y" }}
+                        </div>
                     </div><!-- .nav-inside -->
                 </div><!-- .nav-next -->
                 {% endif %}
