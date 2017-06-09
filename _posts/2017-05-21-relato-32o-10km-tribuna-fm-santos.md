@@ -62,6 +62,12 @@ Próxima prova é meia!
 
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">supervisor_account</i>
+		<span>Modalidade</span>
+		<strong>10K</strong>
+	</div>
+
+	<div class="item">
+		<i class="material-icons square-inverse fill-horizontal-inverse">folder_shared</i>
 		<span>Categoria</span>
 		<strong>M3034</strong>
 	</div>
@@ -96,7 +102,7 @@ Próxima prova é meia!
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">help_outline</i>
 		<span>Outras Informações</span>
-		<strong><a href="http://connect.garmin.com/activity/1746811294" target="_blank">Garmin</a></strong>
+		<strong><a href="http://connect.garmin.com/modern/activity/1746811294" target="_blank">Garmin</a></strong>
 	</div>
 
 </div>
