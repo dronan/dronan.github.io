@@ -53,6 +53,12 @@ Até lá!
 	</div>
 
 	<div class="item">
+		<i class="material-icons square-inverse fill-horizontal-inverse">supervisor_account</i>
+		<span>Modalidade</span>
+		<strong>21K</strong>
+	</div>
+
+	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">access_time</i>
 		<span>Tempo Final</span>
 		<strong>02:02:49</strong>
@@ -62,18 +68,6 @@ Até lá!
 		<i class="material-icons square-inverse fill-horizontal-inverse">hourglass_full</i>
 		<span>Tempo Bruto</span>
 		<strong>02:07:42</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">supervisor_account</i>
-		<span>Modalidade</span>
-		<strong>21K</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">folder_shared</i>
-		<span>Categoria</span>
-		<strong>M3034</strong>
 	</div>
 
 	<div class="item">
@@ -89,18 +83,22 @@ Até lá!
 		<strong>220</strong>
 	</div>
 
-
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
 		<span>Pace Médio</span>
 		<strong>05:46 min/km</strong>
 	</div>
 
-
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
 		<span>Velocidade Média</span>
 		<strong>10:40 km/h</strong>
+	</div>
+
+	<div class="item">
+		<i class="material-icons square-inverse fill-horizontal-inverse">folder_shared</i>
+		<span>Categoria</span>
+		<strong>M3034</strong>
 	</div>
 
 	<div class="item">

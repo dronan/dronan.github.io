@@ -49,6 +49,12 @@ Próxima prova é meia!
 	</div>
 
 	<div class="item">
+		<i class="material-icons square-inverse fill-horizontal-inverse">supervisor_account</i>
+		<span>Modalidade</span>
+		<strong>10K</strong>
+	</div>
+
+	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">access_time</i>
 		<span>Tempo Final</span>
 		<strong>00:53:05</strong>
@@ -60,17 +66,6 @@ Próxima prova é meia!
 		<strong>00:56:39</strong>
 	</div>
 
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">supervisor_account</i>
-		<span>Modalidade</span>
-		<strong>10K</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">folder_shared</i>
-		<span>Categoria</span>
-		<strong>M3034</strong>
-	</div>
 
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
@@ -78,13 +73,11 @@ Próxima prova é meia!
 		<strong>2211</strong>
 	</div>
 
-
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
 		<span>Classificação Faixa Etária</span>
 		<strong>332</strong>
 	</div>
-
 
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
@@ -97,6 +90,12 @@ Próxima prova é meia!
 		<i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
 		<span>Velocidade Média</span>
 		<strong>11,50 km/h</strong>
+	</div>
+
+	<div class="item">
+		<i class="material-icons square-inverse fill-horizontal-inverse">folder_shared</i>
+		<span>Categoria</span>
+		<strong>M3034</strong>
 	</div>
 
 	<div class="item">
