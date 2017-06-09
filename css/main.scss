@@ -271,6 +271,7 @@
     -ms-filter: grayscale(100%) saturate(150%) contrast(110%);
     -o-filter: grayscale(100%) saturate(150%) contrast(110%);
     filter: grayscale(100%) saturate(150%) contrast(110%);
+	transition: 2s;
 }
 
 .post-thumbnail img:hover{
@@ -279,7 +280,7 @@
     -ms-filter: grayscale(0%) saturate(100%) contrast(100%);
     -o-filter: grayscale(0%) saturate(100%) contrast(100%);
     filter: grayscale(0%) saturate(100%) contrast(100%);
-    transition: 1s;
+    transition: 2s;
 }
 
 .entry-title {
