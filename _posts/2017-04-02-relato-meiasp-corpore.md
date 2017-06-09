@@ -38,12 +38,12 @@ Até lá!
 
 ## Resultado:
 
-
-
 <div class="row">
+
 <div class="col-md-4">
 {% include image_caption.html imageurl="/images/2017/04/meiasp.jpg" imageurllarge="/images/2017/04/meiasp_big.jpg" title="Meia Maratona Corpore 2017" caption="Meia Maratona Corpore 2017" %}
 </div>
+
 <div class="iconos clearfix col-md-8">
 
 	<div class="item">
