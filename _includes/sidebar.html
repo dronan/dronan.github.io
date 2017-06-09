@@ -34,8 +34,8 @@
         <h2 class="widget-title">Últimas Postagens</h2>
         <ul class="recent-posts">
             {% for post in site.posts limit:5 %}
-            <li class="recent-item"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{% assign m = page.date | date: "%-m" %}
-                        {{ page.date | date: "%-d" }}
+            <li class="recent-item"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{% assign m = post.date | date: "%-m" %}
+                        {{ post.date | date: "%-d" }}
                         {% case m %}
                           {% when '1' %}de Janeiro
                           {% when '2' %}de Fevereiro
@@ -50,7 +50,7 @@
                           {% when '11' %}de Novembro
                           {% when '12' %}de Dezembro
                         {% endcase %}
-                        {{ page.date | date: " de %Y" }}</span></li>
+                        {{ post.date | date: " de %Y" }}</span></li>
             {% endfor %}
         </ul><!-- .recent-posts -->
     </section><!-- .widget-recent-posts -->

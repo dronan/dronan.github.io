@@ -55,6 +55,8 @@ layout: default
                     {{content}}
                 </div><!-- .entry-content -->
                 <footer class="entry-footer">
+                    {% if page.modified %}{{ page.title }} foi modificada em <span class="entry-date date modified"><time datetime="{{ page.modified }}">{{ page.modified }}</time></span>
+                    <span class="author vcard fn">{{ site.owner.name }}</span>{% endif %}
                     <div class="share-post">
                         <span>Compartilhe</span>
                         <a class="fa-twitter" target="_blank" href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ site.url }}{{ page.url }}"><span class="screen-reader-text">Twitter</span></a>
