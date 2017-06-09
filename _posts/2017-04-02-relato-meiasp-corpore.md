@@ -3,6 +3,7 @@ layout: post
 title: "Relato - XVIII Meia Maratona Internacional de SP"
 date: 2017-04-02 12:00
 author: diego
+banner_image:
 comments: true
 tags: [meia, Corrida, Corrida de Rua, maratona, corpore, 21k]
 ---
