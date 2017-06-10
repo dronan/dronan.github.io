@@ -17,7 +17,7 @@ tempobruto: "00:44:44"
 classificacao: 263
 classificacaofaixaetaria: 257
 pace: "6:35"
-velocidade: "9,11"
+velocidade: "9:11"
 ---
 
 Hoje aconteceu na região do Ibirapuera o Troféu Cidade de São Paulo, 6,1k e 10k de corrida de rua, contando com a participação de cerca de 10 mil corredores.
