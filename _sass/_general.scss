@@ -319,22 +319,17 @@ a:hover img {
 }
 
 @media (max-width: 768px) { 
-    .site-main .full-width {
-        width:100%;
-    }
-}
-@media (min-width: 768px) and (max-width: 768px) { 
-    .site-main .full-width {
-        margin: 6px -80px 24px;  
+    .site-main-unique .full-width {
+        margin: 6px -15px 24px;  
     }
 }
 @media (min-width: 768px) and (max-width: 992px) { 
-    .site-main .full-width {
+    .site-main-unique .full-width {
         margin: 6px -80px 24px;  
     }
 }
 @media (min-width: 992px) { 
-    .site-main .full-width {
+    .site-main-unique .full-width {
         margin: 6px -80px 24px;  
     }
 }
@@ -344,22 +339,18 @@ a:hover img {
 
 @media (max-width: 768px) { 
     .site-main .full-width {
-        width:100%;
+        margin: 6px -15px 24px;  
     }
 }
-@media (min-width: 768px) and (max-width: 768px) { 
-    .site-main .full-width {
-        margin: 6px 40px 24px;  
-    }
-}
+
 @media (min-width: 768px) and (max-width: 992px) { 
     .site-main .full-width {
-        margin: 6px 40px 24px;  
+        margin: 6px -30px 24px;  
     }
 }
 @media (min-width: 992px) { 
     .site-main .full-width {
-        margin: 6px 40px 24px;  
+        margin: 6px -110px 24px;  
     }
 }
 
