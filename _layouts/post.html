@@ -61,9 +61,9 @@ layout: default
                     <div class="row">
 
                     <div class="col-md-4">
-
+                      {% if page.urlmedalha %}
                       <figure class="image-small caption">
-                          <img src="{{ page.urlmedalha }}" alt="{{ page.captionmedalha }}" {% if page.urlmedalhalarge %} style="cursor: pointer;" data-toggle="modal" data-target="#modalGenerico" {% endif %} />
+                          <img src="{{ page. }}" alt="{{ page.captionmedalha }}" {% if page.urlmedalhalarge %} style="cursor: pointer;" data-toggle="modal" data-target="#modalGenerico" {% endif %} />
                           {% if page.captionmedalha %}
                           <figcaption class="caption-text">{{ page.captionmedalha }}</figcaption> 
                           {% endif %}   
@@ -85,7 +85,7 @@ layout: default
                           $('#modalGenerico').appendTo("body");
                         });
                       </script>
-
+                      {% endif %}
                    </div>
 
                     <div class="iconos clearfix col-md-8">
@@ -98,61 +98,77 @@ layout: default
                       </div>
                       {% endif %}
 
+                      {% if page.modalidade %}
                       <div class="item">
                         <i class="material-icons square-inverse fill-horizontal-inverse">supervisor_account</i>
                         <span>Modalidade</span>
                         <strong>{{ page.modalidade }}</strong>
                       </div>
+                      {% endif %}
 
+                      {% if page.tempofinal %}
                       <div class="item">
                         <i class="material-icons square-inverse fill-horizontal-inverse">access_time</i>
                         <span>Tempo Final</span>
                         <strong>{{ page.tempofinal }}</strong>
                       </div>
+                      {% endif %}
 
+                      {% if page.tempobruto %}
                       <div class="item">
                         <i class="material-icons square-inverse fill-horizontal-inverse">hourglass_full</i>
                         <span>Tempo Bruto</span>
                         <strong>{{ page.tempobruto }}</strong>
                       </div>
+                      {% endif %}
 
-
+                      {% if page.classificacao %}
                       <div class="item">
                         <i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
                         <span>Classificação Total</span>
                         <strong>{{ page.classificacao }}</strong>
                       </div>
+                      {% endif %}
 
+                      {% if page.classificacaofaixaetaria %}
                       <div class="item">
                         <i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
                         <span>Classificação Faixa Etária</span>
                         <strong>{{ page.classificacaofaixaetaria }}</strong>
                       </div>
+                      {% endif %}
 
+                      {% if page.pace %}
                       <div class="item">
                         <i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
                         <span>Pace Médio</span>
                         <strong>{{ page.pace }} min/km</strong>
                       </div>
+                      {% endif %}
 
-
+                      {% if page.velocidade %}
                       <div class="item">
                         <i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
                         <span>Velocidade Média</span>
                         <strong>{{ page.velocidade }} km/h</strong>
                       </div>
+                      {% endif %}
 
+                      {% if page.categoria %}
                       <div class="item">
                         <i class="material-icons square-inverse fill-horizontal-inverse">folder_shared</i>
                         <span>Categoria</span>
                         <strong>{{ page.categoria }}</strong>
                       </div>
+                      {% endif %}
 
+                      {% if page.idgarmin %}
                       <div class="item">
                         <i class="material-icons square-inverse fill-horizontal-inverse">help_outline</i>
                         <span>Outras Informações</span>
                         <strong><a href="http://connect.garmin.com/modern/activity/{{ page.idgarmin }}" target="_blank">Garmin</a></strong>
                       </div>
+                      {% endif %}
 
                     </div>
                     </div>
