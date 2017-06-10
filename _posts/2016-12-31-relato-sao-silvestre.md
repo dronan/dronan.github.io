@@ -3,6 +3,7 @@ layout: post
 title: Relato - 92ª Corrida Internacional de São Silvestre
 date: 2016-12-31 12:00
 author: diego
+banner_image: ../2016/12/saosilvestre_capa.jpg
 comments: true
 tags: [brigadeiro, Corrida, Corrida de Rua, sao silvestre]
 ---
