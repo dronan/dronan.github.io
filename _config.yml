@@ -63,6 +63,13 @@ author_image: /images/diego_avatar.jpg
 banner_url:
 banner_image:
 
+
+resultado:
+urlmedalha:
+urlmedalhafull:
+captionmedalha:
+numerodepeito:
+
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
 mailchimp_url: "//diegoronan.us16.list-manage.com/subscribe/post?u=8e9d94ec431c96e72f0049cb6&amp;id=cafe2d08cb"
 

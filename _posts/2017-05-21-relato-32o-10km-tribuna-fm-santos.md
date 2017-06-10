@@ -6,7 +6,6 @@ author: diego
 banner_image: ../2017/05/tribuna_10k_big.jpg
 comments: true
 tags: [10k, Corrida de Rua, santos, tribuna, fm]
-
 resultado: true
 urlmedalha: /images/2017/05/tribuna_10k_medalha.jpg
 urlmedalhafull: /images/2017/05/tribuna_10k_medalha_big.jpg
@@ -41,14 +40,14 @@ Terminando a corrida repeti a estratégia de 2014: reencontrei meu pai, fiz uma 
 Próxima prova é meia!
 
 
-{{% if resultado %}}
+{{% if post.resultado %}}
 
 ## Resultado:
 
 <div class="row">
 
 <div class="col-md-4">
-{% include image_caption.html imageurl="{{ urlmedalha }}" imageurllarge="{{ urlmedalhafull }}" title="{{ captionmedalha }}" caption="{{ captionmedalha }}" %}
+{% include image_caption.html imageurl="{{ post.urlmedalha }}" imageurllarge="{{ post.urlmedalhafull }}" title="{{ post.captionmedalha }}" caption="{{ post.captionmedalha }}" %}
 </div>
 
 <div class="iconos clearfix col-md-8">
@@ -56,7 +55,7 @@ Próxima prova é meia!
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">confirmation_number</i>
 		<span>Número de Peito</span>
-		<strong>{{ numerodepeito }}</strong>
+		<strong>{{ post.numerodepeito }}</strong>
 	</div>
 
 	<div class="item">
