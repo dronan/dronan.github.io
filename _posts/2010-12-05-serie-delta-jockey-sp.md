@@ -5,6 +5,23 @@ date: 2010-12-05 11:00
 author: diego
 comments: true
 tags: [10k, 5k, Corrida, Corrida de Rua, Delta, Jockey, Rua, Serie, SP]
+
+exiberesultado: true
+
+urlmedalha: /images/2010/12/DSC_0128.gif
+urlmedalhalarge: /images/2010/12/DSC_0128_big.gif
+captionmedalha: Série Delta
+
+
+numerodepeito: 560
+tempofinal: "00:33:19"
+categoria: M2529
+modalidade: 5k
+tempobruto: "00:35:44"
+classificacao: 396
+classificacaofaixaetaria: 75
+pace: "06:39"
+velocidade: "9,00"
 ---
 
 Depois da Night Run, hora de encarar a primeira diurna. A proxima que aparecia no calendario era esta, Serie Delta, distancias de 5km e 10km no Jockey Club em São Paulo, então vamos lá!
