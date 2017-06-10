@@ -334,26 +334,43 @@ a:hover img {
     }
 }
 
-
-
-
-@media (max-width: 768px) { 
+@media (max-width: 479px) { 
     .site-main .full-width {
         margin: 6px -15px 24px;  
     }
 }
 
-@media (min-width: 768px) and (max-width: 992px) { 
+@media (min-width: 480px) and (max-width: 769px) { 
     .site-main .full-width {
         margin: 6px -30px 24px;  
     }
 }
-@media (min-width: 992px) { 
+
+@media (min-width: 770px) and (max-width: 960px) { 
+    .site-main .full-width {
+        margin: 6px -100px 24px;  
+    }
+}
+
+/*@media (min-width: 961px) and (max-width: 1047px) { */
+@media (min-width: 961px) and (max-width: 1254px) {
+    .site-main .full-width {
+        margin: 6px -30px 24px;  
+    }
+}
+/*
+@media (min-width: 1048px) and (max-width: 1254px) { 
+    .site-main .full-width {
+        margin: 6px -30px 24px;  
+    }
+}
+*/
+
+@media (min-width: 1255px) { 
     .site-main .full-width {
         margin: 6px -110px 24px;  
     }
 }
-
 
 .site-main .full-width,
 .site-main-unique .full-width {
