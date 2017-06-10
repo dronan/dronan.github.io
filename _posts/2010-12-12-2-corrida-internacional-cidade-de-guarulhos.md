@@ -26,11 +26,11 @@ velocidade: "8,69"
 
 Depois de ter pipocado para a corrida do Internacional Shopping que fica bem próximo de casa (seria minha primeira corrida em vez da night run), encarei a 2ª Corrida Internacional Cidade de Guarulhos, que aconteceu na região do Bosque Maia aqui na região central da cidade.
 
+O dia amanheceu como na corrida do Jockey: um sol para cada um! Bem complicado!! Depois de feito o alongamento e aquecimento, encontrei um amigo meu que ia participar da corrida e largamos juntos, correndo num ritimo mais leve para poupar do calor conseguimos correr juntos cerca de 2km, até cansar e se dispersar na multidão.
+
 <!--more-->
 
 {% include image_full.html imageurl="/images/2010/12/corridaguarulhos" imageurllarge="/images/2010/12/corridaguarulhos" title="2ª Corrida Internacional Cidade de Guarulhos" caption="2ª Corrida Internacional Cidade de Guarulhos" %}
-
-O dia amanheceu como na corrida do Jockey: um sol para cada um! Bem complicado!! Depois de feito o alongamento e aquecimento, encontrei um amigo meu que ia participar da corrida e largamos juntos, correndo num ritimo mais leve para poupar do calor conseguimos correr juntos cerca de 2km, até cansar e se dispersar na multidão.
 
 Com apenar um ponto de hidratação em todo o percurso, muita gente passou mal com o calor e teve como fim de sua participação na corrida o hospital mais proximo. O que foi falho tambem foi a desorganização na entrega do kit de finisher, pouca gente, pouco espaço para muita gente. Nas proximas edições espero que organizem melhor esta entrega e coloquem pelo menos 2 pontos de hidratação para quem for pegar os 5km.
 

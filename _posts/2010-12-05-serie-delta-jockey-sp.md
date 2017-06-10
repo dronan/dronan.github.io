@@ -26,9 +26,9 @@ velocidade: "9,00"
 
 Depois da Night Run, hora de encarar a primeira diurna. A proxima que aparecia no calendario era esta, Serie Delta, distancias de 5km e 10km no Jockey Club em São Paulo, então vamos lá!
 
-<!--more-->
-
 Agora mais preparado (com o frequencimetro - RS300X da Polar), e treinado (comecei a praticar mais principalmente em parques), fui para minha segunda corrida. E o sol nesta castigou. Apesar de ter chovido no dia anterior, o tempo amanhaceu aberto, sem nuvens e o sol pegou forte desde o inicio. Consegui manter um ritimo relativamente bom até os 3km, até sair da sombra do muro do Jockey, que quando saiu, meu relogio avisou pra pegar leve que não sou profissional e resolvi caminhar uns 200 metros para baixar a pulsação.
+
+<!--more-->
 
 {% include image_full.html imageurl="/images/2010/12/seriedelta.jpg" imageurllarge="/images/2010/12/seriedelta.jpg" title="Serie Delta" caption="Serie Delta" %}
 

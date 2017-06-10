@@ -20,7 +20,7 @@ modalidade: 5k
 tempobruto: "00:35:57"
 classificacao: 674
 classificacaofaixaetaria: 135
-pace: "00:05:58"
+pace: "05:58"
 velocidade: "10,03"
 ---
 
