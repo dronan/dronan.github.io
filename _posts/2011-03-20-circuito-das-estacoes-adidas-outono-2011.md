@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato - Circuito das Estações Adidas Outono 2011
+title: "Relato - Circuito das Estações Adidas - Etapa Outono 2011"
 date: 2011-03-20 18:58
 author: diego
 comments: true
-tags: [2011, adidas, circuito das estações, Corrida de Rua, corrida de rua, Pacaembu]
+tags: [2011, adidas, circuito das estações, corrida de rua, Pacaembu]
 
 exiberesultado: true
 
