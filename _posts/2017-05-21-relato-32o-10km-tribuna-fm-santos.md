@@ -11,6 +11,15 @@ urlmedalha: /images/2017/05/tribuna_10k_medalha.jpg
 urlmedalhafull: /images/2017/05/tribuna_10k_medalha_big.jpg
 captionmedalha: Tribuna Santos 10k
 numerodepeito: 3562
+modalidade: 10K
+tempofinal: 00:53:05
+tempobruto: 00:56:39
+classificacao: 2211
+classificacaofaixaetaria: 332
+pace: 05:14
+velocidade: 11,50
+categoria: M3034
+idgarmin: 1746811294
 ---
 
 Tribuna de Santos: é uma prova sempre bem vinda ao calendário, pelos fatores do clima e envolvimento da cidade para com a prova. Minha última participação, foi em 2014; este ano decidi ir, ainda mais com bastante amigos inscritos nela, somando ao fato da facilidade de receber o kit em casa, via correios.
@@ -38,79 +47,3 @@ O único ponto que coloco como negativo foi a distribuição de medalhas, havia 
 Terminando a corrida repeti a estratégia de 2014: reencontrei meu pai, fiz uma parada na SmartFit (preciso lembrar que abre as 10) para banho e retornei para São Paulo.
 
 Próxima prova é meia!
-
-## Resultado:
-
-
-  <p>Var2 {{ post.numerodepeito }}.</p>
-
-
-<div class="row">
-
-
-<div class="iconos clearfix col-md-8">
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">confirmation_number</i>
-		<span>Número de Peito</span>
-		<strong>{{ post.numerodepeito }}</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">supervisor_account</i>
-		<span>Modalidade</span>
-		<strong>10K</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">access_time</i>
-		<span>Tempo Final</span>
-		<strong>00:53:05</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">hourglass_full</i>
-		<span>Tempo Bruto</span>
-		<strong>00:56:39</strong>
-	</div>
-
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
-		<span>Classificação Total</span>
-		<strong>2211</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
-		<span>Classificação Faixa Etária</span>
-		<strong>332</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
-		<span>Pace Médio</span>
-		<strong>05:14 min/km</strong>
-	</div>
-
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
-		<span>Velocidade Média</span>
-		<strong>11,50 km/h</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">folder_shared</i>
-		<span>Categoria</span>
-		<strong>M3034</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">help_outline</i>
-		<span>Outras Informações</span>
-		<strong><a href="http://connect.garmin.com/modern/activity/1746811294" target="_blank">Garmin</a></strong>
-	</div>
-
-</div>
-</div>

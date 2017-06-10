@@ -54,9 +54,84 @@ layout: default
                 <div class="entry-content">
                     {{content}}
 
+                    {{% if page.resultado %}}
+
+                    ## Resultado:
+
+                    <div class="row">
+
+                    <div class="col-md-4">
+                    {% include image_caption.html imageurl="{{ page.urlmedalha }}" imageurllarge="{{ page.urlmedalhafull }}" title="{{ page.captionmedalha }}" caption="{{ page.captionmedalha }}" %}
+                    </div>
+
+                    <div class="iconos clearfix col-md-8">
+
+                      <div class="item">
+                        <i class="material-icons square-inverse fill-horizontal-inverse">confirmation_number</i>
+                        <span>Número de Peito</span>
+                        <strong>{{ page.numerodepeito }}</strong>
+                      </div>
+
+                      <div class="item">
+                        <i class="material-icons square-inverse fill-horizontal-inverse">supervisor_account</i>
+                        <span>Modalidade</span>
+                        <strong>{{ page.modalidade }}</strong>
+                      </div>
+
+                      <div class="item">
+                        <i class="material-icons square-inverse fill-horizontal-inverse">access_time</i>
+                        <span>Tempo Final</span>
+                        <strong>{{ page.tempofinal }}</strong>
+                      </div>
+
+                      <div class="item">
+                        <i class="material-icons square-inverse fill-horizontal-inverse">hourglass_full</i>
+                        <span>Tempo Bruto</span>
+                        <strong>{{ page.tempobruto }}</strong>
+                      </div>
 
 
-  <p>Var Post Configuration ?? {{ page.numerodepeito }}.</p>
+                      <div class="item">
+                        <i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
+                        <span>Classificação Total</span>
+                        <strong>{{ page.classificacao }}</strong>
+                      </div>
+
+                      <div class="item">
+                        <i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
+                        <span>Classificação Faixa Etária</span>
+                        <strong>{{ page.classificacaofaixaetaria }}</strong>
+                      </div>
+
+                      <div class="item">
+                        <i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
+                        <span>Pace Médio</span>
+                        <strong>{{ page.pace }} min/km</strong>
+                      </div>
+
+
+                      <div class="item">
+                        <i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
+                        <span>Velocidade Média</span>
+                        <strong>{{ page.velocidade }} km/h</strong>
+                      </div>
+
+                      <div class="item">
+                        <i class="material-icons square-inverse fill-horizontal-inverse">folder_shared</i>
+                        <span>Categoria</span>
+                        <strong>{{ page.categoria }}</strong>
+                      </div>
+
+                      <div class="item">
+                        <i class="material-icons square-inverse fill-horizontal-inverse">help_outline</i>
+                        <span>Outras Informações</span>
+                        <strong><a href="http://connect.garmin.com/modern/activity/{{ page.idgarmin }}" target="_blank">Garmin</a></strong>
+                      </div>
+
+                    </div>
+                    </div>
+
+                    {{% endif %}}
 
                 </div><!-- .entry-content -->
                 <footer class="entry-footer">
