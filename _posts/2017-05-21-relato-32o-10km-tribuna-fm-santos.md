@@ -11,7 +11,6 @@ resultado: true
 urlmedalha: /images/2017/05/tribuna_10k_medalha.jpg
 urlmedalhafull: /images/2017/05/tribuna_10k_medalha_big.jpg
 captionmedalha: Tribuna Santos 10k
-
 numerodepeito: 3562
 ---
 
@@ -49,7 +48,7 @@ Próxima prova é meia!
 <div class="row">
 
 <div class="col-md-4">
-{% include image_caption.html imageurl="" imageurllarge="/images/2017/05/tribuna_10k_medalha_big.jpg" title="{{% post.captionmedalha %}}" caption="{{% post.captionmedalha %}}" %}
+{% include image_caption.html imageurl="{{ post.urlmedalha }}" imageurllarge="{{ post.urlmedalhafull }}" title="{{ post.captionmedalha }}" caption="{{ post.captionmedalha }}" %}
 </div>
 
 <div class="iconos clearfix col-md-8">
@@ -57,7 +56,7 @@ Próxima prova é meia!
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">confirmation_number</i>
 		<span>Número de Peito</span>
-		<strong>{{% post.numerodepeito %}}</strong>
+		<strong>{{ post.numerodepeito }}</strong>
 	</div>
 
 	<div class="item">
