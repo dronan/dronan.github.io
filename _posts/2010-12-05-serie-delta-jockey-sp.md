@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Relato - Teste"
+title: "Relato - 32º 10Km Tribuna FM – Santos"
 date: 2017-05-21 13:21
 author: diego
 banner_image: ../2017/05/tribuna_10k_big.jpg
@@ -9,32 +9,48 @@ tags: [10k, Corrida de Rua, santos, tribuna, fm]
 
 exiberesultado: true
 
-urlmedalha: /images/2010/12/DSC_0128.gif
-urlmedalhalarge: /images/2010/12/DSC_0128_big.gif
-captionmedalha: Série Delta
+urlmedalha: /images/2017/05/tribuna_10k_medalha.jpg
+urlmedalhalarge: /images/2017/05/tribuna_10k_medalha_big.jpg
+captionmedalha: Tribuna Santos 10k
 
+numerodepeito: 3562
+modalidade: 10K
 
-numerodepeito: 560
-tempofinal: "00:33:19"
-categoria: M2529
-modalidade: 5k
-tempobruto: "00:35:44"
-classificacao: 396
-classificacaofaixaetaria: 75
-pace: "06:39
-velocidade: "9,00"
+tempofinal: "00:53:05"
+tempobruto: "00:56:39"
+
+classificacao: 2211
+classificacaofaixaetaria: 332
+
+pace: "05:14"
+velocidade: "11,50"
+
+categoria: M3034
+idgarmin: 1746811294
 ---
 
-Depois da Night Run, hora de encarar a primeira diurna. A proxima que aparecia no calendario era esta, Serie Delta, distancias de 5km e 10km no Jockey Club em São Paulo, então vamos lá!
-
-Agora mais preparado (com o frequencimetro - RS300X da Polar), e treinado (comecei a praticar mais principalmente em parques), fui para minha segunda corrida. E o sol nesta castigou. Apesar de ter chovido no dia anterior, o tempo amanhaceu aberto, sem nuvens e o sol pegou forte desde o inicio. Consegui manter um ritimo relativamente bom até os 3km, até sair da sombra do muro do Jockey, que quando saiu, meu relogio avisou pra pegar leve que não sou profissional e resolvi caminhar uns 200 metros para baixar a pulsação.
+Tribuna de Santos: é uma prova sempre bem vinda ao calendário, pelos fatores do clima e envolvimento da cidade para com a prova. Minha última participação, foi em 2014; este ano decidi ir, ainda mais com bastante amigos inscritos nela, somando ao fato da facilidade de receber o kit em casa, via correios.
 
 <!--more-->
 
-{% include image_full.html imageurl="/images/2010/12/seriedelta.jpg" imageurllarge="/images/2010/12/seriedelta.jpg" title="Serie Delta" caption="Serie Delta" %}
+O kit chegou faltando cerca de uma semana para a corrida. Um kit básico, contendo camiseta, número de peito, chip de cronometragem e uma revista sobre a prova.
 
-Nesta corrida achei que faltou hidratação. Poderiam ter colocado pelo menos mais um ponto. Havia um ponto nos 2km e mais nada, o proximo só depois que completava. No sol que estava foi um castigo correr assim. Me arrastando, consegui concluir em   00:33:19. Relativamente bom tempo pelas circuntancias.
+Organizada com largada por ondas, a minha partiria somente às 8:15, a primeira dos amadores. Precisava chegar cedo, então me organizei para chegar as 7. Com isto, acordei as 5, tomei um café da manhã rápido e desci para Santos, sem transito e maiores transtornos, via Imigrantes.
 
-Nas semanas que antecederam a corrida fiquei sabendo de mais pessoas conhecidas que praticam a modalidade, inclusive correram neste. Pena que não consegui encontrar todo mundo, somente um amigo meu que estava correndo com colegas de trabalho.
+Desta vez parei o carro próximo a região da largada, na Rua São Francisco, para desembarque; ficou a cargo de meu pai levar o carro para o ponto de chegada, onde marcamos de nos encontrar mais tarde.
 
-A proxima corrida? Mês que vem, em Guarulhos! Até la!
+Encontrei os amigos da assessoria próximo ao guarda volumes, onde aguardamos até as 8:00, quando nos deslocamos para a área da largada.
+
+A corrida começou pontualmente às 8:15, com uns pingos de chuva. O dia apesar de nublado para chuvoso, estava relativamente quente e bem úmido.
+
+{% include image_full.html imageurl="/images/2017/05/tribuna_10k_largada_big.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
+
+Esta prova tem o percurso cheio do começo ao fim, as vezes temos que ir para a calçada como forma de abrir espaço para passagem, além de ser uma prova que o público acompanha e participa, com cartazes, academias dando aulas das calçadas, DJs, Shows, e até mesmo havia gente fazendo churrasco na calçada, pelo caminho.
+
+A prova foi tranquila, pontos de hidratação bem distribuídos, a cada 2km, com água gelada, e uma prova concluída em pouco mais de 53 minutos. Correndo sempre próximo ao meu limite. Cheguei a pensar em andar inúmeras vezes, mas consegui finalizar sem fazer isto.
+
+O único ponto que coloco como negativo foi a distribuição de medalhas, havia vários pontos, mas apenas um ou outro distribuindo, fazendo acumular bastante fila sem necessidade.
+
+Terminando a corrida repeti a estratégia de 2014: reencontrei meu pai, fiz uma parada na SmartFit (preciso lembrar que abre as 10) para banho e retornei para São Paulo.
+
+Próxima prova é meia!
