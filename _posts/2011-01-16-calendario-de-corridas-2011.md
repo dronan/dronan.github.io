@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Calendário de Corridas 2011"
-date: 2011-01-16 10:15
+date: 2011-05-10 10:15
 author: diego
 comments: true
 tags: [Corrida de Rua, corrida de rua, dicas, calendario, 2011]
