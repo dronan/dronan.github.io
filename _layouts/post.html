@@ -54,7 +54,7 @@ layout: default
                 <div class="entry-content">
                     {{content}}
 
-                    {{% if page.exiberesultado %}}
+                    {% if page.exiberesultado %}
 
                     <h2>Resultado:</h2>
 
@@ -85,16 +85,18 @@ layout: default
                           $('#modalGenerico').appendTo("body");
                         });
                       </script>
-|
+
                    </div>
 
                     <div class="iconos clearfix col-md-8">
 
+                      {% if page.numerodepeito %}
                       <div class="item">
                         <i class="material-icons square-inverse fill-horizontal-inverse">confirmation_number</i>
                         <span>Número de Peito</span>
                         <strong>{{ page.numerodepeito }}</strong>
                       </div>
+                      {% endif %}
 
                       <div class="item">
                         <i class="material-icons square-inverse fill-horizontal-inverse">supervisor_account</i>
@@ -155,7 +157,7 @@ layout: default
                     </div>
                     </div>
 
-                    {{% endif %}}
+                    {% endif %}
 
                 </div><!-- .entry-content -->
                 <footer class="entry-footer">
