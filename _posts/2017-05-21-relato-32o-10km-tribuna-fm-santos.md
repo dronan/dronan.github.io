@@ -6,18 +6,25 @@ author: diego
 banner_image: ../2017/05/tribuna_10k_big.jpg
 comments: true
 tags: [10k, Corrida de Rua, santos, tribuna, fm]
+
 exiberesultado: true
+
 urlmedalha: /images/2017/05/tribuna_10k_medalha.jpg
 urlmedalhalarge: /images/2017/05/tribuna_10k_medalha_big.jpg
 captionmedalha: Tribuna Santos 10k
+
 numerodepeito: 3562
 modalidade: 10K
+
 tempofinal: "00:53:05"
 tempobruto: "00:56:39"
+
 classificacao: 2211
 classificacaofaixaetaria: 332
+
 pace: "05:14"
 velocidade: "11,50"
+
 categoria: M3034
 idgarmin: 1746811294
 ---

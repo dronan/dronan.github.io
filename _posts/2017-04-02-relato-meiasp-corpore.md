@@ -6,6 +6,27 @@ author: diego
 banner_image:
 comments: true
 tags: [meia, Corrida, Corrida de Rua, maratona, corpore, 21k]
+
+exiberesultado: true
+
+urlmedalha: /images/2017/04/meiasp.jpg
+urlmedalhalarge: /images/2017/04/meiasp_big.jpg
+captionmedalha: Meia Maratona Corpore 2017
+
+numerodepeito: 2373
+modalidade: 21K
+
+tempofinal: "02:02:49"
+tempobruto: "02:07:42"
+
+classificacao: 1494
+classificacaofaixaetaria: 220
+
+pace: "05:46"
+velocidade: "10:40"
+
+categoria: M3034
+idgarmin: 1654615879
 ---
 
 Este domingo aconteceu em São Paulo a XVIII edição da Meia Maratona, realizada pela Corpore, contando com as distancias de 5K ou 21K.
@@ -35,78 +56,3 @@ Uma prova boa em modo geral, consegui um tempo de 2h02, bem abaixo daquela meia 
 Próxima prova, por enquanto, 10k da Tribuna em Santos, praticamente comemorando meu aniversário. 
 
 Até lá!
-
-## Resultado:
-
-<div class="row">
-
-<div class="col-md-4">
-{% include image_caption.html imageurl="/images/2017/04/meiasp.jpg" imageurllarge="/images/2017/04/meiasp_big.jpg" title="Meia Maratona Corpore 2017" caption="Meia Maratona Corpore 2017" %}
-</div>
-
-<div class="iconos clearfix col-md-8">
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">confirmation_number</i>
-		<span>Número Peito</span>
-		<strong>2373</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">supervisor_account</i>
-		<span>Modalidade</span>
-		<strong>21K</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">access_time</i>
-		<span>Tempo Final</span>
-		<strong>02:02:49</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">hourglass_full</i>
-		<span>Tempo Bruto</span>
-		<strong>02:07:42</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
-		<span>Classificação Total</span>
-		<strong>1494</strong>
-	</div>
-
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
-		<span>Classificação Faixa Etária</span>
-		<strong>220</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
-		<span>Pace Médio</span>
-		<strong>05:46 min/km</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
-		<span>Velocidade Média</span>
-		<strong>10:40 km/h</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">folder_shared</i>
-		<span>Categoria</span>
-		<strong>M3034</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">help_outline</i>
-		<span>Outras Informações</span>
-		<strong><a href="http://connect.garmin.com/modern/activity/1654615879" target="_blank">Garmin</a></strong>
-	</div>
-
-</div>
-</div>
-
