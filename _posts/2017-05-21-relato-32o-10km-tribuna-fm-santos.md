@@ -6,6 +6,13 @@ author: diego
 banner_image: ../2017/05/tribuna_10k_big.jpg
 comments: true
 tags: [10k, Corrida de Rua, santos, tribuna, fm]
+
+resultado: true
+urlmedalha: /images/2017/05/tribuna_10k_medalha.jpg
+urlmedalhafull: /images/2017/05/tribuna_10k_medalha_big.jpg
+captionmedalha: Tribuna Santos 10k
+
+numerodepeito: 3562
 ---
 
 Tribuna de Santos: é uma prova sempre bem vinda ao calendário, pelos fatores do clima e envolvimento da cidade para com a prova. Minha última participação, foi em 2014; este ano decidi ir, ainda mais com bastante amigos inscritos nela, somando ao fato da facilidade de receber o kit em casa, via correios.
@@ -34,20 +41,23 @@ Terminando a corrida repeti a estratégia de 2014: reencontrei meu pai, fiz uma 
 
 Próxima prova é meia!
 
+
+{{% if post.resultado %}}
+
 ## Resultado:
 
 <div class="row">
 
 <div class="col-md-4">
-{% include image_caption.html imageurl="/images/2017/05/tribuna_10k_medalha.jpg" imageurllarge="/images/2017/05/tribuna_10k_medalha_big.jpg" title="Tribuna Santos 10k" caption="Tribuna Santos 10k" %}
+{% include image_caption.html imageurl="" imageurllarge="/images/2017/05/tribuna_10k_medalha_big.jpg" title="{{% post.captionmedalha %}}" caption="{{% post.captionmedalha %}}" %}
 </div>
 
 <div class="iconos clearfix col-md-8">
 
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">confirmation_number</i>
-		<span>Número Peito</span>
-		<strong>3562</strong>
+		<span>Número de Peito</span>
+		<strong>{{% post.numerodepeito %}}</strong>
 	</div>
 
 	<div class="item">
@@ -108,3 +118,5 @@ Próxima prova é meia!
 
 </div>
 </div>
+
+{{% endif %}}
