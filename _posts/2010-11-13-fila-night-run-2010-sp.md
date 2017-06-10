@@ -13,14 +13,15 @@ urlmedalhalarge: /images/2010/12/DSC_0083.gif
 captionmedalha: Night Run
 
 numerodepeito: 2281
-tempofinal: 00:29:54
+
+tempofinal: "00:29:54"
 categoria: M2529
 modalidade: 5k
-tempobruto: 00:35:57.20
+tempobruto: "00:35:57"
 classificacao: 674
 classificacaofaixaetaria: 135
-pace: 00:05:58 min/km
-velocidade: 10,03 km/h
+pace: "00:05:58"
+velocidade: "10,03"
 ---
 
 Depois de pensar muito, tomei coragem para encarar a minha primeira corrida de rua. A escolhida foi a Fila Nigth Run, etapa São Paulo que aconteceu na região do Anhembi.
