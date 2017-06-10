@@ -1,23 +1,27 @@
 ---
 layout: post
-title: Relato - Troféu Cidade de São Paulo 2011
-date: 2011-01-25 10:10
+title: Relato - Circuito do Sol Net 2011
+date: 2011-01-16 15:07
 author: diego
 comments: true
-tags: [2011, 6.1k, 6k, Cidade, Corrida de Rua, corrida de rua, são paulo, trofeu]
+tags: [10k, 5k, Circuito, Corrida, Corrida de Rua, Net, Pacaembu, Rua, Sol]
+
 exiberesultado: true
-urlmedalha: /images/2011/01/DSC_0129.gif
-urlmedalhalarge: /images/2011/01/DSC_0129_big.gif
-captionmedalha: "Trofeu Cidade SP"
-numerodepeito: 8044
-tempofinal: "00:40:10"
-categoria: M6
-modalidade: "6.1K"
-tempobruto: "00:44:44"
-classificacao: 263
-classificacaofaixaetaria: 257
-pace: "6:35"
-velocidade: "9:11"
+
+urlmedalha: /images/2010/12/DSC_0135.gif
+urlmedalhalarge: /images/2010/12/DSC_0135_big.gif
+captionmedalha: Circuito do Sol Net 2011
+
+
+numerodepeito: 459
+tempofinal: "00:31:35"
+categoria: M2529
+modalidade: 5k
+tempobruto: "00:33:37"
+classificacao: 431
+classificacaofaixaetaria: 95
+pace: "06:19"
+velocidade: "9,49"
 ---
 
 Hoje aconteceu na região do Ibirapuera o Troféu Cidade de São Paulo, 6,1k e 10k de corrida de rua, contando com a participação de cerca de 10 mil corredores.
