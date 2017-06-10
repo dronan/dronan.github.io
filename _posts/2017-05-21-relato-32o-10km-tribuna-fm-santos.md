@@ -42,7 +42,7 @@ Próxima prova é meia!
 ## Resultado:
 
 
-  <p>Var2 {{ site.post.numerodepeito }}.</p>
+  <p>Var2 {{ post.numerodepeito }}.</p>
 
 
 <div class="row">
