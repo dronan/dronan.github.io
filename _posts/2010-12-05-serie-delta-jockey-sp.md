@@ -30,8 +30,6 @@ Agora mais preparado (com o frequencimetro - RS300X da Polar), e treinado (comec
 
 <!--more-->
 
-{% include image_full.html imageurl="/images/2010/12/seriedelta.jpg" imageurllarge="/images/2010/12/seriedelta.jpg" title="Serie Delta" caption="Serie Delta" %}
-
 Nesta corrida achei que faltou hidratação. Poderiam ter colocado pelo menos mais um ponto. Havia um ponto nos 2km e mais nada, o proximo só depois que completava. No sol que estava foi um castigo correr assim. Me arrastando, consegui concluir em   00:33:19. Relativamente bom tempo pelas circuntancias.
 
 Nas semanas que antecederam a corrida fiquei sabendo de mais pessoas conhecidas que praticam a modalidade, inclusive correram neste. Pena que não consegui encontrar todo mundo, somente um amigo meu que estava correndo com colegas de trabalho.
