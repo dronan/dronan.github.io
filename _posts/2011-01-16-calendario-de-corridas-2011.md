@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Postura - O jeito certo de correr"
-date: 2011-05-10 10:15
+title: "Calendário de Corridas 2011"
+date: 2011-01-16 10:15
 author: diego
 comments: true
-tags: [Corrida de Rua, corrida de rua, dicas, postura]
+tags: [Corrida de Rua, corrida de rua, dicas, calendario, 2011]
 ---
 
 2011 chegou e com o ano inicia mais uma temporada de corridas! Abaixo, o calendário de corridas de rua!
