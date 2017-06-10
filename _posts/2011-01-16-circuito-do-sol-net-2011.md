@@ -28,7 +28,7 @@ Depois de um descanso merecido no fim de ano, finalmente chegou a primeira corri
 
 <!--more-->
 
-{% include image_full.html imageurl="/images/2011/01/corridasolpacaembu.jpg" title="Circuito do Sol" caption="Circuito do Sol" %}
+{% include image_full.html imageurl="/images/2011/01/corridasolpacaembu.jpg" imageurllarge="/images/2011/01/corridasolpacaembu.jpg"  title="Circuito do Sol" caption="Circuito do Sol" %}
 
 A corrida que abriu o meu "calendario de 2011" foi o Circuito do Sol, em SP. O dia amanheceu como torci a semana inteira que acontecesse: nublado! ufa! um alivio. Propicio para que tivesse um bom desempenho, sem chegar "morrendo" por culpa do forte sol.
 

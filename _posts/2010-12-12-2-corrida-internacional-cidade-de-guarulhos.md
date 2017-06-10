@@ -28,7 +28,7 @@ Depois de ter pipocado para a corrida do Internacional Shopping que fica bem pr
 
 <!--more-->
 
-{% include image_full.html imageurl="/images/2010/12/corridaguarulhos" title="2ª Corrida Internacional Cidade de Guarulhos" caption="2ª Corrida Internacional Cidade de Guarulhos" %}
+{% include image_full.html imageurl="/images/2010/12/corridaguarulhos" imageurllarge="/images/2010/12/corridaguarulhos" title="2ª Corrida Internacional Cidade de Guarulhos" caption="2ª Corrida Internacional Cidade de Guarulhos" %}
 
 O dia amanheceu como na corrida do Jockey: um sol para cada um! Bem complicado!! Depois de feito o alongamento e aquecimento, encontrei um amigo meu que ia participar da corrida e largamos juntos, correndo num ritimo mais leve para poupar do calor conseguimos correr juntos cerca de 2km, até cansar e se dispersar na multidão.
 

@@ -30,7 +30,7 @@ Depois da Night Run, hora de encarar a primeira diurna. A proxima que aparecia n
 
 Agora mais preparado (com o frequencimetro - RS300X da Polar), e treinado (comecei a praticar mais principalmente em parques), fui para minha segunda corrida. E o sol nesta castigou. Apesar de ter chovido no dia anterior, o tempo amanhaceu aberto, sem nuvens e o sol pegou forte desde o inicio. Consegui manter um ritimo relativamente bom até os 3km, até sair da sombra do muro do Jockey, que quando saiu, meu relogio avisou pra pegar leve que não sou profissional e resolvi caminhar uns 200 metros para baixar a pulsação.
 
-{% include image_full.html imageurl="/images/2010/12/seriedelta.jpg" title="Serie Delta" caption="Serie Delta" %}
+{% include image_full.html imageurl="/images/2010/12/seriedelta.jpg" imageurllarge="/images/2010/12/seriedelta.jpg" title="Serie Delta" caption="Serie Delta" %}
 
 Nesta corrida achei que faltou hidratação. Poderiam ter colocado pelo menos mais um ponto. Havia um ponto nos 2km e mais nada, o proximo só depois que completava. No sol que estava foi um castigo correr assim. Me arrastando, consegui concluir em   00:33:19. Relativamente bom tempo pelas circuntancias.
 
