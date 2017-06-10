@@ -54,10 +54,15 @@ layout: default
                 <div class="entry-content">
                     {{content}}
 
-                    Resultado:
+                    {{% if page.resultado %}}
+
+                    <h2>Resultado:</h2>
 
                     <div class="row">
 
+                    <div class="col-md-4">
+                    
+                    </div>
 
                     <div class="iconos clearfix col-md-8">
 
@@ -126,6 +131,7 @@ layout: default
                     </div>
                     </div>
 
+                    {{% endif %}}
 
                 </div><!-- .entry-content -->
                 <footer class="entry-footer">
