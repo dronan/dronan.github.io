@@ -9,8 +9,8 @@ tags: [10k, 5k, Corrida, Corrida de Rua, Delta, Jockey, Rua, Serie, SP]
 exiberesultado: true
 
 urlmedalha: /images/2010/12/DSC_0128.gif
-urlmedalhalarge: /images2010/12/DSC_0128_big.gif
-captionmedalha: Serie Delta
+urlmedalhalarge: /images/2010/12/DSC_0128_big.gif
+captionmedalha: Série Delta
 
 
 numerodepeito: 560
