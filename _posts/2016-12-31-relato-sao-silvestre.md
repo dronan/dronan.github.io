@@ -6,6 +6,28 @@ author: diego
 banner_image: ../2016/12/saosilvestre_capa.jpg
 comments: true
 tags: [brigadeiro, Corrida, Corrida de Rua, sao silvestre]
+
+
+exiberesultado: true
+
+urlmedalha: /images/2016/12/saosilvestre.jpg
+urlmedalhalarge: /images/2016/12/saosilvestre_big.jpg
+captionmedalha: São Silvestre
+
+numerodepeito: 835
+modalidade: 15K
+
+tempofinal: "01:59:37"
+tempobruto: "02:04:53"
+
+classificacao: 12427
+classificacaofaixaetaria: ND
+
+pace: "07:46"
+velocidade: "07:80"
+
+categoria: M3034
+idgarmin: 1504111570
 ---
 
 2016 está acabando e este ano não poderia terminar de forma diferente: mais uma Corrida Internacional de São Silvestre, contanto com a participação de cerca de 60 mil pessoas, metade destas na pipoca.
@@ -44,79 +66,3 @@ E a prova se resumiu nisso: pessoal passeando por SP em um ritmo bem lento, com 
 O tempo? Fiz sub 2 /sarcasmo hahahahaha
 
 Feliz 2017 galera!
-
-## Resultado:
-
-<div class="row">
-
-<div class="col-md-4">
-{% include image_caption.html imageurl="/images/2016/12/saosilvestre.jpg" imageurllarge="/images/2016/12/saosilvestre_big.jpg" title="São Silvestre" caption="São Silvestre" %}
-</div>
-
-<div class="iconos clearfix col-md-8">
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">confirmation_number</i>
-		<span>Número Peito</span>
-		<strong>835</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">supervisor_account</i>
-		<span>Modalidade</span>
-		<strong>15k</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">access_time</i>
-		<span>Tempo Final</span>
-		<strong>01:59:37</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">hourglass_full</i>
-		<span>Tempo Bruto</span>
-		<strong>02:04:53</strong>
-	</div>
-
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
-		<span>Classificação Total</span>
-		<strong>12427</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
-		<span>Classificação Faixa Etária</span>
-		<strong>ND</strong>
-	</div>
-
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
-		<span>Pace Médio</span>
-		<strong>07:46 min/km</strong>
-	</div>
-
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
-		<span>Velocidade Média</span>
-		<strong>07:80 km/h</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">folder_shared</i>
-		<span>Categoria</span>
-		<strong>M3034</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">help_outline</i>
-		<span>Outras Informações</span>
-		<strong><a href="http://connect.garmin.com/modern/activity/1504111570" target="_blank">Garmin</a></strong>
-	</div>
-
-</div>
-</div>
