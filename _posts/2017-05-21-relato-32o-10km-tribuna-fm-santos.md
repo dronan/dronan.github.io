@@ -41,6 +41,12 @@ Próxima prova é meia!
 
 ## Resultado:
 
+
+{% for post in site.posts %}
+  <p>This is my var {{ post.numerodepeito }}.</p>
+{% endfor %}
+
+
 <div class="row">
 
 
