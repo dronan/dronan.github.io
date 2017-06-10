@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Relato - Circuito das Estações Adidas - Etapa Outono 2011"
+title: "Relato - Circuito das Estações Adidas"
 date: 2011-03-20 18:58
 author: diego
 comments: true
