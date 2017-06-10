@@ -13,7 +13,7 @@ urlmedalha: /images/2017/04/meiasp.jpg
 urlmedalhalarge: /images/2017/04/meiasp_big.jpg
 captionmedalha: Meia Maratona Corpore 2017
 
-numerodepeito: 2373
+numerodepeito: 
 modalidade: 21K
 
 tempofinal: "02:02:49"
