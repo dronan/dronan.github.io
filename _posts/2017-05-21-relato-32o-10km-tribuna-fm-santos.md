@@ -6,9 +6,9 @@ author: diego
 banner_image: ../2017/05/tribuna_10k_big.jpg
 comments: true
 tags: [10k, Corrida de Rua, santos, tribuna, fm]
-resultado: true
+exiberesultado: true
 urlmedalha: /images/2017/05/tribuna_10k_medalha.jpg
-urlmedalhafull: /images/2017/05/tribuna_10k_medalha_big.jpg
+urlmedalhalarge: /images/2017/05/tribuna_10k_medalha_big.jpg
 captionmedalha: Tribuna Santos 10k
 numerodepeito: 3562
 modalidade: 10K
