@@ -30,7 +30,7 @@ O dia amanheceu como na corrida do Jockey: um sol para cada um! Bem complicado!!
 
 <!--more-->
 
-{% include image_full.html imageurl="/images/2010/12/corridaguarulhos" imageurllarge="/images/2010/12/corridaguarulhos" title="2ª Corrida Internacional Cidade de Guarulhos" caption="2ª Corrida Internacional Cidade de Guarulhos" %}
+{% include image_full.html imageurl="/images/2010/12/corridaguarulhos.jpg" imageurllarge="/images/2010/12/corridaguarulhos.jpg" title="2ª Corrida Internacional Cidade de Guarulhos" caption="2ª Corrida Internacional Cidade de Guarulhos" %}
 
 Com apenar um ponto de hidratação em todo o percurso, muita gente passou mal com o calor e teve como fim de sua participação na corrida o hospital mais proximo. O que foi falho tambem foi a desorganização na entrega do kit de finisher, pouca gente, pouco espaço para muita gente. Nas proximas edições espero que organizem melhor esta entrega e coloquem pelo menos 2 pontos de hidratação para quem for pegar os 5km.
 
