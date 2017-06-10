@@ -10,7 +10,7 @@ resultado: true
 urlmedalha: /images/2017/05/tribuna_10k_medalha.jpg
 urlmedalhafull: /images/2017/05/tribuna_10k_medalha_big.jpg
 captionmedalha: Tribuna Santos 10k
-numerodepeito: "3562"
+numerodepeito: 3562
 ---
 
 Tribuna de Santos: é uma prova sempre bem vinda ao calendário, pelos fatores do clima e envolvimento da cidade para com a prova. Minha última participação, foi em 2014; este ano decidi ir, ainda mais com bastante amigos inscritos nela, somando ao fato da facilidade de receber o kit em casa, via correios.
@@ -42,7 +42,7 @@ Próxima prova é meia!
 ## Resultado:
 
 
-  <p>Var {{ site.post.numerodepeito }}.</p>
+  <p>Var2 {{ site.post.numerodepeito }}.</p>
 
 
 <div class="row">
