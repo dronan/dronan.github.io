@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Troféu Cidade de São Paulo"
-date: 2011-01-25 10:10
+title: Relato - Circuito do Sol Net 2011
+date: 2011-01-16 15:07
 author: diego
 comments: true
-tags: [2011, 6.1k, 6k, Cidade, Corrida de Rua, corrida de rua, são paulo, trofeu]
+tags: [10k, 5k, Circuito, Corrida, Corrida de Rua, Net, Pacaembu, Rua, Sol]
 
 exiberesultado: true
 
