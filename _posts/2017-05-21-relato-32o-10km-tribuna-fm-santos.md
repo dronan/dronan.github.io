@@ -39,23 +39,17 @@ Terminando a corrida repeti a estratégia de 2014: reencontrei meu pai, fiz uma 
 
 Próxima prova é meia!
 
-
-{{% if post.resultado %}}
-
 ## Resultado:
 
 <div class="row">
 
-<div class="col-md-4">
-{% include image_caption.html imageurl="{{ post.urlmedalha }}" imageurllarge="{{ post.urlmedalhafull }}" title="{{ post.captionmedalha }}" caption="{{ post.captionmedalha }}" %}
-</div>
 
 <div class="iconos clearfix col-md-8">
 
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">confirmation_number</i>
 		<span>Número de Peito</span>
-		<strong>{{ post.numerodepeito }}</strong>
+		<strong></strong>
 	</div>
 
 	<div class="item">
@@ -116,5 +110,3 @@ Próxima prova é meia!
 
 </div>
 </div>
-
-{{% endif %}}
