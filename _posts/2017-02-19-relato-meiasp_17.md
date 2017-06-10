@@ -56,4 +56,4 @@ Não notei problemas com falta d’água, os pontos estavam com água gelada e a
 
 Houve também pontos de distribuição de gatorade em saquinho logo depois da praça da republica e no fim da prova, e distribuição de carboidrato em gel há cerca de 6km do fim.
 
-Depois de se perguntar por cerca de 1h30 “O que estou fazendo aqui?!”, concluí a prova em 2h18. Tempo péssimo, melhor qdo que o do ano passado? foi! mas mesmo assim para que faz meia para a casa de 1h50… volte logo inverno!
+Depois de se perguntar por cerca de 1h30 “O que estou fazendo aqui?!”, concluí a prova em 2h18. Tempo péssimo, melhor do que o do ano passado? foi! mas mesmo assim para que faz meia para a casa de 1h50… volte logo inverno!
