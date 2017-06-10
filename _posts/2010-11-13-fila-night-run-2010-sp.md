@@ -28,6 +28,8 @@ Depois de pensar muito, tomei coragem para encarar a minha primeira corrida de r
 
 O decorrer da semana foi aquele clima de ansiedade, afinal, nunca havia passado pela experiência!
 
+<!--more-->
+
 Mas nada como começar em uma noturna, em um dia frio. E como estava frio! Apesar de estar praticamente no meio da primavera estava aquele clima de inverno, temperatura muito baixa, então o jeito é aquecer, e continuar aquecido correndo!
 
 Participaram cerca de 9 mil corredores. Como nunca tinha participado de um evento deste e estava despreparado - corria somente em esteira na academia e minha primeira experiência de correr a longo tempo outdoor foi em um parque 3 dias antes da prova, fui na base do "enquanto to bem to correndo", e consegui finalizar em um bom tempo (00:29:54).
