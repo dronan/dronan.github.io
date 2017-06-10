@@ -13,6 +13,8 @@ Neste domingo foi realizada a XI Meia Maratona Internacional de São Paulo, cont
 
 A retirada do kit aconteceu na Centauro do Shopping West Plaza. Apesar de ser em uma área relativamente pequena, não havia muita gente / fila / tumulto na tarde do sábado. 
 
+<!--more-->
+
 O kit veio composto por camiseta, número de peito e chip, um sachê de carboidrato, café, água de coco e um anti inflamatório.
 
 Uma ação da Yescom vem chamando bastante atenção do publico é a campanha que “demoniza" os "corredores pipocas”. Deram até um panfleto com "trocentos porquês" não se deve correr sem inscrição. Na minha opinião, uma prova bem organizada, com o chamado padrão internacional (vemos poucas dessas por aqui), diminuiria e muito o numero de pessoas não inscritas.
