@@ -49,7 +49,7 @@ Próxima prova é meia!
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">confirmation_number</i>
 		<span>Número de Peito</span>
-		<strong></strong>
+		<strong>{{ post.numerodepeito }}</strong>
 	</div>
 
 	<div class="item">
