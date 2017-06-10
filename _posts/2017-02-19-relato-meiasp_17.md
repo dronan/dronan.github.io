@@ -5,6 +5,27 @@ date: 2017-02-19 12:00
 author: diego
 comments: true
 tags: [meia, Corrida, Corrida de Rua, maratona, yescom, 21k]
+
+exiberesultado: true
+
+urlmedalha: /images/2017/02/meiasp.jpg
+urlmedalhalarge: /images/2017/02/meiasp_big.jpg
+captionmedalha: Meia Maratona Internacional de São Paulo
+
+numerodepeito: 7508
+modalidade: 21K
+
+tempofinal: "02:18:46"
+tempobruto: "02:25:16"
+
+classificacao: 3159
+classificacaofaixaetaria: 577
+
+pace: "06:22"
+velocidade: "09:50"
+
+categoria: M3034
+idgarmin: 1581519205
 ---
 
 Bora começar o ano?! 
@@ -35,80 +56,4 @@ Não notei problemas com falta d’água, os pontos estavam com água gelada e a
 
 Houve também pontos de distribuição de gatorade em saquinho logo depois da praça da republica e no fim da prova, e distribuição de carboidrato em gel há cerca de 6km do fim.
 
-Depois de se perguntar por cerca de 1h30 “O que estou fazendo aqui?!”, concluí a prova em 2h18. Tempo péssimo, melhor qdo que o do ano passado? foi! mas mesmo assim para que faz meia para a casa de 1h50… volte logo inverno! 
-
-## Resultado:
-
-
-<div class="row">
-
-<div class="col-md-4">
-{% include image_caption.html imageurl="/images/2017/02/meiasp.jpg" imageurllarge="/images/2017/02/meiasp_big.jpg" title="Meia Maratona Internacional de São Paulo" caption="Meia Maratona Internacional de São Paulo" %}
-</div>
-
-<div class="iconos clearfix col-md-8">
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">confirmation_number</i>
-		<span>Número Peito</span>
-		<strong>7508</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">supervisor_account</i>
-		<span>Modalidade</span>
-		<strong>21K</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">access_time</i>
-		<span>Tempo Final</span>
-		<strong>02:18:46</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">hourglass_full</i>
-		<span>Tempo Bruto</span>
-		<strong>02:25:16</strong>
-	</div>
-
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
-		<span>Classificação Total</span>
-		<strong>3159</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">trending_up</i>
-		<span>Classificação Faixa Etária</span>
-		<strong>577</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
-		<span>Pace Médio</span>
-		<strong>06:22 min/km</strong>
-	</div>
-
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">timelapse</i>
-		<span>Velocidade Média</span>
-		<strong>09:50 km/h</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">folder_shared</i>
-		<span>Categoria</span>
-		<strong>M3034</strong>
-	</div>
-
-	<div class="item">
-		<i class="material-icons square-inverse fill-horizontal-inverse">help_outline</i>
-		<span>Outras Informações</span>
-		<strong><a href="http://connect.garmin.com/modern/activity/1581519205" target="_blank">Garmin</a></strong>
-	</div>
-
-</div>
-</div>
+Depois de se perguntar por cerca de 1h30 “O que estou fazendo aqui?!”, concluí a prova em 2h18. Tempo péssimo, melhor qdo que o do ano passado? foi! mas mesmo assim para que faz meia para a casa de 1h50… volte logo inverno!
