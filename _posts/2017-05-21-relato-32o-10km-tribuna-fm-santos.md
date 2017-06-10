@@ -37,7 +37,7 @@ O único ponto que coloco como negativo foi a distribuição de medalhas, havia 
 
 Terminando a corrida repeti a estratégia de 2014: reencontrei meu pai, fiz uma parada na SmartFit (preciso lembrar que abre as 10) para banho e retornei para São Paulo.
 
-Próxima prova é meia!
+Próxima prova é meia!!
 
 ## Resultado:
 
@@ -49,7 +49,7 @@ Próxima prova é meia!
 	<div class="item">
 		<i class="material-icons square-inverse fill-horizontal-inverse">confirmation_number</i>
 		<span>Número de Peito</span>
-		<strong>{{ post.numerodepeito }}</strong>
+		<strong>{{ numerodepeito }}</strong>
 	</div>
 
 	<div class="item">
