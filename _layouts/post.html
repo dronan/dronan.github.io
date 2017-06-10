@@ -16,7 +16,7 @@ layout: default
                     </div><!-- .entry-header-wrap -->
 
                     <div class="container-fluid row">
-                    <div class="col-sm-7 col-md-5 entry-meta">
+                    <div class="col-sm-7 col-md-6 entry-meta">
                         por <span class="post-author">{{site.author_name}}</span> em <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">
                         {% assign m = page.date | date: "%-m" %}
                         {{ page.date | date: "%-d" }}
@@ -42,7 +42,7 @@ layout: default
                     </div>
 
                     {% if site.reading_time %}
-                    <div class="col-sm-12 col-md-5 entry-reading-time">
+                    <div class="col-sm-12 col-md-4 entry-reading-time">
                         <span class="glyphicon glyphicon-time"></span>
                         {% assign readtime = content | number_of_words | divided_by:site.words_per_minute %}
                         Tempo de leitura ~{% if readtime <= 1 %}1 minuto{% else %}{{ readtime }} minutos{% endif %}
