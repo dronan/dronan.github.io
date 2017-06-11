@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Teste
-date: 2012-05-13 13:30
+title: Relato - Fila Night Run - Etapa Interlagos / SP
+date: 2012-05-13
 author: diego
 banner_image:
 comments: true
-tags: [10k, Corrida de Rua, fila, night run]
+tags: [noturna, corrida, 10k]
 
 exiberesultado: true
 
