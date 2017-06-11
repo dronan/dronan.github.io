@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Relato - Fila Night Run 2012 - Etapa São Paulo - Interlgos"
+title: Teste
 date: 2012-05-13 13:30
 author: diego
 banner_image:
