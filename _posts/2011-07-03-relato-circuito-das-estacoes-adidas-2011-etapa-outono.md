@@ -9,7 +9,7 @@ tags: [adidas, Circuito, Corrida, Corrida de Rua, estacoes, etapa outono]
 
 exiberesultado: true
 
-urlmedalha: /images/2011/07/estacoesAdidasInverno2011.jpg
+urlmedalha: /images/2011/07/estacoesAdidasInverno2011.JPG
 urlmedalhalarge: /images/2011/07/estacoesAdidasInverno2011_big.jpg
 captionmedalha: Circuito das Estações
 
