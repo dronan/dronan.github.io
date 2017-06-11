@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Relato - Maratona Internacional de São Paulo 2011"
-date: 2011-06-10 17:12
+date: 2011-06-19 17:12
 author: diego
 comments: true
-tags: [canelite, Corrida de Rua, corrida de rua, lesão]
+tags: [maratona, sao paulo, corrida de rua, yescom, 10k]
 
 exiberesultado: true
 
