@@ -1,33 +1,36 @@
 ---
 layout: post
-title: "Relato - Asics Golden Run - Etapa São Paulo"
-date: 2017-06-04 12:00
+title: "Relato - Fila Night Run - Etapa Interlagos / SP"
+date: 2012-05-13
 author: diego
-banner_image: 
+banner_image:
 comments: true
-tags: [21k, Corrida de Rua, Meia Maratona, Asics]
+tags: [noturna, corrida, 10k]
 
 exiberesultado: true
 
-urlmedalha: /images/2012/05/nightrun.jpg
-urlmedalhalarge: /images/2012/05/nightrun_big.jpg
-captionmedalha: Fila Night Run
+urlmedalha: 
+urlmedalhalarge: 
+captionmedalha: 
 
-numerodepeito: 7978
-modalidade: 10K
+numerodepeito: 1653
+modalidade: 21K
 
-tempofinal: "00:56:35"
-tempobruto: "00:58:55"
+tempofinal: "01:53:20"
+tempobruto: "01:54:01"
 
-classificacao: 1277
-classificacaofaixaetaria: 238
+classificacao: 1885
+classificacaofaixaetaria: 763
 
-pace: "05:39"
-velocidade: "10,60"
+pace: "05:22"
+velocidade: "11,20"
 
-categoria: M2529
-idgarmin: 
+categoria: M3039
+idgarmin: 1777830300
 ---
+
+
+
 
 Neste sábado, 13 de maio, aconteceu no autódromo de Interlagos a Fila Night Run, primeira etapa de 2012 em São Paulo. O evento, apesar de cada vez mais caro, justifica o preço com suas varias atrações, muita música, luz e animação, um clima bem gostoso para correr. Geralmente se paga mais caro para umas corridas grandes que não oferecem metade disso.
 
