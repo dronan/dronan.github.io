@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Relato - Maratona Internacional de São Paulo 2011"
-date: 2011-06-19 14:32
+date: 2011-06-10 17:12
 author: diego
 comments: true
 tags: [2011, Corrida, Corrida de Rua]
