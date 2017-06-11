@@ -19,8 +19,8 @@ modalidade: "10K"
 tempofinal: "00:56:35"
 tempobruto: "00:58:55"
 
-classificacao: "1277"
-classificacaofaixaetaria: "238"
+classificacao:1277
+classificacaofaixaetaria:238
 
 pace: 
 velocidade:
