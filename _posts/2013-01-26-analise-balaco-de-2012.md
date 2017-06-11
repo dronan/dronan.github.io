@@ -4,7 +4,7 @@ title: Balanço de 2012
 date: 2013-01-26 22:19
 author: diego
 comments: true
-tags: [analise, corridas, ano, 2012]
+tags: [analise, corridas, ano]
 ---
 
 **2012**: O ano que comecei as longas! Terminei 2011 com minha primeira prova de 15k, dizendo que pretendia fazer uma Meia Maratona no ano e terminei 2012 com cinco Meias Maratona, uma de 25k e duas de 15k, fechando novamente com a São Silvestre, em novo horário, novo percurso, mais organizada e com aquela natural confraternização característica da corrida.
