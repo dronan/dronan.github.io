@@ -13,8 +13,8 @@ urlmedalha: /images/2012/05/nightrun.jpg
 urlmedalhalarge: /images/2012/05/nightrun_big.jpg
 captionmedalha: "Fila Night Run"
 
-numerodepeito: 
-modalidade:
+numerodepeito: 7978
+modalidade: "10K"
 
 tempofinal: 
 tempobruto: 
