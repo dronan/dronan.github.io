@@ -8,10 +8,9 @@ tags: [analise, Corrida de Rua, corridas, metas]
 ---
 2013 foi um ano que se resumiu a treino, treino e mais treino. Tudo isso buscando a grande meta de concluir a Maratona Internacional de São Paulo. 
 
-<a href="/images/2014/01/analise2013_big.jpg">
-![Analise 2013]({{ site.url }}/images/2014/01/analise2013.jpg)
-</a>
-{: .pull-left}
+<!--more-->
+
+{% include image_full.html imageurl="/images/2014/01/analise2013.jpg" imageurllarge="/images/2014/01/analise2013_big.jpg" title="Medalhas Conquistadas no Ano" caption="Medalhas Conquistadas no Ano" %}
 
 Começou com a maratona marcada para abril, e depois de pouco treino - o maior e mais insano foi rodar 31km num sábado de fevereiro e no dia seguinte correr uma prova de 10km em Barueri - em março anunciaram o adiamento da mesma para outubro, ganhara neste momento um fôlego e tempo para treino e maior confiança na busca do objetivo do ano. Provavelmente não conseguiria se fosse mesmo em abril.
 
