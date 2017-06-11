@@ -4,7 +4,7 @@ title: "Relato - Maratona Internacional de São Paulo 2011"
 date: 2011-06-10 17:12
 author: diego
 comments: true
-tags: [2011, Corrida, Corrida de Rua]
+tags: [canelite, Corrida de Rua, corrida de rua, lesão]
 
 exiberesultado: true
 
