@@ -15,15 +15,6 @@ captionmedalha: "Fila Night Run"
 
 numerodepeito: 7978
 modalidade: 10K
-
-classificacao: 1277
-classificacaofaixaetaria: 238
-
-pace: "05:39"
-velocidade: "10,60"
-
-categoria: M2529
-idgarmin: 
 ---
 
 Neste sábado, 13 de maio, aconteceu no autódromo de Interlagos a Fila Night Run, primeira etapa de 2012 em São Paulo. O evento, apesar de cada vez mais caro, justifica o preço com suas varias atrações, muita música, luz e animação, um clima bem gostoso para correr. Geralmente se paga mais caro para umas corridas grandes que não oferecem metade disso.
