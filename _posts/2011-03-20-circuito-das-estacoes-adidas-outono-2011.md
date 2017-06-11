@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Circuito das Estações Adidas - Etapa São Paulo / Outono
+title: Relato - Circuito das Estações Adidas - Etapa São Paulo / Outono
 date: 2011-03-18 11:39
 author: diego
 comments: true
