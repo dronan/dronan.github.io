@@ -1,10 +1,26 @@
 ---
 layout: post
-title: "Relato - Circuito das Estações Adidas - Etapa Outono 2011"
-date: 2011-03-20 18:58
+title: Circuito das Estações Adidas - Etapa São Paulo / Outono
+date: 2011-03-18 11:39
 author: diego
 comments: true
-tags: [2011, adidas, circuito das estações, Corrida de Rua, corrida de rua, Pacaembu]
+tags: [10k, adidas, circuito das estações, Corrida de Rua, corrida de rua]
+
+exiberesultado: true
+
+urlmedalha: /images/2011/03/DSC_0077.JPG
+urlmedalhalarge: /images/2011/03/DSC_0077_big.JPG
+captionmedalha: Circuito Adidas
+
+numerodepeito: 2122
+tempofinal: "01:03:27"
+categoria: M2529
+modalidade: 10K
+tempobruto: "01:05:05"
+classificacao: 3180
+classificacaofaixaetaria: 417
+pace: "6:20"
+velocidade: "9,45"
 ---
 
 Neste domingo foi dado inicio a primeira prova do Circuito das Estações em São Paulo, etapa Outono, para cerca de 6 mil corredores, em um dia típico para a época do ano que da nome a estação da prova; uma manha não tão fria, mas em uma temperatura agradável para a prática da corrida.
