@@ -9,10 +9,9 @@ tags: [analise, corridas, ano]
 
 **2012**: O ano que comecei as longas! Terminei 2011 com minha primeira prova de 15k, dizendo que pretendia fazer uma Meia Maratona no ano e terminei 2012 com cinco Meias Maratona, uma de 25k e duas de 15k, fechando novamente com a São Silvestre, em novo horário, novo percurso, mais organizada e com aquela natural confraternização característica da corrida.
 
-<a href="/images/2013/01/medalhas2012_big.jpg">
-![Balanço 2012]({{ site.url }}/images/2013/01/medalhas2012.jpg)
-</a>
-{: .pull-left}
+<!--more-->
+
+{% include image_full.html imageurl="/images/2013/01/medalhas2012.jpg" imageurllarge="/images/2013/01/medalhas2012_big.jpg" title="Medalhas Conquistadas no Ano" caption="Medalhas Conquistadas no Ano" %}
 
 Somente em fevereiro não corri, por falta de opção, e o mesmo deve acontecer neste ano: A cada ano que passa, seguimos com provas mais caras, kits mais "chulos" e percursos repetitivos: isto acaba ficando maçante, chato. Não acho que vale a pena por exemplo pagar 80 reais em uma prova para correr cerca de 7km sobre um viaduto em pleno verão sob um sol de 30 graus as 7h da manhã (geralmente esta é a única opção que temos em SP em fevereiro), melhor poupar o dinheiro e correr duas mais em conta ou em um percurso diferente.
 

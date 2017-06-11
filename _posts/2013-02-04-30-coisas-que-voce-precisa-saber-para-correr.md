@@ -14,6 +14,8 @@ tags: [Corrida de Rua, dicas, treino]
 
 O aumento semanal deve ser, no máximo de 10%.
 
+<!--more-->
+
 **3. Treine mais sozinho.**
 
 As corridas em grupo motivam, mas podem atrapalhar o seu ritmo, dependendo do seu nível de condicionamento.

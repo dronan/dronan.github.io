@@ -10,10 +10,9 @@ tags: [analise, Corrida de Rua, corridas, ano]
 
 Consegui manter a média de correr pelo menos uma corrida por mês, seja no sol, na chuva, no frio ou no calor.
 
-<a href="/images/2012/01/balanco2011_big.jpg">
-![Balanço 2011]({{ site.url }}/images/2012/01/balanco2011.jpg)
-</a>
-{: .pull-left}
+<!--more-->
+
+{% include image_full.html imageurl="/images/2012/01/balanco2011.jpg" imageurllarge="/images/2012/01/balanco2011_big.jpg" title="Medalhas Conquistadas no Ano" caption="Medalhas Conquistadas no Ano" %}
 
 Não consegui fechar o Circuito das Estações Adidas, devido ao Rock in Rio, mas compensei com corridas que não estavam no script no começo do ano, script que sempre planejamos mas nem sempre da para seguir a risca.
 

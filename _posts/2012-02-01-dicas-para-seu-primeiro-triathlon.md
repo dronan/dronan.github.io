@@ -13,7 +13,7 @@ A decisão está tomada, você aceitou o desafio e quer participar de seu primei
 **Primeiros passos**
 
 Estudos científicos demonstram que são necessários 21 dias para criar um hábito. Portanto, as três primeiras semanas têm este objetivo, colocar você em uma rotina de treinos. Não pense além do dia 21, concentre-se em fazer seu melhor em cada treino.
-
+<!--more-->
 Foque em treinos curtos e leves e acrescente um pouco de volume em cada semana de treino, para que ao final da terceira semana, você tenha atingido um volume máximo sustentável para as demais nove semanas. 
 
 Se a natação for uma atividade nova para você, faça treinos com repetições curtas e intervalos longos. Use a esteira e bicicleta ergométrica para ter certeza que mal tempo não será desculpa para perder treinos.

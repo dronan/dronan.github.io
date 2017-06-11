@@ -13,6 +13,8 @@ tags: [Corrida de Rua, dicas]
 
 Nem a melhor planilha do mundo pode prepará-lo para algumas situações do dia da prova. Entre um fartlek e um longão, não há uma explicação de como agir diante dos penetras (a famosa turma da pipoca). E fone de ouvido, pode? "Na maioria dos eventos de grande porte, parece que você está em uma rodovia congestionada", afirma Nick Curl, diretor da Maratona de Los Angeles, nos Estados Unidos. "Há muitas pessoas se deslocando em várias velocidades. Não se pode trocar de faixa ou abrir a janela para cuspir sem olhar. O mesmo vale para a prova: há um fluxo a ser seguido." Veja a seguir como navegar com tranquilidade por situações comuns (e também incomuns) do dia de prova.
 
+<!--more-->
+
 ## Pipoca na pista
 **Por favor, não faça isso!** Você não pagou para correr? Então não pode participar da prova, considera Decker, que já viu corredores não inscritos aceitarem tudo — desde água até medalhas — e deixarem os atletas que terminam por último de mãos vazias. A turma da pipoca também representa um risco à segurança. "Ter mais atletas pode esgotar os recursos médicos se a equipe tiver que cuidar dos participantes inscritos e dos bicões", diz.
 

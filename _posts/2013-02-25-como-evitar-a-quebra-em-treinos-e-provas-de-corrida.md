@@ -12,6 +12,8 @@ Por: Prof. Nelson Evêncio - Consultor Webrun
 
 Embora seja algo muito temível e indesejado, quebrar é sempre um risco que se corre, sobretudo pelo fato de o corpo humano possuir milhares de variáveis – ou quando se busca superar limites. Quanto maior for seu objetivo e quanto mais você arriscar, mais próximo andará desta linha tênue entre o sucesso e a quebra. Completar um treino ou prova em ritmo conservador é uma coisa, mas sempre que buscar algo, mais como um recorde, o risco será sempre maior. Tanto que não é conhecido um grande atleta em nível mundial que não tenha quebrado alguma vez.
 
+<!--more-->
+
 Mas quais seriam os principais motivos para uma quebra em treinos ou provas e os cuidados para evitá-los?
 
 **1) Correr provas sem ter treinado** - Não existe milagre. Se você não treinou, deve aliviar o ritmo ou nem participar de determinadas provas. Esqueça esta história do “na hora eu me garanto ”, pois provavelmente irá pagar caro. O segredo é treinar na medida certa, tanto na quantidade necessária conforme a distância de prova, como com a qualidade necessária, conforme o objetivo. Do contrário, deve ser consciente, correr com moderação ou até se guardar para uma próxima participação.

@@ -7,7 +7,7 @@ comments: true
 tags: [8k, Corrida, Corrida de Rua, indy run]
 ---
 Além de garantir presença na segunda Meia Maratona, a meia da Corpore, na região da USP, presença confirmada também na SP Indy Run 8K, etapa que acontece no sábado, corrida noturna antecedente a etapa SP da Formula Indy.
-
+<!--more-->
 <div style="width:550px;height:800px;display:block; clear:both">
 
 

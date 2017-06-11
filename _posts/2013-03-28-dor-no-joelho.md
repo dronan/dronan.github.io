@@ -8,6 +8,8 @@ tags: [afastamento, Corrida, Corrida de Rua, joelho, lesão, maratona, meia]
 ---
 Venho sentindo o resultado daquele incomodo no joelho durante a meia maratona até agora. É uma dor meio chata do lado direito da patela da perna esquerda.
 
+<!--more-->
+
 <a href="/images/2013/03/dor-no-joelho1.jpg">
 ![Joelho]({{ site.url }}/images/2013/03/dor-no-joelho1.jpg)
 </a>

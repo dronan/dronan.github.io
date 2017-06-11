@@ -12,6 +12,8 @@ Já se pegou em um estágio da corrida em que você sabe que está fazendo algo 
 
 A atividade física não foi feita para doer. Se o corpo dói, algo está errado. Não pense que perder uma ou outra corrida por conta da dor vai arruinar seu programa de treinos. Na verdade, se você correr dolorido, isso pode evoluir para uma lesão ou algo pior.
 
+<!--more-->
+
 ## 2. Correr com o tênis errado
 
 Muitas lesões e desconfortos acontecem quando você corre com um tênis vencido ou inapropriado para o seu pé e para o seu estilo de corrida. Os pés transpiram três vezes mais do que qualquer parte do corpo e precisam ser bem cuidados. Aposte em ajuda especializada, como ortopedistas esportivos e testes específicos sobre o tema.

@@ -16,7 +16,7 @@ Você treinou e chegou o momento que tanto esperava. Agora, mais que nunca é pr
 **Descanso:** Preste atenção em sua última semana de treino, é importante que você esteja bem não somente no dia da prova, mas durante toda a semana. Procure dormir cedo. A noite mais importante de sono é a de sexta para sábado (caso a prova seja no domingo), pois na noite anterior você pode estar muito ansioso, dormir mal e levantará muito cedo.
 
 **Alongamento e Treinamento:** Alongue diariamente por 30 minutos a musculatura que será mais exigida na corrida. O alongamento aumenta o poder de contração das fibras musculares e facilita a amplitude dos movimentos. Isso vai ajudá-lo a prevenir lesões resultantes de um encurtamento muscular. Nos três dias que antecedem a corrida, diminua o ritmo de treino, sem parar completamente. Dois dias antes da prova treine entre 15 e 30 minutos num ritmo moderado para leve. Na véspera da prova, se estiver se sentindo bem dê um trote leve de 15 minutos para soltar a musculatura e acelerar o metabolismo. Descanse o máximo e fique longe do sol.
-
+<!--more-->
 **Planejamento de prova:** Defina antecipadamente seu ritmo de prova, de acordo com seu treinamento. Procure mentalizar sua estratégia. Pense sempre que pode fazer uma boa corrida, mas tenha o cuidado para não se superestimar. Seja realista e otimista!
 
 O ritmo em uma Meia Maratona é de 5% a 10% mais lento que em uma prova de 10 km. Quando você estipular uma meta de tempo, tenha em mente seus resultados anteriores na mesma distância, o volume atual de treinos e principalmente seus últimos resultados.

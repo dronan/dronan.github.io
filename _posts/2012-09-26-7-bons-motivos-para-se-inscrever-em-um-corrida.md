@@ -12,6 +12,8 @@ Atualmente, os kits de participação dos corredores vão dos mais básicos, con
 **2. Faz bem para o corpo e para a alma**
 Algumas corridas oferecem até massagem  antes do grande dia. O intuito é aliviar a tensão e descontrair um pouco durante a preparação para a prova. No dia da retirada dos kits, o circuito feminino Vênus, por exemplo, oferece às corredoras um day care, um dia inteiro para cuidar do bem estar, saúde e beleza. Reúne massagens, pilates, ioga, dança, mergulho num ofurô quentinho...Enfim, tudo para relaxar antes da prova. Já para quem prefere comer bem no dia anterior à corrida, algumas provas incluem um jantar à base de massas na taxa de inscrição, geralmente no sábado que antecede a corrida, como a Meia de Floripa. Além de estar num ambiente gostoso entre colegas, o corredor encontra nesse jantar o combustível necessário para a sua prova.
 
+<!--more-->
+
 **3. Descobrir um lugar bonito e diferente a cada prova**
 Unindo o útil eao agradável, ao começar a participar das corridas de rua que acontecem quase religiosamente todo fim de semana em algum lugar do País( sem contar as provas internacionais), você tem a possibilidade de conhecer um local novo a cada prova. Imagine, por exemplo, o que é participar da K42 Bombinhas Adventure Marathon, uma prova com característica de aventura realizada e um dos lugares mais bonitos de Santa Catarina, cercada de praias e muita natureza. Para quem deseja explorar o País em busca de novos lugares, o circuito de corridas de rua está repleto de atrações como esta. Mais um bom motiv para você se inscrever em uma prova ou competição.
 

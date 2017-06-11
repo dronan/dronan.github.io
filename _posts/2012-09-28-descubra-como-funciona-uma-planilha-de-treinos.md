@@ -14,6 +14,8 @@ Pra quem não sabe, a planilha serve para planejar e estipular a periodização 
 
 Dentro da periodização estão os mesociclos, que incluem as diferentes fases de uma planilha. Mas, essas fases variam de acordo com o nível do atleta e também de sua prova-meta. Com isso, é possível citar as três mais comuns, presentes na grande maioria dos programas de treinamento. São elas: base, específica e competição.
 
+<!--more-->
+
 **- Base**: Primeira fase de um ciclo, a “base” dura, aproximadamente o dobro de tempo da específica. Nela há uma adaptação do corpo à corrida, para que o atleta se prepare para as próximas etapas, visando maior resistência a contusões. É caracterizada pelo volume (quilometragem percorrida) um pouco maior e de intensidade baixa, com um aumento de distância de 5% a 10% por semana. Camargo também explica sobre isso: “Se a distância passar disso o atleta pode sofrer uma lesão e perder seu desempenho”. Assim, tanto seus treinos de velocidade como os intervalados, são feitos com frequência e intensidade menores.
 
 **- Específica: **É nessa fase que o corredor passa a ganhar velocidade. Em comparação com a primeira fase, possui volume menor e decrescente. Em compensação, a velocidade aumenta, e o atleta realiza dois treinos intensos por semana (um microciclo).

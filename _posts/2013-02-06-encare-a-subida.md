@@ -10,6 +10,8 @@ Temidos, os percursos com grande variação de altimetria atormentam corredores 
 
 Emerson Bisan, treinador da assessoria Nova Equipe, de São Paulo, recomenda a preparação em terrenos com subidas semelhantes às que serão encontradas no dia da prova. “Focar em treinos longos que contenham aclives, de preferência em trajetos conhecidos, fará o corredor chegar preparado para não derrubar o ritmo das passadas.”
 
+<!--more-->
+
 O treinador Murilo Klein, da V8 Assessoria, de Curitiba, acredita que a melhor estratégia é aplicar a técnica correta de passadas para atacar as subidas e descidas. “É importante expor o corpo ao esforço e acostumá-lo a não ter descanso. Depois de um aclive, o corredor deve imprimir velocidade na descida e deixar para recuperar em trechos planos.”
 
 ## PASSADAS CURTAS

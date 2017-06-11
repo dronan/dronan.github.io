@@ -14,6 +14,8 @@ Qual a primeira coisa que fazemos nessa situação? Criar coragem e entrar uma a
 
 Já havia se passado três meses do termino da faculdade - março de 2009 - e eu ainda estava na mesma. Ficar jogando no computador era mais interessante que cuidar da saúde. Tenho um amigo que treina também nesta academia, o André Queiroz; sempre comentava com ele que precisava fazer alguma atividade física, durante este período de três meses ele sempre falava que iria passar em casa para me levar lá, e eu sempre enrolando, até o dia que finalmente resolvi ir, me matriculei com o professor Sidnei e comecei a fazer um de musculação, com o objetivo de perder peso, mais nada.
 
+<!--more-->
+
 Passado cerca de seis a oito meses de academia me via mais gordo ainda do que entrei, resultado de troca de massa gorda por magra e falta de controle de alimentação. Se quisesse o resultado desejado, portanto, teria que mudar isto também. Não digo que abandonei, mas reduzi bem o consumo de besteiras e passei a investir no aeróbio: esteira, muita esteira. Esta decisão foi tomada em setembro de 2009.
 
 Correr na esteira, de inicio era daquele jeito: corre dois minutos e pensa que vai ter um enfarte. Mas sempre naquela, indo progredindo aos poucos, sempre estabelecendo metas de, por exemplo, completar três quilômetros em trinta minutos, depois não sair da esteira enquanto chegar aos quatro quilômetros, ou fazer quatro nos trinta minutos, até chegar num ponto onde já tinha deixado cerca de 15kg para trás e estar correndo sem muitas dificuldades dez minutos ininterruptos – com pequenas paradas para se recuperar, que para mim na época foi uma grande vitoria.

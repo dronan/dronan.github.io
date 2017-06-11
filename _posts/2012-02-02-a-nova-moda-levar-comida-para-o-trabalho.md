@@ -13,7 +13,7 @@ E por que levar comida para o trabalho é uma opção mais saudável? A resposta
 Além disso, outra vantagem é montar a marmita no dia anterior, o que permite que as quantidades sejam colocadas conforme a necessidade e não conforme a fome. Muitas vezes chegando ao restaurante a fome é muito grande e o olho acaba sendo maior que a boca. No final, a quantidade ingerida de comida acaba sendo maior que a necessária.
 
 Então, como montar uma marmita saudável que ajude na dieta e a manter um peso saudável? Seguindo algumas dicas simples:
-
+<!--more-->
 * **Leve sempre uma marmita de salada** - Separada da parte quente, leve um pote com salada verde e alguns legumes (como cenoura, pepino, tomate). Esta salada oferecerá uma boa quantidade de minerais e vitaminas. Use apenas uma colher de chá de azeite, vinagre e pouco sal para temperar. Evite temperos prontos, que são altamente calóricos, gordurosos e ricos em sal.
 * **Sempre coma uma fonte de carboidrato** - Lembres-se sempre que o carboidrato é nossa maior fonte de energia, então, ele deve estar presente em todas as nossas refeições. Algumas opções: arroz integral, massa integral, batata cozida ou assada.
 * **Uma leguminosa para acompanhar o carboidrato**. As leguminosas (feijão, lentilha, ervilha) complementam a refeição e oferecem alguns nutrientes importantes, entre eles o ferro.

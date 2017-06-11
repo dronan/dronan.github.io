@@ -11,7 +11,7 @@ Fins do século XIX (1896), logo após a primeira Olimpíada da Era Moderna, uma
 A questão era, se o esporte fazia crescer o coração ou se era um coração doente e crescido de um atleta. Ainda hoje existem questões não resolvidas, mas já podemos entender o que é um Coração de Atleta e como é seu prognóstico. A tecnologia nos ajudou a desvendar dúvidas cruciais e orientar os atletas a superarem seus limites sem correrem riscos cardíacos ou ortopédicos.
 
 Definimos o Coração de Atleta aquele cujo tamanho da espessura das suas paredes e dilatação das suas cavidades até 45% maior que o de um sedentário, batimentos cardíacos que podem chegar a 30 batimentos por minuto em repouso e outras alterações que chegam a confundir um médico não conhecedor da área, com graves doenças cardíacas.
-
+<!--more-->
 ## Alterações encontradas no Coração de Atleta
 
 * **1.** Bradicardia (pulsação menor que 60 p/ minuto): é a mais comum alteração encontrada tanto em atletas como em esportistas bem condicionados, principalmente os praticantes de alta performance esportiva (ciclismo, triatlo, maratona, natação oceânica etc). Detectada pelo eletrocardiograma simples.

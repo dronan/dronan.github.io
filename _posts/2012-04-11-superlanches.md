@@ -10,7 +10,7 @@ tags: [Corrida de Rua, dicas, lanches]
 **Por Nicole Falcone | Foto Jonathan Kantor**
 
 Meio da tarde, falta muito para a hora do jantar, mas sua barriga está roncando. Será que você deveria fazer um lanche? Sim, desde que escolha os alimentos com inteligência, segundo a nutricionista esportiva Deborah Shulman: “Comer a cada 3 ou 4 horas pode ajudar a controlar o apetite”. E também fornecer os nutrientes de que você precisa antes e depois da corrida. Mas atenção para não extrapolar: programe um ou dois lanchinhos por dia, cada um com 150 a 250 calorias. Evite os industrializados e prefira opções integrais ou minimamente processadas, que vão matar a fome e fazer de você um corredor mais saudável.
-
+<!--more-->
 ### A GULA - por um salgado
 
 #### O LANCHE – pipoca

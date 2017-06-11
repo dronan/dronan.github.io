@@ -14,6 +14,8 @@ Cada um tem seu jeito de correr, mas todo corredor deve procurar aprimorar a pos
 
 Após o aquecimento e antes do treino principal, reserve 20 minutos. "Como eles recrutam o sistema nervoso central, é melhor que o corpo esteja descansado", diz o treinador Nelson Evêncio, presidente da Associação dos Treinadores de Corrida de São Paulo, que recomenda cada sessão duas vezes por semana. Faça três séries na ordem a seguir, durante um deslocamento de 50 metros. Os skippings alto e baixo podem ser feitos em treinos alternados.
 
+<!--more-->
+
 **Skipping alto**
 Eleve os joelhos até a altura do abdome, pisando com a parte da frente dos pés e mantendo os braços perpendiculares ao corpo em ângulo de 90 graus.
 

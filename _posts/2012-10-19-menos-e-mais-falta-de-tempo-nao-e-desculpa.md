@@ -12,6 +12,8 @@ Por Cindy Kuzma
 
 Excesso de trabalho, jantar com a família, churrasco com os amigos... Por mais que você seja disciplinado, às vezes é difícil cumprir a planilha à risca. Mas isso pode ser uma ótima oportunidade para simplificar sua rotina e aprender a render mais treinando menos. "As pessoas ficam espantadas ao perceberem que, para correr melhor, não precisam necessariamente passar mais tempo correndo", diz o treinador americano Mike Smith. O segredo é aproveitar ao máximo cada minuto e cada quilômetro dos seus treinos para potencializar seus ganhos. Veja como adotar uma estratégia minimalista para se tornar mais rápido e resistente.
 
+<!--more-->
+
 ## Ganhe velocidade
 
 Não importa se seu objetivo é bater seu tempo nos 5 km, ultrapassar aquele colega de treino ou simplesmente melhorar seu pace. Você pode ficar mais rápido mesmo quando acha que não tem tempo para trabalhar velocidade. Um bom exemplo é o britânico Roger Bannister, o primeiro homem a correr 1 milha (1,6 km) em menos de 4 minutos. "Ele conseguiu isso treinando no intervalo do almoço na faculdade de medicina", diz Carl Leivers, treinador na Emory University (EUA). "Com certeza, dá para correr rápido mesmo tendo pouco tempo para treinar."

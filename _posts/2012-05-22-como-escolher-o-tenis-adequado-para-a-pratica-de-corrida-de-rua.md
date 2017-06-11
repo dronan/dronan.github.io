@@ -18,6 +18,8 @@ Ainda recebo muitas dúvidas sobre o tênis correto para a corrida e sempre digo
 5) Fatores Ambientais: locais de treino;
 6) Corrida (tipos de corrida): quais distâncias irá correr, 5km, 10km, 21km...
 
+<!--more-->
+
 **Não mexa em time que está ganhando**
 
 Se a pessoa não tiver nenhum problema no treinamento, ou nas corridas, será difícil recomendar uma mudança radical do tênis. É difícil melhorar uma situação em que tudo está bem. Por isso aconselho obter alguns pares extras do tênis favorito antes que ele saia de linha, ou que seja substituído por um modelo novo.

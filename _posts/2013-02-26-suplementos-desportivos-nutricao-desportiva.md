@@ -15,6 +15,8 @@ Em relação ao planejamento da comida que ingerir, é útil estabelecer uma reg
 
 ### O QUE COMER
 
+<!--more-->
+
 O ideal seria fazer uma refeição leve 2 a 4 horas antes do exercício, de acordo com um estudo da Universidade da Carolina do Norte, nos EUA. Isto irá permitir se exercitar por mais tempo e ter um melhor desempenho. Fazer uma refeição de absorção lenta ou baixa em IG (Índice Glicémico) irá aumentar gradualmente os níveis de açúcar no sangue, além de ajudar a poupar o glicogénio dos músculos e evitar problemas de baixos níveis de açúcar no sangue durante longas sessões de treino, de acordo com estudos da Universidade de Sidney, na Austrália. Ingerir proteínas ou gorduras com alto IG de carboidratos irá baixar o seu IG. Por exemplo, uma fatia de pão com manteiga ou queijo tem um IG mais baixo do que o pão por si só.
 
 ### PARA INGERIR ANTES DO EXERCÍCIO (2 a 4 HORAS ANTES)

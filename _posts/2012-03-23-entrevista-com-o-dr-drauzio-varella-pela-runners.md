@@ -12,7 +12,7 @@ Gostei de uma entrevista com o Dr. Drauzio Varella, reproduzindo a matéria aq
 **Eu Corro**
 **Drauzio Varella, 68 anos, médico**
 **Por Julia Zanolli | Foto Renato Pizzutto**
-
+<!--more-->
 **Quando eu estava prestes a completar 50 anos,** um amigo me disse que naquela idade começava a decadência. Então resolvi fazer alguma coisa legal para comemorar a data e tive a ideia de fazer uma maratona. Já comecei a correr pensando nos 42 km.
 
 **Pouco tempo depois, outro amigo me passou um programa de treinos** e fui seguindo como podia. No fim daquele ano, corri a Maratona de Nova York em 4h01. Isso foi em 1993, e desde então já participei dessa prova mais umas sete ou oito vezes. Também já corri em Chicago, Berlim e Joinville — meu melhor tempo é de 3h38, em 1994, em Nova York.

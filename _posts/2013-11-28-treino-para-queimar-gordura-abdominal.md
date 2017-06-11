@@ -12,6 +12,8 @@ Fator de risco para doenças cardiovasculares, o excesso de gordura abdominal n�
 
 “Esse exercício desencadeia uma série de respostas específicas sobre o organismo que nenhum outro tipo de treino é capaz de provocar”, exalta o fisiologista Luiz Riani, do Instituto Vita.
 
+<!--more-->
+
 Essas respostas se caracterizam, por exemplo, pela variação da frequência cardíaca, por estímulos biomecânicos e pela liberação de hormônios que se ligam a receptores localizados no tecido gorduroso abdominal, estimulando o corpo a usar essa gordura como fonte de energia.
 
 A principal diferença para os treinos moderados e contínuos é que estes são responsáveis, sobretudo, pela queima de gordura periférica, “especialmente em pernas e braços, mas com efeito limitado sobre o tronco e a barriga”, ressalta Riani. Então, independentemente de qual seja seu objetivo, correr mais rápido ou exibir uma barriga de tanquinho, apostar nos intervalados pode ser a melhor opção.
@@ -39,12 +41,6 @@ Fontes: Fisiologista do Instituto Vita e do Laboratório de Diagnósticos da Am�
 
 O professor Rodrigo Lobo elaborou uma planilha especialmente para você que já é capazde correr 5 km com tranquilidade e pretende “derreter” a gordura abdominal. Clique na planilha abaixo ampliá-la e confira:
 
-<div style="display:block; width:100%; text-align: center;">
-
-<a href="/images/2013/11/treino_big.jpg">
-<img src="/images/2013/11/treino.jpg">
-</a>
-
-</div>
+{% include image_full.html imageurl="/images/2013/11/treino.jpg" imageurllarge="/images/2013/11/treino_big.jpg" title="Treino para queimar!" caption="Treino para queimar!" %}
 
 **Fonte:** <a href="http://o2porminuto.ativo.com/corrida-de-rua/materia/treino-para-queimar-gordura-abdominal" target="_blank">o2porminuto</a>

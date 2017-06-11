@@ -11,7 +11,7 @@ tags: [cooper, Corrida, Corrida de Rua, dicas, treino]
 Com todo equipamento necessário para a prática da atividade física, o próximo passo é montar um treino adequado para cada pessoa. Todos os esportes seguem, basicamente, a mesma lógica: o atleta iniciante deve começar aos poucos e nunca ultrapassar os seus limites.
 
 O preparador físico Christiano Marques ressalta a importância de se realizar uma avaliação antes de montar a série. Em sua assessoria esportiva, são realizados testes de quatro em quatro meses, analisando os alunos de acordo com o objetivo de cada um. E é indispensável a apresentação do atestado médico.
-
+<!--more-->
 <img src="http://s.glbimg.com/es/ge/f/original/2012/02/28/info_teste-12-minutos.png" alt="" />
 
 - Faço um teste de cooper (corrida de 2.400m), no menor tempo possível, para avaliar o volume de oxigênio, que é o parâmetro de avaliação do condicionamento do atleta, e verificamos a pressão arterial. Medimos a circunferência abdominal porque existe a tabela para avaliar o risco de desenvolvimento metabólico pela gordura. Quanto maior o volume de gordura, mais fácil de desenvolver diabetes, pressão alta e outras doenças – disse o preparador.

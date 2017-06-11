@@ -17,6 +17,8 @@ Sua planilha manda correr 7 km na hora do almoço, mas sua barriga ronca pedindo
 
 Além de serem fáceis de transportar e não estragarem nem amassarem com facilidade, as laranjas matam a sede e, ao mesmo tempo, fornecem mais de 100% das necessidades diárias de vitamina C. “Essa vitamina ajuda a prevenir lesões nos músculos e a repor o colágeno das fibras musculares que se rompem durante o exercício”, diz a nutricionista americana Pamela Bede, especialista em nutrição esportiva. Uma laranja tem cerca de 60 calorias – suficientes para tapear a fome sem exagerar antes de uma corrida curta.
 
+<!--more-->
+
 **DICA -** Prefira a fruta. O suco de laranja tem açúcar demais e muito líquido (que pode causar problemas estomacais na corrida). Mas retire o bagaço: fibra em excesso pode atrapalhar seu treino.
 
 **Bananas**

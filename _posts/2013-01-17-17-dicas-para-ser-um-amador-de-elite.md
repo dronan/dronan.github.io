@@ -15,6 +15,8 @@ A boa notícia é que é possível bater recordes pessoais e cruzar a linha de c
 
 Como qualquer manual de autoajuda ensina, o básico para seguir adiante no que quer que seja é traçar uma meta e buscá-la. Assim, não desista no meio do caminho e sinta-se realizado quando ela é alcançada. Pegue o seu calendário de corridas, escolha uma que seja o seu sonho, estabeleça se irá fazer neste ano, no ano que vem ou mesmo no próximo, e trace um planejamento para chegar lá. E depois? Depois é traçar outra meta, fazer o esforço necessário e tentar alcançá-la. O estabelecimento de metas influencia o comportamento indiretamente — afasta a preguiça e evita que você mate treinos sem necessidade, por exemplo — e afeta fatores psicológicos importantes, como confiança e ansiedade.
 
+<!--more-->
+
 **2. Saiba o seu real potencial por meio de testes**
 
 Como os grandes mestres do assunto vivem repetindo, a corrida nunca deve ser feita com agressão ou sofrimento. Seu ritmo deve ser baseado na quantidade máxima de oxigênio que você consegue colocar na corrente circulatória (VO2 Máx.) e no teste limiar de lactato (ponto em que o corpo não consegue controlar a acidose provocada pelo exercício e entra em processo de fadiga), jamais pela sua idade. O objetivo é manter um equilíbrio entre gasto (pelo esforço) e alimentação (pela respiração), de tal forma que o seu organismo esteja sempre em equilíbrio.

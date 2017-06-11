@@ -10,7 +10,7 @@ tags: [Corrida de Rua, dica, frequencia, resistencia, treino, velocidade]
 ##### por Sérgio Rocha
 
 Uma das primeiras coisas que ouvi do técnico Wanderlei de Oliveira quando comecei a treinar com ele foi: “Ô bacana, você precisa aprender a correr devagar para poder correr rápido”. Em nossos bate-papos durante os treinos, me disse que tinha aprendido isso ainda na época de velocista. Ele estava no exterior e quando foi treinar com corredores mais rápidos, notou que as rodagens eram sempre lentas: “Bom, se os caras são mais rápidos que eu e treinam devagar, eu preciso aprender a fazer a mesma coisa”, disse.
-
+<!--more-->
 Mas como funciona com o Wanderlei? Em geral treinamos 6 dias por semana, sendo que dependendo da época, em 3 deles fazemos treinos de qualidade – tiros, fartleks, etc. Os outros três dias são de rodagens – lentas. Em minha primeira rodagem falei a ele: “Fiz os 10 km para 5:30"”. Reposta: “Muito rápido”. Acertei as rodagens, mas confesso que fui sem confiança para a minha primeira prova sob a batuta de Oliveira, os 10 km da Track and Field do Shopping Villa Lobos. Eu me sentia sem velocidade e sem confiança. O “problema” é que fiz 45 minutos e alguma coisa – marca que há tempos eu não obtia.
 
 Outro treinador e um dos pais do treinamento moderno de corrida, o neo-zelandes ARTHUR LYDIARD também pregava treinos de rodagem feitos devagar (e não o LONG SLOW DISTANCE, ou LSD, erronemante atribuídos a ele). Lydiard foi o treinador de treinador de PETER SNELL, ouro nos 800 m dos jogos olímpicos de Roma/1960 e nos 800 m e 1.500 m em Tókio/64, e também foi o responsável pelo renascimento dos corredores filandeses, como LASSE VIRÉN, que sob sua consultoria foi ouro nos 5.000 m e 10.000 m nos jogos de Munique/72 e Montreal/76.

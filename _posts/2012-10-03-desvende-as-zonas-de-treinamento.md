@@ -12,6 +12,8 @@ Se você tem vontade de calçar os tênis e ir logo para as ruas, fique atento: 
 
 As zonas de treinamento são definidas por faixas de frequência cardíaca e visam delimitar o tipo de estímulo a ser aplicado ao corredor. Renato Dutra, supervisor técnico da Run&amp;Fun Assessoria Esportiva, esclarece como deve ser feito esse treino: “Enquanto pessoas menos condicionadas devem treinar em zonas menos intensas, corredores bem treinados precisam de maiores esforços para continuar evoluindo”.
 
+<!--more-->
+
 O importante é que seja respeitada a individualidade do atleta. “É melhor que o corredor seja orientado por um treinador, se isso não for possível, ele pode avançar de zona caso não sinta muita fadiga nem dores musculares depois dos treinos, e tem mais, o atleta deve permanecer de duas a três semanas no mesmo nível, até que a intensidade ou duração aumentem”, complementa.
 
 Há duas maneiras de se medir a frequência cardíaca: pelos monitores de frequência cardíaca (ou frequencímetro) que oferecem essa função ou usando a Fórmula de Karvonen, na qual você diminui sua idade de 220, porém, essa última, segundo Dutra, é uma fórmula sujeita a erros.

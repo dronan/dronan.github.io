@@ -12,6 +12,8 @@ Manter o peso no trabalho na maioria das vezes é uma tarefa árdua. Sempre tem 
 
 **Barras de Cereais:** são barras compostas predominantemente por carboidratos, estando prontamente disponível para elevar a glicemia logo após a ingestão. Podem ser utilizada no intervalo das refeições, como em lanches. Em média, essas barras possuem 100 Kcal e 20 g de carboidratos, substituindo bem um lanchinho como uma vitamina de frutas ou uma fatia de pão integral com requeijão light.
 
+<!--more-->
+
 **Bolachas Integrais:** melhor do que a bolacha água e sal tradicional, as integrais apresentam um valor nutricional melhor, principalmente devido ao maior conteúdo de fibras que melhoram o funcionamento intestinal e aumentam a sensação de saciedade. Além disso, você ainda pode variar o acompanhamento da bolacha. Ex.: requeijão, geléias, mel, queijo cottage, peito de peru, etc.
 
 **Pipoca:** a opção light contém metade das calorias e da quantidade de gordura, por isso, prefira esta. Mas, mesmo assim, o consumo deve ser esporádico e moderado porque para que o milho estoure é necessário adicionar óleo ou gordura (as embalagens fechadas de microondas também contêm gordura).

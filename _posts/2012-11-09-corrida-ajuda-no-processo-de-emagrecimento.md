@@ -16,6 +16,8 @@ Na hora de estabelecer o cardápio, é essencial que se tenha o acompanhamento d
 
 ## Os segredos da boa mesa
 
+<!--more-->
+
 - Consuma porções modestas de alimentos a cada três horas, e não pule nenhuma refeição do dia. Três horas é o tempo médio que o organismo precisa para digerir, absorver e utilizar o que comemos. “Por isso, é necessário reabastecê-lo, para que se reinicie esse processo. Além disso, alimentar-se dessa forma ajuda a não exagerar na próxima refeição”, acredita o nutricionista Luís Alves.
 
 - Jejuns prolongados provocam no organismo uma reação de autodefesa: ele passa a poupar energia — e por essa razão o metabolismo desacelera.

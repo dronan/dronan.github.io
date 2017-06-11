@@ -17,7 +17,7 @@ Hidrate-se muito bem. Beba pelo menos 1 copo de água a cada hora (uma média de
 * salada de frutas
 * suco de frutas
 * Evite ingerir fibras e folhas de difícil digestão na véspera da prova.
-
+<!--more-->
 **Sugestão de café da manhã (3 horas antes da largada)**
 
 * 2 pães com geléia

@@ -12,6 +12,8 @@ O treinador Emerson Bisan, da Nova Equipe Assessoria Esportiva, de São Paulo, c
 
 Uma dieta saudável, com alimentação antes, durante e depois da atividade física é um dos fatores responsáveis pelo emagrecimento, melhora da performance e recuperação muscular. É preciso estar atento ao que comer e dar preferência a fontes de carboidrato com baixo índice glicêmico, além de ingerir alimentos de 30 a 60 minutos antes do exercício. “Assim o organismo terá uma fonte de energia para suprir a demanda aumentada durante o treino”, diz a nutricionista.
 
+<!--more-->
+
 >Alimentos de alto índice glicêmico (&gt; 85)
 >Alimentos de moderado índice glicêmico (60-85)
 >Alimentos de baixo índice glicêmico (&lt; 60)

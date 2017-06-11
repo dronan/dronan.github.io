@@ -13,6 +13,8 @@ A maratona é uma das competições esportivas mais exigentes em termos de desga
 
 O principal objetivo é armazenar energia no músculo e equilibrar as taxas de açúcar no sangue (glicemia). É importante incluir carboidratos na refeição pré-prova, o que pode ser feita de uma a duas horas antes.
 
+<!--more-->
+
 Este tempo pode variar de acordo com o horário de início do exercício. Se a corrida começar às 6h, dificilmente será possível comer bastante. Opte por alimentos que esteja acostumado e de fácil digestão, como uma banana ou pão simples com queijo magro e fruta. Carboidratos em forma de gel ou líquido como as bebidas esportivas são boas opções. Se tiver mais tempo, ou se o percurso for mais longo, faça refeições maiores, que tenham o carboidrato (pães, cereais matinais, frutas) como principal nutriente.
 
 ## DURANTE OS 42 KM

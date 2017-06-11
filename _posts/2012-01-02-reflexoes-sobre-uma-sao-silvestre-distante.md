@@ -10,7 +10,7 @@ tags: [15k, Corrida de Rua, opiniao, sao silvestre]
 Vi de longe a São Silvestre, acompanhando pela televisão o show que a chuva deu, aparecendo e desaparecendo, caindo a cântaros ou simplesmente gotejando, criando poças gigantescas ou escorrendo rapidamente pelos esgotos.
 
 Vi a coragem do irmão de Bekele e a bravura indômita de Priscah Jeptoo, defendendo a todo custo a liderança conquistada e que, em alguns instantes, pareceu perdida. Acho que ela é a corredora de elite com o estilo mais estranho que já vi.
-
+<!--more-->
 Não tenho, porém, como avaliar o desenrolar da prova para os milhares de apaixonados por corrida que lá estiveram.
 
 Sei, porque corri nele e porque entrevistei médicos e técnicos, que o novo circuito oferece mais riscos para os corredores, é mais perigoso. A mudança, feita de última hora, pode ter pegado muitos atletas despreparados para o rigor das duas grandes descidas. Mas não encaro isso como um problema ou demérito do circuito: se for mantido, os candidatos a corredores de São Silvestre terão de organizar seu treinamento para esse tipo de percurso e pronto.

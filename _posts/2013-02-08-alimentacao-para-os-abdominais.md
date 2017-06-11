@@ -8,6 +8,8 @@ tags: [abdmomen, alimentacao, Corrida de Rua, dicas, nutricao]
 ---
 Não basta fazer muita Atividade Física e muitos exercícios de Abdominais para ter uma parede abdominal definida! A Alimentação que fazemos no nosso dia a dia é a mais importante de todas as regras, por dois motivos:
 
+<!--more-->
+
 ** 1ª Motivo** – a acumulação de gordura na zona dos abdominais está diretamente dependente dos**  níveis de açúcar e de insulina no sangue**, que, por sua vez, depende da quantidade e tipo de alimentos que ingere. Como tal, deverá ingerir, ** a cada 3 horas**, uma ** pequena refeição composta de proteínas magras** (aves, peixe, lacticínios magros, clara de ovo e soja), ** hidratos de carbono complexos** (frutas, vegetais e cereais integrais) e ** gorduras essenciais em menor quantidade** (ácidos gordos Omega 3 e Omega 6).
 
 As melhores fontes de Omega 3 são o peixe gordo de água fria (salmão, cavala, sardinha, atum e arenque), o óleo das sementes de linhaça e as nozes, enquanto que as melhores fontes de Omega 6 são o óleo das sementes de abóbora, o óleo de soja, as amêndoas e o azeite.

@@ -13,7 +13,7 @@ Vejam alguns alimentos:
 **Maçã**: alimento de baixa caloria, a maçã ajuda a acelerar o metabolismo, colaborando para a perda de peso
 
 **Alimentos ricos em vitamina B**: ricos em fibras e proteínas, com pouca gordura, alimentos com concentrações de vitamina B também levam mais tempo para serem digeridos, o que ajuda a manter o corpo satisfeito por mais tempo. Não dispense ovos, feijões e outros, como espinafre
-
+<!--more-->
 **Pimenta**: uma substância presente no alimento é apontada como aceleradora do metabolismo. Apenas não vale usar os molhos à base de pimenta, pois estes costumam ser muito calóricos
 
 **Carnes magras**: as proteínas presentes nas carnes levam bastante tempo para serem digeridas, o que aumenta a sensação de saciedade por mais tempo. Isso faz com que o corpo necessite usar mais calorias para a tarefa
