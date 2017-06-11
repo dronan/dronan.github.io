@@ -13,8 +13,8 @@ urlmedalha: /images/2012/05/nightrun.jpg
 urlmedalhalarge: /images/2012/05/nightrun_big.jpg
 captionmedalha: "Fila Night Run"
 
-tempofinal: "00:56:35"
-tempobruto: "00:58:55"
+numerodepeito: 7978
+modalidade: 10K
 
 classificacao: 1277
 classificacaofaixaetaria: 238
