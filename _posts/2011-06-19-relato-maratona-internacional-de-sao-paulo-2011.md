@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Relato - Maratona Internacional de São Paulo 2011"
+title: teste
 date: 2011-06-19 14:32
 author: diego
 banner_image:
