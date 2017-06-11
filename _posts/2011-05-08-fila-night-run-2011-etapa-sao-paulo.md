@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Relato - Fila Night Run 2011 - Etapa São Paulo
-date: 2011-05-08 12:38
+title: Relato - Fila Night Run 2011
+date: 2011-05-03 12:13
 author: diego
 comments: true
-tags: [2011, Corrida de Rua, etapa, fila, night run, são paulo]
+tags: [10k, anhembi, Corrida de Rua, são paulo, fila, night run]
 
 exiberesultado: true
 
