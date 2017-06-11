@@ -16,8 +16,8 @@ captionmedalha: "Fila Night Run"
 numerodepeito: 7978
 modalidade: "10K"
 
-tempofinal: 
-tempobruto: 
+tempofinal: "00:56:35"
+tempobruto: "00:58:55"
 
 classificacao: 
 classificacaofaixaetaria: 
