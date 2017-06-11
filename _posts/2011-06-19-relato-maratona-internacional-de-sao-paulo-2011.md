@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Lesão - não deixe a canelite te derrubar
-date: 2011-06-10 17:12
+title: "Relato - Maratona Internacional de São Paulo 2011"
+date: 2011-06-19 14:32
 author: diego
 comments: true
-tags: [canelite, Corrida de Rua, corrida de rua, lesão]
+tags: [2011, Corrida, Corrida de Rua]
 
 exiberesultado: true
 
