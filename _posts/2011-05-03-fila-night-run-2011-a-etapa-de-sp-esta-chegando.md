@@ -11,12 +11,12 @@ No próximo sábado, dia 07, acontece a etapa de São Paulo da Fila Night Run, c
 
 <!--more-->
 
-{% include image_full.html imageurl="/images/2011/05/fila_night_run_2011.jpg" imageurllarge="/images/2011/05/fila_night_run_2011.jpg" title="São Silvestre" caption="São Silvestre" %}
+{% include image_full.html imageurl="/images/2011/05/fila_night_run_2011.jpg" imageurllarge="/images/2011/05/fila_night_run_2011.jpg" title="Fila Night Run" caption="Fila Night Run" %}
 
 
 O percurso, conforme ilustra a imagem, envolve as Avenidas Olavo Fontora, Santos Dumont e a Praça Campos de Bagatelle, tendo como ponto de partida e chegada na Av. Santos Dumont, em frente ao Campo de Marte, com a estrutura do evento na Praça Heróis da Força Expedicionária Brasileira – FEB.
 
-{% include image_full.html imageurl="/images/2011/05/fila_night_run_2011_percurso.jpg" imageurllarge="/images/2011/05/fila_night_run_2011_percurso.jpg" title="São Silvestre" caption="São Silvestre" %}
+{% include image_full.html imageurl="/images/2011/05/fila_night_run_2011_percurso.jpg" imageurllarge="/images/2011/05/fila_night_run_2011_percurso.jpg" title="Fila Night Run" caption="Fila Night Run" %}
 
 
 **Retirada do Kit**
