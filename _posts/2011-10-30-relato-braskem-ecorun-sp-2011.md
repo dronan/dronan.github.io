@@ -35,6 +35,8 @@ A retirada do kit ocorreu na sexta e sabado, na loja Centauro do Shopping Borubo
 
 Com o kit em mãos, deixei tudo organizado como de costume e me programei para sair de casa as 6h do domingo, rumo a Cidade Universitária - USP, local da prova.
 
+<!--more-->
+
 Depois de acordar, me trocar e tomar um café a base de frutas, fui para o local da prova. Deixei o carro estacionado nas imediações da Cidade Universitária, mesmo para facilitar a saida, e fui retirar o chip. Era por volta das 7 da manha, ainda tinha um bom tempo para retirar o kit, guardar as coisas e alongar antes de correr.
 
 Chip retirado e preso ao tenis, alongamento feito, me posiciono na largada junto com o pessoal de pace para fazer os 10k em torno de 55 minutos.

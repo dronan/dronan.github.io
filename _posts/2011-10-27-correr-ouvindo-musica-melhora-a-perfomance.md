@@ -12,6 +12,8 @@ Correr sem ela é praticamente impraticável para a maioria dos atletas.
 
 Alguns cientistas acreditam que a música pode ajudar a performance  dos movimentos e aumentar o desempenho  do corredor. 
 
+<!--more-->
+
 Estudos demonstram que a música reduz em 10% a intensidade do exercício. 
 
 De acordo com cientistas, ela bloqueia alguns estímulos internos que tentam chegar ao cérebro, como mensagens sobre fadiga enviadas para músculos e órgãos. 

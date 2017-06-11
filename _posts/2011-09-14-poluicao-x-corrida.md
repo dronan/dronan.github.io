@@ -12,6 +12,8 @@ Como sabemos, a poluição é inimiga de qualquer um que visa ter uma boa qualid
 
 Atualmente cresce o número de pessoas que buscam  atividade física como antídoto de bem estar e qualidade de vida. Muitas dessas pessoas já sabem que a atividade física serve como primeiro medicamento.
 
+<!--more-->
+
 Aqui em São Paulo, como em qualquer metrópole, a carência desta prática saudável se dá por causa da poluição, que em uma matéria recente de uma revista de grande circulação  e confiabilidade publicou que só o fato de morar na capital paulista equivale a fumar 2 cigarros por dia, e quem circula em vias de muito trafego diariamente fumaria quase 5 cigarros sem saber.
 
 Os especialistas na área de saúde e meio ambiente afirmam que os exercícios físicos freqüentes trazem benefícios mesmo que feitos em locais muito poluídos, pois a atividade física ajuda o organismo no processo antiinflamatório, protegendo nosso corpo de alguns males e efeitos não só da poluição mas de algumas doenças.

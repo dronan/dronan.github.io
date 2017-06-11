@@ -13,6 +13,8 @@ Qualquer pessoa que resolva fazer uma atividade física, seja ela qual for, já 
 
 Podemos, grosso modo, classificar as dores musculares em três níveis: aquela dorzinha gostosa generalizada depois de uma corrida, que não impede os movimentos; a que impede parcialmente, perdendo-se flexibilidade e capacidade de gerar força, mas ainda assim permite continuar andando; e a aguda, que nos deixa mancando e dificultando fazer o movimento normal.
 
+<!--more-->
+
 A primeira geralmente não traz nenhuma conseqüência e não impede a continuidade do treinamento, desde que seja leve no dia seguinte. Em relação à segunda, é bom prestar bem atenção se ela melhorou, piorou ou permaneceu estável. Para essa dor pode ser necessário um descanso maior. Se você é daqueles que não deixam de treinar de jeito nenhum, observe se a dor permanece. Se piorar logo nos primeiros quilômetros, por mais que lhe custe, pare imediatamente. A terceira deve receber atenção diferenciada porque pode ser uma lesão leve e evoluir para grave se insistir em treinar por teimosia.
 
 Apesar de desconhecida a verdadeira causa, a dor chamada pelos fisiologistas de Dor Muscular Tardia depende quase que diretamente da intensidade, duração de esforço e do tipo de exercício realizado, embora a intensidade seja uma causa mais importante do que a duração. De qualquer forma pode estar relacionada a micro traumatismos, seguidos de inflamação aguda das fibras musculares, estiramento excessivo do tecido conjuntivo do músculo, alteração no mecanismo celular de entrada e saída de cálcio ou vários fatores conjugados.

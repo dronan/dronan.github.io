@@ -12,6 +12,8 @@ Algumas dicas são:
 
 Optar pelas esteiras para **manter o condicionamento físico**. A corrida indoor vai seguir os mesmos princípios da rua no que diz respeito ao aquecimento e alongamento. O aumento da inclinação do aparelho pode aproximar a dificuldade da das ruas – 1% a 2% é o suficiente. Não se pode esquecer da **hidratação**.
 
+<!--more-->
+
 Mudar alguns hábitos ao **treinar ao ar livre**. Além de aumentar o tempo de **aquecimento** para melhorar o rendimento do corpo, é necessário proteger as mãos devido a vasoconstrição; e a cabeça, por onde se perde boa parte do calor produzido durante o exercício.
 
 Usar calças e jaquetas corta vento se a temperatura for menor que 10º C.

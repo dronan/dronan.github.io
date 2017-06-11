@@ -9,6 +9,8 @@ tags: [Corrida de Rua, corrida de rua, dicas, postura]
 
 2011 chegou e com o ano inicia mais uma temporada de corridas! Abaixo, o calendário de corridas de rua!
 
+<!--more-->
+
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tbody>
 <tr>

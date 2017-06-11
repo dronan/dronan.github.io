@@ -16,6 +16,8 @@ Depois de cerca de 2h20 de Dutra, peguei um trecho de transito entre São José 
 
 Pelo caminho dou 2 paradas na RJ-165 para fotografar e vou tranqüilo até a divisa de estado, São Paulo / Rio – trecho de aproximadamente 1 hora. Quando chego na divisa me deparo com uma placa: “A partir daqui trecho intransitável”.
 
+<!--more-->
+
 Foi um bom choque! 2 opções:
 
 Dar meia volta e esquecer a viagem, afinal, para ir para Paraty por outro caminho (pelo menos o único que conhecia) teria que:

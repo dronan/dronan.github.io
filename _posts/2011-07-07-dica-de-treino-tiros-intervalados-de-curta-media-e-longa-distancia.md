@@ -10,6 +10,8 @@ O GloboEsporte fez uma materia com um professor ensinando como deve se treinar t
 
 Esta nos links: 
 
+<!--more-->
+
 <a href="http://globoesporte.globo.com/atletismo/corrida-de-rua/noticia/2011/07/tiros-intervalados-de-longa-distancia.html" target="_blank">Tiros intervalados de longa distância</a>
 
 <a href="http://globoesporte.globo.com/atletismo/corrida-de-rua/noticia/2011/06/tiros-intervalados-de-media-distancia.html" target="_blank">Tiros intervalados de media distância</a>

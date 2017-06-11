@@ -10,6 +10,8 @@ Uma dúvida muito frequente no meio esportivo é: o que consumir antes de um tre
 
 Muitas pessoas deixam de comer ou fazem combinações erradas que prejudicam o desempenho na atividade. Para sanar essas dúvidas, selecionei 10 lanches que auxiliaram a boa nutrição no pré-treino.
 
+<!--more-->
+
 1 – Pão integral (2 fatias) / 1 colher de sopa de creme de ricota/ 2 fatias de peito de peru/ 1 copo de 200 ml de suco de laranja.
 
 2 – Torrada integral (2 unidades) / 1 colher de sopa de creme de cottage/ 4 fatias de blanquet de peru/ 1 copo de 200 ml de água de coco.

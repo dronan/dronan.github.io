@@ -14,6 +14,8 @@ Corredor sobrepeso e obeso está cheio por ai. Basta observar em praias, corrida
 
 Mas, afinal, como é que se faz para emagrecer correndo? Verdadeiro ou Falso?
 
+<!--more-->
+
 Todos os índices de frequência cardíaca devem ser levantados segundo o teste de esteira, realizado por um profissional de medicina esportiva.
 
 #### Quando corro mais rápido emagreço mais rápido

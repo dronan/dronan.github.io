@@ -13,6 +13,8 @@ No Brasil hoje, a população de hipertensos é de 17 milhões de pessoas.
 
 A corrida é uma das melhores armas no combate da hipertensão, prevenindo ou remediando.
 
+<!--more-->
+
 Para quem é hipertenso a prática de atividades aeróbias auxiliam na:
 
 * Diminuição nas doses de medicamento.

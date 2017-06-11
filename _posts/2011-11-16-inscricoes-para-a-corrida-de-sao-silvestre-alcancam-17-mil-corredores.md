@@ -12,6 +12,8 @@ A prova está em sua 87º edição e são esperados 25 mil participantes no tota
 
 O valor para cada corredor é de R$100,00 e o preço ficará congelado até 1º de dezembro, quando passa para R$ 110,00 se ainda houver disponibilidade de vaga. Atletas acima de 60 anos terão desconto de 50% no valor de inscrição.
 
+<!--more-->
+
 ## Entrega de kit
 
 A entrega dos kits de participação será efetuada nos dias 28 e 29 de dezembro (das 9 às 19 horas) e no dia 30 (das 9 às 17 horas), no ginásio Mauro Pinheiro, na rua Abílio Soares, 1300.

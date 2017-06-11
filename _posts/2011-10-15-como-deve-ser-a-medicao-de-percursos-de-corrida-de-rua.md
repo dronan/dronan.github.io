@@ -14,6 +14,8 @@ Deverá nesta fase ser montado um mapa esquemático do percurso, contendo todos 
 
 A avaliação preliminar da distância feita com odometro de carro ou motocicleta conduz a um erro de 5 a 10 % no seu total, porem servirá como informação preliminar ao medidor credenciado que no seu trabalho confirmará as distâncias intermediárias e a marcação dos km além da definição e ajustes da distância total, para tanto é necessário se prever áreas extras para ajustes da distância total.
 
+<!--more-->
+
 Após a fase de preparação e com bastante antecedência a Empresa Organizadora deverá solicitar junto a CBAt ou através da Federação local a presença de um medidor credenciado para oficializar a distância da Prova e preparar os documentos necessários ao seu reconhecimento pela CBAt
 
 A fase de contratação da medição envolve o acerto da remuneração indicado pela CBAT (vide tabela de honorários com a CBAt) e os arranjos de viagem e hospedagem .a serem acertados diretamente com o medidor indicado dentro de sua disponibilidade profissional.

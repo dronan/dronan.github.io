@@ -20,6 +20,8 @@ Por outro lado, ao estabelecer várias metas (e ter certeza de que pelo menos um
 
 Essa é uma meta essencial, especialmente para estreantes em competições, para os que estão testando uma nova distância e para os veteranos que estão retomando os treinos. "Simplesmente termine a prova e divirta-se", diz Jon Sinclair, dono do Anaerobic Management, serviço de treinamento online. Os corredores mais experientes podem ter meta como concluir a distância sem muito esforço, caso tenham perdido vários treinos, ou se as condições no dia da prova forem ruins. "Alivia a pressão", diz Jeffrey Brown, doutor em psicologia da Faculdade de Medicina de Harvard.
 
+<!--more-->
+
 **UMA BOA META** Quem vai para uma prova de 5 ou 10 km deve ter percorrido essa distância nos treinos. Meio-maratonistas devem ter feito dois ou quatro treinos de 16 a 19 km. Maratonistas, dois de 32 km, segundo Patty Finke. Se você penou nos longões, considere fazer uma distância menor ou planeje várias paradas para caminhar. "A ideia é que você se divirta", diz a treinadora. "E não é divertido fazer algo que você não está pronto para fazer."
 
 Ritmos específicos, condições ideais para o dia da competição e saúde perfeita. Ter como objetivo um dia especial, notório, vai ajudar a direcionar seu treino. "Assim que as pessoas começam a completar os treinos sentindo-se fortes, ficam motivadas a ir além dos próprios limites e a alcançar seu potencial no dia da prova", diz Synclair.

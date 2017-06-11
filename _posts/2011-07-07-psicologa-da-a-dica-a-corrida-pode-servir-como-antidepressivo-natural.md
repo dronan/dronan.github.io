@@ -15,6 +15,8 @@ Falta de ânimo, uma sensação de tristeza, pensamentos negativos e ausência d
 
 **Miriam:** É uma doença de ordem química e psicológica. Um transtorno de humor, que pode ter várias causas. Embora não tenha um consenso no meio científico sobre as causas da doença, acontecimentos na vida da pessoa podem deflagrar uma depressão. No organismo, a depressão age como um distúrbio nos neurotransmissores, mas aspectos psicológicos também entram na origem da doença.
 
+<!--more-->
+
 **Níveis de depressão** 
 
 **M:** Basicamente, são três tipos, embora isso não seja categorizado. Tem a depressão profunda, quando a pessoa não sai da cama e nem toma banho. Tem também a versão mais moderada da doença, que é uma mistura. A pessoa não fica prostrada, mas não leva uma vida normal. Além disso, tem a depressão leve, que a gente chama de distimia. É uma tristeza crônica, que interfere na qualidade de vida.

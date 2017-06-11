@@ -14,6 +14,7 @@ tags: [Corrida, Corrida de Rua, fatos, piada]
 * Está inscrito em várias corridas que sequer foram divulgadas na internet
 * Seus filhos se chamam Dean Karnazes da Silva e Deena Kastor da Silva (ou seja lá qual for o seu sobrenome)
 * E seu cachorro (ou gato, ou hamster, ou periquito, ou peixe dourado) se chama Haile Gebrselassie
+<!--more-->
 * Anda enviando *mailing lists* para os amigos falando sobre ultramaratonas de 24 horas
 * Por falar em amigos, quase todos os que estavam na sua festa de aniversário eram corredores; e os poucos que não eram você anda tentando convencer a correr...
 * Fez proposta de compra pela casa do vizinho para servir de depósito de troféus e medalhas

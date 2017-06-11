@@ -14,6 +14,8 @@ Zona de treinamento 3 – Potência aeróbia – 76% a 85%
 Zona de treinamento 4 – Capacidade anaeróbia – 86% a 90%
 Zona de treinamento 5 – Potência anaeróbia – 90% +
 
+<!--more-->
+
 **Zonas 1, 2 e 3:**
 Descrição: Zona para pessoas sedentárias, e iniciantes que estão em adaptação com a atividade física, muscular e cardíaca, zona de queima calórica, treinos regenerativos, treino de volume para provas longas.
 

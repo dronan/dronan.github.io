@@ -13,6 +13,8 @@ Fadiga muscular, perda de força e dificuldade de completar treinos são alguns 
 
 Essa relação de ganho e perda também é influenciada pelo glicogênio, substância construída à base de moléculas de glicose e que dá energia ao músculo. Por fim, o carboidrato, fonte de glicose, reduz os níveis de cortisol, conhecido como o “hormônio do estresse”, liberado pelo organismo durante a prática esportiva e que diminui a concentração de proteínas na musculatura.
 
+<!--more-->
+
 **Resultado a cada treino**
 A fisiologista norte-americana e acadêmica do *American College of Sports Medicine* Jessica Seaton contextualiza: “Estudos mostraram que ingerir carboidratos, proteínas e amino­ácidos até duas horas depois de praticar uma atividade física de alta intensidade melhora drasticamente o tempo de recuperação”.
 

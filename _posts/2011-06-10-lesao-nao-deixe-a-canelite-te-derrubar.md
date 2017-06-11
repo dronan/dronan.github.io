@@ -9,6 +9,8 @@ tags: [canelite, Corrida de Rua, corrida de rua, lesão]
 
 Popularmente chamada de canelite, a síndrome de estresse do medial tibial costuma ser um tormento para muitos corredores iniciantes - e, em alguns casos, também para os mais experientes. Processo inflamatório que ocorre na membrana que envolve o osso da canela - a tíbia **(veja no infográfico abaixo)** -, a lesão pode ter relação com vários fatores: excesso de atividade, corrida em superfícies duras (asfalto, por exemplo), uso de calçados com sistema de amortecimento inadequado, entre outros problemas ligados a impacto.
 
+<!--more-->
+
 <a href="/images/2011/06/canelite.jpg">
 ![Canelite]({{ site.url }}/images/2011/06/canelite.jpg)
 </a>
